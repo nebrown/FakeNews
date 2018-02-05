@@ -1,4 +1,5 @@
 from textblob import TextBlob
+from gensim import corpora
 import os
 
 # -*- coding: utf-8 -*-
