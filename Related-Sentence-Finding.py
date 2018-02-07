@@ -11,7 +11,7 @@ import os
 
 def main():
     dct = corpora.Dictionary.load("./Data/news.dict")
-    tfidfCorpus = corpora.MmCorpus("./Data/news.mm")
+    tfidfCorpus = models.TfidfModel.load("./Data/news.tfidf")
 
     articles = []
 
@@ -22,20 +22,44 @@ def main():
 
     sentences = []
     for article in articles:
-        sentences.append(re.split('\. |\n|\.\"', article)) #TODO: Handle quotes that end with ."
+        #sentences.append(re.split("\.", article))
+        sentences.append(re.split('\. |\n|\.\"', article)) 
+        #TODO: Handle quotes that end with ."
 
-    # Remove words that appear once
+    # TODO Rename variables
     vec_sentence = []
+    scores = []
     for sentence in sentences[0]:
+        print(sentence)
         for token in sentence:
             token = re.sub("[!?,.()\":]", "", token)
         vecSen = dct.doc2bow(sentence.lower().split())
-        pprint(vecSen)
+        #only add to vec if vecSen is not empty
+        #pprint(vecSen)
         tfidfSen = tfidfCorpus[vecSen]
-        pprint(tfidfSen)
+        #pprint(tfidfSen)
         vec_sentence.append(tfidfSen)
+  
+    #iterate through vec_sen and find accumulated score
+    for vector in vec_sentence:
+        score = 0
+        if len(vector) > 0:
+            for pair in vector:
+               score = score + pair[1]
+            scores.append(score / len(vector))
+        else:
+            scores.append(0)
 
-    #pprint(vec_sentence)
+    #sort score with sentences
+    i=0
+    for score in scores:
+        if score > 0.3:
+            pprint(score)
+            pprint(sentences[0][i])
+            
+        i=i+1
+
+    #pprint(scores)
 
 # code to make run main if this file is being run not imported
 if __name__ == "__main__":
