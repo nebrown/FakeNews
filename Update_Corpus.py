@@ -56,12 +56,13 @@ for text in texts:
         token = re.sub("[!?,.()\":]", "", token)
         frequency[token] += 1
 
-texts = [[token for token in text if frequency[token] > 1] for text in texts]
+#texts = [[token for token in text if frequency[token] > 1] for text in texts]
 
 #pprint(texts)
 
 # Generate dictionary based on text
 dct = corpora.Dictionary(texts)
+dct.save("./Data/news.dict")
 #print(dct.doc2bow(["Trump"]))
 #print(dct.token2id)
 
@@ -72,9 +73,12 @@ corpus = [dct.doc2bow(text) for text in texts]
 
 # Get tfidf transform from corpus
 tfidf = models.TfidfModel(corpus)
+tfidf.save("./Data/news.tfidf")
 tfidfCorpus = tfidf[corpus]
+corpora.MmCorpus.serialize("./Data/news.mm", tfidfCorpus)
 
 # Use LSI to get topics
 lsi = models.LsiModel(tfidfCorpus, id2word=dct, num_topics = 2)
-lsiCorpus = lsi[tfidfCorpus]
+lsi.save("./Data/news.lsi")
+#lsiCorpus = lsi[tfidfCorpus]
 pprint(lsi.print_topics(2))
