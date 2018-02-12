@@ -2,6 +2,7 @@
 #Jack Bauman
 #Last edited Feb 12, 2018
 
+#DOn't touch yet still fixing
 import sys
 import newspaper
 
