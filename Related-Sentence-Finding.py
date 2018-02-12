@@ -8,8 +8,16 @@ from gensim import corpora, models, similarities
 from collections import defaultdict
 from pprint import pprint
 import os
+from Update_Corpus import UpdateCorpus
 
 def main():
+    #defines
+    siteList = ["https://cnn.com"]
+    #update corpus if user specified
+    if(sys.argv[1] == '-U'):
+        UpdateCorpus(siteList)
+
+    #make the dictionary and model
     dct = corpora.Dictionary.load("./Data/news.dict")
     tfidfCorpus = models.TfidfModel.load("./Data/news.tfidf")
 
