@@ -8,13 +8,23 @@ from gensim import corpora, models, similarities
 from collections import defaultdict
 from pprint import pprint
 import os
+from Update_Corpus import UpdateCorpus
 
 def main():
+    #defines
+    siteList = ["https://cnn.com", "https://washingtonpost.com"]
+
+    #update corpus if command line arg
+    if(sys.argv[1] == '-U'):
+        UpdateCorpus(siteList)
+
+    #make the dictionary and model
     dct = corpora.Dictionary.load("./Data/news.dict")
     tfidfCorpus = corpora.MmCorpus("./Data/news.mm")
     lsi = models.LsiModel.load("./Data/news.lsi")
     tfidf = models.TfidfModel(tfidfCorpus)
     
+    #data structure to hold articles
     articles = []
 
     '''
