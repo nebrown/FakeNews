@@ -68,11 +68,11 @@ def main():
     for sentence[i] in sentences:
         for sentence[j] in sentences:
             compare(sentence[i],sentence[j])          
-                if sentence[i] = sentence[j]:
-                    matches=matches+1
-                    pprint(sentences[i][k][matches])
-                    j=j+1
-                i=i+1
+            if sentence[i] = sentence[j]:
+                matches=matches+1
+                pprint(sentences[i][k][matches])
+            j=j+1
+            i=i+1
     
     
     #TODO print 5 most matched sentences and 5 least matched, modified from above

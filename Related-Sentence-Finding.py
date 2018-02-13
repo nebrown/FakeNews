@@ -15,6 +15,7 @@ def main():
     siteList = ["https://cnn.com", "https://washingtonpost.com"]
 
     #update corpus if command line arg
+    #only do if sys.argv[1] exists
     if(sys.argv[1] == '-U'):
         UpdateCorpus(siteList)
 
