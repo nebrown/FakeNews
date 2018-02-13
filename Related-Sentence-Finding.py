@@ -37,9 +37,10 @@ def main():
     
     numArticles = 30
 
-    j = 1
-    while j < len(sys.argv):
-        url = sys.argv[j]
+    #why is this done here and in UpdateCorpus
+    j = 0
+    while j < len(siteList):
+        url = siteList[j]
 
         # Get documents from selected website
         # Connect to site without caching (for testing only)
