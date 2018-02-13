@@ -16,8 +16,9 @@ def main():
 
     #update corpus if command line arg
     #only do if sys.argv[1] exists
-    if(sys.argv[1] == '-U'):
-        UpdateCorpus(siteList)
+    if(len(sys.argv) > 1):
+        if(sys.argv[1] == '-U'):
+            UpdateCorpus(siteList)
 
     #make the dictionary and model
     dct = corpora.Dictionary.load("./Data/news.dict")
@@ -45,7 +46,7 @@ def main():
 
         # Get documents from selected website
         # Connect to site without caching (for testing only)
-        print("\nAttempting to pull data from " + sys.argv[j] + ". . .")
+        print("\nAttempting to pull data from " + siteList[j] + ". . .")
         site = newspaper.build(url, is_memo = False)
         site.clean_memo_cache()
         print("Site name: " + site.brand)
