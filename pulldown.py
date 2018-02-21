@@ -1,6 +1,6 @@
 import newspaper
 
-#returns URLS of newspaper categories
+#simply returns URLS of newspaper categories
 def pullDown(newspaperURL):
 	try:
 		paper = newspaper.build(newspaperURL)
