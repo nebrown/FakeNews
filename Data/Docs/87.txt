@@ -1,0 +1,43 @@
+https://www.huffingtonpost.com
+Künstliche Intelligenz wird Mainstream – aber wann?
+Künstliche Intelligenz (KI) wird einen signifikanten Einfluss auf die Zukunft digitaler Geschäftsmodelle haben. Doch wie können traditionelle Unternehmen die Möglichkeiten der künstlichen Intelligenz am besten für sich nutzen? Ganz einfach, indem sie ihren Schwerpunkt auf KI-gestützte kognitive Lösungen legen – Computer Vision, maschinelles Lernen und Verarbeitung, natürliche Sprache, Spracherkennung und Robotik. Organisationen können mit dieser Herangehensweise schnelle Erfolge erzielen und rasch Mehrwerte generieren. Der langfristige Erfolg solcher Unternehmen liegt laut Gartner Analysten um das Vierfache höher als bei Firmen, die diese Technologien nicht einsetzen.
+
+KI wird zum Mainstream
+
+Die Implementierungskosten und die Komplexität von KI stellen Unternehmen derzeit noch vor Herausforderungen, vor allem wenn sie nicht aus der Technologiebranche kommen. Das hält viele Organisationen allerdings nicht davon ab, über KI nachzudenken und damit zu experimentieren. Digitale Führungspersönlichkeiten über verschiedene Branchen hinweg gehen über einzelne Projekte hinaus und integrieren KI in ihren Geschäftsbetrieb. Einige der bekanntesten Marken der Welt investieren großzügig in künstliche Intelligenz. Die Bandbreite reicht von Smartphones mit Gesichtsscanner über Verbraucher-Gadgets bis hin zu computergestützter Gesundheitsversorgung und autonomen Fahrzeugen. Schon in wenigen Jahren wird KI somit in unseren Alltag eingezogen sein.
+
+Einige Beispiele, wie KI bereits heute eingesetzt wird:
+
+● General Electric setzt KI, Machine Learning und Big Data ein, um sich in ein „digitales Kraftpaket“ zu verwandeln. Das Unternehmen erzielte 2016 sieben Milliarden US-Dollar in Software-Implementierungen und erwartet, seinen Digital-Umsatz bis 2020 auf 15 Milliarden US-Dollar zu verdoppeln.
+
+● Audi hat ein smartes Fahrzeug auf den Markt gebracht, das KI nutzt, um in Staus autonom zu fahren.
+
+● Im medizinischen Bereich haben Forscher der McGill University einen computergesteuerten Algorithmus entwickelt, der den Verlauf von Alzheimer mit einer Genauigkeit von mehr als 80 Prozent prognostizieren kann. Damit wurde bewiesen, dass KI Krankheitsmuster in Hirnscans deutlich früher erkennt als Menschen.
+
+Mit beliebten Consumer-Geräten wie Apple Siri, Alexa von Amazon und Google Home Assistant ist KI zumindest in Teilen bereits im Mainstream angekommen. Der Trend schreitet außerdem deutlich schneller voran als viele Unternehmen, Verbraucher und Experten vor einigen Jahren dachten. Die entscheidende Frage ist: Werden Konsumenten die gleiche digitale Interaktion mit Banken, Einzelhändlern, Fluglinien, Energieversorgern, Gesundheitsdienstleistern und anderen Organisationen erwarten?
+
+Hohe Erwartungen
+
+Die Entwicklung von KI-Lösungen hat hohe Erwartungen geweckt, Kritiker warnen allerdings davor, dass KI auch Arbeitsplätze vernichten wird und malen ein Machine-Learning-Horrorszenario, das die Menschheit an den Rand des Abgrunds treiben wird. Die gute Nachricht? Studien zeigen, dass das Gegenteil der Fall sein wird. Insgesamt haben Technologien in den letzten 140 Jahren mehr Arbeitsplätze geschaffen als verloren gingen. Noch wichtiger: Vielfach ersetzen Technologien gefährliche Jobs und Routinearbeiten mit höherwertigen, kreativeren Aufgaben. Das Fazit? Das Versprechen und die Vorteile von KI überwiegen offenbar die Risiken.
+
+Die zugrundeliegenden Zahlen sprechen eine deutliche Sprache:
+
+● Der weltweite Umsatz für kognitive und KI-Systeme soll laut Analystenhaus IDC 12,5 Milliarden US-Dollar betragen, ein Umsatzplus von satten 59,3 Prozent im Vergleich zu 2016.
+
+● Darüber hinaus beträgt das durchschnittliche jährliche Wachstum mehr als 54 Prozent, der Umsatz für kognitive und KI-Lösungen wird bei circa 46 Milliarden US-Dollar liegen.
+
+● Allein im Gesundheitswesen soll der KI-Markt bis zum Jahr 2021 ein Volumen von 6,6 Milliarden US-Dollar erreichen, so eine Studie von Frost & Sullivan von 2016.
+
+● Künstliche Intelligenz hat das Potenzial, Patientenresultate um 30 bis 40 Prozent zu verbessern. Gleichzeitig würden sich die Behandlungskosten um bis zu 50 Prozent reduzieren (Frost & Sullivan).
+
+● 38 Prozent der Unternehmen setzen bereits KI ein, so das Ergebnis einer Narrative Science Studie. Diese Prozentzahl soll bis 2018 auf über 60 Prozent wachsen.
+
+Dynamisches Duo: künstliche Intelligenz und Big Data
+
+Digitale Unternehmen kombinieren KI bereits mit Big Data, um die Surfmuster, Kaufhistorie und Vorlieben ihrer Kunden zu erfahren. Sie können dann personalisierte Empfehlungen geben, wenn der Konsument das nächste Mal online ist. In Call Centern erkennen KI-Systeme entsprechende Anrufmuster innerhalb von Stunden anstelle von Wochen oder Monaten. KI-gesteuerte Bots sind in der Lage, Routineaufgaben zu übernehmen und in Kombination mit natürlicher Sprachverarbeitung Kundenanfragen zu interpretieren und die Back-End-Systeme nach passenden Antworten zu durchsuchen – und zwar ohne die Hilfe eines Live-Agenten.
+
+Sind Unternehmen bereit, ihr Geschäft mit KI auszubauen?
+
+Laut Analystenhaus Gartner werden KI-Technologien bis 2020 in fast jede neue Software integriert. Die große Herausforderung ist allerdings, den Hype vieler Anbieter rund um KI zu durchschauen. Dies erschwert es Unternehmen, den richtigen KI-Partner auszuwählen. Was aber, wenn eine Organisation direkt den Schritt wagen und in KI investieren möchte? Welches ist die beste Herangehensweise?
+
+Künstliche Intelligenz ist eine High-Context-Anwendung, die nur im Zusammenhang mit anderen Technologien oder Vorgängen gesehen wirklich wertvoll ist. Daher ist es auch nicht das Ziel, menschliches Urteilsvermögen komplett zu umgehen, sondern es durch Analysen zu steuern und einen größeren Informationswert zu schaffen. Momentan ist künstliche Intelligenz noch viel zu komplex. Bei einer einfachen Lösung müsste ein Unternehmen oder ein Verbraucher nur einen Datensatz eingeben und einen Knopf drücken, schon erhält er eine Empfehlung. Erst dann wird KI komplett im Mainstream verankert sein.

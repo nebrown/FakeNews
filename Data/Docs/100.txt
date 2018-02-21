@@ -1,0 +1,115 @@
+https://www.foxnews.com
+Russian bots sow social upheaval across US using Facebook, Twitter, experts say
+Russian bots aren't pro-Republican or pro-Democrat: they're simply anti-American.
+
+That's the conclusion many are reaching in the wake of the indictments recently handed out by Special Counsel Robert Mueller against 13 Russian nationals and three Russian entities who allegedly enacted a sophisticated plot to wage “information warfare” against the United States.
+
+Marat Mindiyarov, a former commenter at the Internet Research Agency, says the organization's Facebook department hired people with excellent English skills to sway U.S. public opinion through an elaborate social media campaign.
+
+His own experience at the agency makes him trust the U.S. indictment, Mindiyarov told The Associated Press. "I believe that that's how it was and that it was them," he said.
+
+While much of the attention has focused on the 2016 U.S. presidential election and the role played in it by the Internet Research Agency, one of the defendants named in the indictment, Russian social media bots also have been detected inserting discord into the Parkland, Fla., shooting debate on social media. Russian bots have reportedly been taking both sides in the debate.
+
+Hamilton 68, a website built by Alliance for Securing Democracy, has tracked Twitter activity from accounts that have purportedly been involved with Russian dissuasion campaigns, according to a Wired report. The accounts put themselves into hashtags surrounding the Parkland shooting and mentioned topics such as Parkland, gun control, shooter Nikolas Cruz, the NRA and other related topics.
+
+FACEBOOK, GOOGLE, TWITTER OPEN UP TO CONGRESS ABOUT RUSSIAN MISINFORMATION
+
+Other websites, such as Botcheck.me, have also seen an increase in Russian bot activity following the Parkland shooting, using phrases such as "school shooting" and "gun control" and hashtags such as #guncontrol and #guncontrolnow.
+
+"We worked in a group of three where one played the part of a scoundrel, the other one was a hero, and the third one kept a neutral position." - Marat Mindiyarov, a former commenter at the Internet Research Agency
+
+In an email to Fox News, Ash Bhat, co-creator of Botcheck.me, said the project's analysis "found that a majority of tweets tagged with #mueller over the weekend [Fri. and Sat.] came from automated accounts." For comparison purposes, the site also tracked #blackpanther (a hashtag surrounding a superhero movie) and "we found that only a single digit percentage were from these automated accounts."
+
+Bhat added that Botcheck.me uses machine learning to build a statistical model using inputs like date, frequency of tweets, bio, follower counts and other stats to determine whether the account is a bot or a person.
+
+The site has found that bots will promote certain hashtags over others, including #memonday, which relates to the recently released Devin Nunes memo. "We theorize that this might be because it lets these networks frame the public debate around the events. For example, debating gun violence vs. debating mental illness," Bhat told Fox News.
+
+He also noted that @realdonaldtrump, @potus and @foxnews (the main Twitter handle for this website) are among the most tweeted-at accounts. @Realdonaldtrump and @potus are "usually in the top 3," he said, while @foxnews moves around often in the top 10. Bhat added that CNN's Twitter account also "tends to be in the top 10."
+
+INTERNET RESEARCH AGENCY INDICTED: WHO IS THE RUSSIAN COMPANY BEHIND THE FAKE FACEBOOK ADS?
+
+"The most important principle of the work is to have an account like a real person. They create real characters, choosing a gender, a name, a place of living and an occupation. Therefore, it's hard to tell that the account was made for the propaganda." - -Lyudmila Savchuk, former troll and researcher at the Internet Research Agency
+
+Bigger than the election and the fight against it
+
+The Internet Research Agency has also allegedly purchased online advertisements and created content for other contentious topics beyond the 2016 U.S. presidential election.
+
+It reportedly used doctored videos to spread false reports about a supposed Islamic State attack on a chemical plant in Louisiana and a purported case of Ebola in the state of Georgia. Seeking to sow division and mistrust ahead of the U.S. election, the agency apparently whipped up a fake video of an African-American woman being shot dead by a white police officer in Atlanta.
+
+The two primary social media companies that have been subject to the influx of bot accounts and propaganda, Twitter and Facebook, are attempting to fight back, with varying degress of success.
+
+In September, the Jack Dorsey-led Twitter gave an update on how it is attempting to stop bots and misinformation on its platform. It said that it had built systems to identify suspicious log-in attempts, catching about 450,000 suspicious logins per day, using machine learning and automated processes. Thanks to the processes put in place, it saw a 64 percent "year-over-year increase in suspicious logins we’re able to detect," but noted significantly more work needs to be done.
+
+Bhat said that it is "impossible to say whether an account is 'Russian' with the data publicly available," adding that Twitter has access to IP logs and other information that has not been released publicly and could be used to determine an account's origin.
+
+Data has not yet been released on how many people have seen or interacted with Russian bot accounts stemming from the Parkland shooting, but recently released data highlight how massive the issue has become.
+
+At least 1.4 million people on Twitter interacted with Russian propaganda during the 2016 presidential election --double the number initially identified, according to a company blog post.
+
+Twitter also said it notified all 1.4 million affected users that they saw propaganda, making good on a pledge the company made to U.S. lawmakers who are probing Russia’s social media tactics.
+
+Approximately 150 million Facebook users saw inflammatory posts created by the Internet Research Agency, according to a report from Engadget.
+
+In response, Facebook created a tool to let both Facebook and Instagram users know if they saw one of these posts from January 2015 to August 2017.
+
+Additionally, Facebook told legislators that the Internet Research Agency attempted to organize 129 events such as rallies, protests and other events across the U.S.
+
+
+
+Approximately 338,300 unique Facebook accounts viewed the events, 62,500 marked they were attending one of the events and 25,800 accounts marked they were interested, the company said.
+
+
+
+In September 2017, Facebook announced that it had uncovered approximately $100,000 in fraudulent ad spending tied to the 2016 U.S. election. According to a source familiar with the social network's thinking, Facebook's research links its September findings back to the Internet Research Agency.
+
+Facebook's Chief Security Officer Alex Stamos wrote in early September the company "found approximately $100,000 in ad spending from June of 2015 to May of 2017 -- associated with roughly 3,000 ads -- that was connected to about 470 inauthentic accounts and pages in violation of our policies. Our analysis suggests these accounts and pages were affiliated with one another and likely operated out of Russia."
+
+Additionally, Facebook said it found approximately $50,000 in "potentially politically related ad spending," that was spent on approximately 2,200 ads.
+
+The Internet Research Agency's potential involvement with the fraudulent Facebook ad spending was first reported in September 2017 by both The New York Times and The Washington Post.
+
+In an unclassifed report in January 2017, the Office of the Director of National Intelligence mentioned the potential involvement by the Internet Research Agency in the 2016 U.S. election.
+
+"A journalist who is a leading expert on the Internet Research Agency claimed that some social media accounts that appear to be tied to Russia’s professional trolls -- because they previously were devoted to supporting Russian actions in Ukraine -- started to advocate for President-elect Trump as early as December 2015," the report reads.
+
+
+
+How the propaganda is being spread
+
+While Russian officials scoff at the U.S. indictments handed out by Mueller, people who worked at the Internet Research Agency believe the criminal charges are well-founded.
+
+The aim of the agency's work was either to influence voters or to undermine their faith in the U.S. political system, the 37-page indictment states.
+
+Russia has repeatedly denied it was involved and Putin spokesman Dmitry Peskov told reporters Monday that while the indictment focuses on "Russian nationals," it gives "no indication that the Russian government was involved in this in any way."
+
+Mindiyarov, who failed the language exam needed to get a job at the organization's Facebook desk where the pay was double that of the domestic side of the factory, said the content looked as if it were written by native English speakers. "These were people with excellent language skills, interpreters, university graduates," he said, "It's very hard to tell it's a foreigner writing because they master the language wonderfully."
+
+The English test he took asked for a writing sample about Democratic presidential candidate Hillary Clinton's chances of winning the U.S. election, Mindiyarov recalled.
+
+"I wrote that her chances were high and she could become the first female president," he told the AP.
+
+Mindiyarov noted they received their wages in cash and operated in teams as they tried to foment public interest with fake discussions. There are also photo and video departments at the Internet Research Agency.
+
+"We worked in a group of three where one played the part of a scoundrel, the other one was a hero, and the third one kept a neutral position," he said. "For instance, one could write that Putin was bad, the other one would say it was not so, and the third would confirm the position of the second while inserting some picture."
+
+Another former Internet Research Agency worker, Lyudmila Savchuk, said her experience there corresponds with the allegations made by Mueller and his team.
+
+"The posts and comments are made to form the opinion of Russian citizens regarding certain issues, and as we see it works for other countries, too," Savchuk told the AP.
+
+"The most important principle of the work is to have an account like a real person," Savchuk added. "They create real characters, choosing a gender, a name, a place of living and an occupation. Therefore, it's hard to tell that the account was made for the propaganda."
+
+Combatting the propaganda in the future
+
+Though it's difficult to tell what account is a bot and what isn't, there are some steps the average social media user can take.
+
+Accounts with no photos and user names with a series of letters and numbers are often accounts that should be looked at with a discerning eye, Eric Feinberg, a founding partner of deep web analysis company GIPEC.
+
+"This could be a guide for people to look for when interacting with bots," Feinberg told Fox News, via email. "Review the account history and characteristics, including the speed and timing of tweets and posts, [as] many of these bot accounts recently joined Facebook and Twitter but have high amount of tweets and posts in [a] short period [of] time."
+
+Additionally, RoBhat Labs wrote a blog post giving further guidelines on how to identify bots on Twitter, including ones it calls "high-confidence bot accounts," meaning accounts it is pretty certain are a bot.
+
+"Behavior such as tweeting every few minutes in a full day, endorsing polarizing political propaganda (including fake news), obtaining a large follower account in a relatively small time span, and constant retweeting/promoting other high-confidence bot accounts are all traits that lead to high-confidence bot accounts," RoBhat Labs wrote in the post. "These are the accounts that we aim to classify and bring to the attention of the Twitter community."
+
+Michael Balboni, president and managing director of RedLand Strategies, said the speed of social media posts can make it difficult to identify what is propaganda and what is not. "At the very least, in the shorter term, 'trending' will become an unreliable indicator of interest of a topic," he said.
+
+Fox News' Christopher Carbone and the Associated Press contributed to this report. Follow Chris Ciaccia on Twitter @Chris_Ciaccia

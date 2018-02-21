@@ -1,0 +1,131 @@
+http://www.aljazeera.com/topics/regions/us-canada.html
+Facebook, Russian trolls and the new era of information warfare
+Just a few years back, during the Arab Spring, Facebook, Twitter and Google were hailed as positive agents of political and social change.
+
+But the use of these platforms by the Russians and others to influence the 2016 US presidential race and other recent elections has revealed new threats social media pose for democracy.
+
+We set out to investigate the platforms' systemic vulnerabilities, and why they are such powerful tools for malicious actors who want to spread propaganda and disinformation.
+
+Social media's 'power to magnify propaganda and fake news'
+
+Last November, Facebook, Google and Twitter were summoned to appear before the US Senate Intelligence Committee to answer questions about Russia's information operation in the US.
+
+Under pressure from legislators, Facebook said that Russian content on its platform reached as many as 126 million Americans. Twitter found 37,000 Russian accounts whose tweets were seen 300 million times, and Google disclosed that Russian trolls posted 1,100 videos on a number of different Youtube channels.
+
+"The threat is not new. Russians have been conducting information warfare for decades," US Senator Mark Warner pointed out. "But what is new is the advent of social media tools with the power to magnify propaganda and fake news on a scale that was unimaginable back in the days of the Berlin Wall."
+
+Facebook linked 470 fake accounts to a shadowy company with ties to the Kremlin, the Internet Research Agency. It spent some $100,000 to purchase more than 3,000 ads, most on divisive, hot-button issues.
+
+Russian-sponsored Facebook pages attracted hundreds of thousands of American followers.
+
+One of them was Heart of Texas, a page pushing anti-immigrant and anti-Muslim positions.
+
+In May 2016, the page promoted a public protest at the Islamic Da'Wa Center in Houston to "stop the Islamization of Texas." Law enforcement was alerted when one of the posts asserted a "need to blow this place up".
+
+Russian operatives also created a page for United Muslims of America, a real group whose name they commandeered, to promote a counterprotest. On the advertised day, white nationalists faced off with progressive protesters in front of the centre.
+
+"What neither side could have known is that Russian trolls were encouraging both sides to battle in the streets and create division between real Americans," US Senator Richard Burr noted at the hearing. "And causing this disruptive event in Houston cost Russia about $200."
+
+The threat is not new. Russians have been conducting information warfare for decades. But what is new is the advent of social media tools with the power to magnify propaganda and fake news on a scale that was unimaginable back in the days of the Berlin Wall. Mark Warner, US Senator
+
+An internet assault on democracy
+
+The Russians created more than 100 Facebook pages to exacerbate social divisions in the US. There were pages that appealed to African American groups and police advocates, southern nationalists and liberal activists, LGBT supporters and Christian fundamentalists. Several of the sites ran anti-Hillary Clinton ads during the election.
+
+According to Warner, "each of these fake accounts spent months developing networks of real people to follow and like their content. These networks are later utilised to push an array of disinformation."
+
+At the hearing, Warner asked the general counsels for Facebook, Twitter and Google if they thought that their companies had discovered the full scope of Russian activities on their respective platforms. They all answered in the negative.
+
+"We have a long way to go before we know the full story," says Siva Vaidhyanathan, director of the Center for Media and Citizenship at the University of Virginia. He believes that Russian information operations in the US are alarming, but argues that "the biggest effect social media have on the prospect of democracy has to do with undermining our ability as citizens to think and act effectively and collectively."
+
+{articleGUID}
+
+Vaidhyanathan, who is working on a new book called Anti-Social Media, contends that the world is in the middle of an internet assault on democracy. Since 2011, authoritarian leaders have swept to power in places like Poland, Hungary and India by harnessing the power of social media. "And then, in my own country, Donald Trump laid almost all of his hopes on a Facebook-based campaign," he says.
+
+"By late 2017, Facebook reached almost 2.2 billion people. That's stunning and if you were to design a communicative, a propaganda system for nationalist forces, for anti-Muslim forces, for authoritarian forces you could not build a better platform than Facebook."
+
+'Facebook is the world's most powerful targeting platform'
+
+Dennis Yu, the cofounder and chief technology officer of the marketing firm BlitzMetrics is well acquainted with Facebook's effectiveness in reaching people online. "Facebook is the world's most powerful and sophisticated targeting platform," he says. "It is a database instead of a social network."
+
+Everything that you're doing that doesn't involve cash usually makes its way to Facebook and Google. Dennis Yu, cofounder, BlitzMetrics
+
+Yu and his partner Logan Young teach social media marketing and run advertising campaigns on Facebook for the NBA champ Golden State Warriors and more than 100 other clients.
+
+In 2016, the Trump campaign spent most of its $100m digital advertising budget on Facebook. That money could have made a difference in a state like Michigan, which usually goes Democratic and that Trump won by less than 11,000 votes.
+
+Facebook sorts its users' characteristics into hundreds of categories making it easy for advertisers to target people with great precision.
+
+"We have this information of your membership, we have your zip data, we have if you've made that donation, we know the kinds of products that you're buying in the supermarket. Everything that you're doing that doesn't involve cash usually makes its way to Facebook and Google," Yu says.
+
+But the most valuable capability Facebook provides comes from combining its data with that of advertisers themselves.
+
+For example, the Trump campaign could take all the information about people making donations to the campaign and upload that to Facebook. The platform's targeting system can then identify "the friends of people that have donated," Yu says.
+
+And then that can be combined with other data available on Facebook to determine "how many of those people are also in Michigan and are also over 35 and are also working in Detroit and laid off at the Ford plant. I can target exactly. I can mix data from different sources and create combinations of audiences that I can target. That's really where the power is."
+
+Yu believes that the Russians also got tremendous bang for their buck. He argues that the Russian operation not only reached 126 million Americans, but the ads they purchased appeared on people's Facebook news feeds hundreds of millions of times. This was accomplished by provoking people into responding and sharing highly divisive content, he says.
+
+It's hard to assess the electoral effect of Russian spending on Facebook without knowing if it was concentrated in particular states, Yu says. "But what I do know is that they are saying how effective Facebook is and how we can micro-target and how it's great for advertisers that are selling furniture and cars yet the same time you don't think that 100 million impressions on Facebook can't create an impact on an election? Like you can't have that both ways, right."
+
+Facebook's role in Donald Trump's election
+
+Antonio Garcia Martinez, who worked at Facebook from 2011 to 2013 and was in charge of building Facebook's micro-targeting system during that time, believes that the platform played a "huge" role in Donald Trump's election.
+
+"I mean political pundits get things wrong all the time," he says, "but a well-trained machine running algorithm trained on good data doesn't often come up with the wrong answer." Today, he regards it as "strange" that he spent "years building tools to basically defeat human reason and dominate human taste."
+
+Garcia Martinez acknowledges problems in using Facebook to market candidates rather consumer products, but he is most concerned about the way the social media platform encourages people to live inside their own echo chamber, or filter bubble.
+
+"To me, the bigger issue that I really don't see a solution for is the sort of filter bubble/fake news problems right, where you know, citizens used to have a right to an opinion and now they have a right to their own reality," he says. "Facebook flatters their vision of the world and they're never forced to challenge their assumptions, you know, they can go off in some rabbit hole of untruth."
+
+Facebook's mission is to give people what they want, Garcia Martinez says. He learned that lesson from an executive providing orientation on his first day of work.
+
+"He had this very sweeping vision of you know the 'New York Times of You'," Garcia Martinez says. "In fact, he asked it in the form of a question, he's like what is Facebook? And some dumb intern said, 'Oh, it's a social network.' And he's like, 'No, wrong. It is your personalised newspaper.' They basically feed you anything that you engage with. By engage means likes, comments, share, etc Their news feed algorithm is optimised to that."
+
+Citizens used to have a right to an opinion and now they have a right to their own reality. Facebook flatters their vision of the world and they're never forced to challenge their assumptions, you know, they can go off in some rabbit hole of untruth. Antonio Garcia Martinez, former Facebook employee
+
+'Social media platforms have made us shallower'
+
+Facebook recently announced changes to its "news feed" that will prioritise posts from friends and news from sites that users rate as trustworthy on surveys. But analysts say the changes could reinforce filter bubbles and do little to stem the spread of bogus news. Today, more than two-thirds of Americans get news on social media.
+
+Garcia Martinez believes that disinformation spreads easily on Facebook because people avoid what psychologists call cognitive dissonance - a discomfort caused by contradictory views in the same mind. "Views of the world that flatter your world view you just eat up like candy or French fries and just can't get enough of it, right, and that's why fake news is so effective. Because it's the world as you like to see it rather than it actually is."
+
+Michel Kosinski, a psychologist at the Stanford Graduate School of Business, argues that "information bubbles exist, but the breadth of information that the average person today holds is the largest in the history. We're the best-informed people in the history of the world."
+
+Kosinski did pathbreaking research on what you can tell about people from Facebook likes, and believes the upside of using new psychographic micro-targeting techniques in politics far outweighs the downside. "It's great for democracy," he says. "Making it possible for politicians to adjust their message in such a way as to make it relevant to people, it's great because it increases engagement of people in politics."
+
+Vaidhyanathan vehemently disagrees, arguing that "social media platforms have divided us, have made us shallower."
+
+"The very addictive nature of it interferes with our ability to dive deeply into long texts," he says. "It interferes with our ability to speak face to face at any depth with people, and perhaps to come to some sort of mutual awareness or agreement. It structures our habits and thoughts in ways that are not healthy for living life in a complex world and living in a democracy."
+
+Vaidhyanathan is also very concerned about how disinformation spread on Facebook undermines agreement on basic facts.
+
+"If you're reading and learning about the world through Facebook, what you're getting is a mixture of traditional quality journalism and ... completely made-up stories that look like journalism," he says. "You're going to have a really hard time distinguishing what is true and what is not, what is real and what is not."
+
+Spreading disinformation and propaganda
+
+Larry Kim, an online marketing consultant, was troubled by the spread of disinformation on Facebook during the presidential election. Last October, he ran a test to see if Facebook had addressed the problem. Kim set up a fake news site on Facebook and posted a false story about an activist who was paid to protest a Trump rally. He then spent $53 on a so-called engagement ad to promote the story, targeting people in three swing states key to Trump's victory: Wisconsin, Michigan and Pennsylvania.
+
+"I went with a demographic that is very, very likely to eat this stuff up," he says. "So, for example, people who are Republicans, who are members of the National Rifle Association, people who donate to conservative causes."
+
+Kim was hoping that his ad would be rejected and that Facebook would shut down his fake news page. Instead, the story was shared widely. Within an hour, around 5,000 people were exposed to the made-up story.
+
+"I have companies that are spending orders of magnitude more than 50 bucks and they can't drive this type of engagement," Kim says. "It's very concerning that people can still do this a year later after the election."
+
+In Germany, in the 1930s, radio and film became powerful instruments of propaganda. They were the chosen instruments of Goebbels and of Hitler and they worked beautifully for them. Siva Vaidhyanathan, director of the Center for Media and Citizenship at the University of Virginia
+
+Facebook, Twitter and Google have each announced a variety of different measures to deal with disinformation - tweaks to their algorithms, political ad disclosure, increased security staffing, and review of articles by outside fact-checkers.
+
+But many of these approaches are flawed, says Robyn Caplan, a scholar at the Data and Society Research Institute whose work focuses on policy to deal with disinformation and propaganda on social media.
+
+"These companies need to start hiring on editorial staff and journalists, people who have been located within the traditions of news media to start informing some of the decisions that platform companies are making in reviewing content," she says.
+
+But asking Facebook or other social media platforms to crackdown on fake news by curating content could backfire, Garcia Martinez says. "People say that Facebook has too much power, so as a reaction, they want Facebook to assume more power by actually potentially censoring or editing content on their platform," he argues. "I'm not sure that I want Facebook becoming the editor in chief to the world's newspapers. I'm actually not a big fan of that solution."
+
+Garcia Martinez argues that every new technology goes through an adjustment period in which it is exploited by criminals and malicious actors. "I think we're going through social media's growing pains right now," he says.
+
+But there is no guarantee that society will adjust positively to changes in communications technologies, Vaidhyanathan says. "Look, in Germany, in the 1930s, radio and film became powerful instruments of propaganda. They were the chosen instruments of Goebbels and of Hitler and they worked, beautifully for them."
+
+After World War II, people confronted the fact that propaganda over radio and television could be dangerous. "We managed to manage it," Vaidhyanathan says.
+
+A similar commitment to dealing with the challenges to democracy posed by social media and the internet has yet to materialise.

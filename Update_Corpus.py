@@ -73,11 +73,11 @@ def UpdateCorpus(siteList, numArticles=30):
     # Remove words that appear once
     frequency = defaultdict(int)
     for text in texts:
-        print(text)
+        #print(text)
         for i in range(len(text)):
             text[i] = re.sub("[!?,.()\":]", "", text[i])
             frequency[text[i]] += 1
-        print(text)
+        #print(text)
 
     #texts = [[token for token in text if frequency[token] > 1] for text in texts]
 
