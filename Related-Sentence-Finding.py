@@ -8,25 +8,13 @@ from gensim import corpora, models, similarities
 from collections import defaultdict
 from pprint import pprint
 import os
-from Update_Corpus import UpdateCorpus
 
 def main():
-    #defines
-    siteList = ["https://cnn.com", "https://washingtonpost.com"]
-
-    #update corpus if command line arg
-    #only do if sys.argv[1] exists
-    if(len(sys.argv) > 1):
-        if(sys.argv[1] == '-U'):
-            UpdateCorpus(siteList)
-
-    #make the dictionary and model
     dct = corpora.Dictionary.load("./Data/news.dict")
     tfidfCorpus = corpora.MmCorpus("./Data/news.mm")
     lsi = models.LsiModel.load("./Data/news.lsi")
     tfidf = models.TfidfModel(tfidfCorpus)
     
-    #data structure to hold articles
     articles = []
 
     '''
@@ -37,16 +25,15 @@ def main():
     '''
 
     
-    numArticles = 30
+    numArticles = int(sys.argv[1])
 
-    #why is this done here and in UpdateCorpus
-    j = 0
-    while j < len(siteList):
-        url = siteList[j]
+    j = 2
+    while j < len(sys.argv):
+        url = sys.argv[j]
 
         # Get documents from selected website
         # Connect to site without caching (for testing only)
-        print("\nAttempting to pull data from " + siteList[j] + ". . .")
+        print("\nAttempting to pull data from " + sys.argv[j] + ". . .")
         site = newspaper.build(url, is_memo = False)
         site.clean_memo_cache()
         print("Site name: " + site.brand)
@@ -73,11 +60,14 @@ def main():
     print("start nlp")
     sentences = []
     for article in articles:
-        sentences.append(re.split('\. |\n|\.\"', article)) #TODO: Handle quotes that end with ."
+        senList = re.split('\. |\n|\.\"', article)
+        for sentence in senList:
+            if len(sentence) > 2:
+                sentences.append(sentence) #TODO: Handle quotes that end with ."
 
     # Remove words that appear once
     vec_sentence = []
-    for sentence in sentences[0]:
+    for sentence in sentences:
         for token in sentence:
             token = re.sub("[!?,.()\":]", "", token)
         vecSen = dct.doc2bow(sentence.lower().split())
@@ -107,9 +97,10 @@ def main():
     #pprint(simSum)
 
     #Print top 3 most related sentences
-    print("end")
+    print("\n")
+    pprint(sentences)
     for i in range(5):
-        print(str(i) + ": " + sentences[0][simSum[i][0]])
+        print(str(i) + ", " + str(simSum[i][0]) + ", " + str(simSum[i][1]) + ": " + sentences[simSum[i][0]])
 
 # code to make run main if this file is being run not imported
 if __name__ == "__main__":
