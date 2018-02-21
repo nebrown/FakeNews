@@ -1,5 +1,6 @@
 import sys
 from PyQt5 import (QtWidgets, QtCore)
+from PyQt5.QtWidgets import qApp
 
 class MainWindow(QtWidgets.QMainWindow):
 
@@ -17,7 +18,6 @@ class MainWindow(QtWidgets.QMainWindow):
 		IntNews_T = bar.addMenu('International News')
 		Search_T = bar.addMenu('Search')
 
-
 		# create actions for tabs
 		TS_action = QtWidgets.QAction('Action1', self)
 		UP_action = QtWidgets.QAction('Action2', self)
@@ -31,8 +31,14 @@ class MainWindow(QtWidgets.QMainWindow):
 		Search_T.addAction(Search_action)
 
 		# add triggers to tabs
-		#TS_action.triggered.connect(self.TS_trigger)
+		TS_action.triggered.connect(self.TS_trigger)
+		UP_action.triggered.connect(self.TS_trigger)
+		IN_action.triggered.connect(self.TS_trigger)
+		Search_action.triggered.connect(self.TS_trigger)
 
+	# dummy functions
+	def TS_trigger(self):
+		qApp.quit()
 
 class WindowContent(QtWidgets.QWidget):
 
@@ -44,9 +50,12 @@ class WindowContent(QtWidgets.QWidget):
 		self.button1 = QtWidgets.QPushButton('Search')
 		self.button2 = QtWidgets.QPushButton('Clear')
 		self.exitButton = QtWidgets.QPushButton('Quit')
+		self.sourceGo = QtWidgets.QPushButton('Go')
 		self.label1 = QtWidgets.QLabel('User Input for Articles')
 		self.label2 = QtWidgets.QLabel('No User Input')
+		self.label3 = QtWidgets.QLabel('Add Source')
 		self.userInput = QtWidgets.QLineEdit()
+		self.newsSource = QtWidgets.QLineEdit()
 		self.label1.setAlignment(QtCore.Qt.AlignCenter)
 
 	    # feature placement
@@ -56,10 +65,13 @@ class WindowContent(QtWidgets.QWidget):
 	    # container for features
 	    # horizontal
 		inputBox = QtWidgets.QHBoxLayout()
+		addSource = QtWidgets.QHBoxLayout()
 	    #h_box1 = QtWidgets.QHBoxLayout()
 		h_box2 = QtWidgets.QHBoxLayout()
 
 		inputBox.addWidget(self.userInput)
+		addSource.addWidget(self.newsSource)
+		addSource.addWidget(self.sourceGo)
 
 	    #h_box1.addWidget(self.label1)
 	    #h_box1.addWidget(self.label2)
@@ -74,16 +86,18 @@ class WindowContent(QtWidgets.QWidget):
 		v_box.addLayout(inputBox)
 		v_box.addLayout(h_box2)
 		v_box.addWidget(self.label2)
+		v_box.addWidget(self.label3)
+		v_box.addLayout(addSource)
 		v_box.addWidget(self.exitButton)
 
 	    # mainWindow settings
 		self.setLayout(v_box)
-		self.setWindowTitle('Read FakeNooz')
 
 	    # connections for buttons
 		self.button1.clicked.connect(self.searchArticles)
 		self.button2.clicked.connect(self.searchArticles)
 		self.exitButton.clicked.connect(self.closeApp)
+		self.sourceGo.clicked.connect(self.SourceAdded)
 
 	def searchArticles(self):
 		self.label2.setText('User has Inputted')
@@ -93,11 +107,16 @@ class WindowContent(QtWidgets.QWidget):
 		if sender.text() == 'Clear':
 			self.userInput.clear()
 
+	def SourceAdded(self):
+		self.label3.setText('Source Added')
+
 	def closeApp(self):
-		sys.exit()
+		qApp.quit()
 
 if __name__ == '__main__':
 	app = QtWidgets.QApplication(sys.argv)
 	mainWindow = MainWindow()
+	mainWindow.setWindowTitle('Read FakeNooz')
+	mainWindow.setGeometry(100,100,500,300)
 	mainWindow.show()
 	sys.exit(app.exec_())
