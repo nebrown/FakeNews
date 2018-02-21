@@ -1,18 +1,25 @@
 import sys
+import os
 import re
 import newspaper
 #suppress windows chunksize warning
 import warnings
 import OutputToFile as otf
+import shutil
 warnings.filterwarnings(action='ignore', category=UserWarning, module='gensim')
 from gensim import corpora, models, similarities
 from collections import defaultdict
 from pprint import pprint
 
 
-def UpdateCorpus(siteList, numArticles=4):
+def UpdateCorpus(siteList, numArticles=30):
     # Defines
     documents = []
+    # Clear previous docs
+    docFolder = "./Data/Docs/"
+    if os.path.exists(docFolder):
+        shutil.rmtree(docFolder)
+    os.makedirs(docFolder)
 
     j = 0
     while j < len(siteList):
@@ -37,9 +44,21 @@ def UpdateCorpus(siteList, numArticles=4):
                 if (len(site.articles[i].text) > 200):
                     print(str(i) + ": " + site.articles[i].title + "\n", end = "")
                     documents.append(site.articles[i].text)
+                    # Save docs
+                    f = open("./Data/Docs/" + str(len(documents)) + ".txt", "w")
+                    f.write(url + "\n")
+                    f.write(site.articles[i].title + "\n")
+                    f.write(site.articles[i].text)
+                    f.close()
             except newspaper.article.ArticleException:
+                # Will skip over articles it has trouble pulling
+                continue
+            except UnicodeEncodeError:
+                # Will prevent weird characters from stopping execution
+                print("Unicode error in doc " + str(len(documents)))
                 continue
             except IndexError:
+                # Will end reading from sites with fewer than numArticles to read
                 break
         j += 1;
 
@@ -47,18 +66,18 @@ def UpdateCorpus(siteList, numArticles=4):
     #for document in documents:
     #    sentences.append(re.split('\. |\n|\.\"', document)) #TODO: Handle quotes that end with ."
 
-    #save all documents on to disk
-    otf.SaveDocs(filename='documents.txt', sentences=documents)
     #List of common words to remove
-    stoplist = set("for a of the and to in".split())
+    stoplist = set("for a of the and to in he his she hers".split())
     texts = [[word for word in document.lower().split() if word not in stoplist] for document in documents]
 
     # Remove words that appear once
     frequency = defaultdict(int)
     for text in texts:
-        for token in text:
-            token = re.sub("[!?,.()\":]", "", token)
-            frequency[token] += 1
+        print(text)
+        for i in range(len(text)):
+            text[i] = re.sub("[!?,.()\":]", "", text[i])
+            frequency[text[i]] += 1
+        print(text)
 
     #texts = [[token for token in text if frequency[token] > 1] for text in texts]
 
@@ -72,6 +91,7 @@ def UpdateCorpus(siteList, numArticles=4):
     corpus = [dct.doc2bow(text) for text in texts]
 
     # Get tfidf transform from corpus
+    corpora.MmCorpus.serialize("./Data/news.corp", corpus),
     tfidf = models.TfidfModel(corpus)
     tfidf.save("./Data/news.tfidf")
     tfidfCorpus = tfidf[corpus]
@@ -84,6 +104,16 @@ def UpdateCorpus(siteList, numArticles=4):
     pprint(lsi.print_topics(5))
 
 if __name__ == "__main__":
-    #remove the first argument, the script name
-    sys.argv.pop(0)
-    UpdateCorpus(sys.argv)
+    # Allow for user-defined sites
+    if len(sys.argv) >= 2:
+        UpdateCorpus(sys.argv[1:])
+    # Otherwise use sitelist
+    else:
+        sitelist = []
+        f = open("./sitelist.txt", "r")
+        line = f.readline()
+        while line is not "":
+            sitelist.append(line[:-1])
+            line = f.readline()
+        f.close()
+        UpdateCorpus(sitelist)

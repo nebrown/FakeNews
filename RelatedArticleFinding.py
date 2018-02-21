@@ -8,14 +8,14 @@ from gensim import corpora, models, similarities
 from collections import defaultdict
 from pprint import pprint
 
-def BenTheSwanman():
+def GetTopics():
     #Get dict and corpus
     dct = corpora.Dictionary.load("./Data/news.dict")
     tfidfCorpus = corpora.MmCorpus("./Data/news.mm")
 
     #Form LDA Model
-    lda =  models.LdaModel(tfidfCorpus, id2word=dct, num_topics = 5)
-
+    lda =  models.LdaModel(tfidfCorpus, id2word=dct, num_topics = 30)
+ 
     #Get topics
     topicMatrix = lda.get_topics()
 
@@ -29,16 +29,20 @@ def BenTheSwanman():
 
     #Cut low scoring topics
     sortedCoherence = sorted(indexedCoherence, key=lambda item: -item[1])
+    numCoherentTopics = 0
+    while sortedCoherence[numCoherentTopics][1] > -10:
+    	numCoherentTopics += 1
 
     #Print Topics
-    for i in range(len(sortedCoherence)):
+    for i in range(numCoherentTopics):
         pprint(str(i) + ", " + str(sortedCoherence[i][0]) + ": " + str(sortedCoherence[i][1]))
 
     #Associate with articles
-    for i in range(len(sortedCoherence)):
+    for i in range(numCoherentTopics):
         print("")
+        print(str(i) + ": ")
         for topic in lda.get_topic_terms(sortedCoherence[i][0]):
-            pprint(str(i) + ": " + dct[topic[0]] + ", " + str(topic[1]) + "; ")
+             print(dct[topic[0]] + "\t" + str(topic[1]))
 
 if __name__ == "__main__":
-    BenTheSwanman()
+    GetTopics()
