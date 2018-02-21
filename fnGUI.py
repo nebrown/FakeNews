@@ -17,24 +17,28 @@ class MainWindow(QtWidgets.QMainWindow):
 		UsPol_T = bar.addMenu('US Politics')
 		IntNews_T = bar.addMenu('International News')
 		Search_T = bar.addMenu('Search')
+		About_T = bar.addMenu('About')
 
 		# create actions for tabs
 		TS_action = QtWidgets.QAction('Action1', self)
 		UP_action = QtWidgets.QAction('Action2', self)
 		IN_action = QtWidgets.QAction('Action3', self)
 		Search_action = QtWidgets.QAction('Action4', self)
+		About_action = QtWidgets.QAction('Action5', self)
 
 		# implement actions to tabs
 		TopSt_T.addAction(TS_action)
 		UsPol_T.addAction(UP_action)
 		IntNews_T.addAction(IN_action)
 		Search_T.addAction(Search_action)
+		About_T.addAction(About_action)
 
 		# add triggers to tabs
 		TS_action.triggered.connect(self.TS_trigger)
 		UP_action.triggered.connect(self.TS_trigger)
 		IN_action.triggered.connect(self.TS_trigger)
 		Search_action.triggered.connect(self.TS_trigger)
+		About_action.triggered.connect(self.TS_trigger)
 
 	# dummy functions
 	def TS_trigger(self):
