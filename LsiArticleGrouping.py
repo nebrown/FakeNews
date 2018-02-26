@@ -82,10 +82,8 @@ def GroupArticles():
         w = open("./Data/Aggregates/s" + str(i) + ".txt", "w")
         w.write("Keywords: " + lsi.print_topic(i) + "\n")
         for topSen in topSentences:
-            w.write("\n" + topSen)
+            w.write(topSen)
         w.close()
-
-    print("Extraction completed.")
 
 
 def SimilarSentences(aggregatePath):

@@ -12,53 +12,27 @@ from collections import defaultdict
 from pprint import pprint
 
 
-
-# Get documents from selected website
-# Connect to site without caching (for testing only)
-def getDocuments(url):
-    print("\nAttempting to pull data from " + url + ". . .")
-    site = newspaper.build(url, is_memo = False)
-    site.clean_memo_cache()
-    print("Site name: " + site.brand)
-    print("Site description: " + site.description)
-    print("Site size: " + str(site.size()))
-
-    return site
-
-# Clear previous docs
-def clearDocs():
+def UpdateCorpus(siteList, numArticles=30):
+    # Defines
+    documents = []
+    # Clear previous docs
     docFolder = "./Data/Docs/"
     if os.path.exists(docFolder):
         shutil.rmtree(docFolder)
     os.makedirs(docFolder)
-    return docFolder
-
-def readArticle(site, index, documentsLength):
-    site.articles[index].download()
-    site.articles[index].parse()
-    #check article has more than 200 characters to filter non-news
-    if (len(site.articles[index].text) > 400):
-        print(str(index) + ": " + site.articles[index].title + "\n", end = "")
-        #documents.append(site.articles[index].text)
-        # Save docs
-        f = open("./Data/Docs/" + str(documentsLength-1) + ".txt", "w")
-        f.write(str(site) + "\n")
-        f.write(site.articles[index].title + "\n")
-        f.write(site.articles[index].text)
-        f.close()
-        return site.articles[index].text
-    else:
-        return None
-
-def UpdateCorpus(siteList, numArticles=30):
-    # Defines
-    documents = []
-    docFolder = clearDocs()
 
     j = 0
     while j < len(siteList):
         url = siteList[j]
-        site = getDocuments(url)
+
+        # Get documents from selected website
+        # Connect to site without caching (for testing only)
+        print("\nAttempting to pull data from " + siteList[j] + ". . .")
+        site = newspaper.build(url, is_memo = False)
+        site.clean_memo_cache()
+        print("Site name: " + site.brand)
+        print("Site description: " + site.description)
+        print("Site size: " + str(site.size()))
 
         # Download set of articles
         for i in range(numArticles):
@@ -76,9 +50,6 @@ def UpdateCorpus(siteList, numArticles=30):
                     f.write(site.articles[i].title + "\n")
                     f.write(site.articles[i].text)
                     f.close()
-                #text = readArticle(site, i, len(documents))
-                #if(text):
-                #    documents.append(readArticle(site, i, len(documents)))
             except newspaper.article.ArticleException:
                 # Will skip over articles it has trouble pulling
                 continue
