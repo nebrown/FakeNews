@@ -1,4 +1,5 @@
 import sys
+import os
 from PyQt5 import (QtWidgets, QtCore)
 from Update_Corpus import UpdateCorpus
 from RelatedSentenceFinding import SentenceMatching
@@ -11,6 +12,7 @@ class Window(QtWidgets.QWidget):
         super().__init__()
 
         self.init_ui()
+        self.currentCategory = "All"
 
     def init_ui(self):
         # create features
@@ -18,6 +20,9 @@ class Window(QtWidgets.QWidget):
         self.button1 = QtWidgets.QPushButton('Collect Articles')
         self.button2 = QtWidgets.QPushButton('Clear')
         self.button3 = QtWidgets.QPushButton('Extract Sentences')
+        self.button4 = QtWidgets.QPushButton('Search')
+        self.button5 = QtWidgets.QPushButton('Related Articles')
+        self.button6 = QtWidgets.QPushButton('Set Category')
         self.exitButton = QtWidgets.QPushButton('Quit')
         self.label1 = QtWidgets.QLabel('User Input for Articles')
         self.label2 = QtWidgets.QLabel('No User Input')
@@ -42,6 +47,9 @@ class Window(QtWidgets.QWidget):
         h_box2.addWidget(self.button1)
         h_box2.addWidget(self.button2)
         h_box2.addWidget(self.button3)
+        h_box2.addWidget(self.button4)
+        h_box2.addWidget(self.button5)
+        h_box2.addWidget(self.button6)
 
         # vertical
         v_box = QtWidgets.QVBoxLayout()
@@ -61,9 +69,33 @@ class Window(QtWidgets.QWidget):
         self.button1.clicked.connect(self.runCorpus)
         self.button2.clicked.connect(self.searchArticles)
         self.button3.clicked.connect(self.extractSentences)
+        self.button4.clicked.connect(self.queryArticles)
+        self.button5.clicked.connect(self.urlQuery)
+        self.button6.clicked.connect(self.setCategory)
         self.exitButton.clicked.connect(self.closeApp)
 
         self.show()
+
+    def setQuery(self):
+        # Find sitelist for category
+        catSitelist = self.userInput.text() + ".txt"
+        for sitelist in os.listdir("./Sitelists"):
+            # If found, update category
+            if catSitelist == sitelist:
+                self.currentCategory = self.userInput.text()
+                print("Category set to: " + self.userInput.text())
+                break
+        # If failed to find sitelist for category
+        print("Failed to find sitelist for category: " + self.userInput.text())
+
+    def urlQuery(self):
+        print("Searching for related articles to: " + self.userInput.text())
+        text = lag.GetArticleText(self.userInput.text())
+        lag.SearchArticles(text, category=self.currentCategory)
+
+    def queryArticles(self):
+        print("Searching for: " + self.userInput.text() "\nin category " + self.currentCategory)
+        lag.SearchArticles(self.userInput.text(), category=currentCategory)
 
     def searchArticles(self):
         self.label2.setText('User has Inputted')
@@ -75,18 +107,18 @@ class Window(QtWidgets.QWidget):
 
     def extractSentences(self):
     	#Run the grouping
-    	lag.GroupArticles()
+    	lag.GroupArticles(category=self.currentCategory)
 
     def runCorpus(self):
         # run with sitelist
         sitelist = []
-        f = open("./sitelist.txt", "r")
+        f = open("./" + self.currentCategory + "./Sitelists/" + self.currentCategory + ".txt", "r")
         line=f.readline()
         while line is not "":
             sitelist.append(line[:-1])
             line=f.readline()
         f.close()
-        UpdateCorpus(sitelist)
+        UpdateCorpus(sitelist, category=self.currentCategory)
         #SentenceMatching()
 
     def closeApp(self):

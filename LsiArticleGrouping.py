@@ -6,17 +6,101 @@ import newspaper
 #suppress windows chunksize warning
 import warnings
 warnings.filterwarnings(action='ignore', category=UserWarning, module='gensim')
-from gensim import corpora, models, similarities
+from gensim import corpora, models, similarities,summarization
 from collections import defaultdict
 from pprint import pprint
 
-def GroupArticles():
+def GetArticleText(url):
+    article = newspaper.Article(url)
+    article.download()
+    article.parse()
+    return article.text
+
+def SearchArticles(query, category="All"):
     totalTopics = 5
     chosenTopics = 5
 
     # Get dictionary, corpus, model
-    dct = corpora.Dictionary.load("./Data/news.dict")
-    tfidfCorpus = corpora.MmCorpus("./Data/news.mm")
+    dct = corpora.Dictionary.load("./Data/" + category + "/news.dict")
+    tfidfCorpus = corpora.MmCorpus("./Data/" + category + "/news.mm")
+    #lsi = models.LsiModel.load("./Data/" + category + "news.lsi")
+
+    lsi = models.LsiModel(tfidfCorpus, id2word=dct, num_topics = totalTopics)
+
+    # Perform similarity queries with topic terms
+    index = similarities.MatrixSimilarity(lsi[tfidfCorpus])
+
+    # Create uniformly weighted query from list of words
+    vec_bow = dct.doc2bow(query.lower().split())
+
+    # Pick articles most related to each topic
+    sims = []
+    sims.append(index[lsi[vec_bow]])
+
+    # Sort by decreasing similarity to topics
+    sortedSims = []
+    for sim in sims:
+        enum = list(enumerate(sim))
+        sortedSims.append(sorted(enum, key=lambda item: -item[1]))
+    #pprint(sortedSims)
+
+    # Pull out top articles
+    for i in range(len(sortedSims)):
+        # print topic tags
+        pprint(lsi.print_topic(i))
+        pprint(sortedSims[i][:10])
+
+    # Clear previous meta-docs
+    try:
+        docFolder = "./Data/Queries/" + category + "/"
+        if os.path.exists(docFolder):
+            shutil.rmtree(docFolder)
+        os.makedirs(docFolder)
+    except PermissionError:
+        print("Windows permissions error.")
+        return
+
+    # Create meta-documents
+    for i in range(len(sortedSims)):
+        # Open folder to write to
+        wf = open("./Data/Queries/" + category + "/fquery.txt", "w")
+        wr = open("./Data/Queries/" + category + "/query.txt", "w")
+        wf.write(lsi.print_topic(i))
+        # Get top 10 related articles and write them in
+        for j in range(10):
+            articleNum = sortedSims[i][j][0]
+            r = open("./Data/Docs/" + category + "/" + str(articleNum) + ".txt", "r")
+            articleUrl = r.readline()
+            articleTitle = r.readline()
+            articleContents = r.read()
+            wf.write("\n\n====================================")
+            wf.write("\n" + str(j) + ": " + str(sortedSims[i][j][1]) + "\n")
+            wf.write(articleUrl + articleTitle + articleContents)
+            wr.write("\n" + articleContents + "\n")
+            r.close()
+        wr.close()
+        wf.close()
+
+    # Pull out highly relevant sentences
+    for i in range(len(sortedSims)):
+        topSentences = SimilarSentences("./Data/Queries/" + category + "/query.txt", category)
+        w = open("./Data/Queries/" + category + "/squery.txt", "w")
+        w.write("Query: " + query + "\n")
+        for topSen in topSentences:
+            w.write("\n" + topSen)
+        w.close()
+
+    print("Search completed.")
+
+
+def GroupArticles(category = "All"):
+    totalTopics = 5
+    chosenTopics = 5
+    numSentences = 25
+
+    # Get dictionary, corpus, model
+    dct = corpora.Dictionary.load("./Data/" + category + "/news.dict")
+    tfidfCorpus = corpora.MmCorpus("./Data/" + category + "/news.mm")
     #lsi = models.LsiModel.load("./Data/news.lsi")
 
     lsi = models.LsiModel(tfidfCorpus, id2word=dct, num_topics = totalTopics)
@@ -50,21 +134,25 @@ def GroupArticles():
         pprint(sortedSims[i][:10])
 
     # Clear previous meta-docs
-    docFolder = "./Data/Aggregates/"
-    if os.path.exists(docFolder):
-        shutil.rmtree(docFolder)
-    os.makedirs(docFolder)
+    try:
+        docFolder = "./Data/Aggregates/" + category + "/"
+        if os.path.exists(docFolder):
+            shutil.rmtree(docFolder)
+        os.makedirs(docFolder)
+    except PermissionError:
+        print("Windows permissions error.")
+        return
 
     # Create meta-documents
     for i in range(len(sortedSims)):
         # Open folder to write to
-        wf = open("./Data/Aggregates/f" + str(i) + ".txt", "w")
-        wr = open("./Data/Aggregates/" + str(i) + ".txt", "w")
+        wf = open("./Data/Aggregates/" + category + "/f" + str(i) + ".txt", "w")
+        wr = open("./Data/Aggregates/" + category + "/" + str(i) + ".txt", "w")
         wf.write(lsi.print_topic(i))
         # Get top 10 related articles and write them in
-        for j in range(10):
+        for j in range(numSentences):
             articleNum = sortedSims[i][j][0]
-            r = open("./Data/Docs/" + str(articleNum) + ".txt", "r")
+            r = open("./Data/Docs/" category + "/" + str(articleNum) + ".txt", "r")
             articleUrl = r.readline()
             articleTitle = r.readline()
             articleContents = r.read()
@@ -78,18 +166,30 @@ def GroupArticles():
 
     # Pull out highly relevant sentences
     for i in range(len(sortedSims)):
-        topSentences = SimilarSentences("./Data/Aggregates/" + str(i) + ".txt")
-        w = open("./Data/Aggregates/s" + str(i) + ".txt", "w")
+        topSentences = SimilarSentences("./Data/Aggregates/" + category + "/" + str(i) + ".txt", category)
+        w = open("./Data/Aggregates/" + category + "/s" + str(i) + ".txt", "w")
         w.write("Keywords: " + lsi.print_topic(i) + "\n")
+        topSummary = ""
         for topSen in topSentences:
-            w.write(topSen)
+            w.write("\n" + topSen)
+            # Get rid of numbers
+            splitSen = topSen.split(":")
+            topText = ""
+            for sen in splitSen[1:]:
+                topText = topText + sen
+            topSummary = topSummary + " " + topText
+        # Create summary
+        sumText = summarization.summarizer.summarize(topSummary)
+        w.write("\nSummary:\n" + sumText)
         w.close()
 
+    print("Extraction completed.")
 
-def SimilarSentences(aggregatePath):
-    dct = corpora.Dictionary.load("./Data/news.dict")
-    tfidfCorpus = corpora.MmCorpus("./Data/news.mm")
-    lsi = models.LsiModel.load("./Data/news.lsi")
+
+def SimilarSentences(aggregatePath, category):
+    dct = corpora.Dictionary.load("./Data/" + category + "/news.dict")
+    tfidfCorpus = corpora.MmCorpus("./Data/" + category + "/news.mm")
+    lsi = models.LsiModel.load("./Data/" + category + "/news.lsi")
     tfidf = models.TfidfModel(tfidfCorpus)
 
     # Get aggregate document

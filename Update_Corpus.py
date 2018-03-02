@@ -12,14 +12,18 @@ from collections import defaultdict
 from pprint import pprint
 
 
-def UpdateCorpus(siteList, numArticles=30):
+def UpdateCorpus(siteList, category="All", numArticles=30):
     # Defines
     documents = []
     # Clear previous docs
-    docFolder = "./Data/Docs/"
-    if os.path.exists(docFolder):
-        shutil.rmtree(docFolder)
-    os.makedirs(docFolder)
+    docFolder = "./Data/Docs/" + category + "/"
+    try:
+        if os.path.exists(docFolder):
+            shutil.rmtree(docFolder)
+        os.makedirs(docFolder)
+    except PermissionError:
+        print("Windows permission error.")
+        return
 
     j = 0
     while j < len(siteList):
@@ -36,7 +40,7 @@ def UpdateCorpus(siteList, numArticles=30):
 
         # Download set of articles
         for i in range(numArticles):
-            #Get articles from site
+            #Get articles from sitew
             try:
                 site.articles[i].download()
                 site.articles[i].parse()
@@ -45,7 +49,7 @@ def UpdateCorpus(siteList, numArticles=30):
                     print(str(i) + ": " + site.articles[i].title + "\n", end = "")
                     documents.append(site.articles[i].text)
                     # Save docs
-                    f = open("./Data/Docs/" + str(len(documents)-1) + ".txt", "w")
+                    f = open(docFolder + str(len(documents)-1) + ".txt", "w")
                     f.write(url + "\n")
                     f.write(site.articles[i].title + "\n")
                     f.write(site.articles[i].text)
@@ -86,21 +90,21 @@ def UpdateCorpus(siteList, numArticles=30):
 
     # Generate dictionary based on text
     dct = corpora.Dictionary(texts)
-    dct.save("./Data/news.dict")
+    dct.save("./Data/" + category + "/news.dict")
 
     # Bring documents into vector space using new dictionary
     corpus = [dct.doc2bow(text) for text in texts]
 
     # Get tfidf transform from corpus
-    corpora.MmCorpus.serialize("./Data/news.corp", corpus),
+    corpora.MmCorpus.serialize("./Data/" + category + "/news.corp", corpus),
     tfidf = models.TfidfModel(corpus)
-    tfidf.save("./Data/news.tfidf")
+    tfidf.save("./Data/" + category + "/news.tfidf")
     tfidfCorpus = tfidf[corpus]
-    corpora.MmCorpus.serialize("./Data/news.mm", tfidfCorpus)
+    corpora.MmCorpus.serialize("./Data/" + category + "/news.mm", tfidfCorpus)
 
     # Use LSI to get topics
     lsi = models.LsiModel(tfidfCorpus, id2word=dct, num_topics = 5)
-    lsi.save("./Data/news.lsi")
+    lsi.save("./Data/" + category + "/news.lsi")
     #lsiCorpus = lsi[tfidfCorpus]
     pprint(lsi.print_topics(5))
 
