@@ -152,7 +152,7 @@ def GroupArticles(category = "All"):
         # Get top 10 related articles and write them in
         for j in range(numSentences):
             articleNum = sortedSims[i][j][0]
-            r = open("./Data/Docs/" category + "/" + str(articleNum) + ".txt", "r")
+            r = open("./Data/Docs/" + category + "/" + str(articleNum) + ".txt", "r")
             articleUrl = r.readline()
             articleTitle = r.readline()
             articleContents = r.read()

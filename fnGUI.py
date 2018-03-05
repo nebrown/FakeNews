@@ -71,7 +71,7 @@ class Window(QtWidgets.QWidget):
         self.button3.clicked.connect(self.extractSentences)
         self.button4.clicked.connect(self.queryArticles)
         self.button5.clicked.connect(self.urlQuery)
-        self.button6.clicked.connect(self.setCategory)
+        #self.button6.clicked.connect(self.setCategory)
         self.exitButton.clicked.connect(self.closeApp)
 
         self.show()
@@ -94,7 +94,7 @@ class Window(QtWidgets.QWidget):
         lag.SearchArticles(text, category=self.currentCategory)
 
     def queryArticles(self):
-        print("Searching for: " + self.userInput.text() "\nin category " + self.currentCategory)
+        print("Searching for: " + self.userInput.text() + "\nin category " + self.currentCategory)
         lag.SearchArticles(self.userInput.text(), category=currentCategory)
 
     def searchArticles(self):
@@ -112,7 +112,8 @@ class Window(QtWidgets.QWidget):
     def runCorpus(self):
         # run with sitelist
         sitelist = []
-        f = open("./" + self.currentCategory + "./Sitelists/" + self.currentCategory + ".txt", "r")
+        #f = open("./" + self.currentCategory + "./Sitelists/" + self.currentCategory + ".txt", "r")
+        f = open("./Sitelists/" + self.currentCategory + ".txt", "r")
         line=f.readline()
         while line is not "":
             sitelist.append(line[:-1])
