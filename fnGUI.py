@@ -5,6 +5,7 @@ from Update_Corpus import UpdateCorpus
 from RelatedSentenceFinding import SentenceMatching
 import LsiArticleGrouping as lag
 
+
 class Window(QtWidgets.QWidget):
 
     def __init__(self):
@@ -98,6 +99,11 @@ class Window(QtWidgets.QWidget):
         # lag.SearchArticles(self.userInput.text(), category=currentCategory)
         lag.SearchArticles(self.userInput.text())
 
+        # display
+        with open("./Data/Queries/"+self.currentCategory+"/squery.txt", "r") as file:
+            message = file.read()
+        QtWidgets.QMessageBox.about(self, "Most Related Sentences to "+self.userInput.text(), message)
+
     def searchArticles(self):
         self.label2.setText('User has Inputted')
         sender = self.sender()
@@ -105,6 +111,7 @@ class Window(QtWidgets.QWidget):
             print(self.userInput.text())
         if sender.text() == 'Clear':
             self.userInput.clear()
+
 
     def extractSentences(self):
     	#Run the grouping
@@ -126,8 +133,11 @@ class Window(QtWidgets.QWidget):
     def closeApp(self):
         sys.exit()
 
+def main():
+    app = QtWidgets.QApplication(sys.argv)
+    mainWindow = Window()
+    mainWindow.setGeometry(100,100,500,300)
+    sys.exit(app.exec_())
 
-app = QtWidgets.QApplication(sys.argv)
-mainWindow = Window()
-mainWindow.setGeometry(100,100,500,300)
-sys.exit(app.exec_())
+if __name__ == '__main__':
+    main()
