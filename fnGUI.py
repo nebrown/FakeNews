@@ -5,7 +5,6 @@ from Update_Corpus import UpdateCorpus
 from RelatedSentenceFinding import SentenceMatching
 import LsiArticleGrouping as lag
 
-
 class Window(QtWidgets.QWidget):
 
     def __init__(self):
@@ -72,12 +71,12 @@ class Window(QtWidgets.QWidget):
         self.button3.clicked.connect(self.extractSentences)
         self.button4.clicked.connect(self.queryArticles)
         self.button5.clicked.connect(self.urlQuery)
-        #self.button6.clicked.connect(self.setCategory)
+        self.button6.clicked.connect(self.setCategory)
         self.exitButton.clicked.connect(self.closeApp)
 
         self.show()
 
-    def setQuery(self):
+    def setCategory(self):
         # Find sitelist for category
         catSitelist = self.userInput.text() + ".txt"
         for sitelist in os.listdir("./Sitelists"):
@@ -85,7 +84,7 @@ class Window(QtWidgets.QWidget):
             if catSitelist == sitelist:
                 self.currentCategory = self.userInput.text()
                 print("Category set to: " + self.userInput.text())
-                break
+                return
         # If failed to find sitelist for category
         print("Failed to find sitelist for category: " + self.userInput.text())
 
@@ -96,13 +95,7 @@ class Window(QtWidgets.QWidget):
 
     def queryArticles(self):
         print("Searching for: " + self.userInput.text() + "\nin category " + self.currentCategory)
-        # lag.SearchArticles(self.userInput.text(), category=currentCategory)
-        lag.SearchArticles(self.userInput.text())
-
-        # display
-        with open("./Data/Queries/"+self.currentCategory+"/squery.txt", "r") as file:
-            message = file.read()
-        QtWidgets.QMessageBox.about(self, "Most Related Sentences to "+self.userInput.text(), message)
+        lag.SearchArticles(self.userInput.text(), category=currentCategory)
 
     def searchArticles(self):
         self.label2.setText('User has Inputted')
@@ -112,7 +105,6 @@ class Window(QtWidgets.QWidget):
         if sender.text() == 'Clear':
             self.userInput.clear()
 
-
     def extractSentences(self):
     	#Run the grouping
     	lag.GroupArticles(category=self.currentCategory)
@@ -120,7 +112,6 @@ class Window(QtWidgets.QWidget):
     def runCorpus(self):
         # run with sitelist
         sitelist = []
-        #f = open("./" + self.currentCategory + "./Sitelists/" + self.currentCategory + ".txt", "r")
         f = open("./Sitelists/" + self.currentCategory + ".txt", "r")
         line=f.readline()
         while line is not "":
@@ -133,11 +124,8 @@ class Window(QtWidgets.QWidget):
     def closeApp(self):
         sys.exit()
 
-def main():
-    app = QtWidgets.QApplication(sys.argv)
-    mainWindow = Window()
-    mainWindow.setGeometry(100,100,500,300)
-    sys.exit(app.exec_())
 
-if __name__ == '__main__':
-    main()
+app = QtWidgets.QApplication(sys.argv)
+mainWindow = Window()
+mainWindow.setGeometry(100,100,500,300)
+sys.exit(app.exec_())

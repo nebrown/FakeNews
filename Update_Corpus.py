@@ -151,3 +151,73 @@ if __name__ == "__main__":
             line = f.readline()
         f.close()
         UpdateCorpus(sitelist)
+ith fewer than numArticles to read
+                break
+        j += 1;
+
+    #sentences = []
+    #for document in documents:
+    #    sentences.append(re.split('\. |\n|\.\"', document)) #TODO: Handle quotes that end with ."
+
+    #Check if no docs found
+    if len(documents) == 0:
+        print("No articles found.")
+        return
+
+    #List of common words to remove
+    stoplist = set("for a of the and to in cnn npr".split())
+    texts = [[word for word in document.lower().split() if word not in stoplist] for document in documents]
+
+    # Remove words that appear once
+    frequency = defaultdict(int)
+    for text in texts:
+        #print(text)
+        for i in range(len(text)):
+            text[i] = re.sub("[!?,.()\":]", "", text[i])
+            frequency[text[i]] += 1
+        #print(text)
+
+    #texts = [[token for token in text if frequency[token] > 1] for text in texts]
+
+    #pprint(texts)
+
+    if not os.path.exists(docFolder):
+        os.makedirs(docFolder)
+
+    if not os.path.exists("./Data/" + category):
+        os.makedirs("./Data/" + category)
+
+    # Generate dictionary based on text
+    dct = corpora.Dictionary(texts)
+    dct.save("./Data/" + category + "/news.dict")
+
+    # Bring documents into vector space using new dictionary
+    corpus = [dct.doc2bow(text) for text in texts]
+
+    # Get tfidf transform from corpus
+    corpora.MmCorpus.serialize("./Data/" + category + "/news.corp", corpus),
+    tfidf = models.TfidfModel(corpus)
+    tfidf.save("./Data/" + category + "/news.tfidf")
+    tfidfCorpus = tfidf[corpus]
+    corpora.MmCorpus.serialize("./Data/" + category + "/news.mm", tfidfCorpus)
+
+    # Use LSI to get topics
+    lsi = models.LsiModel(tfidfCorpus, id2word=dct, num_topics = 5)
+    lsi.save("./Data/" + category + "/news.lsi")
+    #lsiCorpus = lsi[tfidfCorpus]
+    pprint(lsi.print_topics(5))
+
+if __name__ == "__main__":
+    # Allow for user-defined sites
+    if len(sys.argv) >= 2:
+        UpdateCorpus(sys.argv[1:])
+    # Otherwise use sitelist
+    else:
+        sitelist = []
+        f = open("./sitelist.txt", "r")
+        line = f.readline()
+        while line is not "":
+            sitelist.append(line[:-1])
+            line = f.readline()
+        f.close()
+        UpdateCorpus(sitelist)
