@@ -107,7 +107,7 @@ def UpdateCorpus(siteList, category="All", numArticles=30):
         site = GetDocs(url)
 
         # Download set of articles
-        for i in range(numArticles):
+        for i in range(min(numArticles, site.size())):
             try:
                 site.articles[i].download()
                 site.articles[i].parse()
@@ -130,6 +130,10 @@ def UpdateCorpus(siteList, category="All", numArticles=30):
                 break
         j += 1;
 
+        #Check if no docs found
+    if len(documents) == 0:
+        print("No articles found.")
+        return
     # Filter out words
     texts = RemoveWords(documents)
 
