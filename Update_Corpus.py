@@ -10,6 +10,7 @@ warnings.filterwarnings(action='ignore', category=UserWarning, module='gensim')
 from gensim import corpora, models, similarities
 from collections import defaultdict
 from pprint import pprint
+from nlp import NLPContainer
 
 # sets up directory for data storage
 def SetupDirectory(category="All"):
@@ -91,6 +92,7 @@ def RunNLP(texts):
     pprint(lsi.print_topics(5))
 
 def UpdateCorpus(siteList, category="All", numArticles=30):
+    nlp = NLPContainer()
     # Defines
     documents = []
 
