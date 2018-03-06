@@ -11,90 +11,19 @@ from gensim import corpora, models, similarities
 from collections import defaultdict
 from pprint import pprint
 
-# sets up directory for data storage
-def SetupDirectory(category="All"):
-    # remove any previous data
-    docFolder = "./Data/Docs/" + category +"/"
-    try:
-        if os.path.exists(docFolder):
-            shutil.rmtree(docFolder)
-        # make new dir
-        os.makedirs(docFolder)
-    except PermissionError:
-        print("Windows permission error.")
-        return
-    return docFolder
-
-# builds the site based off of url using newspaper
-def GetDocs(url):
-    print("\nAttempting to pull data from " + url + ". . .")
-    site = newspaper.build(url, is_memo = False)
-    site.clean_memo_cache()
-    print("Site name: " + site.brand)
-    print("Site description: " + site.description)
-    print("Site size: " + str(site.size()))
-    return site
-
-# Saves document from newspaper
-def SaveDocument(folder, url, title,text, index):
-    f = open(folder + str(index) + ".txt", "w")
-    f.write(url + "\n")
-    f.write(title + "\n")
-    f.write(text)
-    f.close()
-
-# Removes unwanted words from documents
-def RemoveWords(documents):
-    # Remove common words
-    stoplist = set("for a of the and to in cnn npr".split())
-    texts = [[word for word in document.lower().split() if word not in stoplist] for document in documents]
-
-    # Remove words that appear once
-    frequency = defaultdict(int)
-    for text in texts:
-        #print(text)
-        for i in range(len(text)):
-            text[i] = re.sub("[!?,.()\":]", "", text[i])
-            frequency[text[i]] += 1
-        #print(text)
-
-    # texts = [[token for token in text if frequency[token] > 1] for text in texts]
-    return texts
-
-# Runs and saves various NLP on texts
-def RunNLP(texts):
-    # Generate dictionary based on text
-    dct = corpora.Dictionary(texts)
-    # dct.save("./Data/" + category + "/news.dict")
-    dct.save("./Data/news.dict")
-
-    # Bring documents into vector space using new dictionary
-    corpus = [dct.doc2bow(text) for text in texts]
-
-    # Get tfidf transform from corpus
-    # corpora.MmCorpus.serialize("./Data/" + category + "/news.corp", corpus),
-    corpora.MmCorpus.serialize("./Data/news.corp", corpus)
-    tfidf = models.TfidfModel(corpus)
-    # tfidf.save("./Data/" + category + "/news.tfidf")
-    tfidf.save("./Data/news.tfidf")
-
-    tfidfCorpus = tfidf[corpus]
-    # corpora.MmCorpus.serialize("./Data/" + category + "/news.mm", tfidfCorpus)
-    corpora.MmCorpus.serialize("./Data/news.mm", tfidfCorpus)
-
-    # Use LSI to get topics
-    lsi = models.LsiModel(tfidfCorpus, id2word=dct, num_topics = 5)
-    # lsi.save("./Data/" + category + "/news.lsi")
-    lsi.save("./Data/news.lsi")
-
-    #lsiCorpus = lsi[tfidfCorpus]
-    pprint(lsi.print_topics(5))
 
 def UpdateCorpus(siteList, category="All", numArticles=30):
     # Defines
     documents = []
-
-    docFolder = SetupDirectory()
+    # Clear previous docs
+    docFolder = "./Data/Docs/" + category + "/"
+    try:
+        if os.path.exists(docFolder):
+            shutil.rmtree(docFolder)
+        os.makedirs(docFolder)
+    except PermissionError:
+        print("Windows permission error.")
+        return
 
     j = 0
     while j < len(siteList):
@@ -102,10 +31,17 @@ def UpdateCorpus(siteList, category="All", numArticles=30):
 
         # Get documents from selected website
         # Connect to site without caching (for testing only)
-        site = GetDocs(url)
+        print("\nAttempting to pull data from " + siteList[j] + ". . .")
+        site = newspaper.build(url, is_memo = False)
+        site.clean_memo_cache()
+        print("Site name: " + site.brand)
+        print("Site description: " + site.description)
+        print("Site size: " + str(site.size()))
+        articlesToPull = min(numArticles, site.size())
 
         # Download set of articles
-        for i in range(numArticles):
+        for i in range(articlesToPull):
+            #Get articles from sitew
             try:
                 site.articles[i].download()
                 site.articles[i].parse()
@@ -114,7 +50,11 @@ def UpdateCorpus(siteList, category="All", numArticles=30):
                     print(str(i) + ": " + site.articles[i].title + "\n", end = "")
                     documents.append(site.articles[i].text)
                     # Save docs
-                    SaveDocument(docFolder, url, site.articles[i].title, site.articles[i].text, len(documents)-1)
+                    f = open(docFolder + str(len(documents)-1) + ".txt", "w")
+                    f.write(url + "\n")
+                    f.write(site.articles[i].title + "\n")
+                    f.write(site.articles[i].text)
+                    f.close()
             except newspaper.article.ArticleException:
                 # Will skip over articles it has trouble pulling
                 continue
@@ -128,12 +68,57 @@ def UpdateCorpus(siteList, category="All", numArticles=30):
                 break
         j += 1;
 
-    # Filter out words
-    texts = RemoveWords(documents)
+    #sentences = []
+    #for document in documents:
+    #    sentences.append(re.split('\. |\n|\.\"', document)) #TODO: Handle quotes that end with ."
 
-    # Run NLP    
-    RunNLP(texts)
-    
+    #Check if no docs found
+    if len(documents) == 0:
+        print("No articles found.")
+        return
+
+    #List of common words to remove
+    stoplist = set("for a of the and to in cnn npr".split())
+    texts = [[word for word in document.lower().split() if word not in stoplist] for document in documents]
+
+    # Remove words that appear once
+    frequency = defaultdict(int)
+    for text in texts:
+        #print(text)
+        for i in range(len(text)):
+            text[i] = re.sub("[!?,.()\":]", "", text[i])
+            frequency[text[i]] += 1
+        #print(text)
+
+    #texts = [[token for token in text if frequency[token] > 1] for text in texts]
+
+    #pprint(texts)
+
+    if not os.path.exists(docFolder):
+        os.makedirs(docFolder)
+
+    if not os.path.exists("./Data/" + category):
+        os.makedirs("./Data/" + category)
+
+    # Generate dictionary based on text
+    dct = corpora.Dictionary(texts)
+    dct.save("./Data/" + category + "/news.dict")
+
+    # Bring documents into vector space using new dictionary
+    corpus = [dct.doc2bow(text) for text in texts]
+
+    # Get tfidf transform from corpus
+    corpora.MmCorpus.serialize("./Data/" + category + "/news.corp", corpus),
+    tfidf = models.TfidfModel(corpus)
+    tfidf.save("./Data/" + category + "/news.tfidf")
+    tfidfCorpus = tfidf[corpus]
+    corpora.MmCorpus.serialize("./Data/" + category + "/news.mm", tfidfCorpus)
+
+    # Use LSI to get topics
+    lsi = models.LsiModel(tfidfCorpus, id2word=dct, num_topics = 5)
+    lsi.save("./Data/" + category + "/news.lsi")
+    #lsiCorpus = lsi[tfidfCorpus]
+    pprint(lsi.print_topics(5))
 
 if __name__ == "__main__":
     # Allow for user-defined sites
