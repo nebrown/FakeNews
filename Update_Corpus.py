@@ -125,7 +125,8 @@ def UpdateCorpus(db, siteList, category="All", numArticles=30):
         url = siteList[j]
         thread = DownloadThread(url, numArticles)
         threads.append(thread)
-        thread.run()
+        thread.start()
+        j++
 
     #Wait for threads to complete
     for thread in threads:

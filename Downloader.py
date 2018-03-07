@@ -9,14 +9,15 @@ class DownloadThread(threading.Thread):
         threading.Thread.__init__(self)
         
         #Form site
-        LockingPrint("\nAttempting to pull data from " + url + ". . .")
+        LockingPrint("\nDownloading from:" + url + ". . .")
         self.site = newspaper.build(url, is_memo = False)
         self.site.clean_memo_cache()
         self.articlesToPull = min(numArticles, self.site.size())
         self.isFinished = False
+        self.url = url
 
     def __str__(self):
-        return str("Downloading from: " + url)
+        return str("Downloading from: " + self.url)
 
     # This is the primary function run when thread is started. Thread closes
     # when this function returns.
@@ -25,7 +26,7 @@ class DownloadThread(threading.Thread):
             self.site.articles[i].download()
             self.site.articles[i].parse()
 
-        LockingPrint("Finished dowloading from: " + url)
+        LockingPrint("Finished dowloading from: " + self.url)
         self.isFinished = True
         return
 
