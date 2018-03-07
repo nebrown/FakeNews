@@ -12,6 +12,7 @@ from collections import defaultdict
 from pprint import pprint
 # from nlp import NLPContainer
 from  DBManager import DBManager
+from Downloader import DownloadThread
 
 # db = DBManager('corpus')
 # db.createTable()
@@ -119,18 +120,31 @@ def UpdateCorpus(db, siteList, category="All", numArticles=30):
     docFolder = SetupDirectory()
 
     j = 0
+    threads = []
     while j < len(siteList):
         url = siteList[j]
+        thread = DownloadThread(url, numArticles)
+        threads.append(thread)
+        thread.run()
+
+    #Wait for threads to complete
+    for thread in threads:
+            thread.join()
+
+
+    j = 0
+    while j < len(siteList):
+        #url = siteList[j]
 
         # Get documents from selected website
         # Connect to site without caching (for testing only)
-        site = GetDocs(url)
+        #site = GetDocs(url)
 
         # Download set of articles
         for i in range(min(numArticles, site.size())):
             try:
-                site.articles[i].download()
-                site.articles[i].parse()
+                #site.articles[i].download()
+                #site.articles[i].parse()
                 # check article has more than 200 characters to filter non-news
                 # Remove double up
                 if (len(site.articles[i].text) > 400):
