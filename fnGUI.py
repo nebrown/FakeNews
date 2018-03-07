@@ -86,16 +86,19 @@ class WindowContent(QtWidgets.QWidget):
     # create features
         #self.button1 = QtWidgets.QPushButton('Search')
         self.button1 = QtWidgets.QPushButton('Collect Articles')
-        self.button2 = QtWidgets.QPushButton('Clear')
+        # self.button2 = QtWidgets.QPushButton('Clear')
         self.button3 = QtWidgets.QPushButton('Aggregate')
         self.button4 = QtWidgets.QPushButton('Search')
         self.button5 = QtWidgets.QPushButton('URL Search')
-        self.button6 = QtWidgets.QPushButton('Set Category')
+        # self.button6 = QtWidgets.QPushButton('Set Category')
         self.exitButton = QtWidgets.QPushButton('Quit')
         self.label1 = QtWidgets.QLabel('Currently looking in Category '+self.currentCategory)
         self.label2 = QtWidgets.QLabel('No User Input')
-        self.userInput = QtWidgets.QLineEdit()
-        self.userInput.setPlaceholderText('Article URL')
+        self.urlInput = QtWidgets.QLineEdit()
+        self.urlInput.setPlaceholderText('Article URL')
+        self.queryInput = QtWidgets.QLineEdit()
+        self.queryInput.setPlaceholderText('Search terms')
+
         self.label1.setText('Currently looking in Category '+self.currentCategory)
 
         self.label1.setAlignment(QtCore.Qt.AlignCenter)
@@ -106,28 +109,33 @@ class WindowContent(QtWidgets.QWidget):
 
         # container for features
         # horizontal
-        inputBox = QtWidgets.QHBoxLayout()
-        #h_box1 = QtWidgets.QHBoxLayout()
+        urlInputBox = QtWidgets.QHBoxLayout()
+        queryInputBox = QtWidgets.QHBoxLayout()
         h_box2 = QtWidgets.QHBoxLayout()
 
-        inputBox.addWidget(self.userInput)
+        urlInputBox.addWidget(self.urlInput)
+        urlInputBox.addWidget(self.button5)
+
+        queryInputBox.addWidget(self.queryInput)
+        queryInputBox.addWidget(self.button4)
 
         #h_box1.addWidget(self.label1)
         #h_box1.addWidget(self.label2)
 
         # h_box2.addWidget(self.button1)
-        h_box2.addWidget(self.button2)
+        # h_box2.addWidget(self.button2)
         h_box2.addWidget(self.button3)
-        h_box2.addWidget(self.button4)
-        h_box2.addWidget(self.button5)
-        h_box2.addWidget(self.button6)
+        #h_box2.addWidget(self.button4)
+        #h_box2.addWidget(self.button5)
+        # h_box2.addWidget(self.button6)
 
         # vertical
         v_box = QtWidgets.QVBoxLayout()
         #v_box.addLayout(h_box1)
         v_box.addWidget(self.button1)
         v_box.addWidget(self.label1)
-        v_box.addLayout(inputBox)
+        v_box.addLayout(urlInputBox)
+        v_box.addLayout(queryInputBox)
         v_box.addLayout(h_box2)
         v_box.addWidget(self.label2)
         v_box.addWidget(self.exitButton)
@@ -139,11 +147,11 @@ class WindowContent(QtWidgets.QWidget):
         # connections for buttons
         #self.button1.clicked.connect(self.searchArticles)
         self.button1.clicked.connect(self.runCorpus)
-        self.button2.clicked.connect(self.searchArticles)
+        # self.button2.clicked.connect(self.searchArticles)
         self.button3.clicked.connect(self.extractSentences)
         self.button4.clicked.connect(self.queryArticles)
         self.button5.clicked.connect(self.urlQuery)
-        self.button6.clicked.connect(self.setCategory)
+        # self.button6.clicked.connect(self.setCategory)
         self.exitButton.clicked.connect(self.closeApp)
 
         # self.show()
@@ -155,11 +163,12 @@ class WindowContent(QtWidgets.QWidget):
             # If found, update category
             if catSitelist == sitelist:
                 self.currentCategory = newCat
+                self.label1.setText('Currently looking in Category '+self.currentCategory)
+                self.label1.update()
                 print("Category set to: " + newCat)
                 return
         # If failed to find sitelist for category
-        self.label1.setText('Currently looking in Category '+self.currentCategory)
-        print("Failed to find sitelist for category: " + self.userInput.text())
+        print("Failed to find sitelist for category: " + newCat)
 
     def setCategory(self):
         # Find sitelist for category
@@ -174,13 +183,13 @@ class WindowContent(QtWidgets.QWidget):
         print("Failed to find sitelist for category: " + self.userInput.text())
 
     def urlQuery(self):
-        print("Searching for related articles to: " + self.userInput.text())
-        text = lag.GetArticleText(self.userInput.text())
+        print("Searching for related articles to: " + self.urlInput.text())
+        text = lag.GetArticleText(self.urlInput.text())
         lag.SearchArticles(text, category=self.currentCategory)
 
     def queryArticles(self):
-        print("Searching for: " + self.userInput.text() + "\nin category " + self.currentCategory)
-        lag.SearchArticles(self.userInput.text(), category=self.currentCategory)
+        print("Searching for: " + self.queryInput.text() + "\nin category " + self.currentCategory)
+        lag.SearchArticles(self.queryInput.text(), category=self.currentCategory)
 
     def searchArticles(self):
         self.label2.setText('User has Inputted')
