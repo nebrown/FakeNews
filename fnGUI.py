@@ -70,9 +70,10 @@ class MainWindow(QtWidgets.QMainWindow):
                         "apply NLP to cluster articles into topics and generates "+\
                         "summaries. Input a search term and press Search to have "+\
                         "the most related and most corroborated sentences returned."+\
-                        "Input a URL and press URL Search for an article to get a list of related articles"
+                        "Input a URL and press URL Search for an article to get a list"+\
+                        " of related articles.\nAny time after aggregating the summaries "+\
+                        "and related articles of the 5 lsi topics can be viewed with the buttons"
 
-        self.helpWindow = TextViewWindow(self.helpText)
 
         # centralize main widget contents
         self.form_widget = WindowContent(self.currentCategory)
@@ -124,8 +125,7 @@ class MainWindow(QtWidgets.QMainWindow):
         QtWidgets.QMessageBox.about(self, "About", self.aboutText)
 
     def Help_trigger(self):
-        QtWidgets.QMessageBox.about(self, "Help", self.helpText)       
-        self.helpWindow.show() 
+        QtWidgets.QMessageBox.about(self, "Help", self.helpText)
 
 
 class WindowContent(QtWidgets.QWidget):
