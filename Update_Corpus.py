@@ -13,8 +13,8 @@ from pprint import pprint
 from nlp import NLPContainer
 from  DBManager import DBManager
 
-db = DBManager('corpus')
-db.createTable()
+# db = DBManager('corpus')
+# db.createTable()
 
 # sets up directory for data storage
 def SetupDirectory(category="All"):
@@ -41,7 +41,7 @@ def GetDocs(url):
     return site
 
 # Saves document from newspaper
-def SaveDocument(folder, url, title,text, index, category="All"):
+def SaveDocument(db, folder, url, title,text, index, category="All"):
     # Store on os
     f = open(folder + str(index) + ".txt", "w")
     f.write(url + "\n")
@@ -50,7 +50,7 @@ def SaveDocument(folder, url, title,text, index, category="All"):
     f.close()
 
     # Store in db
-    db.add((title,text))
+    db.add((title,text, url, category, None, None))
     # db.printAll()
 
 
@@ -111,7 +111,7 @@ def isRepeated(site, curArticleIdx):
 
     return False
 
-def UpdateCorpus(siteList, category="All", numArticles=30):
+def UpdateCorpus(db, siteList, category="All", numArticles=30):
     nlp = NLPContainer()
     # Defines
     documents = []
@@ -139,7 +139,7 @@ def UpdateCorpus(siteList, category="All", numArticles=30):
                         print(str(i) + ": " + site.articles[i].title + "\n", end = "")
                         documents.append(site.articles[i].text)
                         # Save docs
-                        SaveDocument(docFolder, url, site.articles[i].title, site.articles[i].text, len(documents)-1)
+                        SaveDocument(db, docFolder, url, site.articles[i].title, site.articles[i].text, len(documents)-1)
             except newspaper.article.ArticleException:
                 # Will skip over articles it has trouble pulling
                 continue
@@ -159,7 +159,7 @@ def UpdateCorpus(siteList, category="All", numArticles=30):
         return
     # Filter out words
     texts = RemoveWords(documents)
-
+    db.printAll()
     # Run NLP    
     RunNLP(texts)
     

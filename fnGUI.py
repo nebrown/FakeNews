@@ -5,6 +5,7 @@ from PyQt5.QtWidgets import qApp
 from Update_Corpus import UpdateCorpus
 from RelatedSentenceFinding import SentenceMatching
 import LsiArticleGrouping as lag
+from  DBManager import DBManager
 
 class MainWindow(QtWidgets.QMainWindow):
 
@@ -83,6 +84,10 @@ class WindowContent(QtWidgets.QWidget):
             #self.init_ui()
         self.currentCategory = curCat
 
+        #database manager
+        db = DBManager('corpus')
+        db.createTable()
+
     # create features
         #self.button1 = QtWidgets.QPushButton('Search')
         self.button1 = QtWidgets.QPushButton('Collect Articles')
@@ -146,7 +151,7 @@ class WindowContent(QtWidgets.QWidget):
 
         # connections for buttons
         #self.button1.clicked.connect(self.searchArticles)
-        self.button1.clicked.connect(self.runCorpus)
+        self.button1.clicked.connect(lambda: self.runCorpus(db))
         # self.button2.clicked.connect(self.searchArticles)
         self.button3.clicked.connect(self.extractSentences)
         self.button4.clicked.connect(self.queryArticles)
@@ -190,6 +195,10 @@ class WindowContent(QtWidgets.QWidget):
     def queryArticles(self):
         print("Searching for: " + self.queryInput.text() + "\nin category " + self.currentCategory)
         lag.SearchArticles(self.queryInput.text(), category=self.currentCategory)
+        #with open("./Data/"+self.currentCategory+"/Queries/squery.txt", "r") as file:
+        with open("./Data/All/Aggregates/f0.txt", "r") as file:
+            message = file.read()
+        QtWidgets.QMessageBox.about(self, "Most Related Sentences to "+self.queryInput.text(), message)
 
     def searchArticles(self):
         self.label2.setText('User has Inputted')
@@ -209,7 +218,7 @@ class WindowContent(QtWidgets.QWidget):
             QtWidgets.QMessageBox.about(self, "Error", message)
 
 
-    def runCorpus(self):
+    def runCorpus(self, db):
         # run with sitelist
         sitelist = []
         f = open("./Sitelists/" + self.currentCategory + ".txt", "r")
@@ -218,7 +227,7 @@ class WindowContent(QtWidgets.QWidget):
             sitelist.append(line[:-1])
             line=f.readline()
         f.close()
-        UpdateCorpus(sitelist, category=self.currentCategory)
+        UpdateCorpus(db, sitelist, category=self.currentCategory)
         #SentenceMatching()
 
     def closeApp(self):
