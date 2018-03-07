@@ -10,8 +10,6 @@ class DownloadThread(threading.Thread):
         
         #Form site
         LockingPrint("\nDownloading from:" + url + ". . .")
-        self.site = newspaper.build(url, is_memo = False)
-        self.site.clean_memo_cache()
         self.articlesToPull = min(numArticles, self.site.size())
         self.isFinished = False
         self.url = url
@@ -22,6 +20,8 @@ class DownloadThread(threading.Thread):
     # This is the primary function run when thread is started. Thread closes
     # when this function returns.
     def run(self):
+        self.site = newspaper.build(self.url, is_memo = False)
+        self.site.clean_memo_cache()
         for i in range(self.articlesToPull):
             self.site.articles[i].download()
             self.site.articles[i].parse()
