@@ -1,0 +1,36 @@
+Keywords: 0.231*"cohn" + 0.201*"--" + 0.135*"elephants" + 0.116*"trump" + 0.113*"house" + 0.110*"we" + 0.108*"white" + 0.100*"i" + 0.091*"economic" + 0.088*"tariffs"
+
+0, 286, 345.165584549: They do not seem agitated, as has been my experience
+
+1, 164, 344.835983738: Whitfield's search-the-forest work is critical.
+
+2, 221, 344.658274978: And ecosystems not only provide food to people but rainforests like this are an important source of medicines
+
+3, 187, 344.641719587: Pijanowski got his hands on recordings that date back to 2008 and started making his own recordings here in 2010
+
+4, 151, 344.549722008: Her tadpoles hatch on the forest floor, he says, but that's a precarious place for them, so she carries them, on her back, high up into the forest canopy, sometimes 10 to 15 meters off the ground -- about 33 to 50 feet
+
+5, 251, 344.438886061: And, in the view of one prominent biologist, we must set aside half the planet for the benefit of biodiversity and nature.
+
+6, 186, 344.188695654: But this site is special both because the rainforest is nearly untouched -- and because there's so much data
+
+7, 363, 343.706390172: In 1985, the group said, there were as many as 163,452 giraffes.
+
+8, 200, 343.651467703: Pijanowski's team can compress a year's worth of sound into one chart.
+
+9, 109, 343.644456856: "The best way to envision the sixth mass extinction," he told me, "is to look outside and then just imagine that three out of every four of the species that were common out there are gone
+
+10, 172, 343.317176133: "Everybody wanted you to play 'Freebird,'" he said, "so that's what I played -- over and over again
+
+11, 236, 342.976571932: But when you learn about them -- those with translucent bellies, supermom instincts, blue-jean legs and poisonous skin, all of which are calling to be noticed by each other if not by us -- then it's hard to ignore their plight.
+
+12, 320, 342.867051318: Experts like Dame Daphne Sheldrick, who has rescued hundreds of orphaned calves, talks about elephants remembering people years later, and the things that happened to them -- good and bad.
+
+13, 118, 342.703032851: But other extinctions have occurred in pristine rainforests like this -- places that look healthy but the frogs are telling us there's something clearly wrong
+
+14, 237, 342.661713734: There are multiple causes of the amphibian apocalypse, but all the trouble points back to us
+
+Summary:
+And ecosystems not only provide food to people but rainforests like this are an important source of medicines
+Experts like Dame Daphne Sheldrick, who has rescued hundreds of orphaned calves, talks about elephants remembering people years later, and the things that happened to them -- good and bad.
+But other extinctions have occurred in pristine rainforests like this -- places that look healthy but the frogs are telling us there's something clearly wrong

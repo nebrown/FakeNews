@@ -6,6 +6,49 @@ from Update_Corpus import UpdateCorpus
 from RelatedSentenceFinding import SentenceMatching
 import LsiArticleGrouping as lag
 
+class TextViewWindow(QtWidgets.QMainWindow):
+    def __init__(self, text, parent=None):
+        super().__init__(parent)
+
+        self.text = text
+
+        # centralize main widget contents
+        # self.form_widget = TextViewContent(self.text)
+        # self.setCentralWidget(self.form_widget)
+
+        self.textLabel = QtWidgets.QLabel(text)
+        self.textLabel.setWordWrap(True)
+        self.scrollArea = QtWidgets.QScrollArea()
+
+        self.scrollArea.setWidget(self.textLabel)
+        self.setCentralWidget(self.scrollArea)
+
+        # self.text = QtWidgets.QTextEdit(self)
+        self.text = QtWidgets.QLabel(text)
+        self.text.setMinimumSize(800, 800)
+        self.text.setSizePolicy( QtWidgets.QSizePolicy.Expanding,  QtWidgets.QSizePolicy.Expanding)
+
+        # Layout
+        self.layout =  QtWidgets.QGridLayout()
+        self.layout.addWidget(self.textLabel, 0, 0)
+        self.layout.addWidget(self.text, 1, 0)
+        self.layout.setContentsMargins(15, 15, 15, 15)
+        self.layout.setSpacing(5)
+
+        self.setLayout(self.layout)   
+
+        self.setMinimumSize(self.sizeHint())
+
+# class TextViewContent(QtWidgets.QWidget):
+#     def __init__(self, text, parent=None):
+#         super().__init__(parent)
+        # self.textShown = QtWidgets.QLabel()
+
+        # self.scrollArea = QtWidgets.QScrollArea()
+
+        # self.scrollArea.setWidget(self.textShown)
+        # self.setCentralWidget(self.scrollArea)
+
 class MainWindow(QtWidgets.QMainWindow):
 
     def __init__(self, parent=None):
@@ -14,13 +57,21 @@ class MainWindow(QtWidgets.QMainWindow):
 
         #self.init_ui()
         self.currentCategory = "All"
-        self.aboutText = "Fuck off"
+        self.aboutText = "This software was developed by FakeNooz for CMPE 115 at UC Santa Cruz.\n"+\
+                        "Authors:\n"+\
+                        "Noah Brown\n"+\
+                        "Benjamin Swanson\n"+\
+                        "Naylan Adre"+\
+                        "Jack Bauman"+\
+                        "Willliam"
         self.helpText = "To Use:\nFirst run collect articles to pull articles from "+\
                         "all sites listed in sitelist. After that, Aggregate will "+\
                         "apply NLP to cluster articles into topics and generates "+\
                         "summaries. Input a search term and press Search to have "+\
                         "the most related and most corroborated sentences returned."+\
                         "Input a URL and press URL Search for an article to get a list of related articles"
+
+        self.helpWindow = TextViewWindow(self.helpText)
 
         # centralize main widget contents
         self.form_widget = WindowContent(self.currentCategory)
@@ -72,7 +123,8 @@ class MainWindow(QtWidgets.QMainWindow):
         QtWidgets.QMessageBox.about(self, "About", self.aboutText)
 
     def Help_trigger(self):
-        QtWidgets.QMessageBox.about(self, "Help", self.helpText)        
+        QtWidgets.QMessageBox.about(self, "Help", self.helpText)       
+        self.helpWindow.show() 
 
 
 class WindowContent(QtWidgets.QWidget):
@@ -91,6 +143,16 @@ class WindowContent(QtWidgets.QWidget):
         self.button4 = QtWidgets.QPushButton('Search')
         self.button5 = QtWidgets.QPushButton('URL Search')
         self.button6 = QtWidgets.QPushButton('Set Category')
+        self.relatedArticlesButton0 = QtWidgets.QPushButton('Topic 0 Articles')
+        self.relatedArticlesButton1 = QtWidgets.QPushButton('Topic 1 Articles')
+        self.relatedArticlesButton2 = QtWidgets.QPushButton('Topic 2 Articles')
+        self.relatedArticlesButton3 = QtWidgets.QPushButton('Topic 3 Articles')
+        self.relatedArticlesButton4 = QtWidgets.QPushButton('Topic 4 Articles')
+        self.summaryButton0 = QtWidgets.QPushButton('Topic 0 Summary')
+        self.summaryButton1 = QtWidgets.QPushButton('Topic 1 Summary')
+        self.summaryButton2 = QtWidgets.QPushButton('Topic 2 Summary')
+        self.summaryButton3 = QtWidgets.QPushButton('Topic 3 Summary')
+        self.summaryButton4 = QtWidgets.QPushButton('Topic 4 Summary')
         self.exitButton = QtWidgets.QPushButton('Quit')
         self.label1 = QtWidgets.QLabel('Currently looking in Category '+self.currentCategory)
         self.label2 = QtWidgets.QLabel('No User Input')
@@ -109,6 +171,8 @@ class WindowContent(QtWidgets.QWidget):
         inputBox = QtWidgets.QHBoxLayout()
         #h_box1 = QtWidgets.QHBoxLayout()
         h_box2 = QtWidgets.QHBoxLayout()
+        h_box3 = QtWidgets.QHBoxLayout()
+        h_box4 = QtWidgets.QHBoxLayout()
 
         inputBox.addWidget(self.userInput)
 
@@ -122,6 +186,18 @@ class WindowContent(QtWidgets.QWidget):
         h_box2.addWidget(self.button5)
         h_box2.addWidget(self.button6)
 
+        h_box3.addWidget(self.relatedArticlesButton0)
+        h_box3.addWidget(self.relatedArticlesButton1)
+        h_box3.addWidget(self.relatedArticlesButton2)
+        h_box3.addWidget(self.relatedArticlesButton3)
+        h_box3.addWidget(self.relatedArticlesButton4)
+
+        h_box4.addWidget(self.summaryButton0)
+        h_box4.addWidget(self.summaryButton1)
+        h_box4.addWidget(self.summaryButton2)
+        h_box4.addWidget(self.summaryButton3)
+        h_box4.addWidget(self.summaryButton4)
+
         # vertical
         v_box = QtWidgets.QVBoxLayout()
         #v_box.addLayout(h_box1)
@@ -129,6 +205,8 @@ class WindowContent(QtWidgets.QWidget):
         v_box.addWidget(self.label1)
         v_box.addLayout(inputBox)
         v_box.addLayout(h_box2)
+        v_box.addLayout(h_box3)
+        v_box.addLayout(h_box4)
         v_box.addWidget(self.label2)
         v_box.addWidget(self.exitButton)
 
@@ -145,8 +223,41 @@ class WindowContent(QtWidgets.QWidget):
         self.button5.clicked.connect(self.urlQuery)
         self.button6.clicked.connect(self.setCategory)
         self.exitButton.clicked.connect(self.closeApp)
+        self.relatedArticlesButton0.clicked.connect(lambda: self.showArticles(0))
+        self.relatedArticlesButton1.clicked.connect(lambda: self.showArticles(1))
+        self.relatedArticlesButton2.clicked.connect(lambda: self.showArticles(2))
+        self.relatedArticlesButton3.clicked.connect(lambda: self.showArticles(3))
+        self.relatedArticlesButton4.clicked.connect(lambda: self.showArticles(4))
+        self.summaryButton0.clicked.connect(lambda: self.showSummary(0))
+        self.summaryButton1.clicked.connect(lambda: self.showSummary(1))
+        self.summaryButton2.clicked.connect(lambda: self.showSummary(2))
+        self.summaryButton3.clicked.connect(lambda: self.showSummary(3))
+        self.summaryButton4.clicked.connect(lambda: self.showSummary(4))
 
         # self.show()
+
+    def showArticles(self, num):
+        # output
+        out = "Failed"
+        try:
+            with open('./Data/'+self.currentCategory+'/Aggregates/f' + str(num) + '.txt') as file:
+                out = file.read()
+        except FileNotFoundError:
+            return
+        self.outWindow = TextViewWindow(out)
+        self.outWindow.show()
+
+    def showSummary(self, num):
+        # output
+        out = "Failed"
+        try:
+            with open('./Data/'+self.currentCategory+'/Aggregates/s' + str(num) + '.txt') as file:
+                out = file.read()
+        except FileNotFoundError:
+            return
+        self.outWindow = TextViewWindow(out)
+        self.outWindow.show()
+
 
     def changeCategory(self, newCat):
         # Find sitelist for category
@@ -175,12 +286,24 @@ class WindowContent(QtWidgets.QWidget):
 
     def urlQuery(self):
         print("Searching for related articles to: " + self.userInput.text())
-        text = lag.GetArticleText(self.userInput.text())
-        lag.SearchArticles(text, category=self.currentCategory)
+        inText = lag.GetArticleText(self.userInput.text())
+        lag.SearchArticles(inText, category=self.currentCategory)
+        # output
+        out = "Failed"
+        with open('./Data/'+self.currentCategory+'/Queries/f0.txt') as file:
+            out = file.read()
+        self.outWindow = TextViewWindow(out)
+        self.outWindow.show()
 
     def queryArticles(self):
         print("Searching for: " + self.userInput.text() + "\nin category " + self.currentCategory)
         lag.SearchArticles(self.userInput.text(), category=self.currentCategory)
+        # output
+        out = "Failed"
+        with open('./Data/'+self.currentCategory+'/Queries/s0.txt') as file:
+            out = file.read()
+        self.outWindow = TextViewWindow(out)
+        self.outWindow.show()
 
     def searchArticles(self):
         self.label2.setText('User has Inputted')

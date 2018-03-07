@@ -110,13 +110,14 @@ def CreateQueryMetaDocs(query, sortedSims, docFolder, lsi, category="All"):
         wr.close()
         wf.close()
 
-def SentenceExtract(docFolder, sortedSims, lsi, category="All"):
+def SentenceExtract(docFolder, sortedSims, lsi, category="All", isQuery=False):
     for i in range(len(sortedSims)):
         topSentences = SimilarSentences(docFolder + str(i) + ".txt", category)
         # topSentences = SimilarSentences("./Data/Aggregates/" + str(i) + ".txt", category)
         w = open(docFolder + "s" + str(i) + ".txt", "w")
         # w = open("./Data/Aggregates/s" + str(i) + ".txt", "w")
-        w.write("Keywords: " + lsi.print_topic(i) + "\n")
+        if not isQuery:
+            w.write("Keywords: " + lsi.print_topic(i) + "\n")
         topSummary = ""
         for topSen in topSentences:
             w.write("\n" + topSen)
@@ -152,7 +153,14 @@ def SearchArticles(query, category="All"):
     sortedSims = []
     for sim in sims:
         enum = list(enumerate(sim))
-        sortedSims.append(sorted(enum, key=lambda item: -item[1]))
+        sortedSim = sorted(enum, key=lambda item: -item[1])
+
+        for i, article in enumerate(sortedSim):
+            # article[1] = article score
+            if article[1] < .5:
+                sortedSim = sortedSim[:i-1]
+                break
+        sortedSims.append(sortedSim)
     #pprint(sortedSims)
 
     # Pull out top articles
@@ -168,14 +176,16 @@ def SearchArticles(query, category="All"):
     # Create meta-documents
     CreateQueryMetaDocs(query, sortedSims, docFolder, lsi, category=category)
 
-    # Pull out highly relevant sentences
-    for i in range(len(sortedSims)):
-        topSentences = SimilarSentences(docFolder + "0.txt", category)
-        w = open(docFolder + "squery.txt", "w")
-        w.write("Query: " + query + "\n")
-        for topSen in topSentences:
-            w.write("\n" + topSen)
-        w.close()
+    # # Pull out highly relevant sentences
+    # for i in range(len(sortedSims)):
+    #     topSentences = SimilarSentences(docFolder + "0.txt", category)
+    #     w = open(docFolder + "squery.txt", "w")
+    #     w.write("Query: " + query + "\n")
+    #     for topSen in topSentences:
+    #         w.write("\n" + topSen)
+    #     w.close()
+
+    SentenceExtract(docFolder, sortedSims, lsi, category=category, isQuery=True)
 
     print("Search completed.")
 
