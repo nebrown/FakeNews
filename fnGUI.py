@@ -61,8 +61,8 @@ class MainWindow(QtWidgets.QMainWindow):
                         "Authors:\n"+\
                         "Noah Brown\n"+\
                         "Benjamin Swanson\n"+\
-                        "Naylan Adre"+\
-                        "Jack Bauman"+\
+                        "Naylan Adre\n"+\
+                        "Jack Bauman\n"+\
                         "Willliam"
         self.helpText = "To Use:\nFirst run collect articles to pull articles from "+\
                         "all sites listed in sitelist. After that, Aggregate will "+\
