@@ -95,7 +95,7 @@ class Window(QtWidgets.QWidget):
 
     def queryArticles(self):
         print("Searching for: " + self.userInput.text() + "\nin category " + self.currentCategory)
-        lag.SearchArticles(self.userInput.text(), category=currentCategory)
+        lag.SearchArticles(self.userInput.text(), category=self.currentCategory)
 
     def searchArticles(self):
         self.label2.setText('User has Inputted')

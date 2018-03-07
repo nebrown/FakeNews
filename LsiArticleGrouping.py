@@ -16,16 +16,127 @@ def GetArticleText(url):
     article.parse()
     return article.text
 
+# Load all NLP docs from Local storage
+def GetNLPDocs(numTopics, category = "All"):
+    # TODO: check if dct if not make them update corpus, if yes and nothing else
+    # build the rest
+    dct = corpora.Dictionary.load("./Data/" + category + "/news.dict")
+    tfidfCorpus = corpora.MmCorpus("./Data/" + category + "/news.mm")
+    lsi = models.LsiModel(tfidfCorpus, id2word=dct, num_topics = numTopics)
+
+    return dct, tfidfCorpus, lsi
+
+# Creates folder for Aggregate data, clears if needed
+def SetupAggDirectory(category="All"):
+    try:
+        docFolder = "./Data/" + category + "/Aggregates/"
+        if os.path.exists(docFolder):
+            shutil.rmtree(docFolder)
+        os.makedirs(docFolder)
+    except PermissionError:
+        print("Windows permissions error.")
+        return
+    return docFolder
+
+# Creates folder for Query data, clears if needed
+def SetupQueriesDirectory(category="All"):
+    try:
+        docFolder = "./Data/" + category + "/Queries/"
+        if os.path.exists(docFolder):
+            shutil.rmtree(docFolder)
+        os.makedirs(docFolder)
+    except PermissionError:
+        print("Windows permissions error.")
+        return
+    return docFolder
+
+def GetTopics(dct, lsi, numTopics):
+    # Get topic top terms in 
+    lsiTopics = lsi.show_topics(num_topics=numTopics, num_words=100, formatted=False)
+    topics = []
+    for i in range(len(lsiTopics)):
+       topics.append( [(dct.token2id[topic[0]], topic[1]) for topic in lsiTopics[i][1]] )
+    # pprint(topics)
+    return topics
+
+    # Could avoid writing whole text twice
+def CreateMetaDocs(sortedSims, docFolder, lsi, category="All"):
+    numSentences = 25
+    for i in range(len(sortedSims)):
+        # Open folder to write to
+        # wf = open("./Data/Aggregates/" + category + "/f" + str(i) + ".txt", "w")
+        # wr = open("./Data/Aggregates/" + category + "/" + str(i) + ".txt", "w")
+        wf = open(docFolder + "/f" + str(i) + ".txt", "w")
+        wr = open(docFolder + "/" + str(i) + ".txt", "w")
+        wf.write(lsi.print_topic(i))
+        # Get top 10 related articles and write them in
+        for j in range(min(numSentences, len(sortedSims[i]))):
+            articleNum = sortedSims[i][j][0]
+            r = open("./Data/" + category + "/Docs/" + str(articleNum) + ".txt", "r")
+            # r = open("./Data/Docs/" + str(articleNum) + ".txt", "r")
+            articleUrl = r.readline()
+            articleTitle = r.readline()
+            articleContents = r.read()
+            wf.write("\n\n====================================")
+            wf.write("\n" + str(j) + ": " + str(sortedSims[i][j][1]) + "\n")
+            wf.write(articleUrl + articleTitle + articleContents)
+            wr.write("\n" + articleContents + "\n")
+            r.close()
+        wr.close()
+        wf.close()
+
+def CreateQueryMetaDocs(query, sortedSims, docFolder, lsi, category="All"):
+    numSentences = 25
+    for i in range(len(sortedSims)):
+        # Open folder to write to
+        # wf = open("./Data/Queries/" + category + "/f" + str(i) + ".txt", "w")
+        # wr = open("./Data/Queries/" + category + "/" + str(i) + ".txt", "w")
+        wf = open(docFolder + "/f" + str(i) + ".txt", "w")
+        wr = open(docFolder + "/" + str(i) + ".txt", "w")
+        wf.write(query)
+        # Get top 10 related articles and write them in
+        for j in range(min(numSentences, len(sortedSims[i]))):
+            articleNum = sortedSims[i][j][0]
+            r = open("./Data/" + category + "/Docs/" + str(articleNum) + ".txt", "r")
+            # r = open("./Data/Docs/" + str(articleNum) + ".txt", "r")
+            articleUrl = r.readline()
+            articleTitle = r.readline()
+            articleContents = r.read()
+            wf.write("\n\n====================================")
+            wf.write("\n" + str(j) + ": " + str(sortedSims[i][j][1]) + "\n")
+            wf.write(articleUrl + articleTitle + articleContents)
+            wr.write("\n" + articleContents + "\n")
+            r.close()
+        wr.close()
+        wf.close()
+
+def SentenceExtract(docFolder, sortedSims, lsi, category="All"):
+    for i in range(len(sortedSims)):
+        topSentences = SimilarSentences(docFolder + str(i) + ".txt", category)
+        # topSentences = SimilarSentences("./Data/Aggregates/" + str(i) + ".txt", category)
+        w = open(docFolder + "s" + str(i) + ".txt", "w")
+        # w = open("./Data/Aggregates/s" + str(i) + ".txt", "w")
+        w.write("Keywords: " + lsi.print_topic(i) + "\n")
+        topSummary = ""
+        for topSen in topSentences:
+            w.write("\n" + topSen)
+            # Get rid of numbers
+            splitSen = topSen.split(":")
+            topText = ""
+            for sen in splitSen[1:]:
+                topText = topText + sen
+            topSummary = topSummary + " " + topText
+        # Create summary
+        sumText = summarization.summarizer.summarize(topSummary)
+        w.write("\nSummary:\n" + sumText)
+        w.close()
+
 def SearchArticles(query, category="All"):
     totalTopics = 5
     chosenTopics = 5
 
     # Get dictionary, corpus, model
-    dct = corpora.Dictionary.load("./Data/" + category + "/news.dict")
-    tfidfCorpus = corpora.MmCorpus("./Data/" + category + "/news.mm")
-    #lsi = models.LsiModel.load("./Data/" + category + "news.lsi")
-
-    lsi = models.LsiModel(tfidfCorpus, id2word=dct, num_topics = totalTopics)
+    dct, tfidfCorpus, lsi = GetNLPDocs(totalTopics, category=category)
 
     # Perform similarity queries with topic terms
     index = similarities.MatrixSimilarity(lsi[tfidfCorpus])
@@ -51,40 +162,16 @@ def SearchArticles(query, category="All"):
         pprint(sortedSims[i][:10])
 
     # Clear previous meta-docs
-    try:
-        docFolder = "./Data/Queries/" + category + "/"
-        if os.path.exists(docFolder):
-            shutil.rmtree(docFolder)
-        os.makedirs(docFolder)
-    except PermissionError:
-        print("Windows permissions error.")
-        return
+    # Data/Queries/All
+    docFolder = SetupQueriesDirectory(category=category)
 
     # Create meta-documents
-    for i in range(len(sortedSims)):
-        # Open folder to write to
-        wf = open("./Data/Queries/" + category + "/fquery.txt", "w")
-        wr = open("./Data/Queries/" + category + "/query.txt", "w")
-        wf.write(lsi.print_topic(i))
-        # Get top 10 related articles and write them in
-        for j in range(10):
-            articleNum = sortedSims[i][j][0]
-            r = open("./Data/Docs/" + category + "/" + str(articleNum) + ".txt", "r")
-            articleUrl = r.readline()
-            articleTitle = r.readline()
-            articleContents = r.read()
-            wf.write("\n\n====================================")
-            wf.write("\n" + str(j) + ": " + str(sortedSims[i][j][1]) + "\n")
-            wf.write(articleUrl + articleTitle + articleContents)
-            wr.write("\n" + articleContents + "\n")
-            r.close()
-        wr.close()
-        wf.close()
+    CreateQueryMetaDocs(query, sortedSims, docFolder, lsi, category=category)
 
     # Pull out highly relevant sentences
     for i in range(len(sortedSims)):
-        topSentences = SimilarSentences("./Data/Queries/" + category + "/query.txt", category)
-        w = open("./Data/Queries/" + category + "/squery.txt", "w")
+        topSentences = SimilarSentences(docFolder + "0.txt", category)
+        w = open(docFolder + "squery.txt", "w")
         w.write("Query: " + query + "\n")
         for topSen in topSentences:
             w.write("\n" + topSen)
@@ -99,18 +186,10 @@ def GroupArticles(category = "All"):
     numSentences = 25
 
     # Get dictionary, corpus, model
-    dct = corpora.Dictionary.load("./Data/" + category + "/news.dict")
-    tfidfCorpus = corpora.MmCorpus("./Data/" + category + "/news.mm")
-    #lsi = models.LsiModel.load("./Data/news.lsi")
-
-    lsi = models.LsiModel(tfidfCorpus, id2word=dct, num_topics = totalTopics)
+    dct, tfidfCorpus, lsi = GetNLPDocs(totalTopics, category=category)
 
     # Get topic top terms in 
-    lsiTopics = lsi.show_topics(num_topics=chosenTopics, num_words=100, formatted=False)
-    topics = []
-    for i in range(len(lsiTopics)):
-        topics.append( [(dct.token2id[topic[0]], topic[1]) for topic in lsiTopics[i][1]] )
-    #pprint(topics)
+    topics = GetTopics(dct, lsi, chosenTopics)
 
     # Perform similarity queries with topic terms
     index = similarities.MatrixSimilarity(lsi[tfidfCorpus])
@@ -124,7 +203,15 @@ def GroupArticles(category = "All"):
     sortedSims = []
     for sim in sims:
         enum = list(enumerate(sim))
-        sortedSims.append(sorted(enum, key=lambda item: -item[1]))
+        sortedSim = sorted(enum, key=lambda item: -item[1])
+
+        for i, article in enumerate(sortedSim):
+            # article[1] = article score
+            if article[1] < .5:
+                sortedSim = sortedSim[:i-1]
+                break
+
+        sortedSims.append(sortedSim)
     #pprint(sortedSims)
 
     # Pull out top articles
@@ -134,62 +221,19 @@ def GroupArticles(category = "All"):
         pprint(sortedSims[i][:10])
 
     # Clear previous meta-docs
-    try:
-        docFolder = "./Data/Aggregates/" + category + "/"
-        if os.path.exists(docFolder):
-            shutil.rmtree(docFolder)
-        os.makedirs(docFolder)
-    except PermissionError:
-        print("Windows permissions error.")
-        return
+    docFolder = SetupAggDirectory(category=category)
 
     # Create meta-documents
-    for i in range(len(sortedSims)):
-        # Open folder to write to
-        wf = open("./Data/Aggregates/" + category + "/f" + str(i) + ".txt", "w")
-        wr = open("./Data/Aggregates/" + category + "/" + str(i) + ".txt", "w")
-        wf.write(lsi.print_topic(i))
-        # Get top 10 related articles and write them in
-        for j in range(numSentences):
-            articleNum = sortedSims[i][j][0]
-            r = open("./Data/Docs/" + category + "/" + str(articleNum) + ".txt", "r")
-            articleUrl = r.readline()
-            articleTitle = r.readline()
-            articleContents = r.read()
-            wf.write("\n\n====================================")
-            wf.write("\n" + str(j) + ": " + str(sortedSims[i][j][1]) + "\n")
-            wf.write(articleUrl + articleTitle + articleContents)
-            wr.write("\n" + articleContents + "\n")
-            r.close()
-        wr.close()
-        wf.close()
+    CreateMetaDocs(sortedSims, docFolder, lsi, category=category)
 
     # Pull out highly relevant sentences
-    for i in range(len(sortedSims)):
-        topSentences = SimilarSentences("./Data/Aggregates/" + category + "/" + str(i) + ".txt", category)
-        w = open("./Data/Aggregates/" + category + "/s" + str(i) + ".txt", "w")
-        w.write("Keywords: " + lsi.print_topic(i) + "\n")
-        topSummary = ""
-        for topSen in topSentences:
-            w.write("\n" + topSen)
-            # Get rid of numbers
-            splitSen = topSen.split(":")
-            topText = ""
-            for sen in splitSen[1:]:
-                topText = topText + sen
-            topSummary = topSummary + " " + topText
-        # Create summary
-        sumText = summarization.summarizer.summarize(topSummary)
-        w.write("\nSummary:\n" + sumText)
-        w.close()
+    SentenceExtract(docFolder, sortedSims, lsi, category=category)
 
     print("Extraction completed.")
 
 
 def SimilarSentences(aggregatePath, category):
-    dct = corpora.Dictionary.load("./Data/" + category + "/news.dict")
-    tfidfCorpus = corpora.MmCorpus("./Data/" + category + "/news.mm")
-    lsi = models.LsiModel.load("./Data/" + category + "/news.lsi")
+    dct, tfidfCorpus, lsi = GetNLPDocs(5, category=category)
     tfidf = models.TfidfModel(tfidfCorpus)
 
     # Get aggregate document
