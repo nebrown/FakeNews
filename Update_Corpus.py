@@ -10,7 +10,7 @@ warnings.filterwarnings(action='ignore', category=UserWarning, module='gensim')
 from gensim import corpora, models, similarities
 from collections import defaultdict
 from pprint import pprint
-from nlp import NLPContainer
+# from nlp import NLPContainer
 from  DBManager import DBManager
 
 # db = DBManager('corpus')
@@ -112,7 +112,7 @@ def isRepeated(site, curArticleIdx):
     return False
 
 def UpdateCorpus(db, siteList, category="All", numArticles=30):
-    nlp = NLPContainer()
+    # nlp = NLPContainer()
     # Defines
     documents = []
 

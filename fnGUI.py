@@ -3,7 +3,7 @@ import os
 from PyQt5 import (QtWidgets, QtCore)
 from PyQt5.QtWidgets import qApp
 from Update_Corpus import UpdateCorpus
-from RelatedSentenceFinding import SentenceMatching
+# from RelatedSentenceFinding import SentenceMatching
 import LsiArticleGrouping as lag
 from  DBManager import DBManager
 
