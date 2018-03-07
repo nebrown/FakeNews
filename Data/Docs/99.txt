@@ -1,0 +1,25 @@
+https://www.npr.org/sections/national/
+Amazon Acquires Ring, Expanding Reach Into Home Security
+Amazon Acquires Ring, Expanding Reach Into Home Security
+
+Enlarge this image toggle caption Paul Sakuma/AP Paul Sakuma/AP
+
+Amazon really wants to come over to your house. Or at least make it to the front door.
+
+The Seattle-based tech giant announced Tuesday it's made another move into the home security and surveillance business, acquiring Ring, a smart-doorbell maker that streams audio and video to cellphones.
+
+Neither company has released details about the deal but Reuters reported that it cost over $1 billion.
+
+Amazon may have just officially put a ring on Ring, but the relationship between the two started through its Alexa Fund, which funnels money into companies that create new ways to integrate Amazon's voice technology into their products. In June, Ring announced they'd figured out how to connect select devices to work with Alexa on Echo Show and Fire TV.
+
+Ring YouTube
+
+Two months ago Amazon also snapped up Blink, another maker of Wi-Fi-connected security cameras that has recently ventured into the video doorbell industry, according to TechCrunch.
+
+But Amazon is not just leaving it up to other companies to watch what's going on at your front door. In November, it debuted a new home security camera called Cloud Cam that comes with Amazon Key, an app that lets some Amazon Prime members grant service providers — including dog walkers, house cleaners and delivery companies — keyless entry into homes.
+
+The Key app was supposed to be the online retailer's solution to widespread theft of delivery packages that online shoppers have been complaining about. Instead, GeekWire reported customers are creeped out by the technology, worrying that it might be vulnerable to hacking.
+
+Just last week, ZDNet reported Amazon implemented a second fix to a bug that let intruders with fairly simple technology bypass the smart lock.
+
+Still, at $119 the Cloud Cam is much cheaper than Amazon's leading competition, the $199 Google Nest Cam.

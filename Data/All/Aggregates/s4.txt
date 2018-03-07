@@ -1,0 +1,36 @@
+Keywords: 0.198*"inc" + -0.165*"carlson" + 0.128*"facebook" + -0.116*"march" + -0.114*"programme" + -0.108*"—" + -0.104*"miles" + 0.102*"russian" + 0.099*"ads" + -0.093*"teachers"
+
+0, 72, 70.3135364652: The Kremlin has denied having any information about the incident.
+
+1, 7, 70.2076419294: elections
+
+2, 17, 69.8775680661: presidential election, a company representative said.
+
+3, 42, 69.7453517318: In the emails, Broidy calls Tillerson "a tower of Jello" and says the secretary of state "needs to be slammed", the BBC reported.
+
+4, 6, 69.6091125607: President Donald Trump on Friday questioned Facebook Inc's decision to overhaul how it handles paid political advertisements amid investigations into alleged Russian interference in U.S
+
+5, 55, 69.5134958327: Mueller is investigating alleged Russian interference in the US 2016 presidential elections.
+
+6, 48, 69.5109480023: According to the New York Times, Broidy owns a company that has hundreds of millions of dollars in contracts with the UAE.
+
+7, 5, 69.2915820479: Trump dismisses Facebook ads controversy as part of 'Russia hoax' WASHINGTON U.S
+
+8, 47, 69.1210736036: Qatar denied the allegations.
+
+9, 31, 68.9833358526: presidential election, said it plans an election integrity initiative to protect Canada's next vote from cyber threats.
+
+10, 46, 68.9664144218: A spokesman for Broidy told US media that the businessman has "reason to believe" Qatar hacked his emails
+
+11, 11, 68.955914408: Presidential election, Kremlin spokesman Dmitry Peskov said on Friday.
+
+12, 71, 68.8768637478: British Foreign Secretary Boris Johnson said Tuesday that, although it was “too early to speculate” about what happened to Skripal and his daughter, Britain would “respond appropriately and robustly” if the Russian government were found to be responsible, the Press Association reported
+
+13, 40, 68.8557600975: Qatar has repeatedly rejected the allegations as "baseless".
+
+14, 9, 68.7517531216: Kremlin: Russia did not use Facebook adverts to sway U.S
+
+Summary:
+President Donald Trump on Friday questioned Facebook Inc's decision to overhaul how it handles paid political advertisements amid investigations into alleged Russian interference in U.S
+Mueller is investigating alleged Russian interference in the US 2016 presidential elections.
+Presidential election, Kremlin spokesman Dmitry Peskov said on Friday.

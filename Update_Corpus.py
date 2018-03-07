@@ -146,7 +146,7 @@ def UpdateCorpus(db, siteList, category="All", numArticles=30):
             except UnicodeEncodeError:
                 # Will prevent weird characters from stopping execution
                 print("Unicode error in doc " + str(len(documents)))
-                f.close()
+                # f.close()
                 continue
             except IndexError:
                 # Will end reading from sites with fewer than numArticles to read

@@ -1,0 +1,54 @@
+-0.238*"cohn" + -0.187*"--" + 0.144*"immigration" + 0.124*"laws" + 0.124*"enforcement" + 0.117*"moser" + 0.116*"state" + 0.110*"federal" + 0.109*"department" + 0.103*"inc"
+
+====================================
+0: 0.706753
+https://www.foxnews.com
+Trump DOJ sues California over 'interference' with immigration enforcement
+The Trump Justice Department filed a lawsuit Tuesday night against California, saying three recently-passed state laws were deliberately interfering with federal immigration policies.
+
+It marked the latest legal and political confrontation with the nation's most populous state, which the federal government says has repeatedly stood in the way of its plans to step up enforcement actions in the workplace and against criminal aliens.
+
+"The Department of Justice and the Trump Administration are going to fight these unjust, unfair, and unconstitutional policies," Attorney General Jeff Sessions was expected to tell California law enforcement officers on Wednesday. "We are fighting to make your jobs safer and to help you reduce crime in America."
+
+The state's Democratic governor, Jerry Brown, fired back: “At a time of unprecedented political turmoil, Jeff Sessions has come to California to further divide and polarize America. Jeff, these political stunts may be the norm in Washington, but they don’t work here. SAD!!!”
+
+Federal officials are seeking an injunction to immediately block enforcement of the three California laws, each enacted within the past year.
+
+One of those laws offers additional worker protections against federal immigration enforcement actions. Senior Justice Department officials have said it's prevented companies from voluntarily cooperating with Immigration and Customs Enforcement (ICE) officials.
+
+Employers are mandated under the law to demand ICE agents present a warrant or subpoena before entering certain areas of the premises, or when accessing some employee records.
+
+Some companies have complained they've felt torn between trying to comply with seemingly contradictory state and federal statutes, since penalties for non-compliance can be steep from both entities.
+
+Another state law dubbed known by critics as the "sanctuary state" bill protects immigrants without legal residency by limiting state and municipal cooperation with the feds, including what information can be shared about illegal-immigrant inmates.
+
+A third law gives state officials the power to monitor and inspect immigrant detention facilities either run directly by, or contracted through, the U.S. Department of Homeland Security.
+
+The Justice Department has said it's confident the Constitution's Supremacy Clause gives it broad authority to supersede state laws that it says interfere with its immigration enforcement obligations.
+
+Still, state officials in the past have cited the 10th Amendment’s guarantee of states not being compelled to enforce federal laws.
+
+“We’ve seen this B-rated movie before. So we’re not totally surprised,” California Attorney General Xavier Becerra said in response to the new lawsuit.
+
+The Justice Department is also reviewing Oakland Mayor Libby Schaaf's decision to warn of an immigration sweep in advance, which ICE said allowed hundreds of immigrants to escape detention. “Oakland is a city of immigrants. We will continue to exercise our legal right to exist as a sanctuary city. We will continue to inform all residents about their Constitutional rights, and we will continue to support California’s sanctuary status,” the Democratic mayor responded.
+
+ILLEGAL IMMIGRANTS WITH SEX, ROBBERY CONVICTIONS AMONG THOSE WHO EVADED CAPTURE AFTER OAKLAND MAYOR'S WARNING
+
+An estimated 2.5 million immigrants are believed to be in California illegally. In the most recent figures, ICE has reported about 16 percent of its enforcement apprehensions take place in that state.
+
+The latest legal action by the Trump administration is part of an aggressive push to enforce existing immigration laws, with Sessions in previous remarks citing a porous U.S. border with Mexico, and the threat of criminal activity by immigrant gangs.
+
+Federal officials repeatedly have cited the case of Kate Steinle, shot to death by an illegal alien and seven-time felon in San Francisco, one of 35 communities in the state declaring itself a "sanctuary city."
+
+The Justice Department in January threatened California and other states with subpoenas and a loss of grant money for repeatedly failing to respond to requests for immigration compliance under a federal law known as Section 1373.
+
+Federal officials would not say whether other states were at risk of similar lawsuits over their alleged non-compliance with immigration laws.
+
+A coordinated ICE enforcement action last month on businesses in the Los Angeles area netted 212 people arrested for violating federal immigration laws, 88 percent of whom were convicted criminals, officials said.
+
+Fox News' Melissa Chrise, Jake Gibson, Lee Ross and The Associated Press contributed to this report.
+
+====================================
+1: 0.678987
+https://www.huffingtonpost.com
+Progressive Democrat Blasted By Her Own Party Advances In Texas Primary
