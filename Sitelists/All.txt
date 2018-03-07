@@ -7,3 +7,11 @@ https://www.foxnews.com
 https://www.npr.org/sections/national/
 https://www.reuters.com/
 https://www.buzzfeed.com/news
+http://www.drudgereport.com/
+https://www.infowars.com/
+http://www.latimes.com
+https://pilotonline.com/
+https://www.theatlantic.com/latest/
+http://www.people-press.org/
+http://www.breitbart.com
+https://www.usatoday.com
