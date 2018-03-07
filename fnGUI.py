@@ -108,6 +108,7 @@ class WindowContent(QtWidgets.QWidget):
 		sender = self.sender()
 		if sender.text() == 'Search':
 			print(self.userInput.text())
+			QtWidgets.QMessageBox.question(self, 'Results', self.userInput.text(), QtWidgets.QMessageBox.Ok, QtWidgets.QMessageBox.Ok)
 		if sender.text() == 'Clear':
 			self.userInput.clear()
 
