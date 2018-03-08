@@ -159,7 +159,7 @@ def UpdateCorpus(db, siteList, category="All", numArticles=30):
         return
     # Filter out words
     texts = RemoveWords(documents)
-    db.printAll()
+    #db.printAll()
     # Run NLP    
     RunNLP(texts)
     

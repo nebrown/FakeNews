@@ -1,0 +1,85 @@
+https://cnn.com
+Russians released anti-Clinton video game weeks before election
+Russians created an anti-Hillary Clinton video game called "Hilltendo" and tried to make it go viral in the weeks before the 2016 U.S. presidential election, CNN has determined through a review of internet records and computer code.
+
+It's one of the strangest ways yet discovered that Russians tried to influence the American election. But it's indicative of just how creative Russian internet trolls were willing to be.
+
+On the surface, it looks like a silly, Flash-based game of the sort that populated the internet for years. Yet Hilltendo appears to be more sophisticated than that. In fact, it may indicate an intent to zero in on the people who played the game, track their behavior on social media, and hit them later with micro-targeted advertisements, according to several website programmers and cybersecurity experts who viewed the code at CNN's request.
+
+The evidence is embedded in the website's code, internet records, the methodical campaign to make Hilltendo gain popularity online, and a Russian software developer's ties to the Kremlin-linked Internet Research Agency.
+
+Jonathon Morgan, whose company New Knowledge tracks the spread of misinformation online, said the game is an example of how sophisticated and expansive Russian propaganda is and why it's difficult for any one social media platform to solve the problem.
+
+The game consisted of three levels, starting with this one: "Help Hillary delete as many classified emails as possible before she is caught." Players controlled a Hillary Clinton character who sits on a missile and eliminates emails, all while avoiding FBI agents.
+
+The next level asked: "How much money can Hillary get from the Arab states?" At the top of the screen, nations' flags drop money. At the bottom, the Clinton character holds a basket to collect the cash as it falls.
+
+The final level challenged users to "Help Hillary throw the Constitution as far as possible," and it included caricatures of then-President Barack Obama and former President Bill Clinton.
+
+The game's website had Facebook and Google tracking software embedded on it. This software would have made it possible for the game's creators to identify people who played the game and later target them with advertising elsewhere on the Web, including on Facebook, potentially to direct them to disinformation campaigns.
+
+Hilltendo would have been a relatively simple game to build, said Brian Moore, a New York-based developer who built the viral anti-Republican video game "GOP Arcade."
+
+"You could get this out in as quickly as 12 hours. It's a very simple game. They could have found a template to build the game on. The animations are pretty stock. It's not anything too insane," he told CNN. "The art is the hardest part. It's pretty polished."
+
+How CNN made the Russian connection
+
+Hilltendo.com, like any website, is kept online by a computer network with an Internet Protocol address. Many websites can be randomly grouped together on the same IP address -- 17 different websites that have nothing to do with anti-American Russian activity once had the IP address eventually used by Hilltendo.
+
+But records examined by cybersecurity expert Paul Vixie and CNN appear to show that, beginning in May 2016, the hosting company dedicated this IP address to a single client. From that point on, the only new websites assigned to that address were Hilltendo.com, PlayWithHillary.com, and BlackFist.pro. BlackFist.pro has previously been shown to have been run by the Internet Research Agency, the Kremlin-linked corporation indicted by U.S. Justice Department Special Counsel Robert Mueller last month.
+
+Related: In attempt to sow fear, Russian trolls paid for self-defense classes for African Americans
+
+There are further signs of the websites' connections to each other and to Russians. PlayWithHillary.com and Hilltendo.com were registered on the same day: September 9, 2016. Anonymized records of internet traffic obtained by CNN show that both websites were first connected to just hours apart, possibly by the administrator of the sites testing them. Those records were collected by Vixie, one of the world's top experts on Domain Name Server records, the system that serves as the internet's phone book.
+
+It is still theoretically possible that the three websites are unconnected to each other. But Vixie noted that this would be an astounding coincidence: Two different people registering similar domain names on the same day with the same web hosting provider, and assigned the same IP address.
+
+"I don't see that happening," he said.
+
+And there's one more clue on top of that. The identity of the person who registered Hilltendo.com is kept hidden by a corporate proxy -- a common tactic used by everyday people seeking privacy online. But the registration information for PlayWithHillary.com is public. It lists someone named Aleksandr Skripnikov in St. Petersburg, Russia, where the Internet Research Agency is based.
+
+CNN also documented how mentions of "Hilltendo" made their way across the internet.
+
+The game does not appear to have been shared widely on Twitter. Only two dozen or so links to the game were still live on Wednesday. One person who did share the game on Twitter, however, appears to be a Russian software developer living in St. Petersburg with two ties to the Kremlin-backed Internet Research Agency.
+
+The Twitter user @MetalRex101, who self-identified as Ilya Ibragimov, created an account there the month Hilltendo went live. When CNN viewed the account last year, it included only two tweets -- both linking to Hilltendo, both sent just days after the game was released. The @MetalRex101 account has since been suspended. Twitter would not say why it was taken down, but it has purged thousands of Russian accounts tied to U.S. election meddling.
+
+Ibragimov uses the "MetalRex101" identity on various online services, and he lists his job history on the Russian social media platform VKontakte. In 2016, according to his VKontakte profile, Ibragimov worked at Glavset -- a company based in the building where the Internet Research Agency operated: 55 Savushkina Street in St. Petersburg.
+
+In 2014, Ibragimov's VKontakte profile says, he worked at another St. Petersburg firm, Morkov. Morkov is run by Sergey Polozov, according to Polozov's own VKontakte account and Russian company records. Polozov was one of the 13 Russian nationals named in Mueller's indictment of the Internet Research Agency last month.
+
+According to the indictment, Polozov worked for the Internet Research Agency from 2014 to 2016, serving as the manager of its IT department. Part of his role, the indictment claims, was to procure U.S. servers and other computer infrastructure in an attempt to mask the agency's Russian origins.
+
+CNN has reached out to Polozov and Ibragimov for comment.
+
+Efforts to promote the game appear to have been focused primarily on the online image sharing website Imgur. It is the 14th most popular website in the United States, according to the online audience tracker Alexa -- ahead of sites like Pinterest, CNN, and The New York Times.
+
+In September 2016, just days after the Hilltendo.com website was registered, two Imgur accounts, both only weeks old, posted lists of video games to "kill your time." Both of the posts went viral on the platform and were viewed more than 700,000 times; one even made it to Imgur's coveted front page.
+
+The pair's posts have since been removed by the company. But back in September 2016, they were highlighted by Imgur staff in a weekly blog post about the top performing posts on the platform.
+
+CNN reviewed these accounts last fall. Both had telltale signs of sham marketing campaigns.
+
+Months after these posts were made, CNN spoke to several Imgur users who were bothered by them. Daniel Lupton, an actuary in Minnesota, said that when he first saw them he thought, "This doesn't make sense. It feels all fake. It feels manufactured."
+
+In a statement to CNN, Imgur said: "We have been actively investigating how our platform may have been used by foreign actors. We plan to proactively share what we have learned with authorities and investigators." The company said it has not been contacted by Mueller's team or congressional investigators.
+
+A link to the game was also posted to Voat, a platform that markets itself as an alternative to Reddit. There, the game was posted by user "Peter_Hurst." Hurst posted to Voat almost 200 times in the two months between July and September 2016.
+
+Dozens of Hurst's posts linked to articles on DoNotShoot.us and BlackMattersUS.com, two websites CNN confirmed were part of a Russia's effort to interfere in American politics. The account is still on the platform but has not posted since 2016.
+
+On Reddit, a "Peter_Hurst" account also regularly posted links to Internet Research Agency websites, CNN found.
+
+Reddit said the Peter_Hurst account was suspended in 2016 for spam, but did not provide any further details.
+
+In a post on the platform on Monday, Reddit CEO Steve Huffman said that the company is investigating the spread of Russian propaganda on its platform and is cooperating with congressional investigators.
+
+In a statement, U.S. Senator Mark Warner, the ranking member of the Senate Intelligence Committee, which is investigating Russian meddling in the 2016 election, said that he would encourage Reddit and other sites "to take a much closer look at how their platforms and services could be used to manipulate their users' trust and attention."
+
+Hilltendo does not appear to have achieved virality on Facebook or Twitter, perhaps in part because it was not playable on smartphones. It was only available on desktop and laptop computers.
+
+The game is no longer online, but numbers previously displayed on the site claimed the game was played almost 19,000 times.
+
+In the process of investigating the game's origins, CNN downloaded the Hilltendo video game's computer code. We reviewed every line of code and received help from Amanda Rousseau, senior malware researcher at the cybersecurity company Endgame. Buried within the thousands of lines of code were mentions of "kek kek," online slang predominantly used by alt-right trolls to represent laughter.
+
+-- CNN's Tal Yellin and Mary Ilyushina contributed reporting.

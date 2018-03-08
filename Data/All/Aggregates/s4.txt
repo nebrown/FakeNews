@@ -1,0 +1,36 @@
+Keywords: 0.395*"earhart" + 0.300*"bones" + 0.169*"jantz" + 0.166*"amelia" + 0.147*"island" + 0.145*"hoodless" + 0.145*"fly" + 0.131*"noonan" + 0.131*"plane" + 0.126*"nikumaroro"
+
+0, 39, 75.162799269: Yet another one is that the Lockheed Electra crashed on or near Nikumaroro Island, about 400 miles south of Howland, probably as a result of a navigation error
+
+1, 78, 75.1570261493: Even so, Jantz acknowledges that a 2015 study found the techniques employed by Hoodless were "sound and therefore his sex estimate was likely correct
+
+2, 36, 75.1470247805: Three main theories about Earhart's disappearance — arguably the most enduring aviation mystery in history — have been bandied about over the years.
+
+3, 54, 75.1456764862: NPR's Christopher Joyce reported on All Things Considered back in 1998 about a similar but presumably less sophisticated analysis that determined the bones were in fact female.
+
+4, 68, 75.099391222: In 1929 the SS Norwich City, an English steamer, had wrecked off the coast of Gardner Island with the loss of 11 of the vessel's crew of 35
+
+5, 38, 75.0986472443: Another theory has it that Earhart (and possibly Noonan) survived a crash landing and that at least she was taken prisoner by Japanese forces, who were expanding their reach in the region in the lead up to World War II.
+
+6, 14, 75.0874324962: It disputes that the remains found on the eastern Pacific island of Nikumaroro - about 1,800 miles (2,900km) southwest of Hawaii - belonged to a man, as a researcher had determined in 1941.
+
+7, 16, 75.0732302964: Image copyright Getty Images Image caption Earhart was perhaps the most famous woman in the world when she vanished
+
+8, 34, 75.0428701788: There is no shortage of speculation on what became of legendary American aviator Amelia Earhart, who disappeared in 1937 over the Pacific during an attempt to circumnavigate the globe by air.
+
+9, 50, 75.0164044052: Jantz, working with the International Group for Historic Aircraft Recovery (TIGHAR), which has been big into Earhart research for years, ran the measurements taken by Hoodless 80 years ago through Fordisc, "a computer program for estimating sex, ancestry, and stature from skeletal measurements," according to a statement from the University of Tennessee Knoxville.
+
+10, 25, 75.0013846084: A "historical seamstress" was also consulted to analyse her clothing, including "the inseam length and waist circumference of Earhart's trousers".
+
+11, 61, 74.9878235236: To determine the height of the person whose skeletal remains were examined, Jantz compared the ratio of the humerus to the radius, which came out to 0.756
+
+12, 71, 74.9850158542: It might also be true that in 1940 the prevailing theory of Earhart's disappearance was probably the one where her plane ran out of fuel just short of Howland and crashed into the open ocean
+
+13, 9, 74.9612604082: Earhart, her plane, and her navigator vanished without a trace in 1937 over the Pacific Ocean
+
+14, 17, 74.9580171704: A British party exploring the island for habitation in 1940 found a human skull, a woman's shoe, a Navy tool used by her navigator Fred Noonan (who also vanished), and a bottle of the herbal liqueur Benedictine - "something Earhart was known to carry".
+
+Summary:
+Jantz, working with the International Group for Historic Aircraft Recovery (TIGHAR), which has been big into Earhart research for years, ran the measurements taken by Hoodless 80 years ago through Fordisc, "a computer program for estimating sex, ancestry, and stature from skeletal measurements," according to a statement from the University of Tennessee Knoxville.
+It might also be true that in 1940 the prevailing theory of Earhart's disappearance was probably the one where her plane ran out of fuel just short of Howland and crashed into the open ocean
+Earhart, her plane, and her navigator vanished without a trace in 1937 over the Pacific Ocean

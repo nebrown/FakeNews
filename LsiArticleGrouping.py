@@ -271,7 +271,11 @@ def SimilarSentences(aggregatePath, category):
     #pprint(vec_sentence)
 
     # init similarity query from lsi transform of sentences to compare to
-    index = similarities.MatrixSimilarity(lsi[vec_sentence])
+    if len(vec_sentence) > 0:
+        index = similarities.MatrixSimilarity(lsi[vec_sentence])
+    else:
+        topSentences=["No sentences found."]
+        return topSentences
     
     # Get running scores for each sentence
     i = 0
