@@ -310,8 +310,8 @@ class WindowContent(QtWidgets.QWidget):
         self.outWindow.show()
 
     def queryArticles(self):
-        print("Searching for: " + self.userInput.text() + "\nin category " + self.currentCategory)
-        lag.SearchArticles(self.userInput.text(), category=self.currentCategory)
+        print("Searching for: " + self.queryInput.text() + "\nin category " + self.currentCategory)
+        lag.SearchArticles(self.queryInput.text(), category=self.currentCategory)
         # output
         out = "Failed"
         with open('./Data/'+self.currentCategory+'/Queries/s0.txt') as file:

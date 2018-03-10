@@ -112,7 +112,7 @@ def isRepeated(site, curArticleIdx):
 
     return False
 
-def UpdateCorpus(db, siteList, category="All", numArticles=30):
+def UpdateCorpus(db, siteList, category="All", numArticles=5):
     # nlp = NLPContainer()
     # Defines
     documents = []
@@ -135,11 +135,13 @@ def UpdateCorpus(db, siteList, category="All", numArticles=30):
 
     j = 0
     while j < len(siteList):
-        #url = siteList[j]
+        url = siteList[j]
+        site = newspaper.build(url, is_memo = False)
+        site.clean_memo_cache()
 
         # Get documents from selected website
         # Connect to site without caching (for testing only)
-        #site = GetDocs(url)
+        # site = GetDocs(url)
 
         # Download set of articles
         for i in range(min(numArticles, site.size())):
@@ -168,13 +170,18 @@ def UpdateCorpus(db, siteList, category="All", numArticles=30):
                 break
         j += 1;
 
-        #Check if no docs found
+    db.printAll()
+    articles = db.getAll('article')
+    pprint(articles)
+    #Check if no docs found
+    # if len(db.getAll('article')) == 0:
     if len(documents) == 0:
         print("No articles found.")
         return
-    # Filter out words
+    # Filter out words from ram
     texts = RemoveWords(documents)
-    db.printAll()
+    # texts = RemoveWords(db.getAll('article'))
+    # db.printAll()
     # Run NLP    
     RunNLP(texts)
     

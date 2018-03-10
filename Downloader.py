@@ -10,6 +10,10 @@ class DownloadThread(threading.Thread):
         
         #Form site
         LockingPrint("\nDownloading from:" + url + ". . .")
+
+        #setup site
+        self.site = newspaper.build(url, is_memo = False)
+        self.site.clean_memo_cache()
         self.articlesToPull = min(numArticles, self.site.size())
         self.isFinished = False
         self.url = url
