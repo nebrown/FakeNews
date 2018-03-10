@@ -53,9 +53,17 @@ class DBManager:
         result=c.fetchall()
         pprint(result)
 
+    def getAll(self, colName):
+        c=self.conn.cursor()
+        c.execute("SELECT DISTINCT "+colName+" from "+self.tableName)
+        result = c.fetchall()
+        return result
+
 # Test code
 # t = DBManager('test')
 # t.createTable()
-# t.add(('./', 'url', 'title', 'text', 0)
-# t.printAll()
+# t.add(('title', 'article', 'url', 'All', 1, 12))
+# r = t.getAll('article')
+# pprint(r)
+#t.printAll()
 #t.test()
