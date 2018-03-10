@@ -46,6 +46,13 @@ class DBManager:
         score = data[5]
         self.conn.execute("INSERT INTO " + self.tableName + " (title, article, source, category, topicIdx, score) VALUES (?,?,?,?,?,?);", (title, article, source, category, topic, score))
 
+    # return all elements of a specified col
+    def getAll(self, colName):
+        c=self.conn.cursor()
+        c.execute("SELECT DISTINCT "+colName+" FROM "+self.tableName)
+        result = c.fetchall()
+        return result
+
     # dump contents out to terminal
     def printAll(self):
         c=self.conn.cursor()
@@ -56,6 +63,13 @@ class DBManager:
 # Test code
 # t = DBManager('test')
 # t.createTable()
-# t.add(('./', 'url', 'title', 'text', 0)
+# t.add(('title', 'article1', 'url', 'All', None, None))
+# t.add(('title', 'article2', 'url', 'All', None, None))
+# t.add(('title', 'article3', 'url', 'All', None, None))
+# t.add(('title', 'article4', 'url', 'All', None, None))
+# t.add(('title', 'article5', 'url', 'All', None, None))
+# t.add(('title', 'article6', 'url', 'All', None, None))
+# r = t.getAll('article')
+# pprint(r)
 # t.printAll()
 #t.test()

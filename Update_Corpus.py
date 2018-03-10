@@ -58,7 +58,11 @@ def SaveDocument(db, folder, url, title,text, index, category="All"):
 def RemoveWords(documents):
     # Remove common words
     stoplist = set("for a of the and to in cnn npr image copyright \" ".split())
-    texts = [[word for word in document.lower().split() if word not in stoplist] for document in documents]
+    # if not using db
+    # texts = [[word for word in document[0].lower().split() if word not in stoplist] for document in documents]
+
+    # if using db need 0 index cause gets tuple
+    texts = [[word for word in document[0].lower().split() if word not in stoplist] for document in documents]
 
     # Remove words that appear once
     frequency = defaultdict(int)
@@ -153,13 +157,17 @@ def UpdateCorpus(db, siteList, category="All", numArticles=30):
                 break
         j += 1;
 
+    articles = db.getAll('article')
+    # pprint(articles)
         #Check if no docs found
-    if len(documents) == 0:
+    if len(articles) == 0:
+    # if len(documents) == 0:
         print("No articles found.")
         return
     # Filter out words
-    texts = RemoveWords(documents)
-    db.printAll()
+    texts = RemoveWords(articles)
+    # pprint(texts)
+    # db.printAll()
     # Run NLP    
     RunNLP(texts)
     
