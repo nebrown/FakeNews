@@ -1,0 +1,19 @@
+If there are no articles sufficiently related to a topic it can crash grouping and search
+Sentences are sometimes cut off in the summary file esp. at start of quotes
+Summary sentences are not always the most relevant
+Last letter of sitelist is lost of not followed by newline at end
+Occasional windows permission error when attempting to clear directories
+Doesn’t handle bad URLs well
+If there are no articles with better than 0.5 relation, many articles with less than .5 relation can print
+Some articles are downloaded twice and not caught
+Some articles are randomly other languages
+Qwidget setlayout throws a warning
+
+
+
+
+FEATURES
+Date and time of last collection
+Progress bar
+Fully integrate database
+Multithreaded download
