@@ -1,123 +1,27 @@
-0.395*"earhart" + 0.300*"bones" + 0.169*"jantz" + 0.166*"amelia" + 0.147*"island" + 0.145*"hoodless" + 0.145*"fly" + 0.131*"noonan" + 0.131*"plane" + 0.126*"nikumaroro"
+0.325*"snow" + -0.219*"school" + 0.208*"storm" + 0.160*"winds" + -0.152*"bill" + -0.136*"teachers" + -0.130*"florida" + 0.125*"power" + 0.124*"jersey" + -0.115*"parkland"
 
 ====================================
-0: 0.980858
-http://www.bbc.com/news/world/us_and_canada
-In pictures: Amelia Earhart
-US pilot Amelia Earhart was the first woman to fly solo across the Atlantic in 1932, and set a number of other aviation records.
+0: 0.753734
+https://www.buzzfeed.com/new
+Northeastern US hit by second major storm in a week
+It was less than a week ago that a major storm brought damaging winds and flooding rain to much of the northeastern part of the United States.
 
-She disappeared with her navigator, Captain Fred Noonan, in 1937 over the Pacific Ocean during an attempt to fly around the globe.
+Five people died as winds of 80 kilometres an hour brought down power lines, leaving nearly 1.7 million properties without power.
 
-Earhart was born in Kansas in 1897. She started learning to fly some 24 years later.
+A very similar system is now bringing similar winds and widespread snow from Philadelphia through New York, and Boston to Maine.
 
-A crowd cheered as she boarded her single-engine Lockheed Vega airplane in Londonderry, Northern Ireland, for a trip to London on 22 May 1932.
+Some 900,000 homes are already without power and this figure is likely to rise as the storm continues to develop.
 
-Earhart and Noonan first tried to fly around the would in 1924 - their plane is seen here over the Golden Gate Bridge near San Francisco. The trip had to be abandoned after the plane crashed on take-off in Hawaii.
+The combination of strong winds and wet snow has brought down many trees and power lines. One person is reported to have been killed when a tree collapsed in Suffern, New York.
 
-====================================
-1: 0.979962
-http://www.bbc.com/news/world/us_and_canada
-Amelia Earhart: Island bones 'likely' belonged to famed pilot
-Image copyright Getty Images Image caption Researchers used photographs and clothing to determine that the bones match
+Thunderstorms embedded within the low-pressure system increased the intensity of snow to as much as 10 centimetres an hour in New York, New Jersey, Pennsylvania and eastern New York.
 
-Bones discovered on a Pacific island in 1940 "likely" belonged to famed pilot Amelia Earhart, according to a US peer reviewed science journal.
+By the end of Wednesday, some parts of New Jersey and New York were under as much as 60cm of snow.
 
-Earhart, her plane, and her navigator vanished without a trace in 1937 over the Pacific Ocean. Many theories have sought to explain her disappearance.
+Travel disruption has been severe. The heaviest of the snow appears to have fallen along the I-95, causing major delays. Bus services were also suspended by New Jersey Transit on Wednesday, and Amtrak rail services were reduced or suspended.
 
-But a new study published in Forensic Anthropology claims these bones prove she died as an island castaway.
+Around 2,700 flights were cancelled across the country on Wednesday, including several hundred flights from New York's three major airports.
 
-The report claims they are a 99% match, despite an earlier conclusion.
+Coastal flooding may be possible, although the risk is fairly low with the entry into a period of neap tides. In last week's storm, the strongest of the winds coincided with the full moon and spring tides.
 
-The study, titled Amelia Earhart and the Nikumaroro Bones, was first published by the University of Florida and conducted by Professor Richard Jantz from the University of Tennessee.
-
-It disputes that the remains found on the eastern Pacific island of Nikumaroro - about 1,800 miles (2,900km) southwest of Hawaii - belonged to a man, as a researcher had determined in 1941.
-
-Earhart was known to have been near the island when she vanished during her doomed attempt to fly across the globe.
-
-Image copyright Getty Images Image caption Earhart was perhaps the most famous woman in the world when she vanished
-
-A British party exploring the island for habitation in 1940 found a human skull, a woman's shoe, a Navy tool used by her navigator Fred Noonan (who also vanished), and a bottle of the herbal liqueur Benedictine - "something Earhart was known to carry".
-
-"There was suspicion at the time that the bones could be the remains of Amelia Earhart," Dr Jantz wrote in the study.
-
-The party found a total of 13 bones, which were then sent to Fiji to be analysed by Dr D W Hoodless, who concluded that they had belonged to a male.
-
-But Dr Jantz argues that because forensic osteology - the study of bones - was still in its early stages, Dr Hoodless probably reached a wrong conclusion.
-
-"Forensic anthropology was not well developed in the early 20th century," the paper states.
-
-Consulting Dr Hoodless' measurements of the bones, Dr Jantz used Fordisc, a modern computer programme now widely used by forensic anthropologists, to compare them to Earhart's height and body stature.
-
-The bones have unfortunately since been lost, and so cannot be analysed.
-
-But the research team used historical photographs, as well as her pilots and drivers licences, to determine that her body proportions matched the skeletal remains.
-
-A "historical seamstress" was also consulted to analyse her clothing, including "the inseam length and waist circumference of Earhart's trousers".
-
-"This analysis reveals that Earhart is more similar to the Nikumaroro bones than 99% of individuals in a large reference sample," the report states.
-
-The research found the remains belonged to a woman of taller-than-average European descent, as Earhart was.
-
-"This strongly supports the conclusion that the Nikumaroro bones belonged to Amelia Earhart."
-
-"Until definitive evidence is presented that the remains are not those of Amelia Earhart," Dr Jantz writes in the paper, "the most convincing argument is that they are hers."
-
-Earhart was the first woman to fly across the Atlantic Ocean, and was considered one of the most famous women in the world when the mystery of her disappearance began.
-
-She is still frequently honoured as a pioneer of women's empowerment, and was recently chosen by Mattel to be depicted as a Barbie doll.
-
-====================================
-2: 0.972825
-https://www.npr.org/sections/national/
-New Research Claims Bones Found 80 Years Ago On Pacific Atoll Likely Amelia Earhart's
-New Research Claims Bones Found 80 Years Ago On Pacific Atoll Likely Amelia Earhart's
-
-Enlarge this image toggle caption AP AP
-
-There is no shortage of speculation on what became of legendary American aviator Amelia Earhart, who disappeared in 1937 over the Pacific during an attempt to circumnavigate the globe by air.
-
-Now, Richard Jantz, a researcher affiliated with the University of Tennessee, has reexamined data from bones found three years after Earhart vanished on a remote atoll and determined they very likely belonged to her.
-
-Three main theories about Earhart's disappearance — arguably the most enduring aviation mystery in history — have been bandied about over the years.
-
-The first (and simplest) is that Earhart and navigator Fred Noonan, flying their Lockheed Electra 10E, simply ran out of fuel and crashed into the vast Pacific Ocean short of Howland Island, where they were expected to land.
-
-Another theory has it that Earhart (and possibly Noonan) survived a crash landing and that at least she was taken prisoner by Japanese forces, who were expanding their reach in the region in the lead up to World War II.
-
-Yet another one is that the Lockheed Electra crashed on or near Nikumaroro Island, about 400 miles south of Howland, probably as a result of a navigation error. Nikumaroro (then known as Gardener Island), is a tiny coral ring that is part of the current day Republic of Kirabati.
-
-It is this last theory that the new analysis by Jantz, a professor emeritus of anthropology and director emeritus of UT's Forensic Anthropology Center, supports.
-
-He took a closer look at data gathered in 1940 from skeletal remains recovered by a British expedition to Nikumaroro. The British found a human skull, humeri and radii (both arm bones), a tibia and fibula from the lower leg and two femurs (thigh bones). The bones were sent to Fiji, where they were examined and measured in 1941 by physician D.W. Hoodless.
-
-History Did Amelia Earhart Survive Plane Crash? Newly Discovered Photo Offers Clues Did Amelia Earhart Survive Plane Crash? Newly Discovered Photo Offers Clues Listen · 3:45 3:45
-
-But the bones themselves are long gone. After Hoodless examined them, and determining them to be from a stocky, European male, they disappeared. The assumption is that either he or someone else in Fiji discarded them.
-
-Jantz, working with the International Group for Historic Aircraft Recovery (TIGHAR), which has been big into Earhart research for years, ran the measurements taken by Hoodless 80 years ago through Fordisc, "a computer program for estimating sex, ancestry, and stature from skeletal measurements," according to a statement from the University of Tennessee Knoxville.
-
-The analysis "found that Hoodless had incorrectly determined the sex of the remains. [Fordisc], co-created by Jantz, is used by nearly every board-certified forensic anthropologist in the US and around the world."
-
-"The data revealed that the bones have more similarity to Earhart than to 99 percent of individuals in a large reference sample," the statement said.
-
-NPR's Christopher Joyce reported on All Things Considered back in 1998 about a similar but presumably less sophisticated analysis that determined the bones were in fact female.
-
-"Hoodless had 13 bones to work with, including the skull and some long bones from the legs and arms," Christopher reported at the time. "His conclusion, was that the bones belonged to a European, but a European male," and that they were about 5'6" — shorter than Earhart's 5'9".
-
-Using "scaleable objects" in photos of Earhart and examination of the inseam of some of her trousers found in archives, Jantz and another forensic analyst, Jeff Glickman, determined that Earhart was a bit shorter than that — 5'7" or 5'8". Her pilot's license also apparently lists Earhart as 5'7". In photographs of Earhart and Noonan, he stands several inches taller than her.
-
-Enlarge this image toggle caption Topical Press Agency/Getty Images Topical Press Agency/Getty Images
-
-To determine the height of the person whose skeletal remains were examined, Jantz compared the ratio of the humerus to the radius, which came out to 0.756. The average for a mid-20th century female was 0.73, but Earhart was a bit taller than average. From the photo analysis, Glickman says Earhart's ratio should have been 0.76.
-
-However, that all depends on a few things: Were the measurements taken by Hoodless accurate? (And if, as we speculate, Hoodless didn't know the potential historical import of the remains, how carefully were they taken?). And how accurate was the photo analysis? Even a small variation might put the calculations off.
-
-If we still had the bones, that might clear things up. So, why would Hoodless have thrown them out?
-
-In 1929 the SS Norwich City, an English steamer, had wrecked off the coast of Gardner Island with the loss of 11 of the vessel's crew of 35. Hoodless might have thought he was looking at remains from that shipwreck. (Jantz says he's ruled out the remains in his analysis could be any of the shipwrecked sailors).
-
-It might also be true that in 1940 the prevailing theory of Earhart's disappearance was probably the one where her plane ran out of fuel just short of Howland and crashed into the open ocean. In any case, that was the official explanation being offered by the U.S. government. This would seem to give further weight to the notion that Hoodless probably did not think he was looking at anything of historical import.
-
-"When Hoodless conducted his analysis, forensic osteology was not yet a well-developed discipline," Jantz explains in the published research in the journal Forensic Anthropology. "Evaluating his methods with reference to modern data and methods suggests that they were inadequate to his task; this is particularly the case with his sexing method. Therefore his sex assessment of the Nikumaroro bones cannot be assumed to be correct."
-
-Even so, Jantz acknowledges that a 2015 study found the techniques employed by Hoodless were "sound and therefore his sex estimate was likely correct."
+The snow is expected to continue moving northeastwards on Thursday, across Maine, into New Brunswick and Nova Scotia in Canada, before easing on Friday.

@@ -1,36 +1,36 @@
-Keywords: 0.376*"tariffs" + 0.304*"trade" + 0.183*"steel" + 0.161*"aluminum" + 0.131*"countries" + -0.131*"police" + 0.118*"mexico" + 0.117*"canada" + -0.111*"women" + -0.101*"skripal"
+Keywords: -0.366*"earhart" + -0.181*"bones" + -0.176*"fly" + -0.164*"her" + -0.164*"amelia" + 0.158*"daca" + -0.141*"island" + -0.136*"noonan" + -0.136*"plane" + 0.135*"immigration"
 
-0, 326, 349.553426683: To head off the damaging tariffs, the groups have been seeking the support of lawmakers who aren't from farm states, and working with governors like Arkansas' Asa Hutchinson to declare Agricultural Trade Awareness days.
+0, 422, 552.085490271: Trump tax cuts on individual and corporate income,” Freeman wrote.
 
-1, 79, 349.289229095: Skip Twitter post by @realDonaldTrump Looking forward to 3:30 P.M
+1, 405, 547.44049748: 23 feature, headlined, “Get to Know the New Tax Code While Filling Out This Year's 1040,” sought to detail how Trump’s tax plan would hurt middle-class families
 
-2, 64, 349.19093594: Benchmark prices for US-made steel have climbed 5% over the past week to the highest level in nearly six years, according to S&P Global Platts.
+2, 287, 546.593263574: Sherrod Brown, D-Ohio, I introduced the bipartisan United States Foreign Investment Review Act late last year
 
-3, 320, 349.159456313: The trade deal may have hurt some US manufacturers, but it was a boon to the agriculture sector, which has become highly mechanized and is therefore less dependent on cheap labor than products like cars, for example.
+3, 118, 545.048784398: SAD!!!” said Brown.
 
-4, 204, 349.031172305: “Now, importantly, in addition to that, there is language that will allow other countries to effectively propose ways that they could get a similar dispensation in exchange for more fair and reciprocal trade with the United States.”
+4, 321, 544.187544905: Following the critics' narrative that the White House is in continued chaos, Trump denied the criticism as "fake news", saying on Twitter that "people will always come & go.
 
-5, 246, 348.935456574: Last year it exported nearly three-quarters of the 371,000 cars it built there, making it the biggest car exporter in the United States.
+5, 557, 543.089666206: President Donald Trump signed the 2018 National Defense Authorization Act in December
 
-6, 124, 348.871822953: Prices will go up
+6, 407, 542.966861621: Then came the correction saying the family would actually see taxes go down.
 
-7, 135, 348.837832242: But don't discount the amount of goods and services the United States does export -- $2.3 trillion worth.
+7, 417, 540.384793311: Freeman pointed to University of Chicago tax law professor Daniel Hemel, who said Times editors still don’t understand Trump’s tax cuts.
 
-8, 321, 348.678509504: Two separate lobbying groups, Americans for Farmers & Families and Farmers for Free Trade, which is co-chaired by retired senators Dick Lugar and Max Baucus, have formed in the past few months to advocate for preserving NAFTA.
+8, 411, 537.374079615: Well, The Times did reconsider -- but it may still not be 100 percent accurate.
 
-9, 302, 348.63419804: Should China choose to impose duties on those exports, US farmers could be forced to cut prices in order to attract another buyer for their supply.
+9, 418, 536.659929514: “Still don’t see why Samuel & Felicity aren’t claiming nonrefundable dependent credits of $500 for their children Luke & Heidi and their parent Sydney, for additional tax savings of $1,500 under the new law,” Hemel recently tweeted.
 
-10, 112, 348.503744513: Members of Mr Trump's Republican party are concerned too, with House Speaker Paul Ryan saying he wanted to see tariffs that were "more surgical and more targeted".
+10, 381, 536.355450828: But the only credible review of former President George W
 
-11, 184, 348.473258108: "He's already indicated a degree of flexibility, I think a very sensible, very balanced degree of flexibility," Commerce Secretary Wilbur Ross told CNBC
+11, 322, 535.048395813: "I want strong dialogue before making a final decision
 
-12, 154, 348.45348528: It added $127 billion to its holdings last year and now owns more than $1 trillion in U.S
+12, 334, 535.047385188: Cohn voiced his gratitude to the president in a statement issued by the White House.
 
-13, 330, 348.448793113: That will create more favorable treatment for agricultural products like potatoes within the bloc, according to the USDA, disadvantaging US growers.
+13, 415, 533.206695497: The accounting error in The Times’ original piece is quite significant for the family, which reported a combined income of $183,911
 
-14, 8, 348.319059074: The White House has suggested that other countries could also get special treatment.
+14, 326, 532.668151848: Wrong! People will always come & go, and I want strong dialogue before making a final decision
 
 Summary:
-To head off the damaging tariffs, the groups have been seeking the support of lawmakers who aren't from farm states, and working with governors like Arkansas' Asa Hutchinson to declare Agricultural Trade Awareness days.
-Benchmark prices for US-made steel have climbed 5% over the past week to the highest level in nearly six years, according to S&P Global Platts.
-Last year it exported nearly three-quarters of the 371,000 cars it built there, making it the biggest car exporter in the United States.
+Following the critics' narrative that the White House is in continued chaos, Trump denied the criticism as "fake news", saying on Twitter that "people will always come & go.
+Freeman pointed to University of Chicago tax law professor Daniel Hemel, who said Times editors still don’t understand Trump’s tax cuts.
+People will always come & go, and I want strong dialogue before making a final decision

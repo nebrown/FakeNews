@@ -1,36 +1,36 @@
-Keywords: 0.686*"de" + 0.371*"la" + 0.202*"el" + 0.189*"por" + 0.179*"en" + 0.175*"millones" + 0.163*"y" + 0.129*"que" + 0.121*"un" + 0.101*"ciento"
+Keywords: 0.267*"steel" + 0.219*"trade" + 0.184*"tariffs" + 0.172*"aluminum" + 0.087*"daca" + 0.081*"trump" + 0.081*"immigration" + 0.081*"american" + 0.079*"percent" + 0.076*"dreamers"
 
-0, 45, 51.9948800206: * El peso interbancario ganó un 0,20 por ciento, a 20,35/20,37 por dólar, luego de marcar un mínimo intradiario récord de 20,45 unidades en la primera parte de la operatoria
+0, 49, 440.505219422: The new Fake News narrative is that there is CHAOS in the White House
 
-1, 20, 51.9948029518: WASHINGTON, 8 mar (Reuters) - Las exportaciones de soja estadounidenses enfrentarán una mayor competencia de Brasil, uno de los principales productores globales de la oleaginosa, mientras que las existencias finales de maíz de Estados Unidos serán menores a lo anticipado en 2017/2018, dijo el jueves la agencia gubernamental USDA.
+1, 229, 439.235188782: The Commerce Department told President Trump in December that it did.
 
-2, 44, 51.9947354198: “Se calcula que hoy (jueves) tuvo que vender (el banco central) alrededor de 100 millones de dólares para poder demostrar que está decidido a que no desborde la demanda del precio de 20,40 pesos máximo”, dijo Fernando Izzo, analista de ABC Mercado de Cambios.
+2, 113, 438.865154147: Sasse said Trump made a lot of promises on the campaign trail, but once he got into the White House he was advised toward positions that are better for the country long-term.
 
-3, 11, 51.9945366383: Como consecuencia de la sequía, la Bolsa ha reducido en reiteradas oportunidades sus cálculos para la cosecha de soja y maíz, cuyas estimaciones iniciales habían sido de 54 millones y 41 millones de toneladas respectivamente, lo que a su vez ha impulsado a los valores de los futuros en el mercado de Chicago.
+3, 45, 438.636559248: Following the critics' narrative that the White House is in continued chaos, Trump denied the criticism as "fake news", saying on Twitter that "people will always come & go.
 
-4, 49, 51.9944495559: * El índice bursátil Merval de Buenos Aires ganó un 0,23 por ciento, a un cierre provisorio de 32.819,78 unidades, con altibajos intradiarios propios de un recorte de liquidez.
+4, 58, 438.482146963: Cohn voiced his gratitude to the president in a statement issued by the White House.
 
-5, 16, 51.9944148064: A su vez, la Bolsa dijo que, debido a la más reciente ausencia de lluvias en las provincias del norte del país, podría realizar más recortes en las estimaciones de cosecha de la soja y el maíz
+5, 329, 437.734445129: "Without the United States, it doesn't serve that purpose," said Edward Alden, senior fellow at the Council on Foreign Relations
 
-6, 36, 51.9943689108: Las preocupaciones de una eventual guerra comercial de Estados Unidos por la imposición de aranceles a determinadas importaciones y la movilidad del peso soberano en la zona de sus mínimos históricos, son dos condicionantes a la hora de negociarse los activos argentinos, dijeron operadores.
+6, 286, 437.177989736: Why is Mr Trump doing this?
 
-7, 34, 51.994325757: BUENOS AIRES, 8 mar (Reuters) - La bolsa de Argentina retomaba el jueves la tendencia alcista tras absorber fácilmente una toma de utilidades en la víspera, aunque predominaba la prudencia inversora con una lenta llegada de liquidez por los síntomas de aversión al riesgo global y la debilidad de la moneda local.
+7, 300, 437.087143615: Members of Mr Trump's Republican party are concerned too, with House Speaker Paul Ryan saying he wanted to see tariffs that were "more surgical and more targeted".
 
-8, 22, 51.994301796: Además, la agencia redujo su estimación para la cosecha de soja argentina en 7 millones de toneladas y recortó la previsión para la producción de maíz argentina en 3 millones de toneladas, debido a las condiciones de clima seco que han afectado el rendimiento de los cultivos.
+8, 285, 436.877856538: Both countries knew the president was not "messing around in this", he added.
 
-9, 6, 51.9942827821: ** El directorio de Telecom Argentina ratificó la distribución anticipada de un dividendo por 5.640,7 millones de pesos, agregó la empresa en una nota a Bolsas y Mercados Argentinos (BYMA).
+9, 155, 436.606157869: But the only credible review of former President George W
 
-10, 13, 51.9942353368: Con respecto al maíz, la entidad señaló que muchos lotes sembrados de manera tardía atraviesan fases clave de desarrollo con condiciones de humedad inadecuadas.
+10, 280, 436.472703397: Despite opposition at home and abroad, Ms Sanders said the US president would sign the measures in by the end of the week.
 
-11, 37, 51.9942063689: ** El gigante argentino grupo Pampa Energía dijo el jueves que contabilizó una utilidad de 3.382 millones de pesos en 2017 (unos 181,3 millones de dólares), sin brindar datos comparativos.
+11, 383, 436.182134092: Another 12 percent said they did not view him favourably or unfavourably.
 
-12, 40, 51.9941316843: ** Al cierre de la ronda, las acciones de la empresa subieron un 1,29 por ciento a 50,95 pesos por unidad.
+12, 29, 435.198416092: weekly jobless claims are at the lowest level since 1969 and consumer confidence is at its highest level since November 2000.
 
-13, 33, 51.9941198826: La cosecha de soja de Brasil, en tanto, subiría a 113 millones de toneladas y su producción de maíz llegaría a 94,5 millones de toneladas, añadió.
+13, 40, 434.744036287: Cohn is expected to leave in a matter of weeks, the White House has confirmed on Tuesday.
 
-14, 15, 51.9941174984: Hasta el miércoles, los productores habían recolectado el 6,5 por ciento del área cosechable de los 5,4 millones de hectáreas que se sembraron con maíz de uso comercial, según el informe de la entidad.
+14, 220, 434.024923801: The good times would be over
 
 Summary:
-WASHINGTON, 8 mar (Reuters) - Las exportaciones de soja estadounidenses enfrentarán una mayor competencia de Brasil, uno de los principales productores globales de la oleaginosa, mientras que las existencias finales de maíz de Estados Unidos serán menores a lo anticipado en 2017/2018, dijo el jueves la agencia gubernamental USDA.
-Como consecuencia de la sequía, la Bolsa ha reducido en reiteradas oportunidades sus cálculos para la cosecha de soja y maíz, cuyas estimaciones iniciales habían sido de 54 millones y 41 millones de toneladas respectivamente, lo que a su vez ha impulsado a los valores de los futuros en el mercado de Chicago.
-Además, la agencia redujo su estimación para la cosecha de soja argentina en 7 millones de toneladas y recortó la previsión para la producción de maíz argentina en 3 millones de toneladas, debido a las condiciones de clima seco que han afectado el rendimiento de los cultivos.
+Sasse said Trump made a lot of promises on the campaign trail, but once he got into the White House he was advised toward positions that are better for the country long-term.
+Following the critics' narrative that the White House is in continued chaos, Trump denied the criticism as "fake news", saying on Twitter that "people will always come & go.
+Cohn voiced his gratitude to the president in a statement issued by the White House.
