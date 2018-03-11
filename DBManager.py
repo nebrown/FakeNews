@@ -17,10 +17,10 @@ class DBManager:
     # initializes db connection on init
     def __init__(self, dbName):
         # self.dbName = dbNam
-        try:
-            os.remove(dbName+'.db')
-        except OSError:
-            pass
+        # try:
+        #     os.remove(dbName+'.db')
+        # except OSError:
+        #     pass
         self.conn = sqlite3.connect(dbName+'.db', detect_types=sqlite3.PARSE_DECLTYPES|sqlite3.PARSE_COLNAMES)
 
     # Creates the database to store articles
@@ -53,6 +53,14 @@ class DBManager:
         result = c.fetchall()
         return result
 
+    # returns an article with id number from param
+    def getID(self, id):
+        # db is one indexed. add one to execute
+        c = self.conn.cursor()
+        c.execute("SELECT title, article, source, category FROM "+self.tableName+" WHERE id="+str(id +1))
+        result = c.fetchall()
+        return result[0]
+
     # dump contents out to terminal
     def printAll(self):
         c=self.conn.cursor()
@@ -69,7 +77,8 @@ class DBManager:
 # t.add(('title', 'article4', 'url', 'All', None, None))
 # t.add(('title', 'article5', 'url', 'All', None, None))
 # t.add(('title', 'article6', 'url', 'All', None, None))
-# r = t.getAll('article')
+# r = t.getID(2)
+# print(r[0][0])
 # pprint(r)
 # t.printAll()
 #t.test()

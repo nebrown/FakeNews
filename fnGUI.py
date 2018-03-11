@@ -171,6 +171,9 @@ class WindowContent(QtWidgets.QWidget):
 
         self.label1.setAlignment(QtCore.Qt.AlignCenter)
 
+        buttonStyle = "background-color: red"
+        self.button1.setStyleSheet(buttonStyle)
+
         # feature placement
         #label1.move(180,100)
         #button1.move(180,150)
@@ -232,7 +235,7 @@ class WindowContent(QtWidgets.QWidget):
         #self.button1.clicked.connect(self.searchArticles)
         self.button1.clicked.connect(lambda: self.runCorpus(db))
         # self.button2.clicked.connect(self.searchArticles)
-        self.button3.clicked.connect(self.extractSentences)
+        self.button3.clicked.connect(lambda: self.extractSentences(db))
         self.button4.clicked.connect(self.queryArticles)
         self.button5.clicked.connect(self.urlQuery)
         # self.button6.clicked.connect(self.setCategory)
@@ -327,11 +330,11 @@ class WindowContent(QtWidgets.QWidget):
         if sender.text() == 'Clear':
             self.userInput.clear()
 
-    def extractSentences(self):
+    def extractSentences(self, db):
         # make sure doc directory exists first
         if os.path.exists("./Data/"+self.currentCategory+"/Docs/"):
            #Run the grouping
-           lag.GroupArticles(category=self.currentCategory)
+           lag.GroupArticles(db, category=self.currentCategory)
         else:
             message = "Please run Colect Articles before Extracting Sentences"
             QtWidgets.QMessageBox.about(self, "Error", message)

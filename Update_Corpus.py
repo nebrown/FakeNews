@@ -43,11 +43,11 @@ def GetDocs(url):
 # Saves document from newspaper
 def SaveDocument(db, folder, url, title,text, index, category="All"):
     # Store on os
-    f = open(folder + str(index) + ".txt", "w")
-    f.write(url + "\n")
-    f.write(title + "\n")
-    f.write(text)
-    f.close()
+    # f = open(folder + str(index) + ".txt", "w")
+    # f.write(url + "\n")
+    # f.write(title + "\n")
+    # f.write(text)
+    # f.close()
 
     # Store in db
     db.add((title,text, url, category, None, None))
