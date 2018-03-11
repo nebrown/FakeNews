@@ -137,7 +137,7 @@ def UpdateCorpus(db, siteList, category="All", numArticles=30):
 
     j = 0
     while j < len(siteList):
-        #url = siteList[j]
+        url = siteList[j]
 
         # Get documents from selected website
         # Connect to site without caching (for testing only)
