@@ -3,12 +3,13 @@ import threading
 
 printingLock = threading.Lock()
 
+
 class DownloadThread(threading.Thread):
 
     def __init__(self, url, numArticles):
         threading.Thread.__init__(self)
-        
-        #Form site
+
+        # Form site
         LockingPrint("\nDownloading from:" + url + ". . .")
         self.isFinished = False
         self.url = url
@@ -21,10 +22,10 @@ class DownloadThread(threading.Thread):
     # This is the primary function run when thread is started. Thread closes
     # when this function returns.
     def run(self):
-        self.site = newspaper.build(self.url, is_memo = False)
+        self.site = newspaper.build(self.url, is_memo=False)
         self.articlesToPull = min(self.numArticles, self.site.size())
         self.site.clean_memo_cache()
-        
+
         for i in range(self.articlesToPull):
             try:
                 self.site.articles[i].download()
@@ -43,7 +44,9 @@ class DownloadThread(threading.Thread):
     def GetSite(self):
         return self.site
 
-# Acquires lock, prints, then releases lock. Prevents prints from happenning simultaneously.
+
+# Acquires lock, prints, then releases lock. Prevents
+# prints from happenning simultaneously.
 def LockingPrint(string):
     printingLock.acquire()
     print(string)
