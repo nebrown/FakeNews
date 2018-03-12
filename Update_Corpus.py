@@ -2,16 +2,15 @@ import sys
 import os
 import re
 import newspaper
+# suppress windows chunksize warning
+import warnings
+import shutil
+warnings.filterwarnings(action='ignore', category=UserWarning, module='gensim')
 from gensim import corpora, models, similarities
 from collections import defaultdict
 from pprint import pprint
 from DBManager import DBManager
 from Downloader import DownloadThread
-# suppress windows chunksize warning
-import warnings
-# import OutputToFile as otf
-import shutil
-warnings.filterwarnings(action='ignore', category=UserWarning, module='gensim')
 
 # db = DBManager('corpus')
 # db.createTable()
