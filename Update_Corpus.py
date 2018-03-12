@@ -129,7 +129,7 @@ def UpdateCorpus(db, siteList, category="All", numArticles=30):
     # Defines
     documents = []
 
-    docFolder = SetupDirectory()
+    docFolder = SetupDirectory(category=category)
 
     j = 0
     threads = []
@@ -193,7 +193,7 @@ def UpdateCorpus(db, siteList, category="All", numArticles=30):
     # pprint(texts)
     # db.printAll()
     # Run NLP    
-    RunNLP(texts)
+    RunNLP(texts, category=category)
     
 if __name__ == "__main__":
     # Allow for user-defined sites
