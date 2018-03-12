@@ -66,7 +66,7 @@ class MainWindow(QtWidgets.QMainWindow):
                         "Benjamin Swanson\n"+\
                         "Naylan Adre\n"+\
                         "Jack Bauman\n"+\
-                        "Willliam"
+                        "William"
         self.helpText = "To Use:\nFirst run collect articles to pull articles from "+\
                         "all sites listed in sitelist. After that, Aggregate will "+\
                         "apply NLP to cluster articles into topics and generates "+\
@@ -92,9 +92,11 @@ class MainWindow(QtWidgets.QMainWindow):
         #     action = QtWidgets.QAction('{}'.format(i), self)
         #     actions.append(action)
         catActionAll = QtWidgets.QAction('All', self)
-        catActionPol = QtWidgets.QAction('Politics', self)
+        catActionPol = QtWidgets.QAction('US Politics', self)
+        catActionTech = QtWidgets.QAction('Technology', self)
         actions.append(catActionAll)
         actions.append(catActionPol)
+        actions.append(catActionTech)
 
         # Cat_actionGroup = QtWidgets.QActionGroup(self)
         # Cat_actionGroup.addAction(QtWidgets.QAction('All', self))
@@ -115,6 +117,7 @@ class MainWindow(QtWidgets.QMainWindow):
         help_action.triggered.connect(self.Help_trigger)
         catActionAll.triggered.connect(lambda: self.SelectCat_trigger('All', db))
         catActionPol.triggered.connect(lambda: self.SelectCat_trigger('US_Politics', db))
+        catActionTech.triggered.connect(lambda: self.SelectCat_trigger('Technology', db))
         about_action.triggered.connect(self.About_trigger)
 
         self.setStyleSheet(open("style.qss", "r").read())

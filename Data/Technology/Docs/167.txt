@@ -1,0 +1,50 @@
+https://www.technewsworld.com/
+Amazon Buys Ring to Make Homes, Deliveries More Secure
+
+
+ALL EC Ecommerce Exchange
+
+Looking for ecommerce software or service providers for your online business? Search and compare vendors by specialty and location. Choose the best solutions to help your business grow and succeed.
+
+Put ALL EC to work for you today!
+
+Amazon has agreed to buy smart doorbell maker Ring for US$1 billion, the companies disclosed this week. Ring last summer added an Alexa skill that allows Ring users to use the Echo Show to see and hear visitors at the front door.
+
+The deal means Ring will be able to further its "mission to reduce crime in neighborhoods by providing effective yet affordable home security tools to our neighbors that make a positive impact on our homes, our communities and the world," Ring said in a statement provided to the E-Commerce Times by company rep Meredith Chiricosta.
+
+The Ring acquisition is Amazon's latest step to secure deliveries to homes and businesses through the use of smart tech.
+
+Amazon last fall launched Amazon Key, a service to allow indoor package delivery to customers who are not at home. It requires the purchase of a US$249 Amazon Key Home Kit, which includes the Amazon Cloud Cam and smart locks from Yale or Kwikset. Users can monitor deliveries remotely in real time or view recordings stored in the cloud.
+
+Amazon acquired Blink, a maker of wireless home security cameras and video doorbells, late last year. Also, Nest was folded back into Google earlier this month.
+
+Grocery Deliveries
+
+Securing deliveries is a critical component to advance Amazon's assault on the grocery market.
+
+Amazon last month announced a new perk for Prime members: free two-hour grocery delivery for customers who buy $35 or more in groceries from Whole Foods. The rollout began in Dallas and Austin, Texas; Virginia Beach, Virginia; and Cincinnati. The company plans to expand the service to additional U.S. cities this year.
+
+Rival Walmart last fall announced it had partnered with local delivery service Deliv and smart lock maker August Home on a pilot program that not only would allow delivery of groceries inside your home, but also allow a delivery person to put perishables in your refrigerator.
+
+August and Deliv earlier this year announced plans to open the service to other retail partners under the name "August Access." The system is also compatible with Yale lock products.
+
+Walmart unit Sam's Club just this week entered a deal with Instacart for home delivery of groceries and other goods. It will operate initially in Dallas-Ft. Worth and Austin, Texas, as well as in St. Louis. Nationwide expansion is planned throughout the year.
+
+Cloud Cam
+
+The Ring acquisition is certain to heat up the competition between the Amazon Echo and Google Home smart speaker lines. The Echo features Amazon's Alexa artificial intelligence software, while the Home uses the Google Assistant AI tech to control connected home devices.
+
+Amazon dominates the category with about 69 percent market share, or 31 million units sold, according to Consumer Intelligence Research Partners, while Google Home controls about 31 percent of the market, with 14 million units. Google Home has been growing quickly, though, having accounted for 40 percent of smart speaker units sold during the last holiday shopping season.
+
+Security Threats
+
+Internet of Things devices, particularly smart cameras, have been shown to be vulnerable to hack attacks.
+
+Consumers need to be on guard whenever using this type of connected device, cautioned Andrew Howard, chief technology officer at Kudelski Security.
+
+"Ring, like many Internet of Things devices, provides a greater user and security experience for its users, but smarter and more feature-rich devices often mean enhanced security concerns," he told the E-Commerce Times. "Fundamentally, these devices track, store and share more data than the average user understands."
+
+Threats against these type of devices change often, Howard noted, so consumers need to be aware of the kind of information they expose to these systems and understand the potential ramifications if the technology is compromised.
+
+David Jones is a freelance writer based in Essex County, New Jersey. He has written for Reuters, Bloomberg, Crain's New York Business and The New York Times.
+

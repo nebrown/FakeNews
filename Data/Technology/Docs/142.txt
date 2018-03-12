@@ -1,0 +1,60 @@
+https://www.technewsworld.com/
+NICE Alliance Aims to Get Smart Cameras to Play Well Together
+
+
+Jamf Now is a device management solution for the iPad, iPhone and Mac devices at work. We make management tasks simple and affordable, so you can support your users; no IT required. Create your free account!
+
+Sony Semiconductor Solutions, Nikon, Foxconn, Scenera and Wistron have formed an alliance to create standards that allow surveillance and IP cameras to play well with each other.
+
+The NICE Alliance, unveiled Monday, aims to create a new smart camera ecosystem, along the lines of the mobile ecosystems that have become so familiar. The "NICE" acronym stands for "Network of Intelligent Camera Ecosystem." The idea is to create a shared set of standards that will allow cameras to communicate with each other and with services in the cloud.
+
+Such standards could spur developers to create more applications for cameras and encourage more service providers to set up shop in the cloud, catering to storage and management of camera data.
+
+"Smart cameras aren't equipped with the ecosystem that smartphones have," explained David Lee, CEO of Scenera.
+
+"If someone buys a camera, there are no standardized apps for it," he told TechNewsWorld.
+
+Better Data Sharing
+
+By enabling the development of mass-compatible devices, the alliance aims to revitalize the smart camera market, lowering barriers to entry for manufacturers, application developers and service providers.
+
+"The companies involved have the smarts and stature needed to blend technological and manufacturing innovations," said Charles King, principal analyst at Pund-IT.
+
+"If it delivers what its members promise, NICE could have a significant impact on future intelligent camera markets and use cases," he told TechNewsWorld.
+
+The alliance aims to design standards with the future of both hardware and software in mind. One of its goals is to provide the future market with a lot of flexibility and adaptability that will be valuable to everyone in the ecosystem. NICE aims to facilitate full vertical integration and horizontal interoperability.
+
+"We believe NICE will provide the end-to-end open platform that enables innovative intelligent services by harmonizing multiple smart cameras and cloud resources," said Satoshi Yoshihara, senior general manager for Sony Semiconductor Solutions' sensing solutions business. "We envision that everyone can enjoy smarter features more quickly and easily leverage cutting-edge camera and sensing technologies."
+
+On-Camera AI
+
+The NICE standards also will include a specification for cameras capturing scene-based images or video streams containing an abundance of information. The spec will allow the data to be properly scene marked, indexed, made thumbnail-searchable and securely stored in the cloud, ready for instantaneous analytic solutions.
+
+"Any time you have standards around data types, it's beneficial," said Bob O'Donnell, chief analyst at Technalysis Research.
+
+"This is going to matter, because more and more people want to have data types that can be leveraged across different kinds of applications," he told TechNewsWorld.
+
+The alliance's standards will also include an application programming interface that will reduce the complexity of the data entering the cloud.
+
+"Consumers will benefit from cloud-ready artificial intelligence analytics on their cameras guaranteeing advanced security and data privacy," noted Wistron CTO Donald Hwang.
+
+Camera-generated images long have been associated with classic big data challenges and potential, said Pund-IT's King.
+
+"The volumes of information are simply too large to be effectively scanned, analyzed, cataloged and secured by human workers," he explained. "AI analytics should be helpful in planning and completing those tasks, while ensuring the security and privacy of digital information."
+
+Will It Catch On?
+
+Although the surveillance and IP camera space has been growing, and the notion of a common platform to unify that space has potential, it remains to be seen if the companies in the alliance have the clout to make it happen.
+
+"Are these the right guys to get this done?" wondered Ross Rubin, principal analyst at Reticle Research.
+
+"It's much more likely to come from one of the major platform providers targeting the Internet of Things, like Microsoft or Google," he told TechNewsWorld.
+
+"While smart cameras are affordable, they're just not good platforms. You can't write applications for them for face detection or build a two-way chat capability that's not vendor-specific," Rubin argued.
+
+"Any platform that tries to enable smart cameras to do those things is going to have to compete with open source platforms like Android, as well as proprietary platforms like Nest, Ring and other companies," he pointed out.
+
+"If they can get a leader in the market to buy in, then they might get the momentum they need," Rubin suggested, "but if the marketplace leaders don't sign on, it's going to be a challenge."
+
+John P. Mello Jr. has been an ECT News Network reporter since 2003. His areas of focus include cybersecurity, IT issues, privacy, e-commerce, social media, artificial intelligence, big data and consumer electronics. He has written and edited for numerous publications, including the Boston Business Journal, the Boston Phoenix, Megapixel.Net and Government Security News. Email John.
+

@@ -1,0 +1,47 @@
+https://www.cnet.com/news/
+'Hold the World' features David Attenborough in VR
+Bear with me. This is going to get a little complicated.
+
+I'm at London's Natural History Museum and I'm watching famed naturalist Sir David Attenborough as he watches himself on a screen meeting himself in virtual reality. I don't know which Attenborough to focus on.
+
+"Heavens above! Wow! Whoops!" exclaims what I think is the real Attenborough. "It really is breathtakingly beautiful!" says the familiar voice as he gazes at a fossil coming to life.
+
+The meta-meta-meta experience -- think of it as a mash-up of Attenborough and "Inception," a sort-of Attenboroughception -- is part of "Hold the World," Attenborough's latest made by Europe's biggest broadcaster Sky. In it, he guides us through some of the museum's most important fossils, including stegosaurus and pterosaur bones. Sure, it sounds like a prehistoric murder mystery, but that's part of the appeal. The interactive educational experience lets you get as close to hands-on as possible with some of the world's most delicate artefacts.
+
+Google, HTC, Microsoft and other tech companies have been selling virtual reality headsets for the last three or so years. The kit immerse you in a 360-degree world. More often than not, however, the content made for these devices is games.
+
+Now, that's starting to change and an increasing number of educational experiences, such as "Hold the World," are being made. These include similar experiences by the BBC.
+
+In "Hold the World," Attenborough, a British broadcaster most famous for his BBC "Life" series, serves as your personal guide backstage at the museum. He lets you study a blue whale, a trilobite, a dragonfly and a number of other formerly alive objects from the museum's collection, weaving a factual narrative about their existence. The VR sets the experience apart from other nature documentaries not only because you are backstage at the museum, but because you can pick the VR objects up, hold them and enlarge what you're looking at. Then, you're transported out of the museum into a blue void where they're brought to life at scale.
+
+"This is a way of getting to know an object in a way that has only been the privileged right or possibility of distinguished scientists," Attenborough said at the launch event on Tuesday evening.
+
+The premise is deceptively simple. Making the film, however, was incredibly complex. The items, some of which are too fragile to touch with human hands, had to be scanned. Attenborough flew to Seattle where he was recorded in a Microsoft studio by more than 100 cameras. He described the experience as "surreal," relating a story of how his wispy hair had to be flattened down for the recording. Watching it back also held some revelations.
+
+"If you work in the television business you are used to seeing yourself," he said. "But I was not all that familiar with the back of my neck."
+
+Sky
+
+When I try it out for myself I'm impressed by what feels like genuine eye contact with Attenborough. It almost feels rude to look away and cast my eyes around at the room.
+
+Unfortunately my first instinct whenever I'm inside VR is to look for opportunities to make mischief. I pick up the whale skeleton and pop it on top of my head so I'm wearing it like a hat. I bang it against the table and it makes a satisfying thwack. The VR Attenborough doesn't judge, but I'm pretty sure the real one might.
+
+"Hold the World" is an engaging piece of VR that seamlessly takes you from intimate to epic and back while teaching you about natural history. Just as with his TV shows, there's something about Attenborough's style of presenting that makes education feel all pleasure and no chore. The "magic moments" in the void, especially when the blue whale skeleton comes to life, instill a true appreciation that these now-inanimate objects were once living, breathing, moving creatures.
+
+The VR has some limitations. For example, you would ideally be able to get up and move around the museum yourself rather than jump from one room to another. When you understand the great technological effort it took to make this experience you can appreciate why that's not possible. But if you came to the experience fresh, it might feel restricting.
+
+VR vs IRL
+
+Unfortunately for Sky, the flashy bash it threw to show off the experience also rather stole the spotlight away from the VR.
+
+It turns out when you can experience the real Sir David in the real Natural History Museum underneath the real skeleton of the blue whale that appears in the film, the VR version won't have quite the same impact. With the grand architecture carefully mood lit and everyone's favorite natural history presenter telling jokes in real time -- "I must say, I look rather better there than I do here," he quipped about his virtual self -- the evening felt heightened and multi-sensory in a way VR simply can't replicate.
+
+Katie Collins/CNET
+
+If you don't have the real-life version to compare it to, of course, the VR experience might feel different. But the likelihood for most people is they won't have access to either.
+
+"Hold the World" will be available exclusively to Sky customers and is only viewable on high-end VR kit. Financially this presents a high barrier to entry for the content. This is fairly standard and usually wouldn't be an issue worth complaining about, but the Natural History Museum is a publicly funded institution and this particular film isn't exactly democratising access.
+
+On the other hand, it was expensive to make and we can now be sure that we have David Attenborough preserved in VR for all of time. Future generations may very well thank Sky for this.
+
+In the meantime, Sky customers signed up to its VIP program will be able to experience "Hold the World" for themselves when the company relaunches its VR app this April. The app will be available on Google Daydream View, Samsung Gear VR and Oculus Rift, with Microsoft mixed reality compatibility coming later this year.

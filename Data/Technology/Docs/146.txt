@@ -1,0 +1,58 @@
+https://www.technewsworld.com/
+Fileless Malware: Why You Should Care
+
+
+Tech Industry Events and Webinars
+
+Find upcoming e-commerce and technology conferences, trade shows, workshops and webinars. Visit ALL EC Events today.
+
+It's a truism that just like organizations adapt, so too do criminals. For example, anyone who has ever seen a Wells Fargo commercial knows that there was a time when stagecoaches were a normative method for transporting cash and valuables. But what modern criminals in their right mind would attempt robbing a Brink's truck on horseback? While that strategy might have worked well in the days of the Pony Express, attempting it in now would be out of touch and inefficient.
+
+This is an intentionally extreme example to make a point: Criminals adapt to keep pace in the same way that organizations adapt. With a veritable renaissance in technology use under way, criminals have been advancing their methods of attack just like organizations have been advancing their methods for conducting business.
+
+One of the more recent developments in attacker tradecraft is so-called "fileless malware." This trend -- which emerged a few years ago but gained significant prominence in late 2016 and throughout 2017 -- refers to malware that is designed specifically and architected to not require -- or in fact interact with at all -- the filesystem of the host on which it runs.
+
+It is important for technology pros to be alert to this, because it impacts them in several different ways.
+
+First, it alters what they should watch for when analyzing attacker activity. Because fileless malware has different characteristics from traditional malware, it requires looking for different indicators.
+
+Second, it impacts how practitioners plan and execute their response to a malware situation. One of the reasons attackers employ this method is that it circumvents many of the techniques that typically are employed to mitigate attacks.
+
+However, there are some things practitioners can and should do to keep their organizations protected.
+
+What Is It?
+
+Also sometimes referred to as "non-malware," fileless malware leverages on-system tools such as PowerShell, macros (e.g. in Word), Windows Management Instrumentation (i.e., the apparatus in Windows designed for telemetry gathering and operations management), or other on-system scripting functionality to propagate, execute and perform whatever tasks it was developed to perform.
+
+Because these tools are so powerful and flexible on a modern operating system, malware that employs them can do most of what traditional malware can do -- from snooping on user behavior to data collection and exfiltration, to cryptocurrency mining, or pretty much anything else that an attacker might want to do to forward an infiltration campaign.
+
+By design, an attacker employing this technique will refrain from writing information to the filesystem. Why? Because the primary defense strategy for detecting malicious code is file scanning.
+
+Think about how a typical malware detection tool works: It will look through all files on the host -- or a subset of important files -- searching out malware signatures against a known list. By keeping clear of the filesystem, fileless malware leaves nothing to detect. That gives an attacker a potentially much longer "dwell time" in an environment before detection. It's an effective strategy.
+
+Now, fileless malware is by no means entirely new. Folks might remember specific malware (e.g., the Melissa virus in 1999) that caused plenty of disruption while interacting only minimally, if at all, with the filesystem.
+
+What is different now is that attackers specifically and deliberately employ these techniques as an evasion strategy. As one might expect, given its efficacy, use of fileless malware is on the rise.
+
+Fileless attacks are more likely to be successful than file-based attacks by an order of magnitude (literally 10 times more likely), according to the 2017 "State of Endpoint Security Risk" report from Ponemon. The ratio of fileless to file-based attacks grew in 2017 and is forecasted to continue to do grow this year.
+
+Prevention Strategies
+
+There are a few direct impacts that organizations should account for as a result of this trend.
+
+First, there is the impact on the methods used to detect malware. There is also, by extension, an impact on how organizations might collect and preserve evidence in an investigation context. Specifically, since there are no files to collect and preserve, it complicates the usual technique of capturing the contents of the filesystem and preserving them in "digital amber" for courtroom or law enforcement purposes.
+
+Despite these complexities, organizations can take steps to insulate themselves from many fileless attacks.
+
+First is patching and maintaining a hardened endpoint. Yes, this is frequently offered advice, but it is valuable not only to combat fileless malware attacks, but also for a host of other reasons -- my point being, it's important.
+
+Another piece of commonly offered advice is to get the most from the malware detection and prevention software that already is in place. For example, many endpoint protection products have a behavior-based detection capability that can be enabled optionally. Turning it on is a useful starting point if you have not already done so.
+
+Thinking more strategically, another useful item to put in the hopper is to take a systematic approach to locking down the mechanisms used by this malware and increasing visibility into its operation. For example, PowerShell 5 includes expanded and enhanced logging capabilities that can give the security team greater visibility into how it's being used.
+
+In fact, "script block logging" keeps a record of what code is executed (i.e., executed commands), which can be used both to support detective capability and to maintain a record for use in subsequent analysis and investigation.
+
+Of course, there are other avenues that an attacker might leverage beyond PowerShell -- but thinking it through ahead of time -- investing the time to know what you're up against and to plan accordingly -- is a good starting point.
+
+Ed Moyle is Director of Thought Leadership and Research for ISACA. His extensive background in computer security includes experience in forensics, application penetration testing, information security audit and secure solutions development.
+

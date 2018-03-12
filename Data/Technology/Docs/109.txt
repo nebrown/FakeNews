@@ -1,0 +1,41 @@
+http://money.cnn.com/technology/
+Mark Warner: The country is 'woefully unprepared' for cyber threats
+Whether it's an attack on the banking infrastructure or disinformation campaigns on social media, the United States is "woefully unprepared" to combat cyber attacks and disinformation campaigns, Senator Mark Warner said on Saturday.
+
+Speaking at the SXSW festival, Warner said it's time to consider the liability of tech platforms and software makers.
+
+Warner, the top Democrat on the Senate Select Intelligence Committee, outlined a four-part "cyberdoctrine," actions the government could take to address cybersecurity threats.
+
+He suggested the establishment of basic rules for cyber aggressions, like those in place for nuclear weapons. Warner also called for using the government's purchasing power to force tech product makers to adopt security standards, and said the United States should reallocate some defense resources into the cyber domain.
+
+"One of the things I want to do is bring together parliamentarians of all the Western nations that have been attacked," he said. "The West ought to start seeing if we can get some commonality," around cybersecurity efforts.
+
+Related: Facebook to use postcards in anti-election meddling effort
+
+Cybersecurity is not a partisan issue, Warner said, adding that Republicans and Democrats understand the threats posed by cyber attacks and disinformation campaigns.
+
+Tech companies aren't doing enough to combat abuse of their platforms for disinformation, Warner said. But he didn't go so far as to support government regulation.
+
+"If we can do this in a collaborative fashion, I think it would be a better route, but I think Americans' patience is starting to run thin," Warner said.
+
+The Russia threat
+
+The Senate Intelligence Committee continues to investigate how Russian hackers interfered in the 2016 election, including the use of Facebook, Twitter and other social platforms to spread fake information and manipulate public opinion.
+
+But Warner said disinformation efforts began long before the presidential election.
+
+"As far back as 2011, I think Russia realized they weren't going to out-purchase the US in terms of tanks and airplanes, so they had to figure out a way to wage asymmetrical conflict," he said.
+
+US intelligence agencies have blamed Russia for extensive disinformation campaigns on social media.
+
+Facebook (FB) has estimated that false ads were seen by about 11 million people, while content from accounts linked to a Russian troll group reached an estimated 150 million people on Facebook and Instagram.
+
+Related: How the Russians did it
+
+Special Counsel Robert Mueller indicted 13 Russians and the Internet Research Agency, a Kremlin-linked troll group, for offenses related to their alleged interference in the American political system and the 2016 presidential election.
+
+Facebook has made some efforts to self-regulate and implement new rules on how people can buy political advertising. The company recently said it will verify ad buyers' identities with physical postcards.
+
+Social networks are facing increased scrutiny from both the government and the public over their power to control and distribute information. Facebook and Twitter have become more transparent about their efforts to fight abuse and let users see if they viewed Russian propaganda, but many, like Warner, are not convinced it is enough.
+
+At Saturday's event, a Twitter employee asked how the intelligence community can cooperate with tech companies as they work to improve their platforms. Warner, ever critical of tech companies, dodged the question somewhat and said Twitter's efforts were slow and "derivative of Facebook's work."

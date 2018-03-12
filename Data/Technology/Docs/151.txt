@@ -1,0 +1,72 @@
+https://www.technewsworld.com/
+Red Hat Adds Zing to High-Density Storage
+
+
+Need a mobile developer, cybersecurity pro or other IT expert?
+
+On ALL EC you can quickly and conveniently research all available technology solutions before making your next planning or purchasing decisions. Gather key insights and information before selecting your vendors. Visit ALL EC today.
+
+Red Hat on Wednesday announced the addition of high-density storage capabilities to Red Hat JBoss Data Grid, its in-memory data management technology.
+
+The company has expanded an alliance with Azul Systems to build on their prior collaboration to provide entitlements for Azul Zing with JBoss Data Grid subscriptions. The arrangement will help customers meet speed and volume needs for their big data environments.
+
+The design of Azul's Zing runtime for Java supports high-performance on-heap storage, making it well-suited for JBoss Data Grid deployments that feature large in-memory data sets, according to Red Hat.
+
+By providing Zing with JBoss Data Grid, Red Hat has extended support for persistent operation of Java instances that can manage up to 8 terabytes of memory. This memory design reduces the number of nodes needed in the cluster and simplifies deployment and management.
+
+No new technology is involved in the high-density storage solution, according to William Oliviera, product manager of JBoss Data Grid at Red Hat.
+
+"The technology we are using to help with this problem is Azul Zing, a JVM (Java Virtual Machine) that uses a 'pauseless' garbage collection, with the goal to provide a more predictable and consistent behavior," he told LinuxInsider.
+
+Significant Impact
+
+The Red Hat/Azul partnership is significant for two reasons, said Charles King, principal analyst at Pund-IT.
+
+First, it expands the options available to Red Hat customers for supporting their JBoss Data Grid deployments to include substantial in-memory resources via Azul Zing, he told LinuxInsider. That will be particularly welcome to organizations looking to maximize speed, up-time and performance consistency, while reducing costs and management complexity.
+
+"The deal also casts light on the growing popularity of cloud-based in-memory solutions," King said.
+
+Numerous circumstances and customers exist for whom dedicated in-memory clusters and appliances remain business-critical, he observed. Many others will find their needs fully met by services such as those provided by Red Hat and Azul.
+
+"From what I can see, mainstream cloud platforms, including AWS and Google Cloud, offer support for JBOSS," King said. "In fact, AWS has done so for years. But I don't have a sense of the availability of in-memory options compared to what Red Hat and Azul are offering. Cost comparisons are a whole other thing, too."
+
+Trash Collection Innovation
+
+Azul's Zing C4 Garbage Collector (Continuously Concurrent Compacting Collector) eliminates costly application execution hiccups that can be common in Java environments. The combination of JBoss Data Grid and Zing can offer consistent performance and scale, according to Red Hat.
+
+Garbage collection pauses can cause inefficiency and added maintenance expenses in industries where speed, consistency of performance and uptime are important and data volume is increasing. That problem can worsen with the larger JVM heaps required for high-performance big data applications.
+
+The Azul Zing JVM employs a "pauseless" garbage collection algorithm, noted George Gould, vice president for business development and partner alliances at Azul Systems.
+
+"The collector's performance is independent of key applications metrics -- such as Java heap size, mutation rates, object allocation rates -- and it can provide highly consistent runtime execution for applications needing any size Java heaps," he told LinuxInsider, for example, from 1 GB to 8 TB for a single application instance.
+
+Developing Needs
+
+The memory technology resulted from customer use of applications that required large Java heaps but predictable garbage collection behavior and simplified tuning process. It targets customer use cases requiring larger in-memory footprints with a need for very low response times.
+
+Those applications also may have a high velocity of change (e.g., weekly or monthly) and cannot afford deployment delays associated with traditional JVM tuning, noted Azul's Gould.
+
+The expanded alliance will benefit Red Hat Data Grid customers with requirements to run in-memory computations over larger datasets, provide a speed layer for Apache Spark, or simply cache more data in a consistent manner. Customers can benefit from the more predictable behavior of the JVM with consistent response times.
+
+Given that each Data Grid node will be able to hold more data per JVM, customers will have fewer nodes to manage in the cluster and a simplified deployment, tuning and management experience, explained Red Hat's Oliviera.
+
+How It Works
+
+For use cases with large memory heaps or low-latency requirements, users often have to invest a significant amount of time in performance tuning through testing and experimentation in order to achieve an acceptable garbage collection behavior. By using Azul Zing, Red Hat Data Grid customers can save this time and yet have better results.
+
+The algorithm relies on a fairly sophisticated read barrier implemented using hardware emulation to solve both the concurrent marking and concurrent relocation problems. The C4 algorithm is both concurrent and parallel, and has the highly desirable quality of continually compacting and defragmenting the heap, Oliviera explained.
+
+The pauses on the JVM can result from the time lag involved in identifying what is "garbage" and what is "live data" on the memory heap. The larger the heap, the more frequent such pauses can occur, he said.
+
+All Java applications create garbage in the process of doing real work. Most garbage collection algorithms use a "stop-the-world" mechanism to ensure data consistency as the JVM cleans. This, unfortunately, can cause all running threads to stop and hence creates artificial application pauses that are proportional to the size of the heap -- that is, the larger the heap, the larger the pause, according to Gould.
+
+New Memory Feature on Tap
+
+Red Hat plans to offer off-heap in memory storage with the upcoming release of Red Hat Data Grid, said Oliviera. That means entries can be stored outside the JVM heap.
+
+"Off-heap has some interesting benefits and some drawbacks, but in combination with Azul Zing, most of the drawbacks can be mitigated, and customers can have what we think is the best of both worlds," said Oliviera.
+
+Meanwhile, through the agreement, Zing is available as a zero-cost upgrade option for JBoss Data Grid users with support contracts.
+
+Jack M. Germain has been an ECT News Network reporter since 2003. His main areas of focus are enterprise IT, Linux and open source technologies. He has written numerous reviews of Linux distros and other open source software. Email Jack.
+

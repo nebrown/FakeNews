@@ -62,11 +62,7 @@ def SaveDocument(db, folder, url, title,text, index, category="All"):
 def RemoveWords(documents):
     # Remove common words
     stoplist = set("for a of the and to in cnn npr image copyright \" ".split())
-    # if not using db
-    # texts = [[word for word in document[0].lower().split() if word not in stoplist] for document in documents]
-
-    # if using db need 0 index cause gets tuple
-    texts = [[word for word in document[0].lower().split() if word not in stoplist] for document in documents]
+    texts = [[word for word in document.lower().split() if word not in stoplist] for document in documents]
 
     # Remove words that appear once
     frequency = defaultdict(int)
@@ -120,12 +116,7 @@ def isRepeated(site, curArticleIdx):
     return False
 
 def UpdateCorpus(db, siteList, category="All", numArticles=30):
-     # clear old data
-    db.clearOld()
-    db.createTable(category)
-
     # nlp = NLPContainer()
-
     # Defines
     documents = []
 
@@ -162,7 +153,6 @@ def UpdateCorpus(db, siteList, category="All", numArticles=30):
                 # Remove double up
                 if (len(site.articles[i].text) > 400):
                     if(isRepeated(site, i) == False):
-                    #if(i==0 or (site.articles[i].text != site.articles[i-1].text)):
                         print(str(i) + ": " + site.articles[i].title + "\n", end = "")
                         documents.append(site.articles[i].text)
                         # Save docs
@@ -180,17 +170,13 @@ def UpdateCorpus(db, siteList, category="All", numArticles=30):
                 break
         j += 1;
 
-    articles = db.getAll('article')
-    # pprint(articles)
         #Check if no docs found
-    if len(articles) == 0:
-    # if len(documents) == 0:
+    if len(documents) == 0:
         print("No articles found.")
-        returngit 
-    texts = RemoveWords(articles)
-    # texts = Removewords(documents)
-    # pprint(texts)
-    # db.printAll()
+        return
+    # Filter out words
+    texts = RemoveWords(documents)
+    #db.printAll()
     # Run NLP    
     RunNLP(texts, category=category)
     

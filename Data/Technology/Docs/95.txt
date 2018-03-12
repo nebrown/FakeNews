@@ -1,0 +1,19 @@
+https://techcrunch.com/
+Essential really wants to solve the screen notch problem
+In a way, Essential is something of a pioneer. Before the iPhone X helped the world reluctantly embrace the screen notch, the company proudly displayed one atop its first flagship. Since then, of course, it’s become a feature, not a bug, with a long list of companies rushing to embrace it on their latest flagship.
+
+But Essential’s clearly hoping to solve the issue with a number of patents looking to stick a camera directly behind the display. The Andy Rubin-founded company has been on quite a patent run in recent months — but the ones pertaining to a “camera integrated into a display” are the most compelling of the lot. And if it comes to fruition, it could breathe new life into the company’s upcoming handsets after an admittedly slow start.
+
+The patent describes a multi-layered display with camera in which a “substantially transparent region allows light from outside to reach the camera to record an image.” The patent points to a potential application in which the camera is mounted behind the LCD.
+
+In the imagery accompanying the post, the camera is positioned in its customary spot up top — you know, where the notch should be. In another iteration of the same idea, the camera is located behind the screen’s color layer and “records the light from the outside colored by the color filter layer.”
+
+A separate patent has “an irregularly shaped electronic display, including a hollowed out display within which a sensor, such as a camera, can be placed. The manufacturing techniques enable the creation of the hollow anytime during the manufacturing process. The resulting electronic display occupies the full side of the mobile device, with the sensors placed within and surrounded by the display.”
+
+There are a ton of Essential patents revolving around the idea, and as Rubin recently pointed out on Twitter, the company also holds a two-year-old patent describing a camera that pops out of the top of the phone — a concept that began showing up on actual devices last month at MWC, along with Huawei’s new nose-view keyboard camera.
+
+Both patents include a fun little addition, wherein the camera is located behind a camera icon. Tapping the icon would activate the camera. Of course, depending on how all of this is implemented, you probably don’t want to put a camera in a spot that is going to accumulate a substantial amount of your disgusting finger grease.
+
+“The integrated camera serves two purposes: to record pictures,” the patent reads, “and to act as a camera icon, that when selected activates the camera. By removing the camera from the front side of the mobile device, or by integrating the camera into the display screen of the mobile device, the size of the mobile device display screen can be increased.”
+
+Of course, the standard patent disclaimers apply here — there’s no guarantee the company plans to (or is even able to) implement the technologies outlined in these forms. Such patents are often pie in the sky ideas or just IP grabs. We reached out to Essential and the company declined to comment any further on the patents.
