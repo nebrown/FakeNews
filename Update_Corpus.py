@@ -4,14 +4,15 @@ import re
 import newspaper
 #suppress windows chunksize warning
 import warnings
-import OutputToFile as otf
+# import OutputToFile as otf
 import shutil
 warnings.filterwarnings(action='ignore', category=UserWarning, module='gensim')
 from gensim import corpora, models, similarities
 from collections import defaultdict
 from pprint import pprint
-from nlp import NLPContainer
+# from nlp import NLPContainer
 from  DBManager import DBManager
+from Downloader import DownloadThread
 
 # db = DBManager('corpus')
 # db.createTable()
@@ -43,11 +44,14 @@ def GetDocs(url):
 # Saves document from newspaper
 def SaveDocument(db, folder, url, title,text, index, category="All"):
     # Store on os
-    # f = open(folder + str(index) + ".txt", "w")
-    # f.write(url + "\n")
-    # f.write(title + "\n")
-    # f.write(text)
-    # f.close()
+    try:
+        f = open(folder + str(index) + ".txt", "w")
+    except TypeError:
+        print("Invalid type passed to SaveDocument.")
+    f.write(url + "\n")
+    f.write(title + "\n")
+    f.write(text)
+    f.close()
 
     # Store in db
     db.add((title,text, url, category, None, None))
@@ -120,11 +124,25 @@ def UpdateCorpus(db, siteList, category="All", numArticles=5):
     db.clearOld()
     db.createTable(category)
 
-    nlp = NLPContainer()
+    # nlp = NLPContainer()
+
     # Defines
     documents = []
 
     docFolder = SetupDirectory()
+
+    j = 0
+    threads = []
+    while j < len(siteList):
+        url = siteList[j]
+        thread = DownloadThread(url, numArticles)
+        threads.append(thread)
+        thread.start()
+        j += 1
+
+    #Wait for threads to complete
+    for thread in threads:
+            thread.join()
 
     j = 0
     while j < len(siteList):
@@ -132,13 +150,14 @@ def UpdateCorpus(db, siteList, category="All", numArticles=5):
 
         # Get documents from selected website
         # Connect to site without caching (for testing only)
-        site = GetDocs(url)
+        #site = GetDocs(url)
+        site = threads[j].GetSite()
 
         # Download set of articles
         for i in range(min(numArticles, site.size())):
             try:
-                site.articles[i].download()
-                site.articles[i].parse()
+                #site.articles[i].download()
+                #site.articles[i].parse()
                 # check article has more than 200 characters to filter non-news
                 # Remove double up
                 if (len(site.articles[i].text) > 400):
@@ -147,7 +166,7 @@ def UpdateCorpus(db, siteList, category="All", numArticles=5):
                         print(str(i) + ": " + site.articles[i].title + "\n", end = "")
                         documents.append(site.articles[i].text)
                         # Save docs
-                        SaveDocument(db, docFolder, url, site.articles[i].title, site.articles[i].text, len(documents)-1)
+                        SaveDocument(db, docFolder, url, site.articles[i].title, site.articles[i].text, len(documents)-1, category=category)
             except newspaper.article.ArticleException:
                 # Will skip over articles it has trouble pulling
                 continue
@@ -170,6 +189,7 @@ def UpdateCorpus(db, siteList, category="All", numArticles=5):
         return
     # Filter out words
     texts = RemoveWords(articles)
+    # texts = Removewords(documents)
     # pprint(texts)
     # db.printAll()
     # Run NLP    
@@ -191,4 +211,4 @@ if __name__ == "__main__":
         UpdateCorpus(sitelist)
 
     # In for testing db
-    # SaveDocument('./', 'url', 'title','text', 2)
+# SaveDocument('./', 'url', 'title','text', 2)

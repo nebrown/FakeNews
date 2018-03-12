@@ -1,36 +1,36 @@
-Keywords: 0.165*"carlson" + -0.151*"teachers" + 0.145*"nunberg" + -0.143*"immigration" + -0.140*"virginia" + 0.130*"—" + -0.118*"state" + -0.112*"programme" + -0.110*"storm" + 0.109*"wiley"
+Keywords: -0.263*"snow" + -0.169*"storm" + 0.158*"daca" + -0.151*"school" + 0.144*"dreamers" + 0.134*"immigration" + -0.129*"broidy" + -0.127*"winds" + 0.122*"earhart" + 0.115*"democrats"
 
-0, 21, 22.8724836111: That Nunberg actually recognizes the value and intelligence of a black woman is, I hope, a life lesson for him
+0, 403, 585.396618441: Yet in the face of these facts, many of the president’s fellow Republicans are lashing out at his attempt to address these problems.
 
-1, 14, 22.8524024487: Then she noted that failing to testify would be a disservice to his self-described mentor, Roger Stone.
+1, 695, 584.299901277: As for a “Wrinkle in Time,” cultural critics are trying to look away from the movie's problems and instead fawn over its politicized message
 
-2, 7, 22.8342974186: And by Tuesday, he’d done just that.
+2, 601, 581.839774847: There is no Chaos, only great Energy!" he said.
 
-3, 8, 22.8284175396: Apparently, it was something he heard on MSNBC’s “The Beat with Ari Melber” that led him to reconsider his position.
+3, 337, 579.718830034: Iger responded by saying, “I don’t know where I start
 
-4, 15, 22.7762449384: “It actually makes it appear that Roger Stone has something to hide because you will not go testify,” Wiley said.
+4, 240, 579.4659307: I mean, my God! Look at this photograph..
 
-5, 17, 22.75047791: “You’d rather possibly spend a year in jail than spend 80 hours going through emails?” she asked.
+5, 670, 577.749147609: The film is currently rated a “rotten” 43 percent on “Rotten Tomatoes,” but “woke” cultural critics don’t seem to mind
 
-6, 10, 22.6642168164: He described Wiley as “very, very smart” and said she “made a compelling case to me.”
+6, 684, 576.703073174: But that's only one reason why this frustrating fiasco is such an embarrassing failure.”
 
-7, 6, 22.5545355082: Though he’d bombastically claimed the opposite on multiple cable news shows, Nunberg did suggest to The Associated Press on Monday that he’d change his mind
+7, 579, 576.373047009: Republicans have lost elections in other conservative states where Trump is unpopular.
 
-8, 19, 22.5532564521: I joined the set after Sam Nunberg referenced his racially offensive statements that got him fired from the Trump campaign, dismissing their relevance because they wouldn’t have lost Trump a vote
+8, 377, 576.356782377: Our names have been cleared and we don't have that hanging over us anymore," Mrs Baars told the National Post.
 
-9, 13, 22.4978815317: She pointed out to him that if Mueller had offered him immunity, as Nunberg said, he personally didn’t have any reason not to testify
+9, 693, 575.626394533: (Fox News’ owner, 21st Century Fox, has announced plans to sell its movie assets to Disney should it receive government approval).
 
-10, 16, 22.4653437138: As for Nunberg’s complaints about how much time complying with the subpoena would take, Wiley was incredulous.
+10, 644, 574.780872621: The economy is on the right track thanks in large part to President Trump’s leadership
 
-11, 20, 22.4545588493: Unspoken was his willingness to use the “N” word in reference to black leaders
+11, 600, 574.507939674: I still have some people that I want to change (always seeking perfection)
 
-12, 22, 22.3128082752: I assume he has sought the advice and counsel of his lawyer
+12, 604, 574.507939674: I still have some people that I want to change (always seeking perfection)
 
-13, 11, 22.251062274: Watch the moment @mayawiley convinced Sam Nunberg to comply with Mueller Grand Jury subpoena: pic.twitter.com/Aa5K5dfUAN — TheBeat w/Ari Melber (@TheBeatWithAri) March 6, 2018
+13, 23, 574.117273062: from Mexico when she was just 8 years old
 
-14, 18, 22.0323512554: In a statement on Tuesday to MSNBC, Wiley said:
+14, 376, 572.869258672: "We are very thankful for it, that we've been vindicated
 
 Summary:
-“It actually makes it appear that Roger Stone has something to hide because you will not go testify,” Wiley said.
-She pointed out to him that if Mueller had offered him immunity, as Nunberg said, he personally didn’t have any reason not to testify
-In a statement on Tuesday to MSNBC, Wiley said
+Yet in the face of these facts, many of the president’s fellow Republicans are lashing out at his attempt to address these problems.
+As for a “Wrinkle in Time,” cultural critics are trying to look away from the movie's problems and instead fawn over its politicized message
+The film is currently rated a “rotten” 43 percent on “Rotten Tomatoes,” but “woke” cultural critics don’t seem to mind

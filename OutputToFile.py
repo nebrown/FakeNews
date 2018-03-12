@@ -51,4 +51,4 @@ def OutputBoth(file, verSentences = [], unvSentences = []):
 	#tester below (remove later)
 	#s = [("Little child.", 0.5), ("Running wild.",0.4), ("Can't you see.",0.2)]
 	#d = [("Donald Trump sick as fuck.", 0.1)]
-	#print(OutputBoth(s,d))
+#print(OutputBoth(s,d)):

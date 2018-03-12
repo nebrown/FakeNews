@@ -1,35 +1,35 @@
 
-0, 157, 352.500368014: "There are times when [the rainforest] is almost too loud," he tells me.
+0, 7, 511.356020182: Following the critics' narrative that the White House is in continued chaos, Trump denied the criticism as "fake news", saying on Twitter that "people will always come & go.
 
-1, 404, 351.42381312: But I have to hope that understanding the scope of this crisis is part of moving toward solutions
+1, 288, 511.245034099: The good times would be over
 
-2, 87, 351.303921819: If you study amphibians, it can seem like that dystopian future already is here.
+2, 453, 510.393060833: Another 12 percent said they did not view him favourably or unfavourably.
 
-3, 131, 351.147413716: She remembers where all these tadpoles are (!!) and spends her days climbing the trees to deliver food.
+3, 142, 510.357949182: Why is Mr Trump doing this?
 
-4, 103, 350.924766123: "I'll hear [a frog] call and spend half an hour or more looking into a small patch of vegetation, knowing that it's right there and that I need to find it but unable to see it," he tells me.
+4, 11, 507.754796378: The new Fake News narrative is that there is CHAOS in the White House
 
-5, 109, 350.896470681: He takes me and a group of researchers from the Center for Global Soundscapes deep into the forest just after dusk one evening, when some frogs tend to be the most active
+5, 227, 506.833093762: But the only credible review of former President George W
 
-6, 164, 350.760395557: Pijanowski got his hands on recordings that date back to 2008 and started making his own recordings here in 2010
+6, 20, 506.451937109: Cohn voiced his gratitude to the president in a statement issued by the White House.
 
-7, 283, 350.545012876: She took the hat off my head and put it on hers
+7, 136, 505.836416304: Despite opposition at home and abroad, Ms Sanders said the US president would sign the measures in by the end of the week.
 
-8, 291, 350.545012876: She took the hat off my head and put it on hers
+8, 350, 505.50372605: Well, The Times did reconsider -- but it may still not be 100 percent accurate.
 
-9, 214, 350.327047095: There are multiple causes of the amphibian apocalypse, but all the trouble points back to us
+9, 411, 504.027696609: President Donald Trump signed the 2018 National Defense Authorization Act in December
 
-10, 106, 350.311839461: I actually had a hard time falling asleep some nights in Costa Rica because it sounded (awesomely) like the forest was yelling at me; and I woke up early to screams of howler monkeys
+10, 330, 503.030114263: There’s only one company left in the United States that produces the Navy armor plate used to build the Virginia Class submarines.
 
-11, 231, 350.139587551: At least that's how I remember it
+11, 297, 502.698144197: The Commerce Department told President Trump in December that it did.
 
-12, 115, 349.918496162: Smoky jungle frogs scream like human babies when they're threatened, and the tink frog seems to be named for its metallic call, which sounds like that ear-piercing noise a smoke detector makes when it wants you to change its battery.
+12, 19, 502.419522472: He is a rare talent, and I thank him for his dedicated service to the American people," Trump said in a statement.
 
-13, 324, 349.77749607: The carcass is perhaps two or three days old
+13, 344, 502.383361578: 23 feature, headlined, “Get to Know the New Tax Code While Filling Out This Year's 1040,” sought to detail how Trump’s tax plan would hurt middle-class families
 
-14, 125, 349.474870339: I'm grateful for the research Whitfield and other field ecologists have contributed when it comes to frogs
+14, 346, 502.146218807: Then came the correction saying the family would actually see taxes go down.
 
 Summary:
-She remembers where all these tadpoles are (!!) and spends her days climbing the trees to deliver food.
-He takes me and a group of researchers from the Center for Global Soundscapes deep into the forest just after dusk one evening, when some frogs tend to be the most active
-I actually had a hard time falling asleep some nights in Costa Rica because it sounded (awesomely) like the forest was yelling at me; and I woke up early to screams of howler monkeys
+Following the critics' narrative that the White House is in continued chaos, Trump denied the criticism as "fake news", saying on Twitter that "people will always come & go.
+The new Fake News narrative is that there is CHAOS in the White House
+President Donald Trump signed the 2018 National Defense Authorization Act in December

@@ -1,36 +1,4 @@
-Keywords: -0.324*"cohn" + 0.207*"elephants" + 0.144*"we" + 0.137*"extinction" + -0.132*"economic" + -0.130*"house" + -0.127*"white" + -0.125*"tariffs" + 0.122*"frog" + 0.109*"frogs"
+Keywords: -0.235*"steel" + -0.181*"trade" + -0.162*"tariffs" + 0.161*"daca" + -0.161*"aluminum" + 0.153*"earhart" + 0.139*"immigration" + 0.136*"dreamers" + 0.112*"snow" + 0.109*"democrats"
 
-0, 154, 150.378170669: "I've been asked if I'm optimistic or pessimistic about the future of Africa's elephants," he says, "and on days like today, I feel that we are failing the elephants
-
-1, 62, 150.216795206: But banging on the roof is our signal to stop.
-
-2, 122, 150.082426012: Anybody who has studied or worked with elephants has their own stories about how sharp elephant memories are.
-
-3, 133, 150.071015: "When you think of how many elephants occurred in areas 10 or 20 years ago, it's incredibly disheartening," says Chase.
-
-4, 97, 149.969769061: "Elephants have a cognitive sense of where they are safe and where they are at risk," Mike Chase, the lead scientist on the Great Elephant Census, told me on a recent trip to Botswana, where he's been tracking elephant movements for years
-
-5, 69, 149.941051364: It would be like shooting an elephant with a tic-tac.
-
-6, 128, 149.889432549: Before European colonization, scientists believe that Africa may have held as many as 20 million elephants; by 1979 only 1.3 million remained -- and the Great Elephant Census revealed this year that things have gotten far worse.
-
-7, 92, 149.885025144: But in this section of the Mara, there hasn't been hunting for decades
-
-8, 73, 149.863324583: He hits the accelerator.
-
-9, 90, 149.854018271: They completely ignore us.
-
-10, 26, 149.846725225: "The best way to envision the sixth mass extinction is to look outside and then just imagine that three out of every four of the species that were common out there are gone," he said
-
-11, 124, 149.775533259: Sheldrick speaks of elephants reintroduced to the wild who have returned years, sometimes decades, later for help with an injury or just to say "hello
-
-12, 48, 149.713895738: I'm not sure how we'll change
-
-13, 1, 149.708901584: Sutter is a columnist for CNN Opinion who focuses on climate change and social justice
-
-14, 43, 149.582303286: Add the population boom to this and you can see why farms are going to be a big issue this century.
-
+No sentences found.
 Summary:
-"I've been asked if I'm optimistic or pessimistic about the future of Africa's elephants," he says, "and on days like today, I feel that we are failing the elephants
-"When you think of how many elephants occurred in areas 10 or 20 years ago, it's incredibly disheartening," says Chase.
-Before European colonization, scientists believe that Africa may have held as many as 20 million elephants; by 1979 only 1.3 million remained -- and the Great Elephant Census revealed this year that things have gotten far worse.

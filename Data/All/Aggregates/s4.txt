@@ -1,36 +1,36 @@
-Keywords: 0.198*"inc" + -0.165*"carlson" + 0.128*"facebook" + -0.116*"march" + -0.114*"programme" + -0.108*"—" + -0.104*"miles" + 0.102*"russian" + 0.099*"ads" + -0.093*"teachers"
+Keywords: 0.325*"snow" + -0.219*"school" + 0.208*"storm" + 0.160*"winds" + -0.152*"bill" + -0.136*"teachers" + -0.130*"florida" + 0.125*"power" + 0.124*"jersey" + -0.115*"parkland"
 
-0, 72, 70.3135364652: The Kremlin has denied having any information about the incident.
+0, 6, 14.8983636498: Thunderstorms embedded within the low-pressure system increased the intensity of snow to as much as 10 centimetres an hour in New York, New Jersey, Pennsylvania and eastern New York.
 
-1, 7, 70.2076419294: elections
+1, 1, 14.8929303885: Five people died as winds of 80 kilometres an hour brought down power lines, leaving nearly 1.7 million properties without power.
 
-2, 17, 69.8775680661: presidential election, a company representative said.
+2, 14, 14.8892610669: The snow is expected to continue moving northeastwards on Thursday, across Maine, into New Brunswick and Nova Scotia in Canada, before easing on Friday.
 
-3, 42, 69.7453517318: In the emails, Broidy calls Tillerson "a tower of Jello" and says the secretary of state "needs to be slammed", the BBC reported.
+3, 0, 14.888507247: It was less than a week ago that a major storm brought damaging winds and flooding rain to much of the northeastern part of the United States.
 
-4, 6, 69.6091125607: President Donald Trump on Friday questioned Facebook Inc's decision to overhaul how it handles paid political advertisements amid investigations into alleged Russian interference in U.S
+4, 10, 14.8853909969: Bus services were also suspended by New Jersey Transit on Wednesday, and Amtrak rail services were reduced or suspended.
 
-5, 55, 69.5134958327: Mueller is investigating alleged Russian interference in the US 2016 presidential elections.
+5, 11, 14.8839615583: Around 2,700 flights were cancelled across the country on Wednesday, including several hundred flights from New York's three major airports.
 
-6, 48, 69.5109480023: According to the New York Times, Broidy owns a company that has hundreds of millions of dollars in contracts with the UAE.
+6, 2, 14.8807500601: A very similar system is now bringing similar winds and widespread snow from Philadelphia through New York, and Boston to Maine.
 
-7, 5, 69.2915820479: Trump dismisses Facebook ads controversy as part of 'Russia hoax' WASHINGTON U.S
+7, 4, 14.8738796115: The combination of strong winds and wet snow has brought down many trees and power lines
 
-8, 47, 69.1210736036: Qatar denied the allegations.
+8, 9, 14.8717074394: The heaviest of the snow appears to have fallen along the I-95, causing major delays
 
-9, 31, 68.9833358526: presidential election, said it plans an election integrity initiative to protect Canada's next vote from cyber threats.
+9, 3, 14.8700515032: Some 900,000 homes are already without power and this figure is likely to rise as the storm continues to develop.
 
-10, 46, 68.9664144218: A spokesman for Broidy told US media that the businessman has "reason to believe" Qatar hacked his emails
+10, 13, 14.8643710613: In last week's storm, the strongest of the winds coincided with the full moon and spring tides.
 
-11, 11, 68.955914408: Presidential election, Kremlin spokesman Dmitry Peskov said on Friday.
+11, 12, 14.8405909538: Coastal flooding may be possible, although the risk is fairly low with the entry into a period of neap tides
 
-12, 71, 68.8768637478: British Foreign Secretary Boris Johnson said Tuesday that, although it was “too early to speculate” about what happened to Skripal and his daughter, Britain would “respond appropriately and robustly” if the Russian government were found to be responsible, the Press Association reported
+12, 8, 14.819558382: Travel disruption has been severe
 
-13, 40, 68.8557600975: Qatar has repeatedly rejected the allegations as "baseless".
+13, 7, 14.7809353471: By the end of Wednesday, some parts of New Jersey and New York were under as much as 60cm of snow.
 
-14, 9, 68.7517531216: Kremlin: Russia did not use Facebook adverts to sway U.S
+14, 5, 14.0870746374: One person is reported to have been killed when a tree collapsed in Suffern, New York.
 
 Summary:
-President Donald Trump on Friday questioned Facebook Inc's decision to overhaul how it handles paid political advertisements amid investigations into alleged Russian interference in U.S
-Mueller is investigating alleged Russian interference in the US 2016 presidential elections.
-Presidential election, Kremlin spokesman Dmitry Peskov said on Friday.
+It was less than a week ago that a major storm brought damaging winds and flooding rain to much of the northeastern part of the United States.
+A very similar system is now bringing similar winds and widespread snow from Philadelphia through New York, and Boston to Maine.
+The combination of strong winds and wet snow has brought down many trees and power lines

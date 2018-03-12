@@ -1,36 +1,36 @@
-Keywords: 0.231*"cohn" + 0.201*"--" + 0.135*"elephants" + 0.116*"trump" + 0.113*"house" + 0.110*"we" + 0.108*"white" + 0.100*"i" + 0.091*"economic" + 0.088*"tariffs"
+Keywords: 0.267*"steel" + 0.219*"trade" + 0.184*"tariffs" + 0.172*"aluminum" + 0.087*"daca" + 0.081*"trump" + 0.081*"immigration" + 0.081*"american" + 0.079*"percent" + 0.076*"dreamers"
 
-0, 286, 345.165584549: They do not seem agitated, as has been my experience
+0, 49, 440.505219422: The new Fake News narrative is that there is CHAOS in the White House
 
-1, 164, 344.835983738: Whitfield's search-the-forest work is critical.
+1, 229, 439.235188782: The Commerce Department told President Trump in December that it did.
 
-2, 221, 344.658274978: And ecosystems not only provide food to people but rainforests like this are an important source of medicines
+2, 113, 438.865154147: Sasse said Trump made a lot of promises on the campaign trail, but once he got into the White House he was advised toward positions that are better for the country long-term.
 
-3, 187, 344.641719587: Pijanowski got his hands on recordings that date back to 2008 and started making his own recordings here in 2010
+3, 45, 438.636559248: Following the critics' narrative that the White House is in continued chaos, Trump denied the criticism as "fake news", saying on Twitter that "people will always come & go.
 
-4, 151, 344.549722008: Her tadpoles hatch on the forest floor, he says, but that's a precarious place for them, so she carries them, on her back, high up into the forest canopy, sometimes 10 to 15 meters off the ground -- about 33 to 50 feet
+4, 58, 438.482146963: Cohn voiced his gratitude to the president in a statement issued by the White House.
 
-5, 251, 344.438886061: And, in the view of one prominent biologist, we must set aside half the planet for the benefit of biodiversity and nature.
+5, 329, 437.734445129: "Without the United States, it doesn't serve that purpose," said Edward Alden, senior fellow at the Council on Foreign Relations
 
-6, 186, 344.188695654: But this site is special both because the rainforest is nearly untouched -- and because there's so much data
+6, 286, 437.177989736: Why is Mr Trump doing this?
 
-7, 363, 343.706390172: In 1985, the group said, there were as many as 163,452 giraffes.
+7, 300, 437.087143615: Members of Mr Trump's Republican party are concerned too, with House Speaker Paul Ryan saying he wanted to see tariffs that were "more surgical and more targeted".
 
-8, 200, 343.651467703: Pijanowski's team can compress a year's worth of sound into one chart.
+8, 285, 436.877856538: Both countries knew the president was not "messing around in this", he added.
 
-9, 109, 343.644456856: "The best way to envision the sixth mass extinction," he told me, "is to look outside and then just imagine that three out of every four of the species that were common out there are gone
+9, 155, 436.606157869: But the only credible review of former President George W
 
-10, 172, 343.317176133: "Everybody wanted you to play 'Freebird,'" he said, "so that's what I played -- over and over again
+10, 280, 436.472703397: Despite opposition at home and abroad, Ms Sanders said the US president would sign the measures in by the end of the week.
 
-11, 236, 342.976571932: But when you learn about them -- those with translucent bellies, supermom instincts, blue-jean legs and poisonous skin, all of which are calling to be noticed by each other if not by us -- then it's hard to ignore their plight.
+11, 383, 436.182134092: Another 12 percent said they did not view him favourably or unfavourably.
 
-12, 320, 342.867051318: Experts like Dame Daphne Sheldrick, who has rescued hundreds of orphaned calves, talks about elephants remembering people years later, and the things that happened to them -- good and bad.
+12, 29, 435.198416092: weekly jobless claims are at the lowest level since 1969 and consumer confidence is at its highest level since November 2000.
 
-13, 118, 342.703032851: But other extinctions have occurred in pristine rainforests like this -- places that look healthy but the frogs are telling us there's something clearly wrong
+13, 40, 434.744036287: Cohn is expected to leave in a matter of weeks, the White House has confirmed on Tuesday.
 
-14, 237, 342.661713734: There are multiple causes of the amphibian apocalypse, but all the trouble points back to us
+14, 220, 434.024923801: The good times would be over
 
 Summary:
-And ecosystems not only provide food to people but rainforests like this are an important source of medicines
-Experts like Dame Daphne Sheldrick, who has rescued hundreds of orphaned calves, talks about elephants remembering people years later, and the things that happened to them -- good and bad.
-But other extinctions have occurred in pristine rainforests like this -- places that look healthy but the frogs are telling us there's something clearly wrong
+Sasse said Trump made a lot of promises on the campaign trail, but once he got into the White House he was advised toward positions that are better for the country long-term.
+Following the critics' narrative that the White House is in continued chaos, Trump denied the criticism as "fake news", saying on Twitter that "people will always come & go.
+Cohn voiced his gratitude to the president in a statement issued by the White House.
