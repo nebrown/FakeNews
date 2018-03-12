@@ -5,7 +5,8 @@ from PyQt5.QtWidgets import qApp
 from Update_Corpus import UpdateCorpus
 # from RelatedSentenceFinding import SentenceMatching
 import LsiArticleGrouping as lag
-from  DBManager import DBManager
+from DBManager import DBManager
+
 
 class TextViewWindow(QtWidgets.QMainWindow):
     def __init__(self, text, parent=None):
@@ -27,28 +28,20 @@ class TextViewWindow(QtWidgets.QMainWindow):
         # self.text = QtWidgets.QTextEdit(self)
         self.text = QtWidgets.QLabel(text)
         self.text.setMinimumSize(800, 800)
-        self.text.setSizePolicy( QtWidgets.QSizePolicy.Expanding,  QtWidgets.QSizePolicy.Expanding)
+        self.text.setSizePolicy(QtWidgets.QSizePolicy.Expanding,
+                                QtWidgets.QSizePolicy.Expanding)
 
         # Layout
-        self.layout =  QtWidgets.QGridLayout()
+        self.layout = QtWidgets.QGridLayout()
         self.layout.addWidget(self.textLabel, 0, 0)
         self.layout.addWidget(self.text, 1, 0)
         self.layout.setContentsMargins(15, 15, 15, 15)
         self.layout.setSpacing(5)
 
-        self.setLayout(self.layout)   
+        self.setLayout(self.layout)
 
         self.setMinimumSize(self.sizeHint())
 
-# class TextViewContent(QtWidgets.QWidget):
-#     def __init__(self, text, parent=None):
-#         super().__init__(parent)
-        # self.textShown = QtWidgets.QLabel()
-
-        # self.scrollArea = QtWidgets.QScrollArea()
-
-        # self.scrollArea.setWidget(self.textShown)
-        # self.setCentralWidget(self.scrollArea)
 
 class MainWindow(QtWidgets.QMainWindow):
 
@@ -58,24 +51,23 @@ class MainWindow(QtWidgets.QMainWindow):
 
         db = DBManager('corpus')
 
-        #self.init_ui()
+        # self.init_ui()
         self.currentCategory = "All"
-        self.aboutText = "This software was developed by FakeNooz for CMPE 115 at UC Santa Cruz.\n"+\
-                        "Authors:\n"+\
-                        "Noah Brown\n"+\
-                        "Benjamin Swanson\n"+\
-                        "Naylan Adre\n"+\
-                        "Jack Bauman\n"+\
-                        "William"
-        self.helpText = "To Use:\nFirst run collect articles to pull articles from "+\
-                        "all sites listed in sitelist. After that, Aggregate will "+\
-                        "apply NLP to cluster articles into topics and generates "+\
-                        "summaries. Input a search term and press Search to have "+\
-                        "the most related and most corroborated sentences returned."+\
-                        "Input a URL and press URL Search for an article to get a list"+\
-                        " of related articles.\nAny time after aggregating the summaries "+\
+        self.aboutText = "This software was developed by FakeNooz for CMPE 115 at UC Santa Cruz.\n" +\
+                         "Authors:\n" +\
+                         "Noah Brown\n" +\
+                         "Benjamin Swanson\n" +\
+                         "Naylan Adre\n" +\
+                         "Jack Bauman\n" +\
+                         "William"
+        self.helpText = "To Use:\nFirst run collect articles to pull articles from " +\
+                        "all sites listed in sitelist. After that, Aggregate will " +\
+                        "apply NLP to cluster articles into topics and generates " +\
+                        "summaries. Input a search term and press Search to have " +\
+                        "the most related and most corroborated sentences returned." +\
+                        "Input a URL and press URL Search for an article to get a list" +\
+                        " of related articles.\nAny time after aggregating the summaries " +\
                         "and related articles of the 5 lsi topics can be viewed with the buttons"
-
 
         # centralize main widget contents
         self.form_widget = WindowContent(self.currentCategory)
@@ -138,18 +130,17 @@ class MainWindow(QtWidgets.QMainWindow):
 
 class WindowContent(QtWidgets.QWidget):
 
-
     def __init__(self, curCat, parent=None):
         super().__init__(parent)
-            #self.init_ui()
+        # self.init_ui()
         self.currentCategory = curCat
 
-        #database manager
+        # database manager
         db = DBManager('corpus')
         # db.createTable()
 
-    # create features
-        #self.button1 = QtWidgets.QPushButton('Search')
+        # create features
+        # self.button1 = QtWidgets.QPushButton('Search')
         self.button1 = QtWidgets.QPushButton('Collect Articles')
         # self.button2 = QtWidgets.QPushButton('Clear')
         self.button3 = QtWidgets.QPushButton('Aggregate')
@@ -180,8 +171,8 @@ class WindowContent(QtWidgets.QWidget):
         self.label1.setAlignment(QtCore.Qt.AlignCenter)
 
         # feature placement
-        #label1.move(180,100)
-        #button1.move(180,150)
+        # label1.move(180,100)
+        # button1.move(180,150)
 
         # container for features
         # horizontal
@@ -197,15 +188,14 @@ class WindowContent(QtWidgets.QWidget):
         queryInputBox.addWidget(self.queryInput)
         queryInputBox.addWidget(self.button4)
 
-
-        #h_box1.addWidget(self.label1)
-        #h_box1.addWidget(self.label2)
+        # h_box1.addWidget(self.label1)
+        # h_box1.addWidget(self.label2)
 
         # h_box2.addWidget(self.button1)
         # h_box2.addWidget(self.button2)
         h_box2.addWidget(self.button3)
-        #h_box2.addWidget(self.button4)
-        #h_box2.addWidget(self.button5)
+        # h_box2.addWidget(self.button4)
+        # h_box2.addWidget(self.button5)
         # h_box2.addWidget(self.button6)
 
         h_box3.addWidget(self.relatedArticlesButton0)
@@ -220,10 +210,9 @@ class WindowContent(QtWidgets.QWidget):
         h_box4.addWidget(self.summaryButton3)
         h_box4.addWidget(self.summaryButton4)
 
-
         # vertical
         v_box = QtWidgets.QVBoxLayout()
-        #v_box.addLayout(h_box1)
+        # v_box.addLayout(h_box1)
         v_box.addWidget(self.button1)
         v_box.addWidget(self.label1)
         v_box.addLayout(urlInputBox)
@@ -239,7 +228,7 @@ class WindowContent(QtWidgets.QWidget):
         self.setWindowTitle('Read FakeNooz')
 
         # connections for buttons
-        #self.button1.clicked.connect(self.searchArticles)
+        # self.button1.clicked.connect(self.searchArticles)
         self.button1.clicked.connect(lambda: self.runCorpus(db))
         # self.button2.clicked.connect(self.searchArticles)
         self.button3.clicked.connect(lambda: self.extractSentences(db))
@@ -281,7 +270,6 @@ class WindowContent(QtWidgets.QWidget):
             return
         self.outWindow = TextViewWindow(out)
         self.outWindow.show()
-
 
     def changeCategory(self, newCat):
         # Find sitelist for category
@@ -341,25 +329,23 @@ class WindowContent(QtWidgets.QWidget):
     def extractSentences(self, db):
         # make sure doc directory exists first
         if os.path.exists("./Data/"+self.currentCategory+"/Docs/"):
-           #Run the grouping
-           lag.GroupArticles(db, category=self.currentCategory)
+            # Run the grouping
+            lag.GroupArticles(db, category=self.currentCategory)
         else:
             message = "Please run Colect Articles before Extracting Sentences"
             QtWidgets.QMessageBox.about(self, "Error", message)
 
-
     def runCorpus(self, db):
-
         # run with sitelist
         sitelist = []
         f = open("./Sitelists/" + self.currentCategory + ".txt", "r")
-        line=f.readline()
+        line = f.readline()
         while line is not "":
             sitelist.append(line[:-1])
-            line=f.readline()
+            line = f.readline()
         f.close()
         UpdateCorpus(db, sitelist, category=self.currentCategory)
-        #SentenceMatching()
+        # SentenceMatching()
 
     def closeApp(self):
         # sys.exit()
@@ -367,13 +353,13 @@ class WindowContent(QtWidgets.QWidget):
 
 if __name__ == '__main__':
 
-    #database manager
+    # database manager
     db = DBManager('corpus')
     db.createTable('All')
 
     app = QtWidgets.QApplication(sys.argv)
     mainWindow = MainWindow()
     mainWindow.setWindowTitle('Read FakeNooz')
-    mainWindow.setGeometry(100,100,500,300)
+    mainWindow.setGeometry(100, 100, 500, 300)
     mainWindow.show()
     sys.exit(app.exec_())

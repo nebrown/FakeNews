@@ -2,25 +2,25 @@ import sys
 import os
 import re
 import newspaper
-#suppress windows chunksize warning
+from gensim import corpora, models, similarities
+from collections import defaultdict
+from pprint import pprint
+from DBManager import DBManager
+from Downloader import DownloadThread
+# suppress windows chunksize warning
 import warnings
 # import OutputToFile as otf
 import shutil
 warnings.filterwarnings(action='ignore', category=UserWarning, module='gensim')
-from gensim import corpora, models, similarities
-from collections import defaultdict
-from pprint import pprint
-# from nlp import NLPContainer
-from  DBManager import DBManager
-from Downloader import DownloadThread
 
 # db = DBManager('corpus')
 # db.createTable()
 
+
 # sets up directory for data storage
 def SetupDirectory(category="All"):
     # remove any previous data
-    docFolder = "./Data/" + category +"/Docs/"
+    docFolder = "./Data/" + category + "/Docs/"
     try:
         if os.path.exists(docFolder):
             shutil.rmtree(docFolder)
@@ -31,18 +31,20 @@ def SetupDirectory(category="All"):
         return
     return docFolder
 
+
 # builds the site based off of url using newspaper
 def GetDocs(url):
     print("\nAttempting to pull data from " + url + ". . .")
-    site = newspaper.build(url, is_memo = False)
+    site = newspaper.build(url, is_memo=False)
     site.clean_memo_cache()
     print("Site name: " + site.brand)
     print("Site description: " + site.description)
     print("Site size: " + str(site.size()))
     return site
 
+
 # Saves document from newspaper
-def SaveDocument(db, folder, url, title,text, index, category="All"):
+def SaveDocument(db, folder, url, title, text, index, category="All"):
     # Store on os
     try:
         f = open(folder + str(index) + ".txt", "w")
@@ -54,7 +56,7 @@ def SaveDocument(db, folder, url, title,text, index, category="All"):
     f.close()
 
     # Store in db
-    db.add((title,text, url, category, None, None))
+    db.add((title, text, url, category, None, None))
     # db.printAll()
 
 
@@ -67,14 +69,14 @@ def RemoveWords(documents):
     # Remove words that appear once
     frequency = defaultdict(int)
     for text in texts:
-        #print(text)
+        # print(text)
         for i in range(len(text)):
             text[i] = re.sub("[!?,.():]", "", text[i])
             frequency[text[i]] += 1
-        #print(text)
+        # print(text)
 
-    # texts = [[token for token in text if frequency[token] > 1] for text in texts]
     return texts
+
 
 # Runs and saves various NLP on texts
 def RunNLP(texts, category="All"):
@@ -98,22 +100,25 @@ def RunNLP(texts, category="All"):
     corpora.MmCorpus.serialize("./Data/"+category+"/news.mm", tfidfCorpus)
 
     # Use LSI to get topics
-    lsi = models.LsiModel(tfidfCorpus, id2word=dct, num_topics = 5)
+    lsi = models.LsiModel(tfidfCorpus, id2word=dct, num_topics=5)
     # lsi.save("./Data/" + category + "/news.lsi")
     lsi.save("./Data/"+category+"/news.lsi")
 
-    #lsiCorpus = lsi[tfidfCorpus]
+    # lsiCorpus = lsi[tfidfCorpus]
     pprint(lsi.print_topics(5))
+
 
 # makes sure article was not previously found
 def isRepeated(site, curArticleIdx):
     for i in range(curArticleIdx-1):
-        #print("t1 = "+ site.articles[curArticleIdx].title+"\nt2 = "+site.articles[i].title)
-        if((site.articles[curArticleIdx].title == site.articles[i].title) or (site.articles[curArticleIdx].text == site.articles[i].text)):
+        # print("t1 = "+ site.articles[curArticleIdx].title+"\nt2 = "+site.articles[i].title)
+        if((site.articles[curArticleIdx].title == site.articles[i].title) or
+           (site.articles[curArticleIdx].text == site.articles[i].text)):
             print("Found")
-            return True 
+            return True
 
     return False
+
 
 def UpdateCorpus(db, siteList, category="All", numArticles=30):
     # nlp = NLPContainer()
@@ -131,7 +136,7 @@ def UpdateCorpus(db, siteList, category="All", numArticles=30):
         thread.start()
         j += 1
 
-    #Wait for threads to complete
+    # Wait for threads to complete
     for thread in threads:
             thread.join()
 
@@ -141,19 +146,19 @@ def UpdateCorpus(db, siteList, category="All", numArticles=30):
 
         # Get documents from selected website
         # Connect to site without caching (for testing only)
-        #site = GetDocs(url)
+        # site = GetDocs(url)
         site = threads[j].GetSite()
 
         # Download set of articles
         for i in range(min(numArticles, site.size())):
             try:
-                #site.articles[i].download()
-                #site.articles[i].parse()
+                # site.articles[i].download()
+                # site.articles[i].parse()
                 # check article has more than 200 characters to filter non-news
                 # Remove double up
                 if (len(site.articles[i].text) > 400):
-                    if(isRepeated(site, i) == False and site.articles[i].config.get_language() == 'en'):
-                        print(str(i) + ": " + site.articles[i].title + "\n", end = "")
+                    if(isRepeated(site, i) is False and site.articles[i].config.get_language() == 'en'):
+                        print(str(i) + ": " + site.articles[i].title + "\n", end="")
                         documents.append(site.articles[i].text)
                         # Save docs
                         SaveDocument(db, docFolder, url, site.articles[i].title, site.articles[i].text, len(documents)-1, category=category)
@@ -168,18 +173,19 @@ def UpdateCorpus(db, siteList, category="All", numArticles=30):
             except IndexError:
                 # Will end reading from sites with fewer than numArticles to read
                 break
-        j += 1;
+        j += 1
 
-        #Check if no docs found
+        # Check if no docs found
     if len(documents) == 0:
         print("No articles found.")
         return
     # Filter out words
     texts = RemoveWords(documents)
-    #db.printAll()
-    # Run NLP    
+    # db.printAll()
+    # Run NLP
     RunNLP(texts, category=category)
-    
+
+
 if __name__ == "__main__":
     # Allow for user-defined sites
     if len(sys.argv) >= 2:
