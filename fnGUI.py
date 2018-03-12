@@ -359,7 +359,7 @@ if __name__ == '__main__':
     db.createTable('All')
 
     app = QtWidgets.QApplication(sys.argv)
-    app = setWindowIcon(QtGui.QIcon('fnicon.png'))
+    app.setWindowIcon(QtGui.QIcon('fnicon.png'))
     mainWindow = MainWindow()
     mainWindow.setWindowTitle('Read FakeNooz')
     mainWindow.setGeometry(100, 100, 500, 300)
