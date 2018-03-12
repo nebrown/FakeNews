@@ -3,12 +3,13 @@ import os
 import re
 import shutil
 import newspaper
-#suppress windows chunksize warning
+# suppress windows chunksize warning
 import warnings
-warnings.filterwarnings(action='ignore', category=UserWarning, module='gensim')
-from gensim import corpora, models, similarities,summarization
+from gensim import corpora, models, similarities, summarization
 from collections import defaultdict
 from pprint import pprint
+warnings.filterwarnings(action='ignore', category=UserWarning, module='gensim')
+
 
 def GetArticleText(url):
     article = newspaper.Article(url)
@@ -16,15 +17,17 @@ def GetArticleText(url):
     article.parse()
     return article.text
 
+
 # Load all NLP docs from Local storage
-def GetNLPDocs(numTopics, category = "All"):
-    # TODO: check if dct if not make them update corpus, if yes and nothing else
+def GetNLPDocs(numTopics, category="All"):
+    # TODO: check if dct if not make them update corpus, if yes and nothing els
     # build the rest
     dct = corpora.Dictionary.load("./Data/" + category + "/news.dict")
     tfidfCorpus = corpora.MmCorpus("./Data/" + category + "/news.mm")
-    lsi = models.LsiModel(tfidfCorpus, id2word=dct, num_topics = numTopics)
+    lsi = models.LsiModel(tfidfCorpus, id2word=dct, num_topics=numTopics)
 
     return dct, tfidfCorpus, lsi
+
 
 # Creates folder for Aggregate data, clears if needed
 def SetupAggDirectory(category="All"):
@@ -38,6 +41,7 @@ def SetupAggDirectory(category="All"):
         return
     return docFolder
 
+
 # Creates folder for Query data, clears if needed
 def SetupQueriesDirectory(category="All"):
     try:
@@ -50,32 +54,38 @@ def SetupQueriesDirectory(category="All"):
         return
     return docFolder
 
+
 def GetTopics(dct, lsi, numTopics):
-    # Get topic top terms in 
-    lsiTopics = lsi.show_topics(num_topics=numTopics, num_words=100, formatted=False)
+    # Get topic top terms in
+    lsiTopics = lsi.show_topics(num_topics=numTopics, num_words=100,
+                                formatted=False)
     topics = []
     for i in range(len(lsiTopics)):
-       topics.append( [(dct.token2id[topic[0]], topic[1]) for topic in lsiTopics[i][1]] )
+        topics.append([(dct.token2id[topic[0]], topic[1]) for topic in
+                      lsiTopics[i][1]])
     # pprint(topics)
     return topics
 
-    # Could avoid writing whole text twice
+
+# Could avoid writing whole text twice
 def CreateMetaDocs(db, sortedSims, docFolder, lsi, category="All"):
     numSentences = 25
     for i in range(len(sortedSims)):
         # Open folder to write to
-        # wf = open("./Data/Aggregates/" + category + "/f" + str(i) + ".txt", "w")
-        # wr = open("./Data/Aggregates/" + category + "/" + str(i) + ".txt", "w")
+        # wf = open("./Data/Aggregates/" + category + "/f" + str(i) + ".txt",
+        #           "w")
+        # wr = open("./Data/Aggregates/" + category + "/" + str(i) + ".txt",
+        #           "w")
         wf = open(docFolder + "/f" + str(i) + ".txt", "w")
         wr = open(docFolder + "/" + str(i) + ".txt", "w")
         wf.write(lsi.print_topic(i))
-
 
         # Get top 10 related articles and write them in
         # Article number will be our index in the db
         for j in range(min(numSentences, len(sortedSims[i]))):
             articleNum = sortedSims[i][j][0]
-            # r = open("./Data/" + category + "/Docs/" + str(articleNum) + ".txt", "r")
+            # r = open("./Data/" + category + "/Docs/" + str(articleNum) +
+            #          ".txt", "r")
             r = db.getID(articleNum)
             # pprint(r)
             # r = open("./Data/Docs/" + str(articleNum) + ".txt", "r")
@@ -87,11 +97,12 @@ def CreateMetaDocs(db, sortedSims, docFolder, lsi, category="All"):
             # articleContents = r.read()
             wf.write("\n\n====================================")
             wf.write("\n" + str(j) + ": " + str(sortedSims[i][j][1]) + "\n")
-            wf.write(articleUrl +"\n" + articleTitle + "\n"+articleContents)
+            wf.write(articleUrl + "\n" + articleTitle + "\n" + articleContents)
             wr.write("\n" + articleContents + "\n")
             # r.close()
         wr.close()
         wf.close()
+
 
 def CreateQueryMetaDocs(db, query, sortedSims, docFolder, lsi, category="All"):
     numSentences = 25
@@ -105,7 +116,8 @@ def CreateQueryMetaDocs(db, query, sortedSims, docFolder, lsi, category="All"):
         # Get top 10 related articles and write them in
         for j in range(min(numSentences, len(sortedSims[i]))):
             articleNum = sortedSims[i][j][0]
-            # r = open("./Data/" + category + "/Docs/" + str(articleNum) + ".txt", "r")
+            # r = open("./Data/" + category + "/Docs/" + str(articleNum) +
+            #          ".txt", "r")
             r = db.getID(articleNum)
             articleUrl = r[2]
             articleTitle = r[0]
@@ -118,10 +130,12 @@ def CreateQueryMetaDocs(db, query, sortedSims, docFolder, lsi, category="All"):
         wr.close()
         wf.close()
 
+
 def SentenceExtract(docFolder, sortedSims, lsi, category="All", isQuery=False):
     for i in range(len(sortedSims)):
         topSentences = SimilarSentences(docFolder + str(i) + ".txt", category)
-        # topSentences = SimilarSentences("./Data/Aggregates/" + str(i) + ".txt", category)
+        # topSentences = SimilarSentences("./Data/Aggregates/" + str(i) +
+        #                                 ".txt", category)
         w = open(docFolder + "s" + str(i) + ".txt", "w")
         # w = open("./Data/Aggregates/s" + str(i) + ".txt", "w")
         if not isQuery:
@@ -139,6 +153,7 @@ def SentenceExtract(docFolder, sortedSims, lsi, category="All", isQuery=False):
         sumText = summarization.summarizer.summarize(topSummary)
         w.write("\nSummary:\n" + sumText)
         w.close()
+
 
 def SearchArticles(db, query, category="All"):
     totalTopics = 5
@@ -169,7 +184,7 @@ def SearchArticles(db, query, category="All"):
                 sortedSim = sortedSim[:i-1]
                 break
         sortedSims.append(sortedSim)
-    #pprint(sortedSims)
+    # pprint(sortedSims)
 
     # Pull out top articles
     for i in range(len(sortedSims)):
@@ -182,7 +197,8 @@ def SearchArticles(db, query, category="All"):
     docFolder = SetupQueriesDirectory(category=category)
 
     # Create meta-documents
-    CreateQueryMetaDocs(db, query, sortedSims, docFolder, lsi, category=category)
+    CreateQueryMetaDocs(db, query, sortedSims, docFolder, lsi,
+                        category=category)
 
     # # Pull out highly relevant sentences
     # for i in range(len(sortedSims)):
@@ -193,12 +209,13 @@ def SearchArticles(db, query, category="All"):
     #         w.write("\n" + topSen)
     #     w.close()
 
-    SentenceExtract(docFolder, sortedSims, lsi, category=category, isQuery=True)
+    SentenceExtract(docFolder, sortedSims, lsi, category=category,
+                    isQuery=True)
 
     print("Search completed.")
 
 
-def GroupArticles(db, category = "All"):
+def GroupArticles(db, category="All"):
     totalTopics = 5
     chosenTopics = 5
     numSentences = 25
@@ -206,7 +223,7 @@ def GroupArticles(db, category = "All"):
     # Get dictionary, corpus, model
     dct, tfidfCorpus, lsi = GetNLPDocs(totalTopics, category=category)
 
-    # Get topic top terms in 
+    # Get topic top terms in
     topics = GetTopics(dct, lsi, chosenTopics)
 
     # Perform similarity queries with topic terms
@@ -230,7 +247,7 @@ def GroupArticles(db, category = "All"):
                 break
 
         sortedSims.append(sortedSim)
-    #pprint(sortedSims)
+    # pprint(sortedSims)
 
     # Pull out top articles
     for i in range(len(sortedSims)):
@@ -263,7 +280,7 @@ def SimilarSentences(aggregatePath, category):
     senList = re.split('\. |\n|\.\"', agg)
     for sentence in senList:
         if len(sentence) > 2:
-            sentences.append(sentence) #TODO: Handle quotes that end with ."
+            sentences.append(sentence)  # TODO: Handle quotes that end with ."
 
     # Remove words that appear once
     vec_sentence = []
@@ -271,20 +288,20 @@ def SimilarSentences(aggregatePath, category):
         for token in sentence:
             token = re.sub("[!?,.()\":]", "", token)
         vecSen = dct.doc2bow(sentence.lower().split())
-        #pprint(vecSen)
+        # pprint(vecSen)
         tfidfSen = tfidf[vecSen]
-        #pprint(tfidfSen)
+        # pprint(tfidfSen)
         vec_sentence.append(tfidfSen)
 
-    #pprint(vec_sentence)
+    # pprint(vec_sentence)
 
     # init similarity query from lsi transform of sentences to compare to
     if len(vec_sentence) > 0:
         index = similarities.MatrixSimilarity(lsi[vec_sentence])
     else:
-        topSentences=["No sentences found."]
+        topSentences = ["No sentences found."]
         return topSentences
-    
+
     # Get running scores for each sentence
     i = 0
     simSum = []
@@ -298,14 +315,16 @@ def SimilarSentences(aggregatePath, category):
         i += 1
     # Sort sentence sums
     simSum = sorted(simSum, key=lambda item: -item[1])
-    #pprint(simSum)
+    # pprint(simSum)
 
-    #Print most related sentences
-    #print("\n")
-    #pprint(sentences)
+    # Print most related sentences
+    # print("\n")
+    # pprint(sentences)
     topSentences = []
     for i in range(min(15, len(simSum))):
-        topSentences.append(str(i) + ", " + str(simSum[i][0]) + ", " + str(simSum[i][1]) + ": " + sentences[simSum[i][0]] + "\n")
+        topSentences.append(str(i) + ", " + str(simSum[i][0]) + ", " +
+                            str(simSum[i][1]) + ": " +
+                            sentences[simSum[i][0]] + "\n")
 
     return topSentences
 
