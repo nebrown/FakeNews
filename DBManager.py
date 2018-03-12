@@ -37,9 +37,9 @@ class DBManager:
         # " (id INTEGER PRIMARY KEY, title TEXT NOT NULL, article TEXT, source
         # TEXT, category TEXT, topicIdx INT, score FLOAT)")
         self.conn.execute("CREATE TABLE IF NOT EXISTS \'" +
-                          self.tableName + "\' (id INTEGER PRIMARY KEY, title
-                                                TEXT NOT NULL, article TEXT,
-                                                source TEXT, category TEXT,
+                          self.tableName + "\' (id INTEGER PRIMARY KEY, title\
+                                                TEXT NOT NULL, article TEXT,\
+                                                source TEXT, category TEXT,\
                                                 topicIdx INT, score FLOAT)")
 
     # Change the tablename used to have multiple instances if needed
@@ -57,8 +57,8 @@ class DBManager:
         category = data[3]
         topic = data[4]
         score = data[5]
-        self.conn.execute("INSERT INTO \'" + self.tableName + "\'
-                          (title, article, source, category, topicIdx, score)
+        self.conn.execute("INSERT INTO \'" + self.tableName + "\'\
+                          (title, article, source, category, topicIdx, score)\
                           VALUES(?, ?, ?, ?, ?, ?)", (title, article, source,
                                                       category, topic, score))
 
