@@ -109,7 +109,7 @@ def RunNLP(texts, category="All"):
 def isRepeated(site, curArticleIdx):
     for i in range(curArticleIdx-1):
         #print("t1 = "+ site.articles[curArticleIdx].title+"\nt2 = "+site.articles[i].title)
-        if(site.articles[curArticleIdx].title == site.articles[i].title or site.articles[curArticleIdx].text == site.articles[i].text):
+        if((site.articles[curArticleIdx].title == site.articles[i].title) or (site.articles[curArticleIdx].text == site.articles[i].text)):
             print("Found")
             return True 
 
