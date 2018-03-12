@@ -1,9 +1,0 @@
-https://www.telegraph.co.uk/technology/news/
-Mobile networks investigate flaw that leaves 4G customers open to hacking
-Mobile networks are investigating a major flaw that allows hackers to hijack phone numbers to send spoof calls and text messages.
-
-The flaw in 4G networks allows someone to make phone calls that appear to be from a number of their choice, which could be used by criminals to extract 4G customers' personal details to empty victims' bank accounts.
-
-An ethical hacker was able to replicate the attack on a Telegraph journalist. While speaking over the phone, he was able to make it appear as if he was calling from the journalist's deskphone and send texts that appeared to come from an energy supplier, Twitter and EE.
-
-Spoof messages appeared in the same conversations as previous, official communications...

@@ -1,7 +1,0 @@
-https://www.theverge.com/tech
-Xbox One X and Xbox One S will soon support AMD FreeSync displays
-Microsoft is adding support for AMD’s FreeSync displays to its Xbox One X and Xbox One S consoles soon. The upcoming Xbox spring update already includes 1440p support on the Xbox One S and Xbox One X for monitors, but the addition of FreeSync will allow compatible displays to sync refresh rates with Microsoft’s consoles.
-
-FreeSync, like Nvidia’s G-Sync, helps remove tearing or stuttering usually associated with gaming on monitors, as the technology syncs refresh rates to ensure games run smooth. FreeSync and G-Sync are widely used on PC gaming systems and monitors, so the addition of 1440p resolution and FreeSync will appeal to Xbox owners who also have a gaming display.
-
-Alongside the FreeSync addition, Microsoft is also planning to support auto low latency mode on TVs. This will allow compatible TVs, available later this year, to recognize when a game is being played and turn on game mode, or low latency mode to optimize gaming. Microsoft demonstrated this during the company’s Inside Xbox stream today, and the mode will switch back once a game isn’t running. This is particularly useful if you use Netflix or other media apps on an Xbox One, as game mode will be automatically disabled once you switch back to these types of apps.

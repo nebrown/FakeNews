@@ -1,9 +1,0 @@
-https://www.theverge.com/tech
-Twitter has suspended a number of accounts responsible for ‘tweetdecking’
-Last month, Twitter announced a number of new rules on how users and apps can automate tweets in an effort to cut down on spam and bots that spread propaganda. The company says that users using multiple accounts can “amplify or inflate the prominence of certain tweets,” and according to BuzzFeed, it has just banned a number of accounts that were known for mass-retweeting or for copying and stealing tweets from other users.
-
-BuzzFeed says that a number of accounts — such as @dory, @girlposts, and @ginah, some with “with hundreds of thousands or even millions of followers” — violated the company’s new spam policies and have been suspended. A Twitter spokesperson pointed The Verge to new rules that the company rolled out in a broader effort to combat spam, which state that violators run the risk of having their accounts being temporarily or permanently suspended.
-
-In February, Twitter said that it would remove the ability for third-party platforms like Tweetdeck to like, retweet, or send out identical tweets from multiple accounts to cut down on a practice known as “Tweetdecking.” At the same time that the rules were rolled out, the company cracked down on a number of bots.
-
-The new rules come after revelations that over 50,000 accounts linked to Russian-backed organizations exposed nearly 700,000 people to propaganda over the course of the 2016 US Presidential Election in January. At the time, the company said that it would be working to prevent applications from controlling armies of bots. The limits are designed to prevent individuals from posting “substantially similar content” across multiple accounts, and using those accounts to artificially boost their visibility and popularity.

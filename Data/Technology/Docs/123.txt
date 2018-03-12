@@ -1,7 +1,0 @@
-https://www.telegraph.co.uk/technology/news/
-British businesses battle 38 ransomware attacks a day
-British businesses are facing unprecedented levels of new ransomware attacks thanks to a widely available menu of “malware cocktails”, expertly blended using old variants of malicious computer code.
-
-The new viruses are more potent than their predecessors because they have adapted to companies’ cyber defences, like a digital version of antibiotic-resistant superbugs.
-
-Cyber security product developer SonicWall told The Sunday Telegraph that it had seen 2,500 different variants of ransomware head for British companies since January 1, an average of 38 new attacks a day. These include variations on WannaCry, which last year spread across 150 countries and crippled several NHS trusts.
