@@ -68,21 +68,6 @@ class DBManager:
             print("\n\nERROR: Somethings gone wrong in retrieving from the db at index="+str(id)+"\n\n")
             return('','','','')
 
-    # return all elements of a specified col
-    def getAll(self, colName):
-        c=self.conn.cursor()
-        c.execute("SELECT DISTINCT "+colName+" FROM "+self.tableName)
-        result = c.fetchall()
-        return result
-
-    # returns an article with id number from param
-    def getID(self, id):
-        # db is one indexed. add one to execute
-        c = self.conn.cursor()
-        c.execute("SELECT title, article, source, category FROM "+self.tableName+" WHERE id="+str(id +1))
-        result = c.fetchall()
-        return result[0]
-
     # dump contents out to terminal
     def printAll(self):
         c=self.conn.cursor()
