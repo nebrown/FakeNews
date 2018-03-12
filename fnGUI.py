@@ -169,7 +169,7 @@ class WindowContent(QtWidgets.QWidget):
         self.summaryButton4 = QtWidgets.QPushButton('Topic 4 Summary')
         self.exitButton = QtWidgets.QPushButton('Quit')
         self.label1 = QtWidgets.QLabel('Currently looking in Category '+self.currentCategory)
-        self.label2 = QtWidgets.QLabel('No User Input')
+        self.label2 = QtWidgets.QLabel('')
         self.urlInput = QtWidgets.QLineEdit()
         self.urlInput.setPlaceholderText('Article URL')
         self.queryInput = QtWidgets.QLineEdit()

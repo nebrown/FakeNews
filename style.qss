@@ -1,5 +1,6 @@
 QWidget {
-   background-color: #222222;
+   background-color: #0052A5;
+   color: #ffffff;
 }
 
 QLineEdit {
@@ -10,16 +11,18 @@ QLineEdit {
 }
 
 QLabel {
-   background-color: #222222;
-   color: #d60000;
+   background-color: #0052A5;
+   color: #ffffff;
 }
 
 QPushButton {
-   background-color: #073763;
+   background-color: #E0162B;
    color: #ffffff;
    border-radius: 5px;
    border-style: none;
    height: 25px;
+   padding-left: 10px;
+   padding-right: 10px;
 }
 
 QPushButton:pressed {
@@ -28,5 +31,20 @@ QPushButton:pressed {
 }
 
 QPushButton:hover:!pressed {
-   background-color: #1f5b91;
+   background-color: #ffffff;
+   color: #000000;
+}
+
+QAction {
+   background-color: #ffffff;
+   color: #ffffff;
+}
+
+.addMenu {
+   color: white;
+}
+
+#bar {
+   background-color: #ffffff;
+   color: #ffffff;
 }
