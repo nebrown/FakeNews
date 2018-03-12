@@ -56,6 +56,8 @@ class MainWindow(QtWidgets.QMainWindow):
 
         super().__init__(parent)
 
+        db = DBManager('corpus')
+
         #self.init_ui()
         self.currentCategory = "All"
         self.aboutText = "This software was developed by FakeNooz for CMPE 115 at UC Santa Cruz.\n"+\
@@ -111,15 +113,16 @@ class MainWindow(QtWidgets.QMainWindow):
         # add triggers to tabs
         # Cat_action.triggered.connect(self.TS_trigger)
         help_action.triggered.connect(self.Help_trigger)
-        catActionAll.triggered.connect(lambda: self.SelectCat_trigger('All'))
-        catActionPol.triggered.connect(lambda: self.SelectCat_trigger('US_Politics'))
+        catActionAll.triggered.connect(lambda: self.SelectCat_trigger('All', db))
+        catActionPol.triggered.connect(lambda: self.SelectCat_trigger('US_Politics', db))
         about_action.triggered.connect(self.About_trigger)
 
     # dummy functions
-    def SelectCat_trigger(self, newCat):
+    def SelectCat_trigger(self, newCat, db):
         print(newCat)
         self.form_widget.changeCategory(newCat)
         self.currentCategory = newCat
+        db.createTable(newCat)
 
     def About_trigger(self):
         QtWidgets.QMessageBox.about(self, "About", self.aboutText)
@@ -138,7 +141,7 @@ class WindowContent(QtWidgets.QWidget):
 
         #database manager
         db = DBManager('corpus')
-        db.createTable()
+        # db.createTable()
 
     # create features
         #self.button1 = QtWidgets.QPushButton('Search')
@@ -236,7 +239,7 @@ class WindowContent(QtWidgets.QWidget):
         self.button1.clicked.connect(lambda: self.runCorpus(db))
         # self.button2.clicked.connect(self.searchArticles)
         self.button3.clicked.connect(lambda: self.extractSentences(db))
-        self.button4.clicked.connect(self.queryArticles)
+        self.button4.clicked.connect(lambda: self.queryArticles(db))
         self.button5.clicked.connect(self.urlQuery)
         # self.button6.clicked.connect(self.setCategory)
         self.exitButton.clicked.connect(self.closeApp)
@@ -290,13 +293,14 @@ class WindowContent(QtWidgets.QWidget):
         # If failed to find sitelist for category
         print("Failed to find sitelist for category: " + newCat)
 
-    def setCategory(self):
+    def setCategory(self, db):
         # Find sitelist for category
         catSitelist = self.userInput.text() + ".txt"
         for sitelist in os.listdir("./Sitelists"):
             # If found, update category
             if catSitelist == sitelist:
                 self.currentCategory = self.userInput.text()
+                db.createTable(self.currentCategory)
                 print("Category set to: " + self.userInput.text())
                 return
         # If failed to find sitelist for category
@@ -312,9 +316,9 @@ class WindowContent(QtWidgets.QWidget):
         self.outWindow = TextViewWindow(out)
         self.outWindow.show()
 
-    def queryArticles(self):
-        print("Searching for: " + self.userInput.text() + "\nin category " + self.currentCategory)
-        lag.SearchArticles(self.userInput.text(), category=self.currentCategory)
+    def queryArticles(self, db):
+        print("Searching for: " + self.queryInput.text() + "\nin category " + self.currentCategory)
+        lag.SearchArticles(db, self.queryInput.text(), category=self.currentCategory)
         # output
         out = "Failed"
         with open('./Data/'+self.currentCategory+'/Queries/s0.txt') as file:
@@ -341,6 +345,7 @@ class WindowContent(QtWidgets.QWidget):
 
 
     def runCorpus(self, db):
+
         # run with sitelist
         sitelist = []
         f = open("./Sitelists/" + self.currentCategory + ".txt", "r")
@@ -357,6 +362,11 @@ class WindowContent(QtWidgets.QWidget):
         qApp.quit()
 
 if __name__ == '__main__':
+
+    #database manager
+    db = DBManager('corpus')
+    db.createTable('All')
+
     app = QtWidgets.QApplication(sys.argv)
     mainWindow = MainWindow()
     mainWindow.setWindowTitle('Read FakeNooz')

@@ -11,8 +11,9 @@ import os
 from pprint import pprint
 
 class DBManager:
-    tableName = 'Articles'
+    tableName = 'All'
     conn = None
+    dbName =''
     
     # initializes db connection on init
     def __init__(self, dbName):
@@ -22,12 +23,14 @@ class DBManager:
         # except OSError:
         #     pass
         self.conn = sqlite3.connect(dbName+'.db', detect_types=sqlite3.PARSE_DECLTYPES|sqlite3.PARSE_COLNAMES)
-
+        self.dbName = dbName
     # Creates the database to store articles
     # Removes any previous
-    def createTable(self):
-        self.conn.execute("DROP TABLE IF EXISTS "+self.tableName)
-        self.conn.execute("CREATE TABLE " + self.tableName + " (id INTEGER PRIMARY KEY, title TEXT NOT NULL, article TEXT, source TEXT, category TEXT, topicIdx INT, score FLOAT)")
+    def createTable(self, tableName):
+        self.tableName = tableName
+        # self.conn.execute("DROP TABLE IF EXISTS "+self.tableName)
+        # self.conn.execute("CREATE TABLE IF NOT EXISTS " + self.tableName + " (id INTEGER PRIMARY KEY, title TEXT NOT NULL, article TEXT, source TEXT, category TEXT, topicIdx INT, score FLOAT)")
+        self.conn.execute("CREATE TABLE IF NOT EXISTS \'"+self.tableName+"\' (id INTEGER PRIMARY KEY, title TEXT NOT NULL, article TEXT, source TEXT, category TEXT, topicIdx INT, score FLOAT)")
 
     # Change the tablename used to have multiple instances if needed
     # Potentially we could keep a counter to automatically allow new
@@ -44,12 +47,12 @@ class DBManager:
         category = data[3]
         topic = data[4]
         score = data[5]
-        self.conn.execute("INSERT INTO " + self.tableName + " (title, article, source, category, topicIdx, score) VALUES (?,?,?,?,?,?);", (title, article, source, category, topic, score))
+        self.conn.execute("INSERT INTO \'" + self.tableName + "\' (title, article, source, category, topicIdx, score) VALUES (?,?,?,?,?,?);", (title, article, source, category, topic, score))
 
     # return all elements of a specified col
     def getAll(self, colName):
         c=self.conn.cursor()
-        c.execute("SELECT DISTINCT "+colName+" FROM "+self.tableName)
+        c.execute("SELECT DISTINCT "+colName+" FROM \'"+self.tableName+"\'")
         result = c.fetchall()
         return result
 
@@ -57,16 +60,23 @@ class DBManager:
     def getID(self, id):
         # db is one indexed. add one to execute
         c = self.conn.cursor()
-        c.execute("SELECT title, article, source, category FROM "+self.tableName+" WHERE id="+str(id +1))
+        c.execute("SELECT title, article, source, category FROM \'"+self.tableName+"\' WHERE id="+str(id +1))
         result = c.fetchall()
         return result[0]
 
     # dump contents out to terminal
     def printAll(self):
         c=self.conn.cursor()
-        c.execute("SELECT * from " + self.tableName)
+        c.execute("SELECT * from \'" + self.tableName+"\'")
         result=c.fetchall()
         pprint(result)
+
+    def clearOld(self):
+        try:
+            os.remove(self.dbName+'.db')
+        except OSError:
+            pass
+        self.conn = sqlite3.connect(self.dbName+'.db', detect_types=sqlite3.PARSE_DECLTYPES|sqlite3.PARSE_COLNAMES)
 
 # Test code
 # t = DBManager('test')
