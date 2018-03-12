@@ -1,0 +1,50 @@
+QWidget {
+   background-color: #0052A5;
+   color: #ffffff;
+}
+
+QLineEdit {
+   background-color: #ffffff;
+   color: #666666;
+   font-style: italic;
+   font-weight: bold;
+}
+
+QLabel {
+   background-color: #0052A5;
+   color: #ffffff;
+}
+
+QPushButton {
+   background-color: #E0162B;
+   color: #ffffff;
+   border-radius: 5px;
+   border-style: none;
+   height: 25px;
+   padding-left: 10px;
+   padding-right: 10px;
+}
+
+QPushButton:pressed {
+   background-color: #3e75a6;
+   border-style: inset;
+}
+
+QPushButton:hover:!pressed {
+   background-color: #ffffff;
+   color: #000000;
+}
+
+QAction {
+   background-color: #ffffff;
+   color: #ffffff;
+}
+
+.addMenu {
+   color: white;
+}
+
+#bar {
+   background-color: #ffffff;
+   color: #ffffff;
+}

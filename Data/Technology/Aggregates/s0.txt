@@ -1,0 +1,36 @@
+Keywords: 0.291*"mr" + 0.150*"trump" + 0.133*"north" + 0.129*"he" + 0.103*"said" + 0.100*"his" + 0.097*"korea" + 0.093*"i" + 0.088*"s9" + 0.088*"musk"
+
+0, 893, 1457.19186595: Trump’s decision to back off from across-the-board tariffs came in the face of strident warnings from the American business world and leaders of his own Republican Party that such a course would damage the American economy and alienate allies.
+
+1, 912, 1456.75238257: “This would open the floodgates to everyone bringing in broad exceptions,” said Ms
+
+2, 1258, 1456.08855226: The summit will take place in a media ecosystem completely different to that of 1961, when President John Kennedy met Nikita Khrushchev in Vienna, or of 1972 when Richard Nixon made his famous overture to China
+
+3, 385, 1455.99388366: Democrats, liberals and leftists have coped with this first year of the Trump presidency in lots of ways
+
+4, 1730, 1454.78468106: Trump’s planned meeting, China is engaged in what some call “exclusion anxiety,” worried about being shut out
+
+5, 910, 1454.38893308: The trade organization could rule in favor of the United States, deferring to American sovereignty and its right to determine its national security policies
+
+6, 1072, 1454.28030884: Flood had been on the wish list of some of the president’s advisers to join his legal team last year, and he is the only person the White House has been in contact with about such a leading role.
+
+7, 1318, 1454.04097844: If the Trumps manage a Kushner property that received foreign or domestic government funding, it could test the Constitution’s emoluments clauses, which essentially prohibit the president from accepting certain gifts from foreign or domestic governments
+
+8, 1325, 1453.74024109: The Kushners also used money from Chinese investors to finance the construction of Trump Bay Street, the residential tower in Jersey City
+
+9, 1137, 1453.6927878: It was the first time that Ms
+
+10, 1267, 1453.30351653: The plans under discussion in Long Branch have called for the Kushners to own the hotel and make payments to the Trump Organization to run it
+
+11, 188, 1452.78658831: The Dewey Square Group said that in 2008, as an adviser to Mrs
+
+12, 1343, 1452.06729463: Kushner assumed a role in the White House, but his sister, Nicole Meyer, and his father, Charles Kushner, continued to work on the effort, including discussions with officials about the bonds.
+
+13, 952, 1450.96479946: As the United States grappled with the Great Depression, a Republican-controlled Congress seized on protectionism as the fix, adopting the infamous Smoot-Hawley Tariff Act of 1930 to wall off American farms and factories from foreign competition.
+
+14, 1701, 1450.27919323: Some of the president’s advisers objected to the idea of a foreign official making a statement from the White House lectern, so they had him do it instead on the White House driveway, where visitors typically speak with reporters
+
+Summary:
+Flood had been on the wish list of some of the president’s advisers to join his legal team last year, and he is the only person the White House has been in contact with about such a leading role.
+The plans under discussion in Long Branch have called for the Kushners to own the hotel and make payments to the Trump Organization to run it
+As the United States grappled with the Great Depression, a Republican-controlled Congress seized on protectionism as the fix, adopting the infamous Smoot-Hawley Tariff Act of 1930 to wall off American farms and factories from foreign competition.

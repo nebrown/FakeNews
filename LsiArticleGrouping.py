@@ -60,7 +60,7 @@ def GetTopics(dct, lsi, numTopics):
     return topics
 
     # Could avoid writing whole text twice
-def CreateMetaDocs(sortedSims, docFolder, lsi, category="All"):
+def CreateMetaDocs(db, sortedSims, docFolder, lsi, category="All"):
     numSentences = 25
     for i in range(len(sortedSims)):
         # Open folder to write to
@@ -69,23 +69,31 @@ def CreateMetaDocs(sortedSims, docFolder, lsi, category="All"):
         wf = open(docFolder + "/f" + str(i) + ".txt", "w")
         wr = open(docFolder + "/" + str(i) + ".txt", "w")
         wf.write(lsi.print_topic(i))
+
+
         # Get top 10 related articles and write them in
+        # Article number will be our index in the db
         for j in range(min(numSentences, len(sortedSims[i]))):
             articleNum = sortedSims[i][j][0]
-            r = open("./Data/" + category + "/Docs/" + str(articleNum) + ".txt", "r")
+            # r = open("./Data/" + category + "/Docs/" + str(articleNum) + ".txt", "r")
+            r = db.getID(articleNum)
+            # pprint(r)
             # r = open("./Data/Docs/" + str(articleNum) + ".txt", "r")
-            articleUrl = r.readline()
-            articleTitle = r.readline()
-            articleContents = r.read()
+            articleTitle = r[0]
+            articleContents = r[1]
+            articleUrl = r[2]
+            # articleUrl = r.readline()
+            # articleTitle = r.readline()
+            # articleContents = r.read()
             wf.write("\n\n====================================")
             wf.write("\n" + str(j) + ": " + str(sortedSims[i][j][1]) + "\n")
-            wf.write(articleUrl + articleTitle + articleContents)
+            wf.write(articleUrl +"\n" + articleTitle + "\n"+articleContents)
             wr.write("\n" + articleContents + "\n")
-            r.close()
+            # r.close()
         wr.close()
         wf.close()
 
-def CreateQueryMetaDocs(query, sortedSims, docFolder, lsi, category="All"):
+def CreateQueryMetaDocs(db, query, sortedSims, docFolder, lsi, category="All"):
     numSentences = 25
     for i in range(len(sortedSims)):
         # Open folder to write to
@@ -97,16 +105,16 @@ def CreateQueryMetaDocs(query, sortedSims, docFolder, lsi, category="All"):
         # Get top 10 related articles and write them in
         for j in range(min(numSentences, len(sortedSims[i]))):
             articleNum = sortedSims[i][j][0]
-            r = open("./Data/" + category + "/Docs/" + str(articleNum) + ".txt", "r")
-            # r = open("./Data/Docs/" + str(articleNum) + ".txt", "r")
-            articleUrl = r.readline()
-            articleTitle = r.readline()
-            articleContents = r.read()
+            # r = open("./Data/" + category + "/Docs/" + str(articleNum) + ".txt", "r")
+            r = db.getID(articleNum)
+            articleUrl = r[2]
+            articleTitle = r[0]
+            articleContents = r[1]
             wf.write("\n\n====================================")
             wf.write("\n" + str(j) + ": " + str(sortedSims[i][j][1]) + "\n")
             wf.write(articleUrl + articleTitle + articleContents)
             wr.write("\n" + articleContents + "\n")
-            r.close()
+            # r.close()
         wr.close()
         wf.close()
 
@@ -132,7 +140,7 @@ def SentenceExtract(docFolder, sortedSims, lsi, category="All", isQuery=False):
         w.write("\nSummary:\n" + sumText)
         w.close()
 
-def SearchArticles(query, category="All"):
+def SearchArticles(db, query, category="All"):
     totalTopics = 5
     chosenTopics = 5
 
@@ -174,7 +182,7 @@ def SearchArticles(query, category="All"):
     docFolder = SetupQueriesDirectory(category=category)
 
     # Create meta-documents
-    CreateQueryMetaDocs(query, sortedSims, docFolder, lsi, category=category)
+    CreateQueryMetaDocs(db, query, sortedSims, docFolder, lsi, category=category)
 
     # # Pull out highly relevant sentences
     # for i in range(len(sortedSims)):
@@ -190,7 +198,7 @@ def SearchArticles(query, category="All"):
     print("Search completed.")
 
 
-def GroupArticles(category = "All"):
+def GroupArticles(db, category = "All"):
     totalTopics = 5
     chosenTopics = 5
     numSentences = 25
@@ -234,7 +242,7 @@ def GroupArticles(category = "All"):
     docFolder = SetupAggDirectory(category=category)
 
     # Create meta-documents
-    CreateMetaDocs(sortedSims, docFolder, lsi, category=category)
+    CreateMetaDocs(db, sortedSims, docFolder, lsi, category=category)
 
     # Pull out highly relevant sentences
     SentenceExtract(docFolder, sortedSims, lsi, category=category)
@@ -296,7 +304,7 @@ def SimilarSentences(aggregatePath, category):
     #print("\n")
     #pprint(sentences)
     topSentences = []
-    for i in range(15):
+    for i in range(min(15, len(simSum))):
         topSentences.append(str(i) + ", " + str(simSum[i][0]) + ", " + str(simSum[i][1]) + ": " + sentences[simSum[i][0]] + "\n")
 
     return topSentences

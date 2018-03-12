@@ -1,0 +1,29 @@
+http://money.cnn.com/technology/
+Facebook robots may one day follow you around at home
+Your future Instagram pictures could be taken by a Facebook-branded robot that follows you around the house.
+
+That is, if a newly awarded Facebook patent ever becomes a reality.
+
+The company received a patent on Tuesday for a self-balancing robot that's capable of standing on either two or three legs. The concept resembles a telepresence robot, complete with a screen, camera and microphone.
+
+The patent states the robot may have other abilities such as carrying cargo and a cooling system to control its temperature.
+
+It's unclear what Facebook might do with a telepresence robot, but the potential is vast. The company did not immediately respond to a request for comment.
+
+A self-balancing robot could be used to expand its video conferencing offerings. Facebook has offered video calls on Messenger since 2015. With video conferencing on a telepresence robot, a friend could virtually follow you around your home while carrying on a conversation.
+
+A robot in the home could also be used to autonomously take photos and videos for Facebook's suite of content sharing platforms, including Instagram and WhatsApp.
+
+Companies are often awarded patents, but many never turn into real-life products.
+
+The self-balancing robot patent was filed by a Facebook employee who previously worked at a telepresence robotics company.
+
+These types of robots remain a niche product. They're expensive -- several thousand dollars each -- and don't yet fill a need for consumers.
+
+But home robots is an industry Silicon Valley startups continue to explore. Mayfield Robotics is currently accepting pre-orders for a Kuri, a $899 robot that wheels itself around your home and takes candid videos.
+
+Of course, the act of introducing a robot into the home raises privacy and security concerns, especially at a time when some users have misgivings about the amount of personal data Facebook collects. After all, a robot operating in the home could significantly increase how much Facebook knows about its users.
+
+Experts see a use for the robots outside of the house, too. Christopher Atkeson, a robotics professor at Carnegie Mellon University, envisions multiple Facebook robots being used to deliver a Facebook Live broadcast of an amateur sporting event.
+
+"Facebook is about capturing and telling stories," Atkeson told CNN. "Automated cameramen and sports commentators will play an important part in increasing people's ability to capture and tell stories. Imagine being a proud parent, coach, or player, and being able to televise high school sports."

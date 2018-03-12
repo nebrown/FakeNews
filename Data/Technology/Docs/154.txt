@@ -1,0 +1,86 @@
+https://www.technewsworld.com/
+Real Danger and Dangerous Distraction - AI to the Rescue?
+
+
+Need a mobile developer, cybersecurity pro or other IT expert?
+
+On ALL EC you can quickly and conveniently research all available technology solutions before making your next planning or purchasing decisions. Gather key insights and information before selecting your vendors. Visit ALL EC today.
+
+The shooting at the school in Florida was devastating, and it appears clear that Russia has been manipulating public opinion in the U.S. to stoke the flames of a divisive argument on guns. What is being missed is a brewing problem that potentially could have an even more devastating impact.
+
+Competing for our eyeballs is the news that the U.S. president kissed a woman without her permission. That story has served as a distraction from far more horrendous attacks against women in the tech industry and in government.
+
+Intel showcased virtual reality at the Olympics, but almost no one cared. I think that deep learning and artificial intelligence either could make things far better or far, far worse -- and my fear is that we are moving toward the latter and away from the former. I'll explain and then close with my product of the week.
+
+The Fake Gun Debate
+
+At the heart of the gun debate is that it isn't about saving lives. Like most things, it is about power. One side wants to dictate to the other, regardless of whether it would save lives, and both sides are at fault.
+
+The right is led by the NRA, which is basically a gun lobby pretending to support gun owners' rights but instead is focused mainly on tactically maximizing gun sales (which eventually will backfire).
+
+The other side is nearly as rabid about eliminating gun owners' rights. All of this is going on when it is obvious that the attack could have been stopped if systems in the government that were designed to prevent the next 9/11 had worked. They didn't. The shooter was flagged and reported early, but even though law enforcement had the guy's name, he wasn't stopped until after he had killed.
+
+That means the massively funded data capture system put in place after 9/11 didn't work. It means that the U.S.' primary defense against another foreign attack -- a system the government has been pretending will keep us safe -- is broken. Yet instead of focusing on fixing that, people are yelling back and forth on gun control, even though we know that the pro side is funded by folks who want to sell guns, and the con side is focused on taking away legal gun owners' rights.
+
+Neither side seems to get that this won't matter much if North Korea smuggles in a pocket nuke. If we couldn't even stop someone who posted on social media that his professional goal was to be a school shooter, how the hell are we going to stop the next terrorist attack?
+
+What concerns me most is that Russia, who isn't exactly our buddy now, has been driving this wrong-headed argument. The implication is that it has a reason for keeping the U.S.' internal detections systems broken, and I'm pretty sure we should focus on finding out what that reason is before it executes.
+
+The NRA Makes Arming Teachers Stupid
+
+I'm anything but anti-gun, but the idea of arming teachers is colossally stupid, for three reasons:
+
+First, teachers tend to be liberal and liberals tend to be anti-gun. Forcing people to carry guns is no different, in terms of abuse of power, than forcing people to give up guns. It is simply the other side of an abuse of power.
+
+Second, the government doesn't fund schools adequately at the moment, and many classrooms have been going without supplies. Defending a school would require high-quality (accurate) weapons and extensive training, which likely also would not be well funded.
+
+Third, the kind of gun you would want a teacher to carry would be a smart gun that only the teacher could use. However, the NRA has been aggressive in blocking the creation and use of smart technology in guns because it would increase gun prices and slow gun sales -- and because places like New Jersey would require all guns be smart. This is likely my strongest example of why the NRA isn't pro-gun user but pro-gun seller. Smart guns, done right, would make it almost impossible for your gun to be used against you. They would decrease massively the time it would take in an attack to get to your gun (you wouldn't need to lock them up), and in a school situation, would prevent a teacher's gun from being used by a student.
+
+I do think putting unarmed security guards into schools just makes them targets. However, arming them isn't the answer either. I used to manage a bunch of armed security guards. I disarmed them after two guards, while messing with their guns in the bathroom, proceeded to shoot through several walls and kill a transformer.
+
+Folks who are security guards are hardly SWAT level, and in a school with an active shooter, you need a ton of training to minimize collateral damage. The training is more important than the weapon. Without it, you haven't solved a problem -- you've created another opportunity for dead kids. That just seems stupid to me.
+
+As a side note, when I was a sheriff, we watched a film in which a lone gunman shot up something like 30 police officers. The after-action analysis pointed out that because the officers weren't trained often enough or properly, the result was that the shooter took them out while they pretty much shot up the neighborhood. I don't think we want to recreate that experience in a school.
+
+The Kiss
+
+The tech industry has a massive sexual harassment and abuse problem, as I wrote last week. With stories of venture capitalists forcing women entrepreneurs to have sex in exchange for funding or in exchange for a promotion or just to keep their jobs, and with clearly unacceptable levels of sexual harassment, a lot of executives should be fired. This problem isn't unique to the tech industry. Reports coming out of government organizations like the USDA suggest that it is rampant in government as well. (Please buy and read Brotopia).
+
+Yet rather than focus on women at risk today, the media has been enamored with the story of a woman who claimed she was kissed by President Trump against her will years ago, and she has been using her story to gain visibility and run for public office.
+
+I'm not saying what Trump did was right, and I clearly support women running for office as one approach that eventually could eliminate this problem. Still, the conflict of interest is so obvious that this effectively trivializes the problem.
+
+On a degree-of-seriousness scale, an unwanted kiss from an old guy largely should fall into the noise against the backdrop of employment-connected rape. Of course, the far bigger problem we should be laser-focused on is whether the president is under the control of Russia.
+
+As a side comment, what happened to the opposition research during the election? So much of what is now coming out about the president should have shown up in opposition research during both the primary and the election itself. The scary implication is that Russia might have been effective both at suppressing the information and then making sure it became public, with the obvious intent of making the U.S. government ineffective. That does seem like a waste of time and money, though, as it would seem just a tad redundant.
+
+Wrapping Up: Avoiding Manipulation
+
+U.S. citizens are being manipulated at an unprecedented scale, and the power struggles have been distracting from the real problems. The public's focus is being shifted from where it should be -- both at a macro level concerning things like the ineffectiveness of U.S. intelligence and law enforcement organizations, or sexual harassment at scale, and at a micro level concerning things like stock prices and technology.
+
+This should be one of the primary areas of focus of our deep learning AI systems, and I think it is -- but sadly, it appears that most of the effort may be going toward the creation of systems that mislead us.
+
+For instance, before another child was shot, we could model a school shooting with well trained and poorly trained teachers to make the point that the latter scenario would be brain dead stupid. However, neither side seems to care about this -- they only care about their argument prevailing. This is called argumentative theory, which basically states we would rather prevail than be right, and that sure doesn't bode well for the kids we should be trying to save.
+
+The technology industry could do amazing things, but it also can do incredible damage. Too much of what many have spend their lives working to create has been used to do harm. Fixing that should be a higher priority than being distracted by the scandal of the moment.
+
+So much of the information around us is fake, and so many of our arguments are stupid. AI could fix that problem at scale, but sadly that isn't yet a priority, while using technology to fool and manipulate us is. I expect that if this trend should continue, it will end badly.
+
+One of the big problems with virtual and augmented reality, of VR/AR -- what we now call "mixed reality," is that the headsets look stupid. No one likes to buy something that makes them look stupid.
+
+That was one of the problems with 3D TVs. Folks hated the glasses because most of them made you look bad when you wore them. The Microsoft HoloLens actually looked comparatively good, but it was wicked expensive and it had a business focus.
+
+What we needed was a consumer-grade headset that would look cool.
+
+Well, Magic Leap stepped up and the Magic Leap One looks cool. It looks like something a character in Star Wars would wear, and I don' t think that is a bad thing.
+
+Magic Leap One
+
+The Magic Leap One showcases that you can get a decent display, decent technology, and decent performance into a design that is attractive.
+
+People just aren't going to buy butt-ugly to put on their heads en masse, and Magic Leap now is the leading example that a mixed reality headset can look good.
+
+We still need compelling content, but attractive hardware moves the ball forward and makes it more likely mixed reality will be a thing this decade. As a result, the Magic Leap One is my product of the week.
+
+Rob Enderle has been an ECT News Network columnist since 2003. His areas of interest include AI, autonomous driving, drones, personal technology, emerging technology, regulation, litigation, M&E, and technology in politics. He has undergrad degrees in merchandising and manpower management, and an MBA in human resources, marketing and computer science. He is also a certified management accountant. Enderle currently is president and principal analyst of the Enderle Group, a consultancy that serves the technology industry. He formerly served as a senior research fellow at Giga Information Group and Forrester. Email Rob.
+

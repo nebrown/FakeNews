@@ -1,0 +1,56 @@
+https://www.technewsworld.com/
+New Uber Service Focuses on Getting Folks to the Doctor
+
+
+Tech Industry Events and Webinars
+
+Find upcoming e-commerce and technology conferences, trade shows, workshops and webinars. Visit ALL EC Events today.
+
+Uber on Thursday introduced Uber Health, a new service designed to provide reliable transportation specifically for healthcare-related needs. The program, which is currently in beta, will offer healthcare providers a way to order rides for their patients to help them keep their appointments.
+
+Uber Health addresses a growing problem, especially with seniors and others who lack good transportation options for visits to doctors or clinics.
+
+As many as 3.6 million Americans miss doctor appointments due to lack of reliable transportation, suggests data from the Community Transport Association. This problem is especially troublesome for those with chronic illnesses.
+
+The new Uber service is designed to provide a flexible ride schedule for both patients and caregivers. Rides can be scheduled immediately when needed -- much like the traditional Uber service -- but they also can be ordered up to 30 days in advance and scheduled along with follow-up healthcare appointments. There will be an option for providers to schedule multiple rides using a single dashboard.
+
+The service meets HIPAA standards, according to Uber.
+
+Click Image to Enlarge
+
+Uber Health gets around the technology gap for low-income patients and seniors who do not own a smartphone, which typically is required to order a ride from Uber or a competing service. Uber Health rides can be ordered via text message instead of using an app, and patients also can receive ride information via a landline.
+
+Uber Health currently is undergoing a beta test with more than 100 healthcare organizations in the United States. Early testers include hospitals, clinics, rehab centers, senior care facilities, home care centers and physical therapy providers. Adams Clinical, Manhattan Women's Health, NYU Perlmutter Cancer Center and Yale New Haven Health are among those participating in the test.
+
+Filling the Void
+
+The Uber Health service could extend awareness to a segment of the community who may not even understand the concept of ride sharing.
+
+"Uber Health address a clear and identified need among Americans," said Roger Entner, principal analyst at Recon Analytics.
+
+"Many Americans are infirm and unable to afford going to the hospital using an ambulance, and currently many are choosing regular rideshare or taxi services to get to the hospital," he told TechNewsWorld.
+
+Uber Health could offer a more affordable and, more importantly, dependable service to those individuals.
+
+"Certainly, giving patients more transportation options and ensuring people get to appointments is valuable," said Greg Sterling, vice president of strategy and insights at the Local Search Association.
+
+"This would be primarily aimed at people who don't have the Uber app themselves and might otherwise have trouble getting to healthcare providers," he told TechNewsWorld.
+
+Ambulance Chasing
+
+One question that may need to be addressed is how this service will respond to ride requests from the seriously ill -- it's unlikely that drivers would be qualified to provide any healthcare.
+
+"These services -- and drivers -- are not trained nor properly insured to transport sick people, opening up Uber drivers to the risk of lawsuits," cautioned Entner.
+
+However, Uber Health is not really intended to be a substitute for an ambulance, Sterling pointed out.
+
+"Because it's largely controlled by the medical provider, I don't see people using it in that way, and patients are already at greater risk using the traditional Uber service in that way," he suggested.
+
+"This isn't a replacement for emergency services," said Entner, "but Uber Health can provide the necessary services to get you to a doctor or hospital at a lower cost."
+
+In the future, there may not even be a driver at all.
+
+"It could become autonomous in the future," said Sterling, "but I would imagine the company wouldn't introduce that until long after it was proven in other contexts."
+
+Peter Suciu has been an ECT News Network reporter since 2012. His areas of focus include cybersecurity, mobile phones, displays, streaming media, pay TV and autonomous vehicles. He has written and edited for numerous publications and websites, including Newsweek, Wired and FoxNews.com. Email Peter.
+

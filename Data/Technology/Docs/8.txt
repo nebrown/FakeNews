@@ -1,0 +1,125 @@
+https://www.cnet.com/news/
+Galaxy S9 vs. iPhone X: Which to buy
+Samsung's Galaxy S9 and S9 Plus have come to fight for Apple's smartphone crown with new features and supercharged cameras. But the iPhone X won't go down easily, and deciding between the newest Galaxy and iPhone may prove tougher than ever.
+
+Preorders for the Galaxy S9 and S9 Plus start on March 2, and the phones hit stores on March 16. We'll have our reviews posted before that latter date and they'll have definitive answers on how the new Samsungs stack up. But if you can't wait until then, there are some things we already definitively know -- like price, screen size and the headphone jack situation -- that may help inform your buying decision.
+
+Now Playing: Watch this: How does the Galaxy S9 compare to the iPhone X?
+
+Price
+
+Samsung has a flat-out advantage here. The cheapest iPhone X (64GB) will cost you $999 (£999, AU$1,579). Expect to spend less on the S9, and you get two price points to choose from. Prices vary from carrier to carrier, starting at $720 (£739, AU$1,199) for the S9 and $840 (£869, AU$1,349). Those are also 64GB models, but -- unlike iPhones -- they can be easily and massively expanded with the addition of cheap MicroSD cards.
+
+Note that Apple's iPhone 8 Plus, which features nearly all of the X's features, is much more price competitive with the S9 Plus, but it's got those old-fashioned big bezels.
+
+Advantage: Samsung
+
+Headphone jack
+
+This one's another clear win for Samsung. It has a headphone jack. The iPhone X does not. The X requires you to use a dongle for traditional headphones, use Apple's Lightning port headphones or you can use the Bluetooth option on both phones.
+
+Advantage: Samsung
+
+Software and ecosystem
+
+Android Oreo 8.0 vs iOS 11 is pretty much like comparing apples to oranges (ahem!), but switching from either is a big deal. If you have deep ties to one or the other, this might be another easy deal-breaker.
+
+Even if you're neutral on your operating system preference, however, remember that your OS choice has impact beyond the phone. If you've already purchased all of your TV shows on iTunes, you won't be able to access them on a Galaxy phone. Bought a HomePod? Also no good on Samsung. Google services, meanwhile, are much more Apple friendly, but still not 100 percent compatible. You can send audio and video from some but not all of your iPhone apps to Chromecast devices, for instance.
+
+Advantage: Varies by user preference
+
+Design
+
+Both phones are glass-on-glass with metal frames and barely-there bezels. The S9s have curved edges and screens that appear to spill over the sides. The bezels on the iPhone X are slimmer top to bottom, but you get the intrusive notch at the top. The iPhone comes in monochromatic Space Gray and silver, while the S9 comes in Midnight Black, Coral Blue, Lilac Purple and Titanium Gray.
+
+Advantage: Varies by user preference
+
+Screen
+
+The iPhone X's screen is the same size as the 5.8-inch screen on the S9 (minus the notch), while the S9 Plus has a larger 6.2-inch screen. All three are OLED displays, but the S9 has a slightly higher resolution and pixel density (2,960x1,440 pixels/529ppi and 570ppi) than the Super HD Retina Display on the iPhone X (2,436X1,12,200 pixels/458 ppi). The iPhone X however has TrueTone technology that adjusts the color temperature of the screen relative to the type of ambient light, so that colors look accurate no matter what the lighting condition.
+
+Advantage: Samsung for size and resolution, but color preference will vary.
+
+Speakers
+
+
+
+The iPhone X has stereo speakers on the bottom of the phone and on the earpiece. The S9 and S9 Plus are the first Galaxy phones to also get stereo speakers. They're tuned by AKG and have a Dolby Atmos codec which translates into richer, louder sound than that of the previous S8. The S9 also allows you to adjust the audio profile from the settings.
+
+Advantage: Both have a stereo speaker configuration, but the advantage is TBD until we can listen to them both side by side outside of a demo room.
+
+Fingerprint scanner
+
+Josh Miller/CNET
+
+Neither phone has an in-screen fingerprint scanner like the Vivo X20 Plus UD or the Apex concept phone, but the S9 kept the fingerprint scanner on the back of the phone like its predecessor for mobile payments and unlocking your phone. Except this time it's in a better position. It's below the camera instead of beside it like on the S8. To unlock the iPhone X or to verify a payment, you'll have to use the FaceID feature or a passcode. The iPhone 8 Plus has the trusty ol' TouchID fingerprint sensor on the front, but that's at the expense of thick top and bottom bezels.
+
+Advantage: Samsung, if a fingerprint sensor is a must-have
+
+Face-unlock (FaceID vs. Intelligent Scan)
+
+Both phones have facial-recognition features that can be used to unlock them, but the technology used is different. The iPhone X has a True Depth (depth-sensing) camera on the front of the phone that maps out your face in 3D using infrared dots. Apple says FaceID authentication is even more secure than its TouchID authentication on the fingerprint scanner.
+
+The Galaxy S9 and S9 Plus use Intelligent Scan, a combination of the iris scanner and the less-secure facial recognition feature that uses the non-depth sensing front camera to unlock. This feature "favors ease of unlocking over security" and defaults to the "trickable" Face Unlock feature and only used the more secure iris scanner as a backup when lighting conditions don't allow for a full face scan.
+
+In her review, CNET reviews Section Editor Jessica Dolcourt found that the iPhone X's FaceID is more tamper-proof than the S9's Intelligent scan, although iris unlock on the Galaxy S8 and newer is still secure.
+
+Advantage: Apple
+
+Cameras
+
+It's still early to declare a winner in this category because we have yet to test an S9 in the real world, but here are the facts.
+
+The S9 has a single main shooter, while the S9 Plus has a dual-lens setup similar to that of the iPhone X with a 12MP wide angle and 12MP telephoto lens for better zoom and DSLR-style portraits. The S9 Plus allows you to control the intensity of the blur while you're taking the shot or after, much like the Note 8. The iPhone X, on the other hand, has Portrait Lighting that lets you play with different lighting options for portraits during or after you take the shot. Check out our comparison if you want to see them both in action.
+
+Galaxy S9 Plus iPhone X 12MP wide-angle ƒ/1.5 or ƒ/2.4 (dual aperture) 12MP telephoto ƒ/2.4 (aperture) 12MP wide-angle ƒ/1.8 (aperture) 12MP telephoto ƒ/2.4 (aperture)
+
+What's unique about the S9 is that the main lens has a variable aperture which changes from f1.5 and f2.4 depending on the lighting and has the potential to improve low-light shots significantly. It's a feature that's been around for ages in point-and-shoot cameras, but it's new for a phone and this is why it matters. It also lets you choose the aperture yourself from the camera's Pro Mode.
+
+The S9 also has a new super-slow-motion feature that lets you record video up to 960 fps in HD. But based on our preliminary testing the mode is not as straight-forward because the camera only captures 6 seconds of super slow-mo and it automatically decides what part should be at this speed. It also has a 240fps option at 1080P that you set manually. The iPhone X has a fixed aperture of ƒ/1.8 and a max slo-mo rate of 240 fps in Full HD.
+
+The front cameras, meanwhile, break down as follows: The S9 has an 8MP front camera with an ƒ/1.7 aperture, compared to the 7MP depth-sensing camera with an ƒ/2.2 aperture on the iPhone X. Both use software to achieve a have a blurred background option for selfies and augmented reality capabilities. But according to Jessica, the blur on the S9's Selfie Focus mode is more agressive, often blurring out too much of the subject, while the iPhone X's seems to be more forgiving.
+
+For what it's worth, DxO Mark has already anointed the Galaxy S9 Plus as having the best smartphone camera on the market, surpassing both the iPhone X and the Google Pixel 2. You can check a few of the S9's shots for yourself in our gallery.
+
+Advantage: TBD after testing
+
+AR emojis vs. animojis
+
+AR emojis are Samsung's take on Apple's Animojis, the animated emojis that can be controlled with your face. Apple's Animojis focus on a few emojis like the poop and the unicorn with more coming with the iOS 11.3 launch in the spring. While the S9 gives you a few more options to chose from . You can transform your face into an animal or Disney character or you can customize your own avatar by taking a selfie on either camera.
+
+Our CNET editors took turns trying out the AR emojis and the consensus was that the technology seems lackluster and the results creepy because the gestures on the animations didn't really match the real-life version. CNET's Jessica Dolcourt said, "Samsung's AR Emoji feature lacks the charm and verve of iPhone's Animojis -- they came off as eerie and unfinished."
+
+Advantage: Apple
+
+Storage
+
+The S9 has three tiers of onboard storage options depending on the market (64GB, 120GB and 256GB) with up to 400GB of expandable storage. The iPhone X only offers a 64GB and 256GB option with no SD card slot.
+
+Advantage: Samsung
+
+Speed
+
+The motors on both these phones are beasts, but it's hard to compare them without the S9 in our hands. The S9s are powered by Qualcomm's Snapdragon 845 or the Samsung Exynos 9810, depending on your region, while the iPhone has Apple's A11 Bionic chip on the iPhone X.
+
+Our early tests of the Qualcomm 845 yielded strong results versus other Android phones when we benchmarked "white box" phones earlier this month, though it's unclear if the Galaxy S9's Snapdragons will be optimized at the same speeds. Similar tests by Anandtech on the new Exynos chip were decidedly less encouraging, but the site noted that it was unclear if its test device was representative of the final shipping product.
+
+To that end, you'll have to wait for benchmarking tests from CNET and others once we get final consumer versions of the phones.
+
+Advantage: TBD after testing
+
+Battery
+
+Both have wireless charging and some form of fast charging, but the S9 has a larger battery than the iPhone. Sometimes the size of the battery doesn't determine the usage time, so again we'll have to wait for the results from our tests to determine a winner.
+
+Advantage: TBD after testing
+
+Decisions, decisions...
+
+The Galaxy S9 and S9 Plus look strong in the early running, but so far, this is more of a specs and price comparison than anything else. If some of those early "known knowns" sway you -- say, the price and headphone jack on the Galaxy S9, or the iOS and Face ID on the iPhone -- maybe you're ready to whip out your credit card and take the plunge.
+
+But for everybody else waiting to see how those key "TBD" items compare -- battery life, speed and the camera, just to name a few -- hang on until our full reviews hit. We'll update this story at that time.
+
+Editors' note March 1: Originally published at 4 a.m. PT. Updated at 9:27 a.m. PT with news on DxO test, Anandtech benchmarks and additional context.
+
+Editor's note, March 10: Article has been updated with results from CNET's full review of the Galaxy S9.

@@ -1,1 +1,35 @@
-README
+Fake News is a news aggregation program developed for CS 115 at UCSC by:
+Noah Brown
+Ben Swanson
+Naylan Adre
+Jack Bauman
+William Howley
+
+Our program fundamentally uses LSI matrix similiarity queries to attempt
+to filter out the subjectivity seen in many news articles. The theory is 
+that if there are numerous articles about the same topic the only sentences
+that are re-iterated across all sources are more likely to be objective and
+less biased. Whereas, sentences which are said in only one source are more 
+likely to be the opinion of the author of that specific source rather than
+objective fact.
+
+The data is presented to the user in a helpful GUI. To run the program 
+first run fnGUI.py using python3 (python2 is not supported). Within the 
+GUI click collect articles to pull articles from all the news sites 
+mentioned in the sitelist.txt file. There are multiple txt files for 
+different categories. After collecting articles, the user should press the 
+aggregate button to compile them and use LSI to extract the top 5 topics
+in the given corpus. The buttons below aggregate will then provide a list
+of the most related articles, or the most related sentences + a summary
+depending on if you press articles or summary respectively. 
+
+The user can also search for the most matched sentences for a custom query
+using the 'Search terms' input box and the 'Search' button. The user can
+also find articles similar to an article they find by using the 
+'Article URL' input box and the 'URL Search' push button. Lastly, the user
+can change to a different category using the categories drop down menu. 
+Currently only All and Politics are supported. These instructions can be
+seen again in Help > Show Usage of the GUI.
+
+This program is set up as a framework that can be easily modified for further
+use as a source of personal news or as a research tool.

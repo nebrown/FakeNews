@@ -1,0 +1,63 @@
+https://www.cnet.com/news/
+Oscar winner 'The Shape of Water' mixes CG and monster makeup
+Enlarge Image Mr X
+
+There's something rather old-school about multi-Oscar winner "The Shape of Water", and not just because it harks back to classic monster movies. Writer and director Guillermo del Toro also insisted on a traditional approach of shooting the film's fantastical elements for real rather than leaning on modern digital effects.
+
+That throwback ethos of building real sets and using makeup for the film's bizarre fish creature paid off, earning del Toro's movie 13 Academy Award nominations and four wins, including Best Picture and Best Production Design.
+
+Rewinding to before the Oscars, I caught up earlier with the film's digital effects supervisor, Trey Harrell of Toronto-based special effects company Mr X, to find out how much of the film was done for real and how much was computer graphics.
+
+Harrell estimated that as much as 80 percent of the finished result was actually captured in-camera on the set before being augmented by CG. This despite what he described as a "really, really modest" budget -- somewhere around the cost of "two episodes of 'Game of Thrones'", he joked.
+
+To play the amphibious creature at the heart of the film, actor Doug Jones donned a fish-man costume and heavy makeup designed by prosthetics company Legacy Effects. That's unusual these days, as fantastical characters like Paddington, Snoke or Caesar in CG extravaganzas such as the Star Wars or Planet of the Apes movies are rarely played by actors in costume. But having an actual fish-man wandering around in front of the camera helped del Toro and the other filmmakers in various ways.
+
+Enlarge Image Mr X
+
+"It gives other actors something to perform against," explained Harrell, "and we get better performances out of them as a result." It also gives the effects people a foundation on which to build. For "The Shape of Water", digital effects were employed to animate the fish creature's eyes and touch up the real footage of Jones' performance, a technique Harrell calls "digital prosthetics" or "makeup augmentation".
+
+The process began with del Toro consulting the heads of Mr. X and Legacy Effects to decide what was going to be done digitally, what was going to be done practically -- for real, in-camera -- and what was going to be a combination of the two.
+
+As well as augmenting Jones' makeup, the filmmakers used CG for a car crash sequence so it would play out as del Toro required. Meanwhile the many shots involving water required a combination of different techniques.
+
+Enlarge Image Mr X
+
+The in-camera way of faking water is called "dry for wet".
+
+"You put the actors on wires and fill the soundstage full of snow," explained Harrell, "and film it at high speed with fans blowing. That gives the impression of being underwater."
+
+After Jones and co-star Sally Hawkins had been filmed dry for wet, the visual effects team once again touched things up. "We augment and we add Sally's hair. We float her nightgown. We do the facial performance for Doug," said Harrell. "We float props around. We add fish. We add bubbles and particulates. It's a blend of practical photography and effects."
+
+Then there's the creature itself. With Jones inside his fish-man suit and makeup, the effects team began photographing him for reference. Jones employed his skills as a mime to get into "hero poses" -- acting out surprise, anguish, love and other emotions -- and was extensively photographed by a special scanning rig.
+
+"We have a rig we call X-Scan," said Harrell, "which consists of 60 or 70 DSLR cameras inside a tent." In the tent, Jones was also scanned making different faces, which formed the foundation for the creature's expressions.
+
+Modern visual effects experts scan and model not only the actors but also the sets. Like most movies, the film used CG for digital set extension, making sets look bigger or more spectacular, or screening out modern buildings to make the Toronto locations look like Cold War-era Baltimore. But as far as possible, del Toro preferred to do things for real. "I've been on a lot of sets in my time," said Harrell, "and Guillermo's sets are always 10 times more detailed and 10 times more real than anybody else's."
+
+Enlarge Image Mr X
+
+It's not just what's happening in front of the camera that's recorded and re-created by the visual effects team. "We set up virtual lights to match what went on on-set," said Harrell, "based on real world luminant values and color temperatures using the same terminology and the same type of lights the cinematographer and their crews use."
+
+Of course, that doesn't mean the results have to look absolutely realistic. "Guillermo's a fan of cheating lighting design for creative effects," said Harrell.
+
+Once everything's been scanned, the VFX team's members use photogrammetry software Agisoft PhotoScan to compile these photos into high-resolution 3D models. They then animate further using industry standard software including Maya and Houdini, before compositing all the elements together using Nuke.
+
+All this requires a lot of computing power, with the high-resolution scans generating a whopping 30 or 40 terabytes of data. "It's fairly common for every frame to take 40 to 60 hours of individual machines rendering," said Harrell, "and when you're talking shots from thousands of frames, that's a lot of hardware you have to throw at it. You may not even see a first version for two or three days."
+
+And that's just the first attempt at each shot: Harrell said it's routine to render shots 15, 20 or 30 times before getting them right.
+
+"The work is only as good as the amount of iterations you're able to put into it," he said. "The more creative cycles you have, the better the stuff gets -- always."
+
+In fact, Harrell predicts that the next major leap forward in the industry won't be something you'll see on-screen, but that'll speed up the process behind the scenes: rendering in real time.
+
+Despite this demand for time, though, production schedules are actually getting shorter -- while at the same time more effects are required, especially in big effects-driven blockbusters. "Over the last five years we've seen postproduction schedules drop from somewhere around 18 months to somewhere around 6 months," said Harrell.
+
+In fact, it's rare nowadays to find a film like "The Shape of Water", on which Mr X was the only effects company involved, as productions usually contract multiple vendors just to get everything done in time. "With this show we did have the benefit of time," Harrell said, "whereas on some of the bigger shows you've got a producer looking at you with a stopwatch saying time's up."
+
+For "The Shape of Water", Guillermo del Toro's traditional approach won over Oscar voters, but it did come with a price during production.
+
+"Every time the suits went into contact with water, they had to be touched up," recalled Harrell. "There was so much exposure to water, the silicon and latex just dissolved. The suits were in fairly bad shape at the end of the shoot."
+
+Tech Culture: From film and television to social media and games, here's your place for the lighter side of tech.
+
+Technically Literate: Original works of short fiction with unique perspectives on tech, exclusively on CNET.

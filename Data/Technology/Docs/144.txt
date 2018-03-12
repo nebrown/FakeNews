@@ -1,0 +1,86 @@
+https://www.technewsworld.com/
+Most Companies Have No Idea Where They Are Going
+
+
+Need a mobile developer, cybersecurity pro or other IT expert?
+
+On ALL EC you can quickly and conveniently research all available technology solutions before making your next planning or purchasing decisions. Gather key insights and information before selecting your vendors. Visit ALL EC today.
+
+Dell recently collaborated with the Institute for the Future -- an interesting think tank largely driven by futurists, which focuses on helping firms ride future waves rather than being killed by them -- on a survey that creates a frightening view of 2030. It could be far closer to Terminator than the utopia we once hoped for.
+
+I think more companies should go through a process like this. The reason is that it could help overcome what has become an overwhelming trend to ignore the future and instead focus excessively on quarterly results.
+
+That trend has proven to be a company killer, driving short-term decisions -- like massive layoffs and cutbacks -- that spike income but eventually kill the firm. Dell and the institute surveyed both futurists and thousands of business leaders to assess what the future likely will be and how well prepared we are for it. Their responses are fascinating, and I'll summarize them here.
+
+I'll close with my product of the week: Blade Shadow PC, a new PC in the Cloud service that may represent the future of personal computing.
+
+Half of Business Leaders Are Clueless
+
+One of the big takeaways from the survey is that business leaders collectively had no real clue about the future. Responses were so close to 50/50 on every major question as to be worthless. Business leaders have not been thinking about and discussing the future enough to get to consensus; thus they are inconsistently -- and likely incorrectly -- guessing about the future that will come.
+
+This does not bode well for the long-term strategic investments they are making. A question as simple as "Will automated systems free-up our time?" should have gotten a resoundingly positive response. Yet exactly 50 percent disagreed, suggesting that in their shops, this was not the case, and they doubted it ever would be.
+
+If automation hasn't been freeing up time, then someone clearly has done something very wrong -- and if 50 percent of firms have been deploying technology badly, as this survey suggests, then perhaps some focus should be placed on fixing that.
+
+One particularly frightening response came up in a query about artificial intelligence. When asked for their response to the statement, "We'll learn on the job with AR," 46 percent agreed, implying that they would deploy autonomous machines but only learn how to use them after they were deployed.
+
+If you do not know how to use a thing, how do you select the best thing in the first place? If you were going to create Skynet (the evil AI in the Terminator movie franchise) that's probably how you'd do it. Gee, let's deploy an AI over our weapons systems and then learn how to -- oops, we're dead...
+
+Another troubling response was that only 42 percent believed that offloading undesirable tasks to machines would result in a gain in job satisfaction. So, 58 percent believed that our future -- the future those very folks will be helping to create -- will suck. I'm not even sure how you get there without bad intent.
+
+Think about it: Create a scenario in which a machine does all the stuff you hate about your job, but as a result, your job satisfaction drops. What is implied is that the machine must also be affecting your work in ways you'd like even less. However, the implication is that fixing that just isn't a priority for the majority of business leaders. On the contrary, they seem to expect that with their guidance, employee job satisfaction will degrade.
+
+The survey results also imply that 50 percent of the businesses surveyed not only would fail by 2030, but also that their leaders expected them to fail and weren't prioritizing ways to avoid that outcome. More importantly, if an individual, group or company believes strongly enough that there is no chance of success, then failure likely will be a self-fulfilling prophecy. About half the business leaders appeared to need an attitude adjustment.
+
+Businesses Will Spend Billions to Put Themselves out of Business
+
+Where the survey shows clear intent is with respect to change. Recall that half the companies not only had no real clue about the coming technology but also believed it would make things worse. More than 85 percent indicated that in five years R&D would drive their organization forward, that they would convert to a software-defined business, that they would deliver their product as a service, and that their cybersecurity defense would become effective.
+
+This brings to mind a survey and task force I was part of right before Y2K. We discovered a bunch of companies that appeared underprepared but were reporting they were ready. It made no sense until someone came up with the idea to look at the retirement dates for the related CIOs.
+
+There was a high correlation between the CIOs in the firms that weren't ready but were reporting they were ready and retirement dates prior to 2000. Fortunately, much of this was caught, and we didn't end up in a Mad Max world, but it was a surprisingly close thing. This survey indicates that a lot of business leaders think they will be ready by 2030, but they aren't doing what it will take to be ready. Might want to check their retirement dates.
+
+Here's the thing: Anyone running a race intuitively knows that you have to know where you are going before you start running. Otherwise, there is a high probability that you'll accelerate away from the finish line rather than toward it. This survey indicates that around half of the companies are going to spend a ton of money without knowing where they are going, making things worse.
+
+Missing Advice
+
+The report covering the survey has some great advice on how to go fast, but it lacks advice on where to go. In short, it is strong on executing but weak on strategic direction. That is not unusual. Dell, like any vendor, is focused on what it does -- and what it does isn't what its customers do.
+
+Dell wouldn't be a good place to go to for advice on the future of healthcare. It would, however, be good at helping a healthcare company get where it wanted to go.
+
+In a way, technology firms are like mechanics in a car race. They can help a good driver win a race, but if the driver doesn't know which way to go, or sucks at driving, the mechanic likely will just help the driver get lost or dead faster.
+
+What I find interesting, however, is the embedded advice from Karen Quintos, the chief customer officer at Dell:
+
+"Stronger human-machine partnerships will result in stronger human-human relationships, as companies take a customer-first approach and lead with insights. By applying machine learning and AI to customer data, companies will be able to predict and understand customer behavior like never before."
+
+Wrapping Up: Dell as an Example
+
+This sounds like an excellent place to start to build an idea of where a company should be focusing to evolve into the future. Using machine learning and AI to begin to determine direction would be a powerful first step, but you'd still need to learn how to use those tools before you deployed them. Otherwise, you'd still end up pointed in the wrong direction.
+
+A company like Dell isn't a good place to go for advice on direction -- only for advice on how to get there faster and more efficiently. However, one of the things that makes Dell unique is that it is private, and therefore has significant resistance to the excessive quarterly focus that plagues most other firms. This suggests it can be used as an example of how to determine that direction.
+
+Eliminate the excessive focus on quarterly results (go private if you have to), ensure that leadership is both competent and aligned with the goals of the firm's strategic future (too many CEOs are excessively focused on their own short-term compensation), and create a relatively diverse organization focused like a laser on customer values. That's Dell, and it makes a very nice example of a firm that has set a good direction and is executing against that vision.
+
+Michael Dell's aspirational statement that "we're entering the next era of human-machine partnership, a more integrated, personal relationship with technology that has the power to amplify exponentially the creativity, inspiration, intelligence and curiosity of the human spirit" needs one addition. My suggestion is this: "If you don't set the right goals, all this seemingly wonderful stuff will just put you out of business faster."
+
+Put a different way, putting a rocket on your car could guarantee that you win a race -- unless you are facing a brick wall rather than the race course. So, pointing the car in the right direction first should be a major plan requirement. This study suggests that about 50 percent of the firms plan both to buy rockets and to face them in the wrong direction. If that isn't fixed, it won't end well.
+
+By the way, one final thought: Were I running a team to set strategic goals, Dell's partner in this study would be one of the places I'd go to start. The Institute for the Future is one of the better resources to help you plan for the future you want to live in.
+
+Eventually I am expecting personal computing to move to the cloud, primarily because the aggravation of upgrading, patching and staying ahead of cyberthreats is going up sharply, while the limitations surrounding computing in the cloud are dropping like a rock.
+
+Blade Shadow PC, a service out of France currently in limited release in California, promises a near-term view into that future. For around US$420 a year, you get access to what is basically a dedicated gaming class machine running Windows 10 (Intel Core i7 Xeon, 12GB of Ram, Nvidia GTX 1080 graphics) in the cloud to use as you want, with 4K resolution and some VR support.
+
+While I doubt the dedicated hardware model will be used long term, it provides a stronger performance solution than shared resources now do, thus better anticipating the performance of the future.
+
+Blade's Shadow PC
+
+This is targeting people who want to play PC games, but folks can use the service for anything from running desktop apps to engineering programs.
+
+I expect platform companies like Apple and Microsoft, and major cloud providers like Amazon and Google to enter this space once the technology matures. You can run the service on an older (Windows 7) PC, Android, or its $140 thin client terminal.
+
+Accessories aren't yet where they need to be, and there are some teething issues being reported. It will need 5G to ensure adequate remote (non-WiFi support) to work properly. Still, given that we were talking about the future and Dell, it seemed appropriate to highlight a service that anticipates one aspect of that future. Thus, Blade Shadow PC is my product of the week.
+
+Rob Enderle has been an ECT News Network columnist since 2003. His areas of interest include AI, autonomous driving, drones, personal technology, emerging technology, regulation, litigation, M&E, and technology in politics. He has an MBA in human resources, marketing and computer science. He is also a certified management accountant. Enderle currently is president and principal analyst of the Enderle Group, a consultancy that serves the technology industry. He formerly served as a senior research fellow at Giga Information Group and Forrester. Email Rob.
+

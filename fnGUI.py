@@ -56,6 +56,8 @@ class MainWindow(QtWidgets.QMainWindow):
 
         super().__init__(parent)
 
+        db = DBManager('corpus')
+
         #self.init_ui()
         self.currentCategory = "All"
         self.aboutText = "This software was developed by FakeNooz for CMPE 115 at UC Santa Cruz.\n"+\
@@ -64,7 +66,7 @@ class MainWindow(QtWidgets.QMainWindow):
                         "Benjamin Swanson\n"+\
                         "Naylan Adre\n"+\
                         "Jack Bauman\n"+\
-                        "Willliam"
+                        "William"
         self.helpText = "To Use:\nFirst run collect articles to pull articles from "+\
                         "all sites listed in sitelist. After that, Aggregate will "+\
                         "apply NLP to cluster articles into topics and generates "+\
@@ -90,9 +92,11 @@ class MainWindow(QtWidgets.QMainWindow):
         #     action = QtWidgets.QAction('{}'.format(i), self)
         #     actions.append(action)
         catActionAll = QtWidgets.QAction('All', self)
-        catActionPol = QtWidgets.QAction('Politics', self)
+        catActionPol = QtWidgets.QAction('US Politics', self)
+        catActionTech = QtWidgets.QAction('Technology', self)
         actions.append(catActionAll)
         actions.append(catActionPol)
+        actions.append(catActionTech)
 
         # Cat_actionGroup = QtWidgets.QActionGroup(self)
         # Cat_actionGroup.addAction(QtWidgets.QAction('All', self))
@@ -111,15 +115,19 @@ class MainWindow(QtWidgets.QMainWindow):
         # add triggers to tabs
         # Cat_action.triggered.connect(self.TS_trigger)
         help_action.triggered.connect(self.Help_trigger)
-        catActionAll.triggered.connect(lambda: self.SelectCat_trigger('All'))
-        catActionPol.triggered.connect(lambda: self.SelectCat_trigger('US_Politics'))
+        catActionAll.triggered.connect(lambda: self.SelectCat_trigger('All', db))
+        catActionPol.triggered.connect(lambda: self.SelectCat_trigger('US_Politics', db))
+        catActionTech.triggered.connect(lambda: self.SelectCat_trigger('Technology', db))
         about_action.triggered.connect(self.About_trigger)
 
+        self.setStyleSheet(open("style.qss", "r").read())
+
     # dummy functions
-    def SelectCat_trigger(self, newCat):
+    def SelectCat_trigger(self, newCat, db):
         print(newCat)
         self.form_widget.changeCategory(newCat)
         self.currentCategory = newCat
+        db.createTable(newCat)
 
     def About_trigger(self):
         QtWidgets.QMessageBox.about(self, "About", self.aboutText)
@@ -138,7 +146,7 @@ class WindowContent(QtWidgets.QWidget):
 
         #database manager
         db = DBManager('corpus')
-        db.createTable()
+        # db.createTable()
 
     # create features
         #self.button1 = QtWidgets.QPushButton('Search')
@@ -161,7 +169,7 @@ class WindowContent(QtWidgets.QWidget):
         self.summaryButton4 = QtWidgets.QPushButton('Topic 4 Summary')
         self.exitButton = QtWidgets.QPushButton('Quit')
         self.label1 = QtWidgets.QLabel('Currently looking in Category '+self.currentCategory)
-        self.label2 = QtWidgets.QLabel('No User Input')
+        self.label2 = QtWidgets.QLabel('')
         self.urlInput = QtWidgets.QLineEdit()
         self.urlInput.setPlaceholderText('Article URL')
         self.queryInput = QtWidgets.QLineEdit()
@@ -189,6 +197,7 @@ class WindowContent(QtWidgets.QWidget):
         queryInputBox.addWidget(self.queryInput)
         queryInputBox.addWidget(self.button4)
 
+
         #h_box1.addWidget(self.label1)
         #h_box1.addWidget(self.label2)
 
@@ -211,6 +220,7 @@ class WindowContent(QtWidgets.QWidget):
         h_box4.addWidget(self.summaryButton3)
         h_box4.addWidget(self.summaryButton4)
 
+
         # vertical
         v_box = QtWidgets.QVBoxLayout()
         #v_box.addLayout(h_box1)
@@ -232,8 +242,8 @@ class WindowContent(QtWidgets.QWidget):
         #self.button1.clicked.connect(self.searchArticles)
         self.button1.clicked.connect(lambda: self.runCorpus(db))
         # self.button2.clicked.connect(self.searchArticles)
-        self.button3.clicked.connect(self.extractSentences)
-        self.button4.clicked.connect(self.queryArticles)
+        self.button3.clicked.connect(lambda: self.extractSentences(db))
+        self.button4.clicked.connect(lambda: self.queryArticles(db))
         self.button5.clicked.connect(self.urlQuery)
         # self.button6.clicked.connect(self.setCategory)
         self.exitButton.clicked.connect(self.closeApp)
@@ -287,13 +297,14 @@ class WindowContent(QtWidgets.QWidget):
         # If failed to find sitelist for category
         print("Failed to find sitelist for category: " + newCat)
 
-    def setCategory(self):
+    def setCategory(self, db):
         # Find sitelist for category
         catSitelist = self.userInput.text() + ".txt"
         for sitelist in os.listdir("./Sitelists"):
             # If found, update category
             if catSitelist == sitelist:
                 self.currentCategory = self.userInput.text()
+                db.createTable(self.currentCategory)
                 print("Category set to: " + self.userInput.text())
                 return
         # If failed to find sitelist for category
@@ -309,9 +320,9 @@ class WindowContent(QtWidgets.QWidget):
         self.outWindow = TextViewWindow(out)
         self.outWindow.show()
 
-    def queryArticles(self):
+    def queryArticles(self, db):
         print("Searching for: " + self.queryInput.text() + "\nin category " + self.currentCategory)
-        lag.SearchArticles(self.queryInput.text(), category=self.currentCategory)
+        lag.SearchArticles(db, self.queryInput.text(), category=self.currentCategory)
         # output
         out = "Failed"
         with open('./Data/'+self.currentCategory+'/Queries/s0.txt') as file:
@@ -327,17 +338,18 @@ class WindowContent(QtWidgets.QWidget):
         if sender.text() == 'Clear':
             self.userInput.clear()
 
-    def extractSentences(self):
+    def extractSentences(self, db):
         # make sure doc directory exists first
         if os.path.exists("./Data/"+self.currentCategory+"/Docs/"):
            #Run the grouping
-           lag.GroupArticles(category=self.currentCategory)
+           lag.GroupArticles(db, category=self.currentCategory)
         else:
             message = "Please run Colect Articles before Extracting Sentences"
             QtWidgets.QMessageBox.about(self, "Error", message)
 
 
     def runCorpus(self, db):
+
         # run with sitelist
         sitelist = []
         f = open("./Sitelists/" + self.currentCategory + ".txt", "r")
@@ -354,6 +366,11 @@ class WindowContent(QtWidgets.QWidget):
         qApp.quit()
 
 if __name__ == '__main__':
+
+    #database manager
+    db = DBManager('corpus')
+    db.createTable('All')
+
     app = QtWidgets.QApplication(sys.argv)
     mainWindow = MainWindow()
     mainWindow.setWindowTitle('Read FakeNooz')
