@@ -119,7 +119,7 @@ def isRepeated(site, curArticleIdx):
 
     return False
 
-def UpdateCorpus(db, siteList, category="All", numArticles=5):
+def UpdateCorpus(db, siteList, category="All", numArticles=30):
      # clear old data
     db.clearOld()
     db.createTable(category)
