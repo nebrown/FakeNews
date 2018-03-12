@@ -1,6 +1,6 @@
 import sys
 import os
-from PyQt5 import (QtWidgets, QtCore)
+from PyQt5 import (QtWidgets, QtCore, QtGui)
 from PyQt5.QtWidgets import qApp
 from Update_Corpus import UpdateCorpus
 # from RelatedSentenceFinding import SentenceMatching
@@ -359,6 +359,7 @@ if __name__ == '__main__':
     db.createTable('All')
 
     app = QtWidgets.QApplication(sys.argv)
+    app = setWindowIcon(QtGui.QIcon('fnicon.png'))
     mainWindow = MainWindow()
     mainWindow.setWindowTitle('Read FakeNooz')
     mainWindow.setGeometry(100, 100, 500, 300)
