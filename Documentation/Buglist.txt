@@ -1,21 +1,18 @@
+Bugs list for Fake News program
+CS 115 @ UCSC
+Team: Noah Brown, Ben Swanson, Naylan Adre, Jack Bauman, William Howley
+
 -If there are no articles sufficiently related to a topic it can crash grouping and search
--Sentences are sometimes cut off in the summary file esp. at start of quotes
--Summary sentences are not always the most relevant
--Last letter of sitelist is lost of not followed by newline at end
+-Sentences are sometimes cut off in the summary file esp. at start of quotes and Mr. Mrs. which have periods at the end.
+-Last letter of sitelist is lost if not followed by newline at end
 -Occasional windows permission error when attempting to clear directories
 -Doesn’t handle bad URLs well
 -If there are no articles with better than 0.5 relation, many articles with less than .5 relation can print
--Some articles are downloaded twice and not caught
+-Some articles are downloaded twice and not caught 
 -Some articles are randomly other languages
 -Qwidget setlayout throws a warning
 -Database Tables empty after quit, need to run update corpus each time
--Warning attempt to set Qlayout on object that already has it thrown when popup
-
-
-
-
-FEATURES
-Date and time of last collection
-Progress bar
-Fully integrate database
-Multithreaded download
+-Occassionally get a database lock error
+-Every now and then error pulling from db
+-Saw the terminal "Bus Error" and fail once
+-Memo file deleted for sites.
