@@ -186,8 +186,7 @@ def UpdateCorpus(db, siteList, category="All", numArticles=30):
     if len(articles) == 0:
     # if len(documents) == 0:
         print("No articles found.")
-        return
-    # Filter out words
+        returngit 
     texts = RemoveWords(articles)
     # texts = Removewords(documents)
     # pprint(texts)
