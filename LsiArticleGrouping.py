@@ -87,7 +87,7 @@ def CreateMetaDocs(db, sortedSims, docFolder, lsi, category="All"):
             # articleContents = r.read()
             wf.write("\n\n====================================")
             wf.write("\n" + str(j) + ": " + str(sortedSims[i][j][1]) + "\n")
-            wf.write(articleUrl + articleTitle + articleContents)
+            wf.write(articleUrl +"\n" + articleTitle + "\n"+articleContents)
             wr.write("\n" + articleContents + "\n")
             # r.close()
         wr.close()

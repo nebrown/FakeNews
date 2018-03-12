@@ -65,7 +65,7 @@ class DBManager:
         if(len(result) > 0):
             return result[0]
         else:
-            print("\n\nERROR: Somethings gone wrong in retrieving from the db\n\n")
+            print("\n\nERROR: Somethings gone wrong in retrieving from the db at index="+str(id)+"\n\n")
             return('','','','')
 
     # dump contents out to terminal
