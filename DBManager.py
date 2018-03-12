@@ -62,7 +62,11 @@ class DBManager:
         c = self.conn.cursor()
         c.execute("SELECT title, article, source, category FROM \'"+self.tableName+"\' WHERE id="+str(id +1))
         result = c.fetchall()
-        return result[0]
+        if(len(result) > 0):
+            return result[0]
+        else:
+            print("\n\nERROR: Somethings gone wrong in retrieving from the db\n\n")
+            return('','','','')
 
     # dump contents out to terminal
     def printAll(self):
