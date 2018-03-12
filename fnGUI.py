@@ -117,6 +117,8 @@ class MainWindow(QtWidgets.QMainWindow):
         catActionPol.triggered.connect(lambda: self.SelectCat_trigger('US_Politics', db))
         about_action.triggered.connect(self.About_trigger)
 
+        self.setStyleSheet(open("style.qss", "r").read())
+
     # dummy functions
     def SelectCat_trigger(self, newCat, db):
         print(newCat)
@@ -174,9 +176,6 @@ class WindowContent(QtWidgets.QWidget):
 
         self.label1.setAlignment(QtCore.Qt.AlignCenter)
 
-        buttonStyle = "background-color: red"
-        self.button1.setStyleSheet(buttonStyle)
-
         # feature placement
         #label1.move(180,100)
         #button1.move(180,150)
@@ -194,6 +193,7 @@ class WindowContent(QtWidgets.QWidget):
 
         queryInputBox.addWidget(self.queryInput)
         queryInputBox.addWidget(self.button4)
+
 
         #h_box1.addWidget(self.label1)
         #h_box1.addWidget(self.label2)
@@ -216,6 +216,7 @@ class WindowContent(QtWidgets.QWidget):
         h_box4.addWidget(self.summaryButton2)
         h_box4.addWidget(self.summaryButton3)
         h_box4.addWidget(self.summaryButton4)
+
 
         # vertical
         v_box = QtWidgets.QVBoxLayout()
