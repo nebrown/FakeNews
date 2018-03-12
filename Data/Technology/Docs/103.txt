@@ -1,25 +1,19 @@
 https://techcrunch.com/
-Meet the women inventing the future in the TechMAKERS mini-series
-MAKERS spotlights five women at the forefront of technologies remaking our world, from AI to robotics to telepathy to deep space exploration. They are engineers and computer scientists at the top of their game in an industry where women make up only a quarter of technical jobs. They are exploding silicon ceilings and motivating a new generation of female “makers” to join their ranks and make an impact.
+Facebook co-founder says its rise reveals the fault lines destroying the “American Dream”
+In April 2004, a couple of Harvard undergraduate roommates took a walk in the pouring rain around the university campus. They were two of the three co-founders of an internet company that had launched a couple of months earlier — a social network start-up that we now know as Facebook.
 
-Ayanna Howard, Roboticist
+One of the young men, a history student called Chris Hughes, was making his case to the other, a computer scientist named Mark Zuckerberg, about how much he should own of the new company. Hughes was demanding a ten percent equity stake in the social network.
 
-Dr. Ayanna Howard has had a big impact on robotics. She’s one of the few black women in the field and she’s working on inventions with an eye on social impact, not science fiction.
+But as they stood on the steps of the Widener library and argued, a drenched Hughes “caved”. Just give me what you want, he told his equally drenched roommate (neither had umbrellas). Later he discovered that Zuckerberg had “only” given him two percent of the new company — a stake which today would be worth over ten billion dollars. It was, Hughes confesses, a “spectacular failure of negotiation.”
 
-Mary Lou Jepsen, Inventor, Entrepreneur
+This story, and much else about Hughes’ memorable life, is revealed in his new book, Fair Shot: Rethinking Inequality and How We Earn. It’s the story of the American dream – how a kid from a working class North Carolina family went to Harvard, co-founded Facebook with Zuckerberg and their third roommate Dustin Moskovitz, and — in spite of his botched equity negotiations on the Harvard campus — made five hundred million dollars.
 
-If anyone can make a Vulcan mind meld come true, it’s tech inventor Mary Lou Jepsen. With every new invention, she’s moving humanity closer to unlocking the mind for both health and communications purposes.
+But it’s also a book about what Hughes describes as “the dismantling of the American dream.” The winner-take-all nature of Facebook, Chris Hughes believes, exemplifies what’s gone wrong with American capitalism — where, he argues, inequality is has “reached levels not seen since 1929” and where “most Americans cannot find $400 in the case of an emergency” while “I was able to make half a billion dollars for three years of work.” This disturbing disparity, the Facebook co-founder believes, captures what has gone “profoundly wrong” both with “our economy” and “our country”.
 
-Diana Trujillo, Aerospace Engineer
+In Chris Hughes’ mind, there’s a chilling symmetry between the specters now confronting America and Facebook. He says that his old roommate Mark Zuckerberg is facing what Hughes — who, as a child, regularly attended a country church called New Jerusalem — calls a “come-to-Jesus moment”.
 
-Men can have the moon. As an engineer at NASA’s Jet Propulsion Laboratory, Diana Trujillo is taking us to Mars. Trujillo’s work on the NASA Mars Curiosity Rover mission has given us our first close-up glimpses of Mars and clear evidence that the Red Planet was once capable of supporting life.
+Facebook, he says, now has a responsibility to counteract the fake news and other corrosive online forces undermining American democracy. Zuckerberg and Facebook, he argues, now need to reinvent themselves. And the same is true, he argues in Fair Shot, about America.
 
-Fei-Fei Li, Professor at Stanford University & Chief Technologist at Google Cloud
+One percenters like himself, Hughes insists, have a moral responsibility to look after the rest of the country. That’s why he is calling for major new legislation – such as what he calls a “guaranteed income for working people” – which will save the American dream. So both America and Facebook have simultaneously arrived as their come-to-Jesus moments. Let’s hope that they both do better than Hughes’ own rather soggy performance on the steps of the Widener library back in April 2004.
 
-Fei-Fei Li came to the U.S. from China at 16 with a love for science and she never looked back. Educated at Princeton and Caltech, her early work in robotics revolutionized machine learning and AI. Her focus on inclusion in tech careers and diversity in what we teach machines suggests that tomorrow’s robots won’t be sexist.
-
-Limor Fried, Founder & CEO, Adafruit Industries
-
-Electronics. Companies. Movements. Limor Fried can build anything. In fact, the MIT graduate loves sharing her ideas and the tools for creating them so much she created Adafruit Industries, a top-20 U.S. manufacturing firm and a global online community that follows her every machine-making move.
-
-For more info, check out https://www.makers.com/techmakers.
+Featured Image: Ramin Talaie/Corbis via Getty Images

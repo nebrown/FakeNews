@@ -1,33 +1,31 @@
 https://www.nytimes.com/section/technology
-Charles Campion, Campaign Adviser to Democrats, Dies at 62
-“I would say the political fundamentals which he learned on the streets of Boston, he was still applying in the streets of Michigan for Hillary Clinton in 2016,” said Senator Edward J. Markey, Democrat of Massachusetts, a close friend who was advised by Mr. Campion. “Chuck’s philosophy was that the message should be direct, simple and to the heart of the issue.”
+AT&T Backs Off Political Argument in Antitrust Case
+Noticeably absent in AT&T’s filing was an earlier argument it had made: that the government singled out the company’s deal because of presidential politics. President Trump was a vocal critic of the deal during his presidential campaign, and while in office, he has consistently blamed CNN, a channel owned by Turner and part of Time Warner’s television business, for unfair coverage of his administration.
 
-Mr. Campion came up in Massachusetts politics as a member of Gov. Michael S. Dukakis’s administration from 1975 to 1978. He went on to work for President Jimmy Carter on advance planning.
+AT&T originally argued to the court that the Justice Department’s suit was a case of “selective enforcement” — that the government was essentially blocking the deal because the president was against it.
 
-It was in Washington that he got to know Mr. Mondale, the vice president under Mr. Carter. Mr. Mondale’s presidential campaign in 1984 would be Mr. Campion’s first.
+But late last month, Judge Richard J. Leon, who is overseeing the trial, rejected demands by AT&T for detailed email and phone logs between the White House and the Justice Department related to the deal. AT&T and Time Warner has dropped “selective enforcement” as a defense, according to the new filings.
 
-“Politics is a fickle game,” he said in an interview with The New York Times in 1983 as he was building a campaign operation for Mr. Mondale in New Hampshire in advance of the state’s primary. No matter how bright a candidate’s prospects seem, he said, “you’re always worried about winning.”
+Newsletter Sign Up Continue reading the main story Interested in All Things Tech? The Bits newsletter will keep you updated on the latest from Silicon Valley and the technology industry. Please verify you're not a robot by clicking the box. Invalid email address. Please re-enter. You must select a newsletter to subscribe to. Sign Up You agree to receive occasional updates and special offers for The New York Times's products and services. Thank you for subscribing. An error has occurred. Please try again later. View all New York Times newsletters.
 
-New Hampshire was a case in point. Though Mr. Mondale led in the polls, he lost the primary in a stunning upset by Gary Hart, then a little-known senator from Colorado. (Mr. Mondale nevertheless went on to win the Democratic nomination before losing to President Ronald Reagan in a landslide.)
+Even absent the question of presidential interference in the deal, the trial is pivotal for the telecom and media industries, providing a clue about the chances of other industry deals, like Disney’s bid for 21st Century Fox. AT&T’s chief executive, Randall Stephenson, and Time Warner’s chief executive, Jeffrey Bewkes, are expected to take the stand.
+
+“This is the single most important decision this year” for technology, telecom and media firms, said Amy Yong, a research analyst at Macquarie Group in New York. “It will frame regulation and mergers and acquisitions going forward and raise questions about all the consolidation in the past, too.”
+
+If the judge sides with AT&T and Time Warner, he would usher in the creation of a new kind of corporate behemoth — one with nationwide reach via wireless and satellite television service that would also have control over a movie studio and channels like HBO, CNN and TNT, which has valuable basketball sports rights.
+
+The company would have a leading position to negotiate licensing deals with rival telecom and media firms. It would also be in a stronger position against fast-growing streaming video services like Netflix and Amazon Prime Video.
 
 Advertisement Continue reading the main story
 
-Mr. Campion came to know more losses working for other presidential campaigns, including those of Mr. Dukakis in 1988 (Mr. Campion was its political director), Vice President Al Gore in 2000 and Senator Kerry in 2004.
+If the Justice Department prevails in this suit, it would signal a new era of scrutiny for the media and telecom industries. In 2011, Comcast won approval for its purchase of NBCUniversal that also created an enormous telecom and media company. The Justice Department insisted on several conditions that restricted Comcast from anti-competitive business practices.
 
-The Dewey Square Group said that in 2008, as an adviser to Mrs. Clinton’s first presidential run, it was Mr. Campion who arranged coffee events with voters ahead of the New Hampshire primary, including one at a coffee shop where she cried in conversation with a voter, generating wide publicity.
+The trial will also reveal much about the state of the industry. Rivals such as Comcast, Dish and Sony are expected to be called as witnesses to reveal details about their business dealings with AT&T and Time Warner in the past. The Justice Department is expected to argue that a combined AT&T and Time Warner would have the incentive to make it harder for competing media companies to distribute their programming through AT&T, and for Time Warner brands to limit their distribution outside of AT&T.
 
-“He was a magician in understanding a community he hadn’t been into,” Mr. Kerry said. “He ran Michigan for me, and we won Michigan.”
+The Justice Department will also present economic analysis suggesting that the new company is likely to raise prices for consumers.
 
-Mr. Campion’s friends and family said he had been undeterred by the losses. “He never got discouraged, he never quit,” Ms. Campion said. “You have your values, you just keep going.”
+“As will be shown at trial, the government is challenging this merger to address the real concerns of real people who populate the real marketplace today,” the Justice Department said in its brief.
 
-As a founder of the Dewey Square Group, in 1993, and its chairman, Mr. Campion was familiar to Boston’s political scene. Sometimes he wrote jokes for the annual St. Patrick’s Day breakfast, an all-but-mandatory event for the local political class. He wrote one in 2003 for Mr. Kerry, who had recently discovered that he had Jewish ancestors.
+AT&T said it would challenge the government’s arguments that the merger would increase consumer prices and hamper competition by raising licensing fees for Time Warner content. The company said it would argue that the merger of two companies that do not compete would be a stronger competitor in a market that had many new companies from Silicon Valley, like Facebook and Netflix.
 
-“So who said I don’t have the matzo balls to be here today?” Mr. Kerry said, to laughter.
-
-Mr. Campion was born in Boston on Aug. 20, 1955, the middle child and only son in a family of five children. A product of Brookline High School, he was a political science major at the University of Massachusetts at Amherst, graduating in 1977. He met his wife, the former Heather Pars, while he was working in the Carter administration. She was a speechwriter for the president.
-
-In addition to his wife, with whom he lived in Brookline, Mass., Mr. Campion is survived by their son, Maxwell; their daughter, Courtney Campion; his sisters, Rosella, Suzanne, Tracy and Leigh, all with the surname Campion; a half brother, Christian Richard; and his mother, Mary Donlan Richard.
-
-Mr. Campion’s family said he did not slow down in his later years, even as he endured the three kidney transplants. In one instance, five years ago, his wife said, 37 people stepped forward to be tested as possible donors.
-
-“He had more best friends that anyone I know,” she said.
+“As will be demonstrated at trial, the new video revolution is defined by the spectacular rise of Netflix, Amazon, Google, and other vertically integrated, direct-to-consumer technology companies as market leaders in both video programming and video distribution,” AT&T said in its brief.

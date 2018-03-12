@@ -1,56 +1,112 @@
 https://www.technewsworld.com/
-Uber's New Express Pool: Walk and Wait
+Endless OS Helps Tear Down Linux Wall
 
 
-ALL EC Ecommerce Exchange
+Tech Industry Events and Webinars
 
-Looking for ecommerce software or service providers for your online business? Search and compare vendors by specialty and location. Choose the best solutions to help your business grow and succeed.
+Find upcoming e-commerce and technology conferences, trade shows, workshops and webinars. Visit ALL EC Events today.
 
-Put ALL EC to work for you today!
+The Endless OS is a distro with its own adapted desktop environment based on Gnome 3, and with an even simpler and more streamlined user experience.
 
-Uber has launched a new service that lowers ride-sharing costs for customers who are willing to walk to and from designated locations.
+Although it looks and feels a lot like an Android shell running on a PC, Endless OS is a fully functional Linux distro designed to be easy to install and very simple to use.
 
-Express Pool became available this week in several participating cities. Passengers must walk a short distance to a pickup intersection. They are then dropped off at another designated spot, close to their final destination.
+Endless Mobile released this latest version, 3.3.10, on Feb. 10. Its features include automatic updates, improved launch speed for applications, and some Flatpak programs from the Flathub community repository rather than Endless' custom repository.
 
-Customers appreciate the cost savings of normal ride-sharing, but many would like the benefits that come with having designated pickup and dropoff locations, according to Uber spokesperson Kaitlin Durkosh.
+With this release, the developers have begun to migrate older apps to the Flathub community. This change results in better quality, since the Flathub community provides more support for the apps than the Endless community alone.
 
-Better, Faster?
+Endless OS has an in-house desktop design adapted from GNOME 3 that makes this distro a good choice for simplicity in computing.
 
-"Walking and waiting help us make more optimal matches and provide better, straighter, faster routes with fewer detours, delivering an even more affordable and consistent option than POOL to customers," she told TechNewsWorld.
+The Endless OS community's goal is to build a global platform for digital literacy. Its EOS Shell desktop is a big factor in making this universal computing platform work. It eliminates the technology barrier that often inhibits Linux newcomers.
 
-The existing uberPOOL service allows riders to share door-to-door transit along a similar route.
+Endless OS is built from Debian Linux, but that is not the same thing as being based on Debian, the developers have pointed out. Endless OS uses OSTree or Libostree along with Flatpak to manage the base system and applications.
 
-Uber has made the hew Express Pool option available in Boston and San Francisco, where it already has tested it, along with Los Angeles, Miami, Philadelphia, Denver, San Diego and Washington D.C.
+Pure Debian systems use .deb packages for the system and applications. OSTree is not a package manager per se. Rather, it is an upgrade system that performs atomic upgrades of complete file system trees.
 
-Rival Lyft's carpool service, Lyft Line, accounts for about 40 percent of the company's overall business in the 18 cities where its available. Lyft also been testing a Lyft Shuttle service in San Francisco and Chicago, giving riders deeply discounted rides along certain on-demand routes. Fares generally run about US$3 to $4 after discounts are taken.
+New Look, familiar Feel
 
-Pressure Cooker
+The EOS Shell desktop lacks a main menu button anywhere on the panel or taskbar. The button to the far left of the panel does not pop up a menu. Instead, it shows the dekstop.
 
-The new service comes at a time when urban transit systems across the country have been feeling increasing pressure, with overcrowding on board, a rash of high-profile train crashes and derailments, bus crashes, and unrelenting traffic congestion.
+The panel has a few launcher buttons to display documents, the app center, and the Web browser on the left. On the right end of the panel bar are the usual icons in the system tray.
 
-However, car-sharing services like Uber and Lyft actually have not helped relieve traffic congestion, according to a study the Metropolitan Area Planning Council released earlier this month.
+The Endless OS screen is populated with launch icons. Its layout and functionality closely resemble an Android device, except for the taskbar at the bottom of the screen.
 
-Instead, they apparently have made it worse, the report suggests.
+Rows of installed apps fill the screen. Click on an app to launch the activity. Click the More Apps icon in one of the rows to launch the apps center. Right-click on an open application's icon in the taskbar to pin it there.
 
-About 80 percent of 944 survey respondents said they used single-customer options rather than carpool options like Lyft Line or uberPOOL.
+The App Center screen is divided into two categories: Available Programs and Installed Apps. Click on the Installed Apps label to find more programs to run or add to the desktop with a right click of the mouse. Scroll through the list of Available Apps to download and install more programs.
 
-Further, many riders in the Boston area moved from public transit use to Uber, the report indicates, thus taking away revenue from the local commuter systems.
+Clicking on an app name fills the screen with a description of the app and a screenshot of its homepage. Two buttons let you add the app to the desktop or launch it.
 
-Also of note is the finding that the drivers appeared to make less on carpools than on single-person rides.
+An app and Internet search window sit at the top center of the screen above the application icons. Start typing an application name to see a list of matching installed apps and a list of possible matches available in the app center. Tap on an icon to launch the application or load the URL in the Web browser.
 
-The survey did not include questions about the new Express Pool service.
+Android-Like View
 
-Share the Burden
+If you are familiar with basic Android phone and tablet operations, you can be a near master of Endless OS with no learning curve. This is a Linux OS, however, not an Android emulator. It has no multiple home screens.
 
-Building up the use of carpools among ride-sharers might help ease some of the burden of vehicle traffic, said Steven Polzin, director of mobility policy research at the University of South Florida's Center for Urban Transportation Research. He was not involved in the Metropolitan Area Planning Council's research.
+Still, several design points resemble Android. The layout of the app launchers on the desktop is an obvious blend of GNOME 3 and an Android app drawer.
 
-However, "there has been a growing concern that TNC (transportation network company) vehicles are creating urban congestion and constituting a meaningful share of vehicles on urban roadways," he told TechNewsWorld.
+The inactive screen sleep mode is another similar trait. The inactive screen shows the time and date in the center. An up-arrow pattern at the bottom center shows the direction to swipe with the mouse to return to the desktop view.
 
-Further, the cars may not be operating efficiently as they wait to pick up new passengers, Polzin suggested.
+Another feature is a hidden panel you drag down from the top center of the screen. It offers some useful information for new users on features and other news updates about Endless OS.
 
-Moving to increased ride-sharing is a good model if it removes excess vehicles from the street and reduces travel time by moving more riders to a larger street, said Sharon Feigon, executive director of the Shared-Use Mobility Center.
+A hideaway panel from the top center of the screen offers useful content and news updates about Endless OS.
 
-"It's also less expensive for the user, so that's a positive for the user," she told TechNewsWorld, "and if that increases business, it would be a plus for Uber as well."
+To my extreme disappointment, Endless OS lacks virtual workspaces or applets to run on the panel bar. A virtual workspace is an essential feature of most Linux desktops.
 
-David Jones is a freelance writer based in Essex County, New Jersey. He has written for Reuters, Bloomberg, Crain's New York Business and The New York Times.
+Endless OS Settings
+
+The EOS Shell desktop is mostly a one-size-fits-all configuration. It only lets you fiddle with some basic settings.
+
+All the settings appear in a single panel. There is not much to configure other than options for background, power, mouse/touchpad and such.
+
+The EOS Shell desktop comes with most efficient default configurations. The Settings panel gives you the ability to make some adjustments to the look and feel.
+
+Access the Settings panel by typing a keyword -- even "settings" -- or a term related to a setting. When I typed "power" in the search window, the results included the Settings panel launcher, an option to view battery status or to change the power saving settings, and the Power Off icon to shut down the computer.
+
+You also can launch the Settings panel by clicking on the standard user head silhouette in the system tray.
+
+Getting It
+
+Actually downloading the Endless OS ISO file may be the only confusing part of using Endless OS. Two download versions are included: Basic and Full.
+
+The Basic version of Endless OS needs 2 GB to burn to a DVD. You can run the OS from an 8-GB USB stick. It includes only a few apps preloaded. It is recommended for computers that will have access to the Internet for downloading and installing more applications as needed from the App Center.
+
+The Full version includes more than 100 apps already installed on the OS. This takes up to 16 GB storage space to download, and requires at least 32 GB of disk space to try out or install.
+
+Endless OS runs on a variety of hardware components that meet these basic requirements:
+
+PC systems with 32-bit or 64-bit Intel or compatible processors with at least 2 GB of memory;
+
+Compatible Graphics Card: Most systems with integrated graphics from Intel or AMD should work well. However, high-end GPUs, such as Nvidia's, and some ATI cards and systems with two graphics cards, such as laptops with an integrated GPU and a discrete GPU that you can switch between, are not supported and may not work well or at all.
+
+Note: This release brings better graphics card performance for users with Nvidia components. This release automatically selects the driver made by Nvidia rather than the open source driver.
+
+Wireless Cards: Most wireless cards from Intel and certain Atheros, Realtek and Broadcom devices supported by the brcm80211 or b43 driver should work. Devices requiring the wl driver are not supported. An alternative is to use a USB WiFi adapter.
+
+Installing It
+
+Starting this distro to try it out in live session mode is a bit misleading. After booting the computer from the DVD, I got a screen giving me two choices. One was to reformat the hard drive (aka install it). The other was to try the OS on a USB boot.
+
+I would have expected an option to continue testing from the running DVD. I clicked the USB drive option, half expecting it to tell me to insert a USB drive for the partial installation. Instead, the live session running from the DVD continued.
+
+That was my experience in downloading the ISO file to a Linux computer and using Linux tools to burn the live session installation files to DVD. I didn't use the install to USB stick option.
+
+A handy option for Microsoft Windows users is to download the Endless Installer for Windows. This automates the installation alongside Windows. It creates a dual boot menu to run either Windows or Endless OS.
+
+Bottom Line
+
+The free version of Endless OS adheres to the free license policy. It includes preinstalled video and audio codecs that are free of patents. That can limit the types of files you can play. Non-included codecs are available for purchase at the Endless OS Store.
+
+If you dislike managing frequent system updates and new release upgrades, you may have a special liking for Endless OS. As long as you have an Internet connection, the OS periodically checks for updates and automatically downloads and applies them in the background. You get a notification to restart.
+
+Although this desktop design should be an ideal environment for touchscreens, Endless OS does not take to touch very well. This is a major feature weakness if you have a touchscreen laptop or desktop monitor.
+
+Want to Suggest a Review?
+
+Is there a Linux software application or distro you'd like to suggest for review? Something you love or would like to get to know?
+
+Please email your ideas to me, and I'll consider them for a future Linux Picks and Pans column.
+
+And use the Reader Comments feature below to provide your input!
+
+Jack M. Germain has been an ECT News Network reporter since 2003. His main areas of focus are enterprise IT, Linux and open source technologies. He has written numerous reviews of Linux distros and other open source software. Email Jack.
 

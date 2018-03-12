@@ -1,0 +1,36 @@
+Keywords: -0.409*"musk" + 0.306*"sony" + -0.215*"mars" + -0.160*"s9" + 0.153*"xbox" + -0.152*"ai" + 0.132*"objects" + 0.120*"projector" + 0.118*"table" + 0.116*"sony’s"
+
+0, 242, 295.619033545: Great night and motion detection
+
+1, 228, 295.017320603: It works with Apple HomeKit, which means that it will seamlessly interact with your Apple products, and it also works with Siri
+
+2, 238, 294.402180448: Somfy One
+
+3, 236, 292.337894723: It’s also got Apple’s seal of approval, which isn’t easy to get
+
+4, 168, 290.677600041: Setup is a little tricky
+
+5, 49, 289.216520369: This will allow compatible TVs, available later this year, to recognize when a game is being played and turn on game mode, or low latency mode to optimize gaming
+
+6, 57, 289.216520369: This will allow compatible TVs, available later this year, to recognize when a game is being played and turn on game mode, or low latency mode to optimize gaming
+
+7, 173, 288.879634038: But if you are happy without the visuals, then this is a fantastic device that monitors movement and sounds an alarm when no motion is detected.
+
+8, 21, 288.842858195: It’s a sad state of affairs that mutual customers and friends can’t play a game they enjoy with each other because of corporate politics, but it looks like it’s just another day in the video game industry.
+
+9, 43, 288.842858195: It’s a sad state of affairs that mutual customers and friends can’t play a game they enjoy with each other because of corporate politics, but it looks like it’s just another day in the video game industry.
+
+10, 175, 288.102892607: There can’t be any hanging wires as they have to be taut for the sensor to work properly
+
+11, 156, 287.77219829: Like your standard monitors, two units arrive in the box; a parent unit and a baby unit
+
+12, 51, 286.758423261: This is particularly useful if you use Netflix or other media apps on an Xbox One, as game mode will be automatically disabled once you switch back to these types of apps.
+
+13, 59, 286.758423261: This is particularly useful if you use Netflix or other media apps on an Xbox One, as game mode will be automatically disabled once you switch back to these types of apps.
+
+14, 14, 286.719688326: Still, it’s unlikely that Microsoft would be encouraging this type of cross-network play if it was still in a position of power and selling the most consoles in the US each month
+
+Summary:
+It’s a sad state of affairs that mutual customers and friends can’t play a game they enjoy with each other because of corporate politics, but it looks like it’s just another day in the video game industry.
+It’s a sad state of affairs that mutual customers and friends can’t play a game they enjoy with each other because of corporate politics, but it looks like it’s just another day in the video game industry.
+Still, it’s unlikely that Microsoft would be encouraging this type of cross-network play if it was still in a position of power and selling the most consoles in the US each month

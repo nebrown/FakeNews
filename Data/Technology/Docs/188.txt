@@ -1,197 +1,175 @@
 https://www.techradar.com/news
-Cheap laptops 2018: the 10 best budget laptops that (very little) money can buy
-Contrary to popular belief, saving cash on a laptop doesn’t require that you hold out for the inevitable end of the year sales. Even at the beginning of every calendar year, there are hidden gems just begging to be bought that don’t cost an arm and a leg. Budget laptops are an omnipresent, inescapable force to be reckoned with. And, they’re threatening top PC makers into rethinking their business models.
+Best gaming keyboard 2018: the best gaming keyboards we've tested
+If you have one of the best gaming PCs, packed with the best graphics card you could muster, the only thing you really need to complete your gaming experience is one of the best gaming keyboards. Trust us, we know that after dropping stacks on a high-end rig, it’s extremely tempting to just pick up a cheap keyboard, but after putting so much time, love, and money into your rig, you should pick something of comparable quality. This is because, more than any other PC component, the best gaming keyboards will go a long way to making you better at the games you play. Plus, there’s a certain je ne sais quoi about having your desk light up like a Christmas tree with RGB lighting.
 
-That’s especially the case with the Chromebook lineup, a series of cheap laptops inspired by Google designed around the limitation of being browser-first. This, in turn, makes some budget laptops faster than their premium counterparts. At the same time, Microsoft is making great strides to bring Windows 10 into the 21st century with its thin, light and cloud-based operating system. Rumor has it, Windows 10 S is due for a drastic shake-up when it’s inevitably rebranded as a ‘mode’ within the existing Windows 10 Home and Pro.
+Membrane keyboards are not great for gaming, to say the least. The best gaming keyboards feature mechanical switches that allow for deeper and more accurate travel, so you no longer have to worry about hitting a wrong button and killing a teammate. And, don’t forget about RGB lighting – at this point it’s an absolute must for all of your gaming equipment.
 
-These technological advancements aside, below we’ve denoted the best cheap laptops in no particular order. In doing so, we’ve had to go hands-on with every clamshell notebook we could find for an ultra-low price to determine which models bring affordability without compromise. For those looking to save their tax returns rather than spend them, you can take solace knowing that the following arrangement of recommendations comes from a place of experience and calculated research.
+Which brings us to this list of the 10 best gaming keyboards you can buy in 2018. Even if you’re on a tight budget, you’ll find something to love here, because here at TechRadar, we strive to find products that strike a balance between price and performance with all of our buying guides. You should be confident that every MLG typewriter on this list will perform admirably while still being affordable.
 
-Acer Swift 3
+1. Logitech G413 Carbon
 
-The bigger, better value proposition
+Sleek, cheap and responsive
 
-CPU: Intel Core i3 – i7 | Graphics: Intel HD Graphics 620 | RAM: 4GB – 8GB | Screen: 14-inch FHD (1,920 x 1,080) ComfyView IPS | Storage: 128GB – 256GB SSD
+Interface: Wired | Keyboard backlighting: Yes | Programmable keys: No
 
-Powerful for the price
+Sophisticated, refined design
 
-Stellar battery life
+Full-on mechanical switches
 
-Boring looks
+No dedicated media buttons
 
-Down-firing speakers
+Slow USB 2.0 pass through
 
-Here we have one of the few budget laptops with a processor nearly equivalent to the MacBook Pro, that is, if you opt for the Intel Core i5 configuration. The best part? It’s roughly half the cost of its Apple-branded rival. Now given that it sells at a range of different prices, the Acer Swift 3 can be an obtuse purchase, but lucky for you, the midrange model will get you by just fine.
+This beautiful keyboard has been lovingly engineered for a lightning-fast actuation point of 1.5mm and this alone makes the Logitech G413 Carbon a force of nature. This mechanical power-house is defined by its extremely affordable price tag in addition to its use of Logitech’s Romer G switches, which have time and time again proven to be all but equal contenders to the switches made by Cherry. It also manages to keep a low profile, thanks to its stealthy frame and its nigh silent keys.
 
-Read the full review: Acer Swift 3
+Read the full review: Logitech G413 Carbon
 
-Acer Switch 3
+2. Razer BlackWidow Chroma V2
 
-Spiritual successor to the Surface 3
+Steeled for online gaming
 
-CPU: Intel Pentium Quad Core N4200 | Graphics: Intel HD Graphics 505 | RAM: 4GB | Screen: 12.2-inch (1920 x 1200) IPS LCD | Storage: 64GB
+Interface: Wired | Keyboard backlighting: Yes | Programmable keys: 5
 
-Excellent build quality
+Great mechanical switch keys
 
-Great screen
+Comfy wrist rest
 
-Tricky hinged stand
+Very pricey
 
-No good for games
+Only one USB slot
 
-Hear ye, the Acer Switch 3 is a feat to behold. This cheap laptop uses a low-power, albeit astoundingly efficient, Intel Pentium processor. However, internal specs are the least of its appeal. No, that honor goes to the Acer Switch 3’s novel ability to detach its screen from its keyboard. That only scratches the ‘surface’ of the inspiration it’s taken from Microsoft’s hardware too.
+Hoping to find a gaming keyboard that matches the rest of your Chroma-lit accessories? Then this is the one you want. Not only does the BlackWidow Chroma V2 carry an equal balance of comfort and performance, but it went a few steps further in the process. Complemented by the fact that Razer has tacked on five macro keys that can be assigned to virtually any in-game action, the BlackWidow Chroma V2 supports 16.8 million colors worth of LED lighting as well.
 
-Read the full review: Acer Switch 3
+Read the full review: Razer BlackWidow Chroma V2
 
-Asus Transformer Mini T102HA
+3. Corsair K63 Wireless
 
-Small, portable and flexible
+Wireless PC gaming at its finest
 
-CPU: Intel Atom x5-Z8350 | Graphics: Integrated Intel HD Graphics | RAM: 4GB | Screen: 10.1-inch HD (1,280 x 800) LED touch display | Storage: 64GB
+Interface: Wireless | Keyboard backlighting: Yes | Programmable keys: Yes
 
-Tablet and laptop in one
+Perfect couch gaming
 
-Sizable hard drive
+Fully featured
 
-Tiny size could be tough
+Flimsy palmrest clips
 
-Its name is alphabet soup to the average reader, but then again this convertible laptop has always been about function over form. For one minuscule transaction, you’re getting a tablet equipped with an included keyboard and even a fingerprint scanner for more secure logins. Along with reliable performance and a magnesium-alloy chassis, it’s built to last.
+We have seen plenty of wireless gaming mice over the last few years, but not many wireless gaming keyboards. Until now. The Corsair K63 Wireless keyboard takes what made the wired version of the K63, and transfers it into the wireless version – without sacrificing much at all. Packing tight Cherry MX Red switches, full RGB lighting and convenient media controls, the K63 wireless shows us what wireless keyboards can be capable of in 2018.
 
-Read the full review: Asus Transformer Mini T102HA
+Read the full review: Corsair K63 Wireless
 
-Samsung Chromebook Pro
+4. HyperX Alloy Elite
 
-First in a new generation of Chromebooks
+A Cherry MX-powered circus of value
 
-CPU: 0.99Ghz Intel Core m3-6Y30 | Graphics: Intel HD Graphics 515 | RAM: 4GB | Screen: 12.3-inch, QHD (2,400 x 1,600) touchscreen | Storage: 32GB eMMC
+Interface: Wired | Keyboard backlighting: Yes | Programmable keys: No
 
-Stunning, vivid screen
+Reasonably priced and fully featured
 
-Stylus support on Chrome OS
+Handy media keys
 
-Cramped keyboard
+Seriously thick cable
 
-Weak speakers
+No macro programming
 
-With Android apps now supported on every new Chromebook released, it only makes sense to craft a Chromebook with a 12.3-inch QHD touch display, with a 360-degree hinge and pen support to boot. The Samsung Chromebook Pro may have a keyboard that’s a bit too compact for comfort, but it more than makes up for it, going as far as to master pen input on the first try.
+Following in the footsteps of Kingston’s first HyperX-branded gaming keyboard, namely the HyperX Alloy FPS, the HyperX Alloy Elite tweaks the company’s first winning keyboard to provide only a few subtle changes. For only $10 USD more than its predecessor, you’re getting media keys, a light bar and even a palm rest, all of which were previously absent. They’re also a series of delightful treats, making for a value proposition that shouldn’t be ignored.
 
-Read the full review: Samsung Chromebook Pro
+Read the full review: HyperX Alloy Elite
 
-This product is only available in the US as of this writing. UK and Australian readers: check out a fine alternative in the Asus Chromebook Flip.
+5. Corsair K95 RGB Platinum
 
-Acer Chromebook 15
+This mechanical animal has cheetah-like speeds
 
-Battery life like no other
+Interface: Wired | Keyboard backlighting: Yes | Programmable keys: Yes
 
-CPU: 1.5GHz Intel Celeron 3205U | Graphics: Intel HD Graphics | RAM: 4GB | Screen: 15.59-inch, HD (1,920 x 1,080) touchscreen | Storage: 32GB SSD
+Hypnotic disco lighting
 
-Stunning battery life
+Classy aluminum build
 
-Attractive, fanless design
+Awkward software
 
-Trackpad feels clunky
+Rubber palm rest gets grungy quickly
 
-While it may be outclassed by the Pixelbook and the Samsung Chromebook in terms of sheer power, the Acer Chromebook 15 can still pack a wallop while providing battery life that is frankly out of this world. It’s rare that a laptop can truly provide all-day battery, but in our independent battery tests, Acer’s Chromebook lasted an astonishing 17 hours – on top of providing enough power to get your work done online. If you’re looking for a 15 inch Chromebook that will give you the most bang for your buck, look no further.
+Like the Corsair K70 Rapidfire before it, the K95 RGB Platinum is a gaming-first mechanical keyboard with plenty of versatility to get the job done, whatever that job may be. It even packs in 8MB of memory dedicated to storing the profiles of its six macro keys. This keyboard is not only backlit by up to 16.8 million colors, but it’s the perfect travel buddy too, made better by its military-grade aluminum finish, including the wrist rest.
 
-Read the full review: Acer Chromebook 15
+Read the full review: Corsair K95 RGB Platinum
 
-Lenovo Yoga Book (Windows 10)
+6. Razer Cynosa Chroma
 
-The netbook of the future – the ultra netbook?
+A keyboard you can get wet
 
-CPU: 1.44GHz Intel Atom x5-Z8550 | Graphics: Intel HD Graphics 400 | RAM: 4GB | Screen: 10.1-inch FHD (1,920 x 1,200 resolution), IPS touchscreen | Storage: 64GB flash storage (plus 128GB with microSD)
+Interface: Wired | Keyboard backlighting: Yes | Programmable keys: Yes
 
-Insanely thin and light
+Affordable
 
-Keyboard surprisingly accurate
+Low-profile build
 
-Woefully underpowered
+Membrane switches
 
-Dated microUSB port
+If you’re new to PC gaming, and you want a keyboard that’ll perform admirably without the high price tag that a lot of mechanical keyboards carry, the Razer Cynosa Chroma might be for you. It might not have the tactile clickiness of a higher-end board, but the hybrid mesh switches perform well enough, boasting a 1ms polling rate and 10-key rollover. That’s not to mention the sick RGB lighting.
 
-The Lenovo Yoga Book, and the Windows 10 version of it in particular, is the sort of futuristic fodder you would find in an episode of Black Mirror. It has a keyboard that doubles as a Wacom touch panel and, best of all, it’s cheap as hell. Now, of course, that comes with the caveat of a weak Intel Atom processor, but the rest of the Lenovo Yoga Book should go down in the history books.
+Read the full review: Razer Cynosa Chroma
 
-Read the full review: Lenovo Yoga Book
+7. G.Skill Ripjaws KM570
 
-Acer Chromebook 14
+Cherry MX switches at a bargain
 
-Meet the anti-MacBook Air
+Interface: Wired | Keyboard backlighting: Yes | Programmable keys: Yes
 
-CPU: Intel Celeron N3160 | Graphics: Intel HD Graphics 400 | RAM: 4GB | Screen: 14-inch FHD (1,920 x 1,080) display | Storage: 32GB SSD
+High quality Cherry MX switches
 
-Top-notch build quality
+Stiff, solid design
 
-Solid keyboard and touchpad
+No USB pass-through
 
-Full HD display
+One of the largest drawbacks to most gaming keyboards is that they look like, well, gaming keyboards. Not everyone wants an gigantic block of plastic with edgy font dominating their desk. Luckily, the G.Skill Ripjaws KM570 alleviates that issue altogether, while still boasting fantastic Cherry MX Brown switches and fully customizable RGB lighting. It might be missing some features from more high-end keyboards, but it’s also a lot more affordable.
 
-Flaky HD video playback
+Read the full review: G.Skill Ripjaws KM570
 
-With its slick lines and a slim silhouette, the Acer Chromebook 14 makes for a subtle, snazzy laptop. Although its display isn't the most attractive we've seen, it’s still acceptable for full HD. On top of that, the keyboard and trackpad adhere to the principle of ‘it just works.’ The battery life is satisfactory as well despite falling a bit south of Acer's 12-hour claim in real-world use.
+8. Creative Sound BlasterX Vanguard K08
 
-Read the full review: Acer Chromebook 14
+A fantastic first keyboard from an unlikely manufacturer
 
-This product is only available in the US and UK as of this writing. Australian readers: check out a fine alternative in the Samsung Chromebook Pro.
+Interface: Wired | Keyboard backlighting: Yes | Programmable keys: Yes
 
-HP Pavilion 15
+Exotic lighting
 
-The de facto learning laptop lives on
+Great switches
 
-CPU: AMD dual-core A9 APU – Intel Core i7 | Graphics: AMD Radeon R5 – Nvidia GTX 1050 | RAM: 6GB – 16GB | Screen: 15.6-inch HD (1,366 x 768) – FHD (1,920 x 1,080); touch optional | Storage: 512GB SSD – 1TB HDD
+Tight spacing between keys
 
-Thinner and lighter
+Creative has made a name for itself in the past by manufacturing sound cards and other audio tech. But as that market continues to shrink, Creative has taken a cue from the Corsairs of the world and dipped their toes into the PC peripheral game. And honestly, the Creative Sound BlasterX Vanguard K08 is a fantastic first entry. Forgoing the traditional Cherry MX switches that many gaming keyboards rely on, the Vanguard K08 opts instead for custom Omron switches, and this is what sets this keyboard apart from the pack. These switches have a shorter actuation point than many competing gaming keyboards, while still maintaining the reliability of a mechanical switch. Theoretically, it should mean that with this keyboard, you’ll be able to perform actions in-game faster than your competition. And that might make this one of the best keyboards for competitive gamers.
 
-Tons of options
+Read the full review: Creative Sound BlasterX Vanguard K08
 
-Shallow, squishy keyboard
+9. Razer Ornata
 
-Frankly, this is a broke college student’s laptop , so as long as you go in with that in mind, you won’t be disappointed with the HP Pavilion 15. Possessing all the power you’ll need to get you through the semester, this laptop bears all of the essentials for an affordable price, so that you can save the rest of your cash for the crushing financial aid debt yet to come.
+Combining mechanical and membrane into one
 
-Read our hands-on review: HP Pavilion 15
+Interface: Wired | Keyboard backlighting: Full color | Programmable keys: No
 
-Dell Inspiron 11 3000
+Tactile and clicky actuation
 
-Colorful can be cheap, too
+Magnetic plush wrist rest
 
-CPU: Intel Celeron N3060 | Graphics: Intel HD Graphics | RAM: 2GB | Screen: 11.6-inch HD (1366 x 768) anti-glare LED-backlit display | Storage: 32GB eMMC
+Short key throw won't jive with everyone
 
-Lots of color choice
+For too long there's been a divide between mechanical and membrane keys but now Razer has finally brought the two together with its 'Mecha-Membrane' Ornata keyboard. These new switches pull from everything Razer has learned over the years. The result is a grand typing experience with shorter keys, the tactile feel of the green switches from the Black Widow X Chroma and a loud audible click.
 
-AC Wi-Fi
+10. Cherry MX Board 6.0
 
-Barely HD screen
+An all-metal affair
 
-For those who like their laptops as colorful as they are affordable, the Dell Inspiron 11 3000 is a no-brainer. Although some users might find that it’s 11.6-inch display is too small, we would argue that this budget laptop is the perfect fit for your portable workspace. Plus, its bright and vibrant color scheme is loud enough that no one on your flight will confuse it for their own.
+Interface: Wired | Keyboard backlighting: Yes | Programmable keys: Yes
 
-Lenovo IdeaPad 110s
+Excellent typing feel
 
-A simple and reliable laptop
+Comfortable low profile
 
-CPU: Intel Celeron N3160 | Graphics: Intel HD Graphics 400 | RAM: 2GB | Screen: 11.6-inch HD (1366 x 768) anti-glare | Storage: 32GB
+Lacks extra features
 
-Full SD card slot
+Lending it to fast response times, the Cherry MX Board 6.0 is defined by its Cherry MX Red switches, hence the make and model. However, because the keys are positioned fairly close together they're excellent for typing in addition to gaming. What’s more, housed in an eye-catching aluminum chassis, the MX Board 6.0 certainly doesn't feel cheap and its blood-red key lighting is deliciously ominous.
 
-AC Wi-Fi
-
-Barely HD screen
-
-The Lenovo IdeaPad 110s isn’t the company’s most high-end model of its signature laptop, but it does sport one of the most recognizable designs in all of computing. Even if the screen is only 11.6-inches small with a resolution hardly a step up from a 15-year-old TV, you can at least take solace in the fact that it is anti-glare. That goes without mentioning the port lineup, which accounts for everyone’s tastes.
-
-HP Stream 14
-
-Big and colorful for cheap
-
-CPU: Intel Celeron N3060 | Graphics: Intel HD Graphics 400 | RAM: 4GB | Screen: 14-inch HD (1,366 x 768) SVA BrightView WLED-backlit | Storage: 32GB eMMC
-
-Larger than most budget options
-
-Free 25GB of Dropbox for 1 year
-
-Barely HD screen
-
-With a starting price of just above 200 large, the HP Stream 14 is a fine value for those seeking a strong if basic web browsing machine. It's cheaper than even some Chromebooks while offering a bigger screen and the fullness of Windows 10. Other 15-inchers lack the ergonomics and aesthetics of HP’s cheapest Windows laptop yet.
-
-Want to see more cheap laptop deals? Check out our US, UK and Australian guides.
-
-Watch the video below for the top 7 things to consider when buying a laptop.
+This product is only available in the US at the time of this writing. UK and Australian readers: check out a fine alternative in the HyperX Alloy Elite
 
 Gabe Carey has also contributed to this article

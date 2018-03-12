@@ -1,23 +1,29 @@
 http://money.cnn.com/technology/
-BlackBerry sues Facebook for patent infringement
-The old king of mobile messaging is coming after the new king.
+Facebook robots may one day follow you around at home
+Your future Instagram pictures could be taken by a Facebook-branded robot that follows you around the house.
 
-BlackBerry (BB) filed a lawsuit in California on Tuesday against Facebook (FB), along with its subsidiaries WhatsApp and Instagram, for infringing on its messaging patents.
+That is, if a newly awarded Facebook patent ever becomes a reality.
 
-BlackBerry claims in the lawsuit that the social media companies developed messaging applications that "co-opt BlackBerry's innovations" by using patented features touching on security, the user interface, and battery life.
+The company received a patent on Tuesday for a self-balancing robot that's capable of standing on either two or three legs. The concept resembles a telepresence robot, complete with a screen, camera and microphone.
 
-"We have a strong claim that Facebook has infringed on our intellectual property, and after several years of dialogue, we also have an obligation to our shareholders to pursue appropriate legal remedies," a spokesperson for BlackBerry said in a statement provided to CNN.
+The patent states the robot may have other abilities such as carrying cargo and a cooling system to control its temperature.
 
-Facebook brushed off the suit as little more than a desperate move from a fading company.
+It's unclear what Facebook might do with a telepresence robot, but the potential is vast. The company did not immediately respond to a request for comment.
 
-"Blackberry's suit sadly reflects the current state of its messaging business," Paul Grewal, Facebook's deputy general counsel, said in a statement. "Having abandoned its efforts to innovate, BlackBerry is now looking to tax the innovation of others. We intend to fight."
+A self-balancing robot could be used to expand its video conferencing offerings. Facebook has offered video calls on Messenger since 2015. With video conferencing on a telepresence robot, a friend could virtually follow you around your home while carrying on a conversation.
 
-Related: Is BlackBerry making a comeback?
+A robot in the home could also be used to autonomously take photos and videos for Facebook's suite of content sharing platforms, including Instagram and WhatsApp.
 
-BlackBerry was an early leader in the messaging market with the success of its smartphones and BlackBerry Messenger product in the mid-2000s.
+Companies are often awarded patents, but many never turn into real-life products.
 
-The patents cited in the lawsuit describe foundational elements of today's messaging services. One patent deals with notifications for the total number of unread messages. Other patents address photo tagging and messaging time stamps.
+The self-balancing robot patent was filed by a Facebook employee who previously worked at a telepresence robotics company.
 
-BlackBerry is seeking unspecified monetary damages. It also appears to be seeking a partnership.
+These types of robots remain a niche product. They're expensive -- several thousand dollars each -- and don't yet fill a need for consumers.
 
-"As a cybersecurity and embedded software leader, BlackBerry's view is that Facebook, Instagram, and WhatsApp could make great partners in our drive toward a securely connected future," the spokesperson said in the statement. "We continue to hold this door open to them."
+But home robots is an industry Silicon Valley startups continue to explore. Mayfield Robotics is currently accepting pre-orders for a Kuri, a $899 robot that wheels itself around your home and takes candid videos.
+
+Of course, the act of introducing a robot into the home raises privacy and security concerns, especially at a time when some users have misgivings about the amount of personal data Facebook collects. After all, a robot operating in the home could significantly increase how much Facebook knows about its users.
+
+Experts see a use for the robots outside of the house, too. Christopher Atkeson, a robotics professor at Carnegie Mellon University, envisions multiple Facebook robots being used to deliver a Facebook Live broadcast of an amateur sporting event.
+
+"Facebook is about capturing and telling stories," Atkeson told CNN. "Automated cameramen and sports commentators will play an important part in increasing people's ability to capture and tell stories. Imagine being a proud parent, coach, or player, and being able to televise high school sports."

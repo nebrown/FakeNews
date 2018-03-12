@@ -1,86 +1,60 @@
 https://www.technewsworld.com/
-Most Companies Have No Idea Where They Are Going
+Fileless Malware: Why You Should Care
 
 
-Tech Industry Events and Webinars
+ALL EC Ecommerce Exchange
 
-Find upcoming e-commerce and technology conferences, trade shows, workshops and webinars. Visit ALL EC Events today.
+Looking for ecommerce software or service providers for your online business? Search and compare vendors by specialty and location. Choose the best solutions to help your business grow and succeed.
 
-Dell recently collaborated with the Institute for the Future -- an interesting think tank largely driven by futurists, which focuses on helping firms ride future waves rather than being killed by them -- on a survey that creates a frightening view of 2030. It could be far closer to Terminator than the utopia we once hoped for.
+Put ALL EC to work for you today!
 
-I think more companies should go through a process like this. The reason is that it could help overcome what has become an overwhelming trend to ignore the future and instead focus excessively on quarterly results.
+It's a truism that just like organizations adapt, so too do criminals. For example, anyone who has ever seen a Wells Fargo commercial knows that there was a time when stagecoaches were a normative method for transporting cash and valuables. But what modern criminals in their right mind would attempt robbing a Brink's truck on horseback? While that strategy might have worked well in the days of the Pony Express, attempting it in now would be out of touch and inefficient.
 
-That trend has proven to be a company killer, driving short-term decisions -- like massive layoffs and cutbacks -- that spike income but eventually kill the firm. Dell and the institute surveyed both futurists and thousands of business leaders to assess what the future likely will be and how well prepared we are for it. Their responses are fascinating, and I'll summarize them here.
+This is an intentionally extreme example to make a point: Criminals adapt to keep pace in the same way that organizations adapt. With a veritable renaissance in technology use under way, criminals have been advancing their methods of attack just like organizations have been advancing their methods for conducting business.
 
-I'll close with my product of the week: Blade Shadow PC, a new PC in the Cloud service that may represent the future of personal computing.
+One of the more recent developments in attacker tradecraft is so-called "fileless malware." This trend -- which emerged a few years ago but gained significant prominence in late 2016 and throughout 2017 -- refers to malware that is designed specifically and architected to not require -- or in fact interact with at all -- the filesystem of the host on which it runs.
 
-Half of Business Leaders Are Clueless
+It is important for technology pros to be alert to this, because it impacts them in several different ways.
 
-One of the big takeaways from the survey is that business leaders collectively had no real clue about the future. Responses were so close to 50/50 on every major question as to be worthless. Business leaders have not been thinking about and discussing the future enough to get to consensus; thus they are inconsistently -- and likely incorrectly -- guessing about the future that will come.
+First, it alters what they should watch for when analyzing attacker activity. Because fileless malware has different characteristics from traditional malware, it requires looking for different indicators.
 
-This does not bode well for the long-term strategic investments they are making. A question as simple as "Will automated systems free-up our time?" should have gotten a resoundingly positive response. Yet exactly 50 percent disagreed, suggesting that in their shops, this was not the case, and they doubted it ever would be.
+Second, it impacts how practitioners plan and execute their response to a malware situation. One of the reasons attackers employ this method is that it circumvents many of the techniques that typically are employed to mitigate attacks.
 
-If automation hasn't been freeing up time, then someone clearly has done something very wrong -- and if 50 percent of firms have been deploying technology badly, as this survey suggests, then perhaps some focus should be placed on fixing that.
+However, there are some things practitioners can and should do to keep their organizations protected.
 
-One particularly frightening response came up in a query about artificial intelligence. When asked for their response to the statement, "We'll learn on the job with AR," 46 percent agreed, implying that they would deploy autonomous machines but only learn how to use them after they were deployed.
+What Is It?
 
-If you do not know how to use a thing, how do you select the best thing in the first place? If you were going to create Skynet (the evil AI in the Terminator movie franchise) that's probably how you'd do it. Gee, let's deploy an AI over our weapons systems and then learn how to -- oops, we're dead...
+Also sometimes referred to as "non-malware," fileless malware leverages on-system tools such as PowerShell, macros (e.g. in Word), Windows Management Instrumentation (i.e., the apparatus in Windows designed for telemetry gathering and operations management), or other on-system scripting functionality to propagate, execute and perform whatever tasks it was developed to perform.
 
-Another troubling response was that only 42 percent believed that offloading undesirable tasks to machines would result in a gain in job satisfaction. So, 58 percent believed that our future -- the future those very folks will be helping to create -- will suck. I'm not even sure how you get there without bad intent.
+Because these tools are so powerful and flexible on a modern operating system, malware that employs them can do most of what traditional malware can do -- from snooping on user behavior to data collection and exfiltration, to cryptocurrency mining, or pretty much anything else that an attacker might want to do to forward an infiltration campaign.
 
-Think about it: Create a scenario in which a machine does all the stuff you hate about your job, but as a result, your job satisfaction drops. What is implied is that the machine must also be affecting your work in ways you'd like even less. However, the implication is that fixing that just isn't a priority for the majority of business leaders. On the contrary, they seem to expect that with their guidance, employee job satisfaction will degrade.
+By design, an attacker employing this technique will refrain from writing information to the filesystem. Why? Because the primary defense strategy for detecting malicious code is file scanning.
 
-The survey results also imply that 50 percent of the businesses surveyed not only would fail by 2030, but also that their leaders expected them to fail and weren't prioritizing ways to avoid that outcome. More importantly, if an individual, group or company believes strongly enough that there is no chance of success, then failure likely will be a self-fulfilling prophecy. About half the business leaders appeared to need an attitude adjustment.
+Think about how a typical malware detection tool works: It will look through all files on the host -- or a subset of important files -- searching out malware signatures against a known list. By keeping clear of the filesystem, fileless malware leaves nothing to detect. That gives an attacker a potentially much longer "dwell time" in an environment before detection. It's an effective strategy.
 
-Businesses Will Spend Billions to Put Themselves out of Business
+Now, fileless malware is by no means entirely new. Folks might remember specific malware (e.g., the Melissa virus in 1999) that caused plenty of disruption while interacting only minimally, if at all, with the filesystem.
 
-Where the survey shows clear intent is with respect to change. Recall that half the companies not only had no real clue about the coming technology but also believed it would make things worse. More than 85 percent indicated that in five years R&D would drive their organization forward, that they would convert to a software-defined business, that they would deliver their product as a service, and that their cybersecurity defense would become effective.
+What is different now is that attackers specifically and deliberately employ these techniques as an evasion strategy. As one might expect, given its efficacy, use of fileless malware is on the rise.
 
-This brings to mind a survey and task force I was part of right before Y2K. We discovered a bunch of companies that appeared underprepared but were reporting they were ready. It made no sense until someone came up with the idea to look at the retirement dates for the related CIOs.
+Fileless attacks are more likely to be successful than file-based attacks by an order of magnitude (literally 10 times more likely), according to the 2017 "State of Endpoint Security Risk" report from Ponemon. The ratio of fileless to file-based attacks grew in 2017 and is forecasted to continue to do grow this year.
 
-There was a high correlation between the CIOs in the firms that weren't ready but were reporting they were ready and retirement dates prior to 2000. Fortunately, much of this was caught, and we didn't end up in a Mad Max world, but it was a surprisingly close thing. This survey indicates that a lot of business leaders think they will be ready by 2030, but they aren't doing what it will take to be ready. Might want to check their retirement dates.
+Prevention Strategies
 
-Here's the thing: Anyone running a race intuitively knows that you have to know where you are going before you start running. Otherwise, there is a high probability that you'll accelerate away from the finish line rather than toward it. This survey indicates that around half of the companies are going to spend a ton of money without knowing where they are going, making things worse.
+There are a few direct impacts that organizations should account for as a result of this trend.
 
-Missing Advice
+First, there is the impact on the methods used to detect malware. There is also, by extension, an impact on how organizations might collect and preserve evidence in an investigation context. Specifically, since there are no files to collect and preserve, it complicates the usual technique of capturing the contents of the filesystem and preserving them in "digital amber" for courtroom or law enforcement purposes.
 
-The report covering the survey has some great advice on how to go fast, but it lacks advice on where to go. In short, it is strong on executing but weak on strategic direction. That is not unusual. Dell, like any vendor, is focused on what it does -- and what it does isn't what its customers do.
+Despite these complexities, organizations can take steps to insulate themselves from many fileless attacks.
 
-Dell wouldn't be a good place to go to for advice on the future of healthcare. It would, however, be good at helping a healthcare company get where it wanted to go.
+First is patching and maintaining a hardened endpoint. Yes, this is frequently offered advice, but it is valuable not only to combat fileless malware attacks, but also for a host of other reasons -- my point being, it's important.
 
-In a way, technology firms are like mechanics in a car race. They can help a good driver win a race, but if the driver doesn't know which way to go, or sucks at driving, the mechanic likely will just help the driver get lost or dead faster.
+Another piece of commonly offered advice is to get the most from the malware detection and prevention software that already is in place. For example, many endpoint protection products have a behavior-based detection capability that can be enabled optionally. Turning it on is a useful starting point if you have not already done so.
 
-What I find interesting, however, is the embedded advice from Karen Quintos, the chief customer officer at Dell:
+Thinking more strategically, another useful item to put in the hopper is to take a systematic approach to locking down the mechanisms used by this malware and increasing visibility into its operation. For example, PowerShell 5 includes expanded and enhanced logging capabilities that can give the security team greater visibility into how it's being used.
 
-"Stronger human-machine partnerships will result in stronger human-human relationships, as companies take a customer-first approach and lead with insights. By applying machine learning and AI to customer data, companies will be able to predict and understand customer behavior like never before."
+In fact, "script block logging" keeps a record of what code is executed (i.e., executed commands), which can be used both to support detective capability and to maintain a record for use in subsequent analysis and investigation.
 
-Wrapping Up: Dell as an Example
+Of course, there are other avenues that an attacker might leverage beyond PowerShell -- but thinking it through ahead of time -- investing the time to know what you're up against and to plan accordingly -- is a good starting point.
 
-This sounds like an excellent place to start to build an idea of where a company should be focusing to evolve into the future. Using machine learning and AI to begin to determine direction would be a powerful first step, but you'd still need to learn how to use those tools before you deployed them. Otherwise, you'd still end up pointed in the wrong direction.
-
-A company like Dell isn't a good place to go for advice on direction -- only for advice on how to get there faster and more efficiently. However, one of the things that makes Dell unique is that it is private, and therefore has significant resistance to the excessive quarterly focus that plagues most other firms. This suggests it can be used as an example of how to determine that direction.
-
-Eliminate the excessive focus on quarterly results (go private if you have to), ensure that leadership is both competent and aligned with the goals of the firm's strategic future (too many CEOs are excessively focused on their own short-term compensation), and create a relatively diverse organization focused like a laser on customer values. That's Dell, and it makes a very nice example of a firm that has set a good direction and is executing against that vision.
-
-Michael Dell's aspirational statement that "we're entering the next era of human-machine partnership, a more integrated, personal relationship with technology that has the power to amplify exponentially the creativity, inspiration, intelligence and curiosity of the human spirit" needs one addition. My suggestion is this: "If you don't set the right goals, all this seemingly wonderful stuff will just put you out of business faster."
-
-Put a different way, putting a rocket on your car could guarantee that you win a race -- unless you are facing a brick wall rather than the race course. So, pointing the car in the right direction first should be a major plan requirement. This study suggests that about 50 percent of the firms plan both to buy rockets and to face them in the wrong direction. If that isn't fixed, it won't end well.
-
-By the way, one final thought: Were I running a team to set strategic goals, Dell's partner in this study would be one of the places I'd go to start. The Institute for the Future is one of the better resources to help you plan for the future you want to live in.
-
-Eventually I am expecting personal computing to move to the cloud, primarily because the aggravation of upgrading, patching and staying ahead of cyberthreats is going up sharply, while the limitations surrounding computing in the cloud are dropping like a rock.
-
-Blade Shadow PC, a service out of France currently in limited release in California, promises a near-term view into that future. For around US$420 a year, you get access to what is basically a dedicated gaming class machine running Windows 10 (Intel Core i7 Xeon, 12GB of Ram, Nvidia GTX 1080 graphics) in the cloud to use as you want, with 4K resolution and some VR support.
-
-While I doubt the dedicated hardware model will be used long term, it provides a stronger performance solution than shared resources now do, thus better anticipating the performance of the future.
-
-Blade's Shadow PC
-
-This is targeting people who want to play PC games, but folks can use the service for anything from running desktop apps to engineering programs.
-
-I expect platform companies like Apple and Microsoft, and major cloud providers like Amazon and Google to enter this space once the technology matures. You can run the service on an older (Windows 7) PC, Android, or its $140 thin client terminal.
-
-Accessories aren't yet where they need to be, and there are some teething issues being reported. It will need 5G to ensure adequate remote (non-WiFi support) to work properly. Still, given that we were talking about the future and Dell, it seemed appropriate to highlight a service that anticipates one aspect of that future. Thus, Blade Shadow PC is my product of the week.
-
-Rob Enderle has been an ECT News Network columnist since 2003. His areas of interest include AI, autonomous driving, drones, personal technology, emerging technology, regulation, litigation, M&E, and technology in politics. He has an MBA in human resources, marketing and computer science. He is also a certified management accountant. Enderle currently is president and principal analyst of the Enderle Group, a consultancy that serves the technology industry. He formerly served as a senior research fellow at Giga Information Group and Forrester. Email Rob.
+Ed Moyle is Director of Thought Leadership and Research for ISACA. His extensive background in computer security includes experience in forensics, application penetration testing, information security audit and secure solutions development.
 

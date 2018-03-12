@@ -1,11 +1,7 @@
 https://www.telegraph.co.uk/technology/news/
-Government postpones age checks for porn websites
-The Government has delayed plans to introduce age checks on pornography websites amid fears they could be watered down.
+GPS: Why our reliance on the Cold War satellite technology is an accident waiting to happen
+Last June, more than 20 ships on the Black Sea noticed something unusual about their satellite-based navigation systems. Instead of their true positions well away from Russia’s south-west border, each ship’s GPS placed it inland at Gelendzhik Airport, a small terminal that serves the picturesque coastal town.
 
-Adult websites were due to verify that visitors are over 18 from next month, under laws set out in last year’s Digital Economy Act. However, the newly-appointed regulator, the British Board of Film Classification (BBFC), is yet to reveal how the checks should work.
+It made no sense. The Global Positioning System (GPS), the network of satellites that we rely on every day, is rarely wrong. When it is, the margin of error is only a few metres. The ships on the Black Sea were 20 miles from Gelendzhik.
 
-Over the weekend the Department for Digital, Culture, Media and Sport (DCMS) said it now hoped the measures would be in place by the end of the year.
-
-It added that the guidelines will be subject to a consultation and must be voted on by MPs, raising the possibility they could be challenged by opponents of the measures.
-
-Digital rights groups have warned that forcing visitors to prove they are over 18, such as entering credit card details or giving away other personal data, could endanger people’s privacy and risks sending children to extreme and illegal material on the “dark web”.
+There seemed to be only one explanation, although it was not one anybody wanted to countenance: GPS, the navigation and timing system on which the world...

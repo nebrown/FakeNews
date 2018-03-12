@@ -1,5 +1,5 @@
 https://www.technewsworld.com/
-The VR Experience: Challenges for a Growing Market
+Amazon Courts Medicaid Recipients With Deep Prime Discount
 
 
 ALL EC Ecommerce Exchange
@@ -8,55 +8,45 @@ Looking for ecommerce software or service providers for your online business? Se
 
 Put ALL EC to work for you today!
 
-Virtual reality devices, including headsets and peripherals, offer consumers and businesses new ways to experience and share immersive content for entertainment, educational, social and other purposes.
+Amazon this week expanded its discounted Prime membership program, already available to EBT card holders, to include Medicaid recipients. Eligible customers can become Prime members for US$5.99 a month, less than half the regular $12.99 monthly fee.
 
-VR's unique capability to promote user interaction through highly immersive content provides untapped potential in terms of storytelling, advertising, the practice of medicine, business, travel and much more. Virtual reality headsets are now available at increasingly attainable prices, and many consumers have computing hardware capable of supporting the demands of VR software.
+The move -- another step in Amazon's efforts to reach underserved economic communities -- ratchets up its competition with Walmart.
 
-Compared with other consumer technology products, VR headset adoption, purchase, and purchase intention rates remain extremely low.
+Amazon provides customers with a link to authenticate their membership in eligible government assistance programs. It is not clear how the company has been working with the Department of Health and Human Services to verify the records.
 
-Slow Start
+Amazon Web Services last year hosted 68 million Medicaid records.
 
-Only 7 percent of U.S. broadband households surveyed owned at least one virtual reality headset as of Q3 2017. Three percent reported having purchased a headset in the year prior, and 14 percent reported their intent to purchase one in the coming year. Those rates reflect a very young market.
+Checking In
 
-The rate of year-over-year increase was substantial, though. Both the adoption and purchase rates tripled between early 2016 and Q3 2017. The percentage of broadband households indicating their intention to buy one or more VR headsets in the year ahead nearly tripled in the same18-month period.
+The expansion of the discount program followed by just a couple of days reports that Amazon recently engaged in talks with JP Morgan Chase and other banks regarding the possibility of establishing a co-branded checking account program to provide limited banking access to customers.
 
-Many companies anticipate strong growth for the VR market as both headsets and content become increasingly available and accessible.
+Amazon previously has offered services targeting the unbanked population, including a stored value card called "Amazon Cash," which lets users load cash onto unlinked debit cards and then use them for purchases with Amazon and certain other retailers.
 
-The major companies that drove the early push for consumer VR -- Facebook, Valve/HTC, Sony, Samsung and Google -- continue to lead the market today. Microsoft joined them with the release of its Windows Mixed Reality headsets at the end of 2017. The HTC Vive and Oculus Rift still dominate the premium PC-based space, while Samsung and Google continue to rule the mobile VR market.
+Customers can deposit funds into their stored value accounts by showing a barcode at a local retailer and presenting the cash.
 
-Pricing remains a constraint, particularly for mid-tier and premium head-mounted displays. The industry must address several factors before VR will achieve a stronger mainstream presence.
+Amazon's expansion is in part at least a competitive play to target the core market of rival Walmart, which is a favorite retailer with working class and low-income consumers, in part due to its reputation for offering lower prices on everything from household goods to groceries.
 
-Lack of Familiarity
+"Yes, Amazon and Walmart are at war, and so Amazon is going down-market to grab Walmart's core customer, even as Walmart attempts to go upmarket to grab some of Amazon's core market," observed Paula Rosenblum, managing partner at RSR Research.
 
-Less than one-quarter (23 percent) of consumers surveyed were familiar or very familiar with virtual reality, and even fewer reported familiarity with specific VR headsets.
+Whether regulators ever would allow Amazon to offer banking services to customers is questionable, she told the E-Commerce Times, especially given Walmart's unsuccessful plan to enter the banking business a decade ago. That effort was crushed by consumer advocates and rival banks that feared Walmart would crush the competition, particularly small community banks that served working-class and low-income communities.
 
-Because the value of VR is best understood when experienced, headset demos are key to VR adoption. As of Q1 2017, fewer than 13 percent of consumers had experienced VR -- a statistic that must change for VR to achieve mass market adoption.
+Amazon Prime already has locked up most of Amazon's upper-income customers, so the company must look elsewhere to expand its base, suggested Michael Levin, cofounder of Consumer Intelligence Research Partners.
 
-Technology Fragmentation
+Unbanked Customers
 
-VR market players have been experimenting with a variety of tracking, input and content technologies, with no common standards followed by the entire industry. As a result, much of the content produced remains constrained to particular headset hardware, and conversion to alternative hardware often is costly.
+About 7 percent of the U.S. population is unbanked, representing a clear opportunity for Amazon to go after markets dominated by Walmart and Dollar General, noted Thad Petersen, senior analyst at the Aite Group.
 
-This fragmentation makes content development expensive and limits content distribution. With no dominant VR headset maker and little prospect of near-term consensus, the lack of standardization will remain an issue for the next few years.
+"Anything that Amazon does to increase reach increases their opportunity to sell and compete more effectively with physical world retailers," he told the E-Commerce Times.
 
-User Experience Issues
+About 7 percent of the U.S. population was unbanked as of 2015, with no checking account in the household, while 20 percent was underbanked, meaning they had a checking account, but also used some other form of processing transactions, Petersen said, citing data from the FDIC.
 
-The various VR technology approaches present unique user experience issues that current-generation VR headsets have yet to solve.
+A proprietary checking account would allow Amazon to lower its interchange costs, because it would not have to go through a Visa or MasterCard payment network to process transactions with those customers, he pointed out.
 
-Feedback on the user experience from those who own or have tried VR headsets has been mixed, based on Parks Associates data. While the majority of survey respondents said they would like to be able to experience VR in their own homes, more than half also reported that they did not think the experience would be worth the extra expense of buying a headset. Most indicated that the experience exceeded their expectations, but one-fifth said it did not. One-third found the VR experience disorienting or uncomfortable.
+Increasing digital economy access to the underserved has been an issue for many years, as their basic needs to access food, medicine and household goods often have been complicated due to inability to write checks, use credit cards or borrow money.
 
-Lack of a Concise Value Proposition
+The USDA has announced plans to conduct a two-year pilot program starting this summer to test whether SNAP recipients can use their cards to buy groceries, according to a government official who asked not be identified.
 
-Virtual Reality describes a way of experiencing content rather than promoting the type, purpose, or value of the content itself. Potential use cases are wide-ranging, and this diversity of purposes makes the technology an attractive investment. It eventually could become so widespread as to be indispensable in some industries.
+The program is designed to test both online ordering and payment, to see if the transactions can be processed safely and securely. Amazon, Walmart, Fresh Direct, ShopRite and other retailers are slated to participate in the pilot.
 
-Yet fragmentation in uses cases may slow initial traction. While gaming, streaming 360-degree video, and virtual travel all provide compelling use cases, there are no ecosystems sufficiently developed to drive headset sales on their own.
-
-Despite slow initial uptake, virtual reality has the potential to breathe life into a consumer electronics market at risk of languishing. Its last round of innovative, disruptive devices -- smartphones and tablets -- have been reaching maturity rapidly.
-
-More than 77 million households will own VR devices by 2021, Parks Associates has forecast. That's 2.3 times more than the number that owned a device in 2017.
-
-The VR market's growth will continue to be driven primarily by gamers and enthusiasts, though VR live broadcasts of Olympic games, sports, and other live events by companies such as NBC and NextVR have become increasingly popular over the past two years.
-
-Market players and watchers should continue to pay close attention, as the VR market has the potential to change drastically over the next two to three years.
-
-Hunter Sappington is a research analyst at Parks Associates.
+David Jones is a freelance writer based in Essex County, New Jersey. He has written for Reuters, Bloomberg, Crain's New York Business and The New York Times.
 

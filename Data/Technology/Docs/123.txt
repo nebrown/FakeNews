@@ -1,7 +1,7 @@
 https://www.telegraph.co.uk/technology/news/
-GPS: Why our reliance on the Cold War satellite technology is an accident waiting to happen
-Last June, more than 20 ships on the Black Sea noticed something unusual about their satellite-based navigation systems. Instead of their true positions well away from Russia’s south-west border, each ship’s GPS placed it inland at Gelendzhik Airport, a small terminal that serves the picturesque coastal town.
+British businesses battle 38 ransomware attacks a day
+British businesses are facing unprecedented levels of new ransomware attacks thanks to a widely available menu of “malware cocktails”, expertly blended using old variants of malicious computer code.
 
-It made no sense. The Global Positioning System (GPS), the network of satellites that we rely on every day, is rarely wrong. When it is, the margin of error is only a few metres. The ships on the Black Sea were 20 miles from Gelendzhik.
+The new viruses are more potent than their predecessors because they have adapted to companies’ cyber defences, like a digital version of antibiotic-resistant superbugs.
 
-There seemed to be only one explanation, although it was not one anybody wanted to countenance: GPS, the navigation and timing system on which the world...
+Cyber security product developer SonicWall told The Sunday Telegraph that it had seen 2,500 different variants of ransomware head for British companies since January 1, an average of 38 new attacks a day. These include variations on WannaCry, which last year spread across 150 countries and crippled several NHS trusts.

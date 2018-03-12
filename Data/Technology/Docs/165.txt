@@ -1,102 +1,76 @@
 https://www.technewsworld.com/
-Where Blockchain Tech Offers the Most Promise
+Voice Shopping Set to Skyrocket
 
 
-Need a web designer, SEO advisor or other ecommerce expert?
+Jamf Now is a device management solution for the iPad, iPhone and Mac devices at work. We make management tasks simple and affordable, so you can support your users; no IT required. Create your free account!
 
-Quickly and conveniently find solutions for your online business before making your next planning or purchasing decisions. Gather key insights and information before selecting your vendors.
+The voice shopping market in the United States will rise from its current US$2 billion valuation to $40 billion by 2022, according to survey results OC&C Strategy Consultants released last week.
 
-Visit ALL EC today.
+The trend is being driven by a surge in the number of homes using smart speakers, from the current 13 percent to 55 percent by 2022.
 
-"Blockchain" is the word on everyone's lips in the tech industry, with vendors pushing it as a solution for everything from banking and finance to retail and apparel.
+It's likely that Amazon will continue to dominate this channel, the survey results suggest. Amazon Echo currently has 10 percent penetration of homes in the U.S., while Google Home has a 4 percent market share. Speakers featuring Microsoft Cortana are in 2 percent of homes.
 
-"We're going to continue to see tech vendors trying to push blockchain as the solution to problems that may exist," said Rebecca Wettemann, VP of research at Nucleus Research.
+Apple so far has not been a contender, because its HomePod only recently hit the market, and its digital assistant Siri is no match for Google's AI capabilities, according to OC&C.
 
-However, blockchain may not be "a privacy-effective or cost-effective solution" for all of them, she told the E-Commerce Times.
+Among the other OC&C survey findings:
 
-Product research is one area where blockchain does appear to show promise. Some in the apparel industry, for instance, have envisioned using blockchain technology with sensors sewn into clothing to track how and where the apparel is worn, providing feedback that would help manufacturers create products better suited to consumers' preferences.
+39 percent of consumers trust in the personalized product selection of smart speakers;
 
-While privacy issues may be a concern for garment manufacturers, companies working with or investing in blockchain technology believe that in general, blockchain will facilitate customer engagement and co-creation, according to a report from the IBM Institute for Business Value, based on research conducted by the Economist Intelligence Unit.
+44 percent believe smart speakers offer the best value selection of products;
 
-Other areas where blockchain could deliver benefits:
+Smart speaker owners are likely to be younger, more affluent consumers who are more likely to have children; and
 
-Product safety and authenticity;
+Voice purchases tend to be standalone, lower-value items.
 
-Supply chain optimization;
+The most commonly purchased items through voice are commodities:
 
-Finance;
+Groceries -- 20 percent;
 
-Operational processes; and
+Entertainment -- 19 percent;
 
-Promotional strategy management.
+Electronics -- 17 percent; and
 
-Blockchain "basically says a transaction is valid without knowing precisely who conducted the transaction," noted Michael Jude, research manager at Stratecast/Frost & Sullivan.
+Clothing -- 8 percent.
 
-It's a way to collect data from a large number of individuals while ensuring anonymity, he said.
+Eighty-five percent of consumers select the products Amazon suggests, OC&C found; 45 percent of grocery orders placed through voice replace existing store or online purchases, and most are bought through Amazon Fresh.
 
-This sort of data "can inform predictive analytics that can improve products dynamically as they're manufactured," Jude told the E-Commerce Times.
+OC&C late last year surveyed 1,500 consumers in the United States and the UK, and adjusted the sample to account for channel bias.
 
-IBM researchers surveyed executives from 203 organizations in the consumer retail and packaged goods sectors across16 countries for its report, released earlier this year.
+OC&C Analytics recorded product sale rates over a one-month period for 2,000 products listed on Amazon, tracking the impact of choice on sales performance.
 
-Respondents to the survey expected targeted business benefits -- such as time and cost savings and risk reduction -- as well as the opportunity to create new business models or to disrupt the industry.
+Go for Amazon Choice
 
-The respondents wanted to expand new blockchain solutions to cover most aspects of their value chains, on both the supply side and for customer-facing interactions.
+Maintaining Amazon Choice status will be crucial for consumer goods businesses, OC&C found. Products that get listed as Amazon Choice will triple sales, while losing that status will result in a 30 percent sales decline.
 
-Other report findings:
+Retailers must ensure their products are easy to find, because 69 percent of consumers know the exact product they wish to buy.
 
-7 percent of the respondents expected to have a commercial blockchain solution at scale this year;
+Businesses must develop "skills" or connected applications that integrate into current voice offers. Currently, there are only 39 such apps within the voice shopping category.
 
-18 percent already were working with and investing in blockchain;
+Voice Shopping Pros and Cons
 
-75 percent of the respondents were eyeing new markets;
+Voice shopping is best for reordering products that need regular replenishment, noted Ben Fisher, CEO of Magic + Co.
 
-69 percent expected blockchain would help them get rid of information risks; and
+"It's a lot easier to just say 'Hey, Alexa, send me some new detergent,' and it'll know what you previously ordered," he told the E-Commerce Times.
 
-64 percent expected the technology would help them better navigate the regulatory environment.
+Starbucks has a similar ability, using Alexa, that lets customers place their usual order, Fisher noted. Voice ordering "really ties people to the brand, disincentivizing them from going to the store and exploring new possibilities. This is crucial for companies wishing to build brand loyalty."
 
-Demystifying Blockchain
+Magic + Co. helps high-profile brands, including Chobani, Jim Beam, and Tide, implement voice technology to engage existing customers and target new ones. Its clients have been embedding voice in their products, and using platforms like Alexa and Google Home to connect with customers in their own homes, Fisher said.
 
-Blockchain "is just a big, expensive, slow and limited database," observed Steve Wilson, principal analyst at Constellation Research.
+Purchasing with voice "works well enough if you have an established buying history," noted Michael Jude, research manager at Stratecast/Frost & Sullivan.
 
-On one side are the original networks designed for cryptocurrency, like bitcoin, which are "misunderstood and unsuited to any real world asset management," he told the E-Commerce Times.
+However, "if you're trying to find a product, good luck," he told the E-Commerce Times.
 
-On the other side are new-generation synchronous ledger technologies, Wilson said, which are mostly in managed cloud-based forms from vendors like IBM, Microsoft, Oracle and Infosys.
+Still, "using voice recognition and natural language processing, AI has emerged as the new user experience," said Ray Wang, principal analyst at Constellation Research.
 
-Those solutions are "based on open source substrates like Hyperledger, and specially tuned to enterprise use cases," he noted. They are confined to big, well-funded pilot programs such as supply chain, shipping, trade and finance.
+Also for SMB Etailers
 
-Blockchains "are really good at orchestrating real-time updates to complex data structures by multiple parties who are arms' length or who don't trust one another," Wilson pointed out.
+Voice shopping "inherently favors larger businesses with brand recognition, as it requires consumers asking for a specific brand," said OC&C spokesperson Jeff Siegel.
 
-That's because blockchain doesn't let users record transactions directly in a table, Wilson said. Blockchain can be updated only sequentially, indirectly and collectively through its distributed consensus algorithm.
+However, "Most of the NLP and AI functionality is available through Web API calls," Frost's Jude pointed out. With the help of skilled IT people or contractors, "SMBs can leverage the work big companies like IBM and Google have already done to create their own retail systems."
 
-Logged entries never can be overwritten or edited. Because all ledger updates are processed through the community consensus algorithm, the process is slow and computationally inefficient.
+Voice technology prices are coming down because of technological advances from Google, Microsoft, Amazon and Apple, Constellation's Wang told the E-Commerce Times.
 
-Blockchain Use Cases
-
-The supply chain, and product and quality authentication, are where blockchain will be most useful in the retail sector.
-
-For example, Walmart has partnered with IBM's Watson on a blockchain pilot project that traces pork through China's supply chain -- from the farm to the factory -- tracking data such as storage temperatures and expiration dates.
-
-IBM, Walmart, Tsinghua University and Chinese etailer JD.com last year announced the Blockchain Food Safety Alliance, which will enhance food tracking, traceability and safety in China.
-
-Dole, Driscoll's, Golden State Foods, Kroger, McCormick, McLane, Nestle, Tyson Foods and Unilever also have partnered with IBM to test blockchains that support food traceability in various regions.
-
-Bitland and FoodCoin have partnered to offer blockchain technologies to facilitate real world tech, mainly in developing countries. FoodCoin uses blockchain to connect consumers to locally produced food, while Bitland lets users file land and real estate deeds using blockchain technology to reduce corruption.
-
-INS has developed a scalable blockchain-based platform that will let consumers buy groceries directly from brands at lower prices.
-
-The new system cuts out grocery retailers, whose dominance limits consumer choice and impacts prices, according to the startup.
-
-Logistics, Freight and Transportation
-
-Efforts to improve the supply chain will depend heavily on logistics, freight and transportation. The Blockchain in Transport Alliance has been working on blockchain technology standards and education for the logistics and freight industries.
-
-Thousands of companies reportedly have applied for membership, and BiTA expects to develop its first standards this year.
-
-BiTA has begun working on small pilots "to test the feasibility and assumptions of the tech stack," said Craig Fuller, BiTA's managing director.
-
-The alliance "is focused on commercial use cases and is often technology- and framework-agnostic," he told the E-Commerce Times, because "the success of the technology will determined by the problems it solves."
-
-Some banks have developed their own blockchain technologies, noted Fuller, and BiTA has begun working with some of the banks to learn how supply chains can interact with banking technology.
+"The kits will be commoditized over the next 12-18 months," he said. "In fact, they'll be more integrated with operating systems."
 
 Richard Adhikari has been an ECT News Network reporter since 2008. His areas of focus include cybersecurity, mobile technologies, CRM, databases, software development, mainframe and mid-range computing, and application development. He has written and edited for numerous publications, including Information Week and Computerworld. He is the author of two books on client/server technology. Email Richard.
 

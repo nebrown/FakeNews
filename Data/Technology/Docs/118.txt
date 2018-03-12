@@ -1,9 +1,11 @@
 https://www.telegraph.co.uk/technology/news/
-Litecoin: The Bitcoin rival whose price has risen five times faster than its big brother
-Bitcoin may have caught all the attention last year with its gravity-defying run, but another cryptocurrency was catapulted into view with an even more aggressive price spike.
+What is bitcoin, how does it work and what affects its price?
+Few technologies have the ability to stir passionate online debate and baffle the vast majority of the population as bitcoin. The virtual currency has been a constant source of interest and confusion since it thrust itself into the mainstream more than five years ago.
 
-Litecoin, a digital currency founded two years after Bitcoin, has shot up more than 8,000 per cent in the past year, a faster rise than the price of Bitcoin's which has topped $19,000 from around $1,000 in January.
+But interest in Bitcoin is now greater than ever, with its sudden crash from $20,000 to under $8,000 - a drop of more than 50 per cent in little over a month - renewing a surge of trading, speculation and worry.
 
-Litecoin shot to more than $325 on December 11, up from around $4 at the start of the year. However, it has fallen back to about $225 since then.
+But why? Is Bitcoin the future of currency? Is it currency at all? What is it for? And should I buy some? Read on to have your questions answered.
 
-Growing interest in Bitcoin has boosted other cryptocurrencies, such as Ethereum and Litecoin, as they are caught up in the craze. Some users are thought to be buying...
+What is Bitcoin?
+
+Bitcoin is a digital currency created in 2009 that uses decentralised...

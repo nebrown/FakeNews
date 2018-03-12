@@ -1,60 +1,46 @@
 https://www.technewsworld.com/
-Gadget Ogling: A Different Sort of Activity Tracker and a Smartwatch for Kids
+Suse, AWS Nudge SAP Customers to the Cloud
 
 
-ALL EC Ecommerce Exchange
+Need a mobile developer, cybersecurity pro or other IT expert?
 
-Looking for ecommerce software or service providers for your online business? Search and compare vendors by specialty and location. Choose the best solutions to help your business grow and succeed.
+On ALL EC you can quickly and conveniently research all available technology solutions before making your next planning or purchasing decisions. Gather key insights and information before selecting your vendors. Visit ALL EC today.
 
-Put ALL EC to work for you today!
+Suse recently entered an agreement to expand its relationship with Amazon Web Services, allowing Suse Linux Enterprise Server for SAP Applications to be sold directly on the AWS Marketplace.
 
-Welcome to Gadget Dreams and Nightmares, the column that delves into the latest gadget announcements in search of something dazzling, life-changing or simply ridiculous.
+AWS customers that are running SAP workloads on Suse Linux Enterprise Server for SAP Applications -- a leading platform for SAP Hana and SAP S/4Hana -- will get integrated and streamlined support from AWS and Suse under the agreement.
 
-In our grab bag this time around are a novel way to track your time, a smartwatch for kids, and a musical controller you can put together yourself -- and it just happens to be made of cardboard.
+AWS customers will be able to buy the Suse Linux Enterprise on demand, so they will pay only for what they use.
 
-As ever, these are not reviews, because I haven't even seen these items in person, let alone held them in my grubby hands. The ratings reflect only how much I'd like to try each item.
+"This isn't an evolution, but a further support statement that showcases how this new relationship better enables AWS and Suse to deliver SAP solutions on AWS," said Tom Hammond-Doel, AWS global alliance director.
 
-Tracking Time
+"Enterprises have been embracing open source software and systems for many years," observed Jeff Kaplan, managing director of ThinkStrategies.
 
-More often than I'd care to admit, I feel the seconds, minutes, and hours of a day slip into the ether before I realize it's happening. When it's time for bed and I try to take stock of my day, it's difficult to recall exactly how I spent my time.
+"Suse has been a leader in this market for a long time, and this alliance is aimed at helping SAP customers migrate their workloads to the cloud," he told LinuxInsider.
 
-As someone who would like to be more efficient and productive (but is perhaps a little too absent-minded and doesn't want to deal with detailed journaling), I think Timeflip (pictured above) seems like a terrific way to keep track of where all that precious time goes.
+Fast Start
 
-It's a 10-sided, die-like device that you simply turn to log the activity you're engaged in at a given time. An accelerometer detects which side of the shape is active, and through a Bluetooth connection to your phone, it tracks how long you're engaged in that action.
+Suse and AWS plan to work together on solutions such as AWS Quick Starts, a template for instant deployment for complex workloads -- an SAP Hana Quickstart and a new SAP Netweaver Quickstart on AWS that leverages Suse Linux, for example.
 
-It comes with a bunch of printed stickers as well as some blank ones, so you can customize it to reflect the things you do most often. However, you need to register for an account, which seems superfluous unless you want to access your activity data from the cloud.
+The market is very competitive because the SAP landscape is changing, Hammond Doel told LinuxInsider.
 
-Timeflip seems to do that trick all the best gadgets have mastered: doing one thing really well in a way that improves one's quality of life. Well, maybe that last part overstates it a little -- but it's a different type of activity tracker that at least might provide you with the data you're looking for to make the changes you want to make. I'm absolutely interested.
+Customers must move to SAP Hana and SAP S/4 Hana before 2025, when SAP will end support for any database, including SQL Server, Oracle DB and IBM DB2, he said.
 
-Rating: 5 out of 5 Precious Seconds
+"Transitioning to S/4Hana enables customers to undertake their digital transformation journey -- and the platform itself is powered by SAP Hana, which runs exclusively on Linux," Hammond Doel said.
 
-Time to Play
+To date, Suse is the leading Linux for SAP Hana and S/4Hana, he noted, and that trend is reflected in the public cloud as well.
 
-And now, a smartwatch for kids. Omate and Nanoblock have teamed up to create Omate x Nanoblock. If the engineers spent as much time working on the device as the marketing teams spent coming up with the name, it doesn't exactly inspire confidence, but I'll give them the benefit of the doubt.
+Customers will receive Amazon Business support by default, thus providing a single point of contact, noted Bas Kamphuis, general manager of SAP at Amazon Web Services.
 
-The watch features colorful bricks -- don't call them "Legos" -- around the wristband, and it certainly has the kind of aesthetic children will enjoy.
+The collaboration will help customers deploy and scale SAP Hana workloads on Suse Linux Enterprise Server for SAP Applications more easily and at a more compelling price point, he added.
 
-It has 3G connectivity and determines a child's location through a blend of cell networks, GPS and WiFi, and concerned parents can find the watch's location through an app. Should a youngster feel in danger, there's an SOS alert function.
+Relationship Building
 
-Parents can keep in contact with their offspring with a voice chat feature, and there's an alarm and stopwatch to keep the wearer in good time. Perhaps most attractively for kids, there's a selfie camera to help them capture those fun moments with their friends.
+Amazon first certified its platform for SAP applications in 2012. It certified its instances for SAP Hana by 2014, which led to Suse Linux Enterprise Server for SAP Applications being made available on AWS.
 
-At US$179, including a one-year, 100-MB per month data plan, it's certainly going to be less expensive than a smartphone for those who might just be too young for them anyway.
+Deployments of SAP Hana workloads have increased since the release of X1 and X1e.32xlarge Amazon Elastic Compute Cloud (Amazon EC2) instances, which are built for in-memory workloads, according to Suse.
 
-I don't have kids, so I can't really speak to how much this would fit into my life. Parents will have to consider the privacy implications for their kids before buying Omate x Nanoblock, but it could be a solid way to help ensure their safety.
+The companies first announced their plans for the expanded relationship last year. SLES for SAP would include the High Availability Extension, which allows SAP Hana instances to fail over between availability zones seamlessly, wrote Sabari Radhkrishnan, partner solutions architect at AWS focused on SAP, in an online post. Other enhancements would include page cache management and kernel settings optimized for SAP workloads.
 
-Rating: 4 out of 5 Better Than Calculator Watches
-
-Paper Piano
-
-Here's one for the more musically minded. On the heels of the announcement of Nintendo's cardboard Labo attachments for the Switch console comes a MIDI controller that is, yes, made of cardboard.
-
-It can connect to computers and mobile devices, and you assemble it yourself with punch-out cardboard keys connecting to silicon sensors and a circuit board. The Kami-Oto controller can connect over Bluetooth or micro USB, but if you don't have a device on hand to connect to, fear not! There's a little speaker that can help you make music wherever you may be.
-
-Through a crowdfunding project, you can snap up a Kami-Oto for around US$46, which seems fair, for the Bluetooth version and additional cardboard sheets. The micro USB model will require a pledge of around $28.
-
-It's a neat device, even it's going to be less about tinkling the ivories than slapping some thick paper. It'd sure beat trying to tap out an idea for a song or musical phrase on a phone keyboard for musicians, especially those without the budget to splurge on a baby grand.
-
-Rating: 4 out of 5 Play It Again, SAMs
-
-Kris Holt is a writer and editor based in Montreal. He has written for the Daily Dot, The Daily Beast, and PolicyMic, among others. He's Scottish, so would prefer if no one used the word "soccer" in his company. You can connect with Kris on Google+.
+David Jones is a freelance writer based in Essex County, New Jersey. He has written for Reuters, Bloomberg, Crain's New York Business and The New York Times.
 

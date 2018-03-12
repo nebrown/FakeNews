@@ -1,5 +1,5 @@
 https://www.technewsworld.com/
-Voice Shopping Set to Skyrocket
+Amazon Buys Ring to Make Homes, Deliveries More Secure
 
 
 ALL EC Ecommerce Exchange
@@ -8,73 +8,43 @@ Looking for ecommerce software or service providers for your online business? Se
 
 Put ALL EC to work for you today!
 
-The voice shopping market in the United States will rise from its current US$2 billion valuation to $40 billion by 2022, according to survey results OC&C Strategy Consultants released last week.
+Amazon has agreed to buy smart doorbell maker Ring for US$1 billion, the companies disclosed this week. Ring last summer added an Alexa skill that allows Ring users to use the Echo Show to see and hear visitors at the front door.
 
-The trend is being driven by a surge in the number of homes using smart speakers, from the current 13 percent to 55 percent by 2022.
+The deal means Ring will be able to further its "mission to reduce crime in neighborhoods by providing effective yet affordable home security tools to our neighbors that make a positive impact on our homes, our communities and the world," Ring said in a statement provided to the E-Commerce Times by company rep Meredith Chiricosta.
 
-It's likely that Amazon will continue to dominate this channel, the survey results suggest. Amazon Echo currently has 10 percent penetration of homes in the U.S., while Google Home has a 4 percent market share. Speakers featuring Microsoft Cortana are in 2 percent of homes.
+The Ring acquisition is Amazon's latest step to secure deliveries to homes and businesses through the use of smart tech.
 
-Apple so far has not been a contender, because its HomePod only recently hit the market, and its digital assistant Siri is no match for Google's AI capabilities, according to OC&C.
+Amazon last fall launched Amazon Key, a service to allow indoor package delivery to customers who are not at home. It requires the purchase of a US$249 Amazon Key Home Kit, which includes the Amazon Cloud Cam and smart locks from Yale or Kwikset. Users can monitor deliveries remotely in real time or view recordings stored in the cloud.
 
-Among the other OC&C survey findings:
+Amazon acquired Blink, a maker of wireless home security cameras and video doorbells, late last year. Also, Nest was folded back into Google earlier this month.
 
-39 percent of consumers trust in the personalized product selection of smart speakers;
+Grocery Deliveries
 
-44 percent believe smart speakers offer the best value selection of products;
+Securing deliveries is a critical component to advance Amazon's assault on the grocery market.
 
-Smart speaker owners are likely to be younger, more affluent consumers who are more likely to have children; and
+Amazon last month announced a new perk for Prime members: free two-hour grocery delivery for customers who buy $35 or more in groceries from Whole Foods. The rollout began in Dallas and Austin, Texas; Virginia Beach, Virginia; and Cincinnati. The company plans to expand the service to additional U.S. cities this year.
 
-Voice purchases tend to be standalone, lower-value items.
+Rival Walmart last fall announced it had partnered with local delivery service Deliv and smart lock maker August Home on a pilot program that not only would allow delivery of groceries inside your home, but also allow a delivery person to put perishables in your refrigerator.
 
-The most commonly purchased items through voice are commodities:
+August and Deliv earlier this year announced plans to open the service to other retail partners under the name "August Access." The system is also compatible with Yale lock products.
 
-Groceries -- 20 percent;
+Walmart unit Sam's Club just this week entered a deal with Instacart for home delivery of groceries and other goods. It will operate initially in Dallas-Ft. Worth and Austin, Texas, as well as in St. Louis. Nationwide expansion is planned throughout the year.
 
-Entertainment -- 19 percent;
+Cloud Cam
 
-Electronics -- 17 percent; and
+The Ring acquisition is certain to heat up the competition between the Amazon Echo and Google Home smart speaker lines. The Echo features Amazon's Alexa artificial intelligence software, while the Home uses the Google Assistant AI tech to control connected home devices.
 
-Clothing -- 8 percent.
+Amazon dominates the category with about 69 percent market share, or 31 million units sold, according to Consumer Intelligence Research Partners, while Google Home controls about 31 percent of the market, with 14 million units. Google Home has been growing quickly, though, having accounted for 40 percent of smart speaker units sold during the last holiday shopping season.
 
-Eighty-five percent of consumers select the products Amazon suggests, OC&C found; 45 percent of grocery orders placed through voice replace existing store or online purchases, and most are bought through Amazon Fresh.
+Security Threats
 
-OC&C late last year surveyed 1,500 consumers in the United States and the UK, and adjusted the sample to account for channel bias.
+Internet of Things devices, particularly smart cameras, have been shown to be vulnerable to hack attacks.
 
-OC&C Analytics recorded product sale rates over a one-month period for 2,000 products listed on Amazon, tracking the impact of choice on sales performance.
+Consumers need to be on guard whenever using this type of connected device, cautioned Andrew Howard, chief technology officer at Kudelski Security.
 
-Go for Amazon Choice
+"Ring, like many Internet of Things devices, provides a greater user and security experience for its users, but smarter and more feature-rich devices often mean enhanced security concerns," he told the E-Commerce Times. "Fundamentally, these devices track, store and share more data than the average user understands."
 
-Maintaining Amazon Choice status will be crucial for consumer goods businesses, OC&C found. Products that get listed as Amazon Choice will triple sales, while losing that status will result in a 30 percent sales decline.
+Threats against these type of devices change often, Howard noted, so consumers need to be aware of the kind of information they expose to these systems and understand the potential ramifications if the technology is compromised.
 
-Retailers must ensure their products are easy to find, because 69 percent of consumers know the exact product they wish to buy.
-
-Businesses must develop "skills" or connected applications that integrate into current voice offers. Currently, there are only 39 such apps within the voice shopping category.
-
-Voice Shopping Pros and Cons
-
-Voice shopping is best for reordering products that need regular replenishment, noted Ben Fisher, CEO of Magic + Co.
-
-"It's a lot easier to just say 'Hey, Alexa, send me some new detergent,' and it'll know what you previously ordered," he told the E-Commerce Times.
-
-Starbucks has a similar ability, using Alexa, that lets customers place their usual order, Fisher noted. Voice ordering "really ties people to the brand, disincentivizing them from going to the store and exploring new possibilities. This is crucial for companies wishing to build brand loyalty."
-
-Magic + Co. helps high-profile brands, including Chobani, Jim Beam, and Tide, implement voice technology to engage existing customers and target new ones. Its clients have been embedding voice in their products, and using platforms like Alexa and Google Home to connect with customers in their own homes, Fisher said.
-
-Purchasing with voice "works well enough if you have an established buying history," noted Michael Jude, research manager at Stratecast/Frost & Sullivan.
-
-However, "if you're trying to find a product, good luck," he told the E-Commerce Times.
-
-Still, "using voice recognition and natural language processing, AI has emerged as the new user experience," said Ray Wang, principal analyst at Constellation Research.
-
-Also for SMB Etailers
-
-Voice shopping "inherently favors larger businesses with brand recognition, as it requires consumers asking for a specific brand," said OC&C spokesperson Jeff Siegel.
-
-However, "Most of the NLP and AI functionality is available through Web API calls," Frost's Jude pointed out. With the help of skilled IT people or contractors, "SMBs can leverage the work big companies like IBM and Google have already done to create their own retail systems."
-
-Voice technology prices are coming down because of technological advances from Google, Microsoft, Amazon and Apple, Constellation's Wang told the E-Commerce Times.
-
-"The kits will be commoditized over the next 12-18 months," he said. "In fact, they'll be more integrated with operating systems."
-
-Richard Adhikari has been an ECT News Network reporter since 2008. His areas of focus include cybersecurity, mobile technologies, CRM, databases, software development, mainframe and mid-range computing, and application development. He has written and edited for numerous publications, including Information Week and Computerworld. He is the author of two books on client/server technology. Email Richard.
+David Jones is a freelance writer based in Essex County, New Jersey. He has written for Reuters, Bloomberg, Crain's New York Business and The New York Times.
 

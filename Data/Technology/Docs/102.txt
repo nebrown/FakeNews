@@ -1,15 +1,25 @@
 https://techcrunch.com/
-The un-lonely planet
-It used to be easy to get lost. Pick up your passport, board an airplane, and zoom, you were gone, disconnected, all on your own, until and unless you stopped by an Internet cafe or an international phone booth. Nowadays my T-Mobile plan gives me free data roaming in more than a hundred countries, and even those without, like Vietnam, where I write this, tend to have near-ubiquitous wi-fi.
+Meet the women inventing the future in the TechMAKERS mini-series
+MAKERS spotlights five women at the forefront of technologies remaking our world, from AI to robotics to telepathy to deep space exploration. They are engineers and computer scientists at the top of their game in an industry where women make up only a quarter of technical jobs. They are exploding silicon ceilings and motivating a new generation of female “makers” to join their ranks and make an impact.
 
-I’m not here to wax nostalgic about the bad old days. Sure, there was a certain romance in getting your most recent news of the world from a four-day-old International Herald Tribune in a dusty hotel on the edge of the Sahara, just as there was romance in finally unearthing a long-coveted out-of-print book in a secondhand bookstore; but T-Mobile and Amazon are unquestionably, objectively better.
+Ayanna Howard, Roboticist
 
-What’s more, as travel has gotten easier, more people are doing it. Living and working in East or Southeast Asia has been a rite of passage for a certain socioeconomic cohort of Westerners for more than a generation now. Both that cohort and its destinations have grown far more diverse, and the same temporary mini-diaspora now happens in reverse, too. Again, these are excellent things which bode well for the world.
+Dr. Ayanna Howard has had a big impact on robotics. She’s one of the few black women in the field and she’s working on inventions with an eye on social impact, not science fiction.
 
-It’s true that getting lost is good for you: it immerses you in the alienness of your new surroundings, and teaches you how to rely on yourself rather than your smartphone exocortex. But you were rarely ever lost lost in the bad old days. Instead you clutched your Lonely Planet guide, your bound-paper exocortex, and went only where it told you to go.
+Mary Lou Jepsen, Inventor, Entrepreneur
 
-It’s said that travel these days is too easy, too connected, too familiar, too homogenized. And it’s true that it can be … but that same connectivity can and does unshackle you from the guidebooks. You can still go get lost in an alien world if you really want to, although admittedly nowadays you have to mount something of an expedition to make that happen.
+If anyone can make a Vulcan mind meld come true, it’s tech inventor Mary Lou Jepsen. With every new invention, she’s moving humanity closer to unlocking the mind for both health and communications purposes.
 
-In Alex Garland’s novel THE BEACH,a character utters the immortal line “One of these days I’m going to find one of these Lonely Planet writers, and I’m going to ask them, what’s so fucking lonely about the Khao Sanh Road?” (An infamous hyper-Westernized backpacker nexus / party zone in Bangkok.) And it’s true that technology has, in a way, prompted the Khao Sanh Road to metastasize across Asia, and beyond .
+Diana Trujillo, Aerospace Engineer
 
-But let’s not look down our noses at it. That fungal ferment which looks like the mixed dregs of multiple cultures may yet mutate into something new and interesting and important itself; and the truly lonely planet is still out there. You just have to work a little harder to find it, now.
+Men can have the moon. As an engineer at NASA’s Jet Propulsion Laboratory, Diana Trujillo is taking us to Mars. Trujillo’s work on the NASA Mars Curiosity Rover mission has given us our first close-up glimpses of Mars and clear evidence that the Red Planet was once capable of supporting life.
+
+Fei-Fei Li, Professor at Stanford University & Chief Technologist at Google Cloud
+
+Fei-Fei Li came to the U.S. from China at 16 with a love for science and she never looked back. Educated at Princeton and Caltech, her early work in robotics revolutionized machine learning and AI. Her focus on inclusion in tech careers and diversity in what we teach machines suggests that tomorrow’s robots won’t be sexist.
+
+Limor Fried, Founder & CEO, Adafruit Industries
+
+Electronics. Companies. Movements. Limor Fried can build anything. In fact, the MIT graduate loves sharing her ideas and the tools for creating them so much she created Adafruit Industries, a top-20 U.S. manufacturing firm and a global online community that follows her every machine-making move.
+
+For more info, check out https://www.makers.com/techmakers.

@@ -1,137 +1,81 @@
 https://www.techradar.com/news
-Sea of Thieves trailer, release date, news and features
-Update: While the open beta for Sea of Thieves is coming to an end this weekend, the pre-release hype is only just beginning. During the first episode of the new Microsoft show, Inside Xbox, it was announced that there's a special Sea of Thieves scavenger hunt about to begin in celebration of the game's release.
+It's all in the genes: Getting to grips with DNA testing
+Only a few short years ago, DNA testing was an activity reserved for bio-hackers, specialist consultants and sci-fi movie plot lines. Now industry estimates suggest the number of people keen to unlock the secrets of their genome is on the rise, as more of us took genetic tests in 2017 than in all previous years combined.
 
-Anyone can take part in the hunt and it'll task players to crack up to 15 clues in order to find where X marks the spot. The winner or winners (because you may want to team up for this one) will receive a bunch of 4 golden bananas valued at £20,000 each.
+This isn’t surprising. For starters, there’s been a big shift in consumer interest in health and well-being, as well as an influx in different DNA and health testing companies entering the market. From those that tout the health benefits of sending off your spit in a tube through to those focused on the promise of unlocking the secrets of your ancestry, you now have many options.
 
-The quest will begin on Monday, March 19 at 12 am PT / 8am GMT / 7pm AEDT when the first riddle will be revealed. It'll then run over a total of three days with the release of a total of 15 riddles.
+But despite the popularity of these tests, they’ve been called into question for inaccuracies, misleading information and privacy concerns over the past few years, with many asking how the data about our DNA is used and whether the testing methods are as watertight as these companies claim.
 
-On Wednesday March 21 at 1pm PT / 9pm GMT / 7am AEDT (Thursday, March 22) those taking part will have seven hours to input the answers to the riddles at xbox.com/thebananaquest. After this there'll be a final riddle to be solved by the top teams from each of the six participating countries (US, UK, Australia, Canada, Germany and France) and the winner will walk away with the prize.
+So before you spit into a tube or prick your finger in the hope of uncovering something life-changing, let’s take a look at the DNA and health testing market, and find out what an expert has to say about whether all the hype is worth it.
 
-It's definitely a different kind of pre-launch promotion but it seems to very much capture the spirit and aims of Sea of Thieves itself.
+23andMe updates your dashboard with new information based on your genetic results when supporting research becomes available. (Image: © 23andme)
 
-Scroll down to read everything we know about Sea of Thieves' confirmed features and check out our thoughts on the game's potential.
+The DNA testing market
 
-Article continues below...
+When it first launched in 2006, 23andMe was one of the first DNA testing kits aimed at consumers. Fast-forward to the present day and there are a lot of different options available now, including DNAFit , MyHeritage , and Ancestry.com , just to name a few.
 
-It’s been a while since we’ve seen a game from Microsoft-owned, UK-based studio Rare that wasn’t Kinect-based. From 2009 to now, the studio has been tasked with Kinect Sports Rivals, a remake of ‘90s fighting game Killer Instinct and the Xbox avatars, but now they’re back to their old tricks with new tools, making the fantastic-looking open world MMO, Sea of Thieves.
+There are also another group of tests that tend to get lumped in with DNA tests, but that don’t actually analyse your DNA. Instead, they’re marketed as ‘health tests’ and boast similar offerings that can reveal things, like your cholesterol levels and liver function, by analysing your blood and microbiome. These include Thriva Health and Atlas .
 
-In true Rare fashion the game features a charming art style that embraces the lighter side of the seven seas. This is not a game world that's in any sense dark and realistic, you can fire yourself out of canons to get around quickly, and you eat bananas to restore your health.
+The Thriva kit is divided into 3 logical sections to help guide you through the sample collection process: prepare, sample and send. (Image: © Thriva)
 
-Read on for everything we know so far about Rare's pirate odyssey.
+But whichever test you opt for, the process is similar. A sample of blood, spit or stool is sent away and tested. You can then access your results via an online dashboard a few weeks later. The results you get will depend on which test you opt for. For example, MyHeritage claims to “uncover your ethnic origins and find new relatives,” whereas 23andMe offers options to reveal health data or ancestry data or both.
 
-Cut to the chase
+The option you choose will very much depend on what your aims are. Some people are motivated to find out more about their health, but increasingly it seems that finding out more about your ancestors and where they’re from is more likely to pique mainstream interest.
 
-What is it? Rare's upcoming open-world Pirate odyssey
+But that’s not all. Now more and more of us are getting access to data about our genes, there’s a growth in third party websites that offer to reanalyse that data and serve up different results yet again. For example, you can get your DNA tested with 23andme, download the information and then upload it into a site like Promethease, which takes the information about you and provides further feedback, but with little oversight from as much regulation as the DNA tests themselves. This means the results might be more interesting, but there's less guarantee they're accurate.
 
-Rare's upcoming open-world Pirate odyssey When's it out? March 20 2018
+23andMe serves up a user-friendly visual to explain your ancestry composition and where your distant relatives are likely to have come from. (Image: © 23andMe)
 
-March 20 2018 What can I play it on? Xbox One and PC
+The benefits of revealing your genetic make-up
 
-Sea of Thieves trailers
+As you’d expect, delving into the depths of the science behind what makes you 'you' can unearth some fascinating and life-changing data. We spoke to Katy from London, who told us taking a DNA test enabled a relative of hers to find out the truth about their upbringing.
 
-The latest trailer to be released from Rare studios gives good insight into the kinds of quests we'll see in Sea of Thieves and what individual player progression will involve in the long term. Much of the player progression system will involve building a reputation at NPC-run Trading Companies.
+“After getting my DNA results back from Ancestry.com, I was unexpectedly contacted by someone related to me. This person had been adopted as a baby and was searching for information about their biological family,” Katy told us.
 
-All of the trading companies will appeal to a different play style and each will offer their own quests for players and their crews to pursue. As your reputation builds with each trading company, the rewards you get from pursuing their quests will become more valuable but the quests themselves will also become more difficult.
+“I was the first fairly close blood relative they had found. We shared information, checked relatedness with other members of my family registered on Ancestry.com, and searched genealogical records until we were able to ascertain who their biological parents and siblings are. It was an emotional journey and I was honoured to be part of it,” she says.
 
-If you and your crew are sitting at different reputation levels it will apparently still be possible to play quests together as Mike Chapman has promised "there are no barriers in place preventing players playing together."
+Katy’s story is one of thousands about relatives that have been connected for the first time via DNA testing results, but they can also lead to big health discoveries. Tests like 23andMe, are being used to allow people to look at their innate tendencies towards certain conditions, which can flag up the likelihood someone might go on to develop a condition like breast cancer early.
 
-At E3 2017 we were presented with another trailer for the game which shows off what we can expect the game to look like on the upcoming Xbox One X.
+Thriva serves up results about your vitamin levels and health in easy-to-understand graphs with definitions and next steps underneath. (Image: © Thriva)
 
-The trailer highlighted the game's signature Rare visuals and showed off a team of four as they sought to retrieve a chest of treasure to bring it back to their ship. The players explore islands where dangers appear in form of the ghosts of previous player who remain able to attack you, and you'll have to be especially careful while you're busy digging up your treasure, which takes a believably long amount of time.
+Similarly, health tests like Thriva are allowing people to make immediate changes to the way they live. Deborah Lucas, who was diagnosed with a thyroid condition, told us: “Thriva was recommended to me by my nutritionist Lillian Klein so that we could track a more detailed analysis of my thyroid condition - NHS blood tests never addressed the root cause of why my thyroid stopped working.”
 
-You can check out the trailer below.
+“Klein used the results from my test to diagnose Hashimoto Thyroidism,” she says. “This has led me to make dietary changes to bring down the antibodies, which may have contributed to the destruction of my thyroid.”
 
-News and features
+23andMe data can be used in third party research if you consent, but your data is de-identified and shared in aggregate. (Image: © 23andme)
 
-You can become a legendary pirate
+The downside of delving into your DNA
 
-The end-game for Sea of Thieves at the moment is to become a legendary pirate. By working hard to get through quests and increase your level, you'll increase your notoriety as a pirate. If you reach the ultimate, you'll become a legendary pirate with your very own ship, hideout, captaincy and outfit (it's up to you whether you wear it or not). You'll also have access to legendary pirate quests which you can choose to pursue on your own or share them with other players.
+There's no shortage of stories about the ancestor secrets that are uncovered and the health conditions that are revealed with DNA tests, but that doesn’t mean there aren’t discussions to be had about the accuracy of the results, what we can do with all of that data and where it might be used in the future.
 
-After you've achieved this status, Rare says there will be further progression added to the game and you'll be able to customize and enhance the ship you captain.
+One of the biggest concerns is privacy. It doesn’t take much imagination to consider the negative implications of a company getting hold of information about your DNA, from insurance companies to advertisers.
 
-There will be no lootboxes, but there will be optional microtransactions
+A report from Gizmodo delved deep into the privacy policies of some of the biggest names in DNA testing, which unearthed issues around who can access your data, what it’ll be used for and who may stake a claim on it in the future.
 
-Rare has confirmed that in Sea of Thieves, there won't be any lootboxes or pay-to-win purchases. There will, however, still be items that you can purchase in-game. One of the first things you'll be able to buy, for example, is a pet.
+Right now the responsibility is on us to make the right decisions and, crucially, read the small print. We spoke to Bill Newman, professor of translational genomic medicine in the Manchester centre for genomic medicine at the University of Manchester, and chair of the British Society of Genetic Medicine, about what people can do to feel safe. “They should read the paperwork,” he says. “They need to ask who will their data be shared with? Will this be anonymised? Or available in an identifiable way?”
 
-When we asked executive producer Joe Neate about the game's microtransactions, he told us “everything is optional; it doesn’t affect power or progression, and you’ll know what you’re getting – ie. not loot boxes.”
+We asked a spokesperson from 23andMe about how the company addresses issues around the privacy of DNA data. “To protect customer privacy we use a range of physical, technical, and administrative measures to safeguard personal information,” they told us. “Customer data is de-identified, meaning personal information such as name, email, and other contact information is stripped from your genetic information, and the two data sets are stored separately.”
 
-Instead, his team is aiming to “add more fun and social things that benefit you if you buy [them], but also benefit your crew and lead to everyone having a stronger social experience.”
+Without any standardised testing, it’s also hard to know how accurate DNA tests are. This isn’t a problem if you’re looking to find out if it can guess your eye color or whether you like coriander, but for serious health concerns you may think you’re safe when you’re not.
 
-When we asked for examples of what kind of things we could expect to see in this category, we were told pets is likely to be first on the cards.
+“The claims made by some companies about the genetic variants associated with appearance, diet and exercise have limited evidence to support them,” Newman says.
 
-“The ability to buy a pet – a monkey or a cat to accompany you. But we want it to benefit everyone and we want it to be a part of the fun social side. So if you’ve got a monkey you'll be like ‘oh I’ll be able to pick it up and hold it!’ But that also means someone can run off with it. It’ll come back, obviously, but that bit of play between people and messing around is key.”
+The 23andMe dashboard shows you information about your reactions to certain food groups. (Image: © 23andMe)
 
-There will be more quests, items and timed events
+Although he believes that flagging more serious conditions is generally better. “The technical testing of the DNA sample is relatively straightforward and should be accurate,” he says. “The most important issue is the interpretation of the data and how this is fed back to the consumer in a way that is understandable and accurate based on current knowledge.”
 
-The first major Sea of Thieves update will come after around three months, after the team has had the chance to listen to player feedback and react accordingly. After this, updates will range between small and large, with new item additions coming at a more regular pace than, say, large world changes.
+The way the data is fed back is important and raises questions about whether this kind of DNA testing, which is often based on curiosity rather than symptoms, just leads to health anxiety about the results when they’re not combined with personalised care and information about what solid next steps could be.
 
-During a studio visit to Rare we were told that there are plans to add new guilds on top of the three that are already in the world in order to allow for more diverse quests. There will also be new items and timed events. For example, you might find when you sign in one weekend that there's an NPC in a tavern for a couple of days with a quest that's never been available before and perhaps won't be available again.
+“I have a concern that the data is over-interpreted in terms of its predictive ability and individuals are concerned that their risks of health problems are disproportionately raised when this may not be the case,” Newman explains. “Or alternatively that individuals are falsely reassured based on limited information.”
 
-It'll be this mix of big additions and temporary events that will encourage players to continue to log in and explore the Sea of Thieves.
+The Thriva health kit comes in a small box that you can receive through your letter box. (Image: © Thriva)
 
-No VR or local co-op planned
+Should you send your spit away for testing?
 
-Though Sea of Thieves is a first-person game with an unobtrusive UI, there won't be a VR version. The reason for this, we've been told, is that sea sickness is very real, even in a virtual world. There also won't be any local co-op in the game. Rare told us that the game's cross-play and low minimum specs means that households with more than one laptop or a combination of laptops and consoles will be more than able to play the game together, without the need to split a screen.
+There’s no denying that DNA tests are fascinating for individuals keen to find out about everything from their ancestry to their predisposition to serious health problems to indulgent information about their eye color and personal tastes.
 
-There will be a Kraken
+If numbers continue to rise, DNA tests will be popular for some time, especially if different companies produce different results. But what about the concerns? We asked Newman what he thought about the future of DNA testing. “They are here to stay and clearly there is an appetite for them,” he explained. “People are curious about their ancestry and for them to be used in this way is benign.”
 
-That's right, a Kraken. Sea of Thieves is a game that embraces the romantic and mythical side of piracy rather than the gritty realism of scurvy and keelhauling.
+But he warns that with health results, it can be an entirely different story. “When it comes to providing predictive health information we should be more cautious. Firstly people need to understand what is being tested and what the risks really mean and if an increased risk of a health problem is established what can be done to reduce the risks.”
 
-Naturally, that means a Kraken will appear in the game. It won't be possible to hunt down the Kraken, and there's predicting when it'll appear. Instead, Rare has said that it will be a sporadic and unpredictable force in the world to make things feel more organic and dynamic. It could appear to make wrangling a storm worse, or it could sneak up on your just as you're finishing a quest and trying to cash in your chests.
-
-You can play solo or with a crew
-
-Though Sea of Thieves is a game that not-so-gently encourages you to play with others, you can play alone on a small single-man ship. While you're playing solo, you can still come up against ships manned by crews of four and though they can be taken down, it's not easy. Playing solo requires some playstyle adaption and you might find yourself adopting more sneaky tactics (such as sneaking aboard a ship at night to plant explosive kegs) rather than sailing straight into broadside ship-to-ship combat. It's also a good opportunity to form a temporary truce with other single players to work together to take down a larger enemy.
-
-When you're playing with others you have the option of creating a closed crew comprised of only your friends, or an open crew with strangers. No matter who you're working with, communication will be key.
-
-About that communication
-
-Sea of Thieves is heavily co-operative, although there are combative elements with other parties, too. You and your crew will have to figure out how to man a ship, with people taking over different jobs, which means that you'll have to communicate if you want to avoid accidentally doubling up on tasks.
-
-At our hands on session at 2017's E3 conference we found out the dangers of this first hand. Our ship came under attack from enemy pirates, who promptly used their cannons to blow a hole in the hull of our ship. When this happens you'll need crew members to patch up the ship using timber, and others will need to use buckets to get rid of the water flooding the hull.
-
-Fail to communicate and you'll find everyone switches to dealing with the biggest problem, which lead to our cannons being completely unmanned while everyone ran around with buckets filled with sea water.
-
-What's interesting about Sea of Thieves is how minimal the UI is. The quests were listed on a piece of parchment that our character held, and looked at, within the game's world, and when we picked a quest the game relied on us literally telling our teammates what were were doing rather than having an immersion-breaking arrow appearing in the environment.
-
-Then, when you get to the island with the treasure on it, you'll need to read your map alongside your compass to work out where you are since the game gives you no clues as to your location on the map itself.
-
-This meant our team had enormous difficulty finding the treasure, and eventually we were forced to leave the island empty-handed and in serious need of some rum.
-
-You have the option to communicate using your microphone or in-game voiceless commands – both work well. If you're looking for an open crew, Sea of Thieves will attempt to match you with players using the same communication method as yourself to make things easier.
-
-Progression doesn't determine which quests you can do
-
-When playing the game, you'll be able to do quests for three guilds. Which guild you choose determines the nature of the quest: Gold Hoarders will have you hunting treasure, the Merchants Guild will ask you to fetch and return items, while the Order of Souls are more combative bounty hunter missions. You're not locked into any particular guild, but you will get progression points for each one.
-
-These will allow you to level up in the game, unlock higher level quests with better rewards and get closer to becoming a legendary pirate. That said, when you're a lower level pirate you'll still be able to take part in higher level quests. Rare has said that there's no level barrier in Sea of Thieves and as long as higher level players are willing to share their quests, there's nothing stopping new or less committed players taking part and earning their share.
-
-Naval combat is present
-
-Naval combat is another key element of the game, and in these instances your canons are your best friends. Your team will need to work together to get the cannonballs from beneath the deck into the canons themselves, after which point you'll be able to fire them at enemy ships to try and send them down to Davy Jones' Locker.
-
-If you prefer a hands on approach you can board enemy ships to take on their crew using a combination of swords, muskets, and flintlock pistols. You can either swim aboard other ships, or, if you're feeling brave, you can literally fire yourself out of a canon to get there quicker.
-
-You can customize your avatar
-
-Though you'll select your avatar from a pre-made lineup, it will be customisable with the ability to change gender, physique, appearance, and outfits, although the game does not have skill trees or character classes. You’ll be able to further customize your character as you play with new, fancier outfits and even prosthesis.
-
-The world is open and explorable
-
-Sea of Thieves is not a multiplayer game with matches – this is an open world and every ship you come across will be crewed by real players. It's up to them and you whether they're friend or foe. Between quests there will be plenty of opportunities for bonding with your crew and sailing freely.
-
-Dying is...interesting
-
-
-
-And what if you die? Well, in true pirate fashion you’ll be booted to Davy Jones’ Locker, where you can swap stories with fellow ghosts and attempt to board a ferry back to the world of the living by performing quests for the ferryman. Your sunken ship can be plundered in the meantime, so don’t take too long.
-
-How can I play it?
-
-Sea of Thieves will be available on PC and Xbox One on March 20 2018. It'll be possible to purchase the game outright, or pick up an Xbox Game Pass subscription as the game is included in its entirety through the service.
-
-If you're not sure whether Sea of Thieves is for you, picking up a Game Pass trial for free and playing the game for a short time through it is a good way to find out.
-
-The game is not a port for PC or Xbox, it works equally on both and supports cross-play. While the console version has locked frame rates of 30fps, the PC version's are unlocked. Mouse, keyboard and controllers are all supported across console and PC.
+Like many medical experts, Newman says it’s still best to go straight to your GP if you’re worried about your well-being. After all, most of these DNA tests are filled with disclaimers about how they not proper diagnostic tools. “If an individual is worried about their risk of an inherited condition in their family they should seek the advice of their GP who will refer to the local genetics service if appropriate.”

@@ -1,221 +1,339 @@
 https://www.techradar.com/news
-Best TV 2018: which TV should you buy?
-Best TV Buying Guide: Feast your eyes on TechRadar's round-up of the best TVs money can buy in 2018.
+The best VPN services for 2018
+The 5 best VPN services 2018 1. ExpressVPN
 
-You know the feeling. You're stalking the aisles at Best Buy, your eyes locked on a towering, top-of-the-line TV and thought, "I need this."
+2. IPVanish
 
-But money's tight, and to get the very best TV on the market you're going to have to splash the cash. How can you be sure you're really getting the best screen for your moolah, when an investment of this size can be a massive one?
+3. VyprVPN
 
-You do the only logical thing and you go online to shop.
+4. NordVPN
 
-But then you hit another problem: Shopping for TVs online you'll have hundreds of reviews at your disposal, but the noise can be overwhelming. Weighing up your funds, is it time to make the jump to OLED, or will LCD still cut it? Do you need smart features, and if so, through what platform? And is a giant size as essential as everyone on MTV Cribs makes it out to be? Sigh.
+5. TunnelBear Read on for our detailed analysis of each VPN
 
-But don't lose hope. Some screens really do outperform others, offering better contrast, higher clarity and new technologies like Wide Color Gamut (WCG) and High Dynamic Range (HDR) that will dramatically improve your TV watching experience.
+Choosing a VPN service to sign up to can be confusing - there's a lot of VPN services out there which makes choosing the right one tricky at best and very confusing - and downright dangerous - at worst.
 
-"So, should I buy a TV now or wait it out?"
+Luckily we've tested all of the major players to take the sting out of your decision. So if you're thinking of signing up for a VPN and want to find out which one is the best, you've come to the right place!
 
-This is a question we get a lot. Like most technology (cough, iPhones) TVs are getting incrementally better all the time – which means, yes, if you wait a year there will probably be a bigger, flashier TV out there for less money.
+As of March 2018, we've (re)tested more than 100 of the best (and some of the worst) VPN services in 2017 and 2018 and we retest them regularly too - so you can be sure the recommendations on this page are current and can be trusted.
 
-But while doing so will certainly net you a larger screen at a better price, some of the best panels are already being manufactured today. While tomorrow's screens might be a bit larger, a bit brighter and a bit cheaper, today's screens are just as competent in their own right.
+If you're from outside of the US, please note that most VPN services are global and will usually charge in US Dollars, so we've listed prices accordingly. However, when you click through to the actual deals, you may find the prices automatically displayed in your home currency as direct price conversions.
 
-We can say that with confidence knowing that most manufacturers have finally embraced the three most important standards in TVs: Ultra HD , Wide Color Gamut and HDR (HDR10 and, if you're lucky, Dolby Vision). If a TV you're looking at doesn't support at least one of these, you should probably look somewhere else.
+What's the best VPN service?
 
-Not sure where to start? Here are the best TVs we tested this year.
+The best VPN service right now is ExpressVPN. It's the best all-round option for speed, privacy and unblocking websites. A close number two is IPVanish which is another very reliable VPN that we like a lot - particularly the way it handles P2P and torrenting. And the third best VPN in 2018 is VyprVPN - amazing for speed in particular. Read more about these VPN services and more below!
 
-Want better audio? Check out our guide to the best soundbars available.
+The best all-round VPN service for speed, privacy and unblocking
 
-Once you've decided on a panel, make sure you read our guide on how to set up your TV to make sure you're getting the most out of it.
+Number of servers: 1800+ | Server locations: 148 | IP addresses: 30,000 | Maximum devices supported: 3
 
-1. LG C7 OLED Series (2017)
+Wide range of secure VPN apps
 
-Stunning pictures at an affordable price puts OLED back on top
+Superb 24/7 live customer support
 
-55-inch: LG OLED55C7 | 65-inch: LG OLED65C7
+Ultra fast VPN servers in 94 countries
 
-Stunning contrast-rich pictures
+Only supports 3 connections
 
-Gorgeous ultra-thin design
+[Save 49%] ExpressVPN Special Deal - Get 3 months free with an annual plan on Techradar's #1 Rated VPN Service . ExpressVPN delivered outstanding performance in our speed tests and excellent customer support.
 
-Excellent operating system
+ExpressVPN offers 145 locations across 94 countries, alongside an excellent range of tailored clients, with some great efforts for mobile and desktop on the software front. You get native clients for Windows, Mac, Linux, plus iOS, Android and even BlackBerry (albeit a couple of models) on the mobile front.
 
-Lacks brightness vs LCD
+But that's not all, add routers (they do their own firmware), VPN browser extensions and DNS content unblocking for a wide range of streaming media devices and Smart TVs, giving you a very extensive VPN solution.
 
-At the top of our list for 2018 (so far) is the LG OLED C7 – available in both 55 and 65-inch iterations. It's here because it delivers better brightness and light control than last year’s C6 (something we weren't sure was even possible), making it a high dynamic range performer that doesn't sacrifice OLED’s class-leading standard dynamic range capabilities. It delivers its new picture thrills at a price that finally makes OLED a financially viable alternative to top-end LCD sets making it, beyond a doubt, one of 2018’s most irresistible TVs.
+What’s also really helpful is that there are loads of web-based tutorials which are easy to follow to help you get up and running with the service. ExpressVPN’s website also offers live chat support, with agents staffed 24/7 to answer any questions you may have about their service.
 
-There are other OLEDs worth considering this year (see: Sony's A1E OLED or LG's B7 and W7) but we think the OLED C7 offers the best price-to-performance ratio of any TV under the sun in the year 2018.
+You also get P2P support, a kill switch (to help your IP stay concealed if your network drops), and very solid overall performance levels.
 
-Read the full review: LG OLED C7 (OLED55C7)
+Downsides? The ExpressVPN service supports just three simultaneous connections per user, and their service comes with a premium price tag. But if you want a reliable, ultra fast and highly secure provider, ExpressVPN may be a great fit. While they don’t have a free trial option, ExpressVPN has a ‘no hassle’ 30-day money-back guarantee if you aren’t happy with the service. The packages available are:
 
-2. Sony XBR-Z9D Series (2016)
+Awesome for torrenting and other P2P traffic
 
-Sony’s 2016 flagship TV set new standards in picture quality
+Number of servers: 950+ | Server locations: 60+ | IP addresses: 40000+ | Maximum devices supported: 5
 
-65-inch: Sony XBR-65Z9D | 75-inch: Sony XBR-75Z9D | 100-inch: Sony XBR-100Z9D
+No traffic logs
 
-Stunning HDR picture quality
+Excellent download speeds
 
-Ground-breaking backlight
+Configurable software
 
-Android TV feels sluggish
+No free trial
 
-Pretty average audio
+Get up to 46% Off IPVanish VPN Service. IPVanish's top-tier network delivered some of the fastest speeds in our tests. Its zero log policy gives you total privacy and peace of mind. Hurry up!
 
-From the moment we laid eyes on the the XBR-65Z9D we’ve been desperate to get our hands on one. It is, hands down, the holy grail of television for 2018: a TV able to combine the extreme, high dynamic range-friendly brightness of LCD technology with a backlight arrangement capable of getting LCD closer than ever before to the stunning light control you get with OLED technology.
+While many VPN services try to stand out with their free plans and cheap commercial products, IPVanish talks more about service quality. It's "the world's fastest VPN" says the website, boasting 40,000+ shared IPs, 950+ VPN servers in 60+ countries, unlimited P2P traffic, five simultaneous connections, a no logs policy and more.
 
-This backlight arrangement comprises more than 600 LEDs that sit behind the 65Z9D’s screen that are capable of outputting their own light levels independently of their neighbors. This should enable the TV to produce more of the extremes of light and shade associated with new high dynamic range (HDR) technology while suffering less than other LCD TVs with distracting clouds, stripes or halos of unwanted, extraneous light.
+The price is still going to be an issue for some – it is more expensive than the average VPN, but IPVanish's high speeds, choice of locations and excellent client are hard to beat (although in our latest look at the Windows client, we did find it potentially susceptible to the odd network issue, perhaps more so than rival software). If you're after quality, take the plunge with this VPN service, and if somehow you end up unhappy with the service there's a 7-day money-back guarantee.
 
-As if this wasn’t already attraction enough, the 65Z9D also sports Sony’s new ‘X1 Extreme’ video processing system and the latest version of Sony’s reliable Triluminos wide color technology for unlocking the extended color spectrums associated with HDR sources.
+Great for performance and security
 
-3. LG Signature Series W7 OLED (2017)
+Number of servers: 700+ | Server locations: 73 | IP addresses: 200,000+ | Maximum devices supported: 3-5
 
-LG's W7 OLED melds into the wall
+Very fast performance
 
-65-inch: LG 65W7OLED | 77-inch: LG 77W7OLED
+Good value annual plans
 
-Insanely slim design
+Powerful, configurable clients
 
-Color, clarity and contrast
+Monthly plans are dearer
 
-Future-proof HDR
+(25% Off) Exclusive VyprVPN Deal: TechRadar readers get 25% off VyprVPN annual plans ($45 USD for 1 year). VyprVPN is a fast, highly secure service without third parties. Get VyprVPN here
 
-Motion issues with TruMotion
+This VPN service is based in Switzerland, where there are favourable privacy laws, and it’s a very well-specified service boasting 73 server locations and unlimited data usage.
 
-The LG W7 OLED is truly something special. Not only is it one of the thinnest TVs to ever grace our vision (it’s 2.75mm thin), but it’s also one of the most gorgeous. When fed the right kind of content – in this case, 4K HDR10 or Dolby Vision video – it truly shines. A super-slim design alone wouldn’t have been enough to warrant the extra cost to upgrade to LG’s latest panel. But the thin frame on top of a Dolby Atmos soundbar on top of four types of HDR support on top of the magnetic mounting system on top of the new webOS 3.5 operating system surely did the trick. This incredibly gorgeous TV isn’t without its faults (see: motion handling, its sticker price and soundbar issues), but in terms of sheer picture performance there’s nothing else like it right now.
+There are also some great extras such as auto-connect options to make things easy for you, a kill switch, and you get bolstered security courtesy of the firm’s proprietary Chameleon protocol and VyprDNS. Note that on the logging front, some logs are maintained (connection times, IP addresses).
 
-4. Samsung QLED Q9F (2017)
+VyprVPN also offers a commendably wide range of clients and its Windows software benefits from an easy-to-use interface. Perhaps the best news, though, comes on the performance front - this VPN is certainly speedy.
 
-Getting the hots for metal Quantum Dots
+One point you should be aware of is that VyprVPN doesn’t do refunds at all, but there is a 3-day trial. In terms of what’s on offer here, you can subscribe either monthly or annually to a Basic or Premium plan (you get three connections with the former, and five with the latter). The packages available are:
 
-75-inch: Samsung QE75Q9F | 65-inch: Samsung QE65Q9F
+An ultra-secure provider
 
-Unprecedented colour levels
+Number of servers: 2029 | Server locations: 61 | IP addresses: N/A | Maximum devices supported: 6
 
-Ultra high brightness
+Quality mobile and desktop clients
 
-Occasional backlight clouding
+Up to six devices
 
-Limited viewing angles
+Good performance
 
-It looks like someone on Samsung’s TV design team has been watching 2001: A Space Odyssey. The 65-inch Q9 is a ringer for that film’s mysterious black monolith thanks to the way both its front and back sides are completely flat and feature ultra-robust, polished finishes. Ultra HD HDR playback is what the Q9F was created to do and, given Samsung’s potent HDR track record, it's no surprise to find that it does it supremely well. Even though the Q9F has 4K HDR optimisation in its DNA, it’s capable of looking seriously good with high definition standard dynamic range content too.
+Session logging policy is unclear
 
-5. Sony Bravia A1E OLED (2017)
+> Exclusive NordVPN offer: Get a massive discount off RRP when you buy two years worth of NordVPN service for only $79, that's only $3.29 per month. Get this exclusive offer from NordVPN.
 
-Sony's brand-new TV for 2017 is returning to OLED
+Despite being based in a country located in Central America - hardly a tech hub - NordVPN's current products match or beat the competition in just about every area.
 
-65-inch: Sony Bravia 65A1E | 55-inch: Sony Bravia 55A1E
+Over 2,000 servers in 61 countries, 2048-bit encryption, 6-device support as standard, strong DNS leak protection, automatic kill switch, handy security extras, optional dedicated IP addresses, and payment options including Bitcoin, PayPal and credit cards.
 
-Gorgeous picture quality
+Performance was good, too, with impressive speeds on short connections, and some very palatable results with longer distances, too. There is a slight niggle with the privacy policy here, though, because while the provider maintains a ‘no logs’ policy, the exact stance on session logging – and whether any of this takes place – is unclear.
 
-Startling, monolithic design
+NordVPN has three service options available and its most popular and by far best value plan is the 1-year subscription (aside from the aforementioned 2-year special offer, that is). The packages available are:
 
-Innovative and excellent sound
+(Image: © Tunnelbear)
 
-It’s not very bright
+If you want an easy-to-use VPN service, you got it
 
-If LG's OLED isn't your thing, spend some time checking out Sony's new OLED.
+Number of servers: ~1,000 | Server locations: 20+ | IP addresses: N/A | Maximum devices supported: 5
 
-The 55A1 – and the A1 OLED series overall – are crowd pleasers in just about every way. Their ‘picture only’ design has been beautifully realized, managing to be simultaneously subtle and dramatic. Their vibrating screen delivers a far more powerful and effective sound performance than I’d thought possible, too. The real stars of the show here, though, are the A1’s exquisitely detailed, contrast-rich and colorful pictures. These prove emphatically what we’ve long suspected: More brands using OLED technology can only lead to good things.
+Extremely user-friendly
 
-6. LG OLEDE7 Series (2017)
+Wide range of client software
 
-OLED just keeps getting better
+Transparent privacy policy
 
-55-inch: LG OLED55E7 | 65-inch: LG OLED65E7
+Long-distance connections can be slower
 
-Gorgeous, contrast-rich pictures
+TunnelBear is a Canadian-based VPN service which is notable for a number of reasons, perhaps the foremost of which is its emphasis on ease-of-use. You get a wide range of clients, covering both desktop and mobile devices thoroughly, and the software is highly user-friendly.
 
-Incredibly thin design
+Even the website steers clear of using jargon, and talks about how a VPN works in simple layman’s terms. As you might guess, though, expert users might find the lack of details rather off-putting – and more importantly, there aren’t many low-level options to tweak your connection either. So this is really designed with beginners in mind.
 
-Some brightness-related noise
+In terms of coverage, TunnelBear offers servers in 20+ different countries across the globe, and gives you up to five simultaneous connections. This provider is strong on the privacy front, as well, clearly and concisely explaining its policies, and again not drowning you in jargon (of the legal variety in this case, rather than the technical kind).
 
-LCD TVs are brighter
+Performance is also impressive over shorter hops and solid to the US, although really long-distance connections such as Singapore can see speeds drop considerably (that’s not unusual for VPNs, though).
 
-After kickstarting its 2017 OLED campaign with the sensational-but-expensive OLED W7, LG is now following that up with something rather more affordable. Picking the more affordable option means you have to forego the W7’s incredibly thin and flexible screen, as well as its external control box and speaker system. However, the OLED E7 still looks like a million bucks, still boasts an integrated soundbar that claims Dolby Atmos support, still boasts LG’s excellent webOS smart system, and still, most importantly of all, delivers pretty much identical picture quality to its more expensive sibling. For all those reasons and more, the E7 OLED is a worthwhile addition to any home theater.
+TunnelBear even offers a free service, and while that normally limits you to just 500MB of traffic per month, with TechRadar’s special offer you can up that to a far more useful 5GB. Paid plans give you unlimited data and can be had for a reasonable $4.16 per month.
 
-7. Sony Bravia XBR-X900E Series (2017)
+A VPN service which gives you unlimited connections
 
-This is the HDR flatscreen we’ve all been waiting for
+Number of servers: 348 | Server locations: 50 | IP addresses: N/A | Maximum devices supported: Unlimited
 
-Direct LED with local dimming
+Unlimited device connections
 
-Excellent motion handling
+Free plan with 10GB of monthly data
 
-Unfussy but elegant design
+Clear and detailed privacy policy
 
-HDR is a bit dim
+Only average speeds
 
-OK, so you don't want Sony's new A1E OLED or the fantastic-but-pricey ZD9. So what should you buy? Check out the X900E series. With superb 4K image clarity, powerful SDR-to-HDR remastering, and a smooth direct LED backlight, Sony is offering something very different with the X900E. We loved the consistency of its images, the eye-popping vibrancy of its wide color gamut panel and its easy-to-watch HDR – you get spectral highlights without accompanying eye fatigue.
+Windscribe is a quality VPN service which has native Windows, Mac and iOS clients – an Android client was recently launched, but labelled as being potentially unstable, so use it at your own risk for now. What you do also get is a range of browser add-ons, which come highly rated (and also block ads).
 
-Given this set’s high-but-fair price point, any niggles we have are negligible. The X900E is highly recommended and deserved our Best in Class award.
+One of the main attractions here is the fact that Windscribe’s commercial plan allows for unlimited connections, so no matter how many family members or devices you’ve got, you’ll be covered.
 
-8. LG OLEDB7 Series (2017)
+This provider also has a commendably clear privacy policy, and the Windows client is easy enough to use. Performance, however, is only average, so don’t expect blazing speeds – but what you’ll get is certainly palatable.
 
-LG's entry level OLEDs continue to impress
+There’s a free plan available and it gives you a generous 10GB of monthly data, although you can only use one device with it, and there are limits on the amount of data you can download.
 
-55-inch: LG OLED55B7V | 65-inch: LG OLED65B7V
+The paid-for Pro plan gives you unlimited data and devices as mentioned, and you can subscribe either monthly, or annually for a cheaper rate – namely $9 or $7.50 a month respectively. However, with TechRadar’s current special deal, you can get these plans for half price The packages available are:
 
-Excellent all-round image quality
+Fantastic VPN service for browsing online privately
 
-Complete HDR support
+Number of servers: 2000 | Server locations: 20 | IP addresses: N/A | Maximum devices supported: 5
 
-Great smart platform
+Low price
 
-No Dolby Atmos passthrough
+Great download speeds
 
-Mediocre onboard audio
+7-day trial
 
-We've already recommended a couple of different OLED sets on this list, and the B7 is the most affordable of the bunch.
+Few server locations
 
-But rather than compromising on that glorious panel to hit a more wallet-friendly price point, LG has instead compromised on sound.
+AnchorFree's Hotspot Shield Elite manages to provide all the necessary VPN service features at an attractive price with the option of getting a lifetime license. It supports private browsing, allows "access all content", and supports up to five devices.
 
-This puts the LG B7 in a slightly weird situation audio-wise. It technically supports Dolby Atmos, but played through its mediocre downward-firing speakers the technology lacks most of what makes it impressive.
+Performance results in our tests were excellent, with latency showing only a marginal increase, and both upload and download speeds were a little faster once connected.
 
-Thankfully you're of course able to plug in an external sound system, and we'd advise you to do.
+We'd like more configurability and a wider range of locations, but Hotspot Shield Elite's high speeds and low prices have a lot of appeal, and the 7-day trial makes it easy to test the service for yourself.
 
-If that's something you're prepared to do then you'll find the B7 has every bit the talent of its more expensive siblings at a fraction of the cost.
+As usual, the best value-for-money is the 1-year subscription (note that you will be billed in US dollars), unless you want to commit to the lifetime plan. Further note that of late the free version of Hotspot Shield has been dogged by controversy over redirecting traffic to partner sites including online advertising firms, but the Center for Democracy & Technology didn’t level these accusations at the paid product (and the provider has denied the allegations anyway).
 
-Read the full review: LG OLED B7
+A great all-round VPN service
 
-9. TCL P-Series (55P607) (2017)
+Number of servers: 1000+ | Server locations: 70+ | IP addresses: N/A | Maximum devices supported: 5
 
-TCL's 55P607 is simply the best budget TV of 2017
+Impressive speeds
 
-55-inch: TCL 55P607
+Great range of clients
 
-Bright, colorful HDR
+Bitcoin supported
 
-Roku TV is amazing
+Not good for torrent users
 
-Upscaling isn’t world-class
+KeepSolid boasts some impressive performance levels, with our testing showing that the VPN barely affected download speeds (compared to the rates we got with the VPN turned off).
 
-Poor black level performance
+This provider offers a wide range of clients, with coverage for Windows, Mac, iOS, Android, Linux and Windows 10 Mobile, and setup instructions are provided for further devices.
 
-TV manufacturers have long sought the formula to a great performing TV at a bargain price and, speaking for the last seven years since LED LCD hit the mainstream, have never quite achieved that perfect balance. Until now.
+Do note, however, that this VPN service doesn’t support torrents across the majority of its servers, so it isn’t a good choice for file sharers. (Only five servers support torrents: Canada, France, Luxembourg, Romania, and a single location in the US).
 
-For us, TCL’s P-Series 55P607 does just that – it packs powerful technology under the hood, including support for WCG and Dolby Vision, in an affordable package that will only get cheaper once the seasonal sales start in November.
+There are also some flies in the ointment on the privacy front, with some session logging taking place (although that isn’t unusual), and we also found evidence of DNS leaks.
 
-If you like your TVs bright, colorful and well-stocked with the latest display technologies, the TCL P-Series 55P607 should be at the top of your list.
+KeepSolid offers a seven-day trial, and a seven-day money-back guarantee to boot, with a choice of three price plans, including a lifetime option which could work out very cheap in the long run. The annual subscription is also nicely competitive. The packages available are:
 
-Read the full review: TCL P-Series (55P607)
+Feature-packed clients and impressive configurability
 
-10. Sony Bravia X940E (2017)
+Number of servers: 1109 | Server locations: 44 | IP addresses: N/A | Maximum devices supported: 5
 
-One of 2017's finest LCD TVs
+Clients have plenty of smart features
 
-75-inch: TCL 55P607
+Good performance levels
 
-Outstanding picture quality
+Torrents are supported
 
-Dolby Vision HDR support
+Some irritations with the interface
 
-Rather reflective screen
+CyberGhost is a Romanian/German-based outfit that caters for in excess of 10 million users, and offers a diverse range of feature-packed clients, including native software for Windows and Mac, along with iOS and Android.
 
-Limited effective viewing angle
+While those clients have some niggles in terms of their interfaces, there are a number of very neat options here, including the ability for the VPN to kick in when you launch specific apps.
 
-While this monstrous 75-inch size TV will likely be too much for many households to handle, the Sony 75X940E is hands down one of the best new LCD TV of the year. Its combination of outstanding contrast, gorgeously rich but also subtle colors and impeccable sharpness and motion handling works wonders with HDR and SDR alike. It’s surprisingly elegant for such a large TV, too.
+Those who enjoy a bit of peer-to-peer file sharing will also be glad to hear that torrents are supported on most of its servers. And it’s good to see that performance is speedy enough, or at least we found that in our testing.
 
-Perhaps best of all, though, its sub-$4,500 price looks like something of a steal when you consider that you’re really buying a high quality home cinema display rather than a mere TV. It comes highly recommended with our seal of approval.
+In terms of being able to try the service out before you buy, there’s a free plan, although with some restrictions: you can only connect one device at a time, it may run slower than the full commercial service, and it displays adverts (among other limitations).
 
-Read the full review: Sony Bravia XBR-75X940E
+The good thing is there’s no limit on data usage. Also, if you do commit to a full subscription, there’s a 30-day money-back guarantee if you’re not satisfied.
 
-Continue on to page two to read about what to look for when buying a TV!
+There’s a good choice of plans with four possible selections, including a highly affordable two-year offer. The packages available are:
+
+Another highly user-friendly VPN
+
+Number of servers: N/A | Server locations: 30+ | IP addresses: N/A | Maximum devices supported: N/A
+
+Really easy-to-use
+
+14-day money-back guarantee
+
+Unlimited free account
+
+Not much in the way of settings
+
+ZenMate is another of the VPN services which try to pitch to novices, with the website avoiding any technical jargon and explaining everything in clear and simple terms.
+
+And naturally that carries through to the software. ZenMate’s Windows client is supremely easy-to-use, and it’s highly streamlined – just click a couple of buttons and you’re off. It’s also dead easy to set up, which never hurts.
+
+But as ever, where software is designed to be as simple as possible, expert users will likely be frustrated at the lack of controls available. For example, you can’t choose your own security protocol (the service uses L2TP only), or indeed specify a particular city for a server location; you can only pick by country.
+
+Still, if you can accept the limitations here – and that won’t be a problem if you aren’t very tech-savvy and are new to the world of VPNs – ZenMate offers a solid option, even if performance levels aren’t the best compared to rival providers.
+
+It’s also worth noting there’s a 14-day money-back guarantee if you’re not happy with the service, and ZenMate has a free offering although that only operates via browser add-ons (and it restricts speeds and choice of servers).
+
+There are three subscription plans offering monthly, 6-monthly or yearly billing – but note that TechRadar readers can currently benefit from a special offer for a yearly plan charged at $3.20 per month for the first year (reverting to the normal price of $5.38 per month thereafter):
+
+Which is the best VPN service for your exact needs?
+
+The best VPN service for Android
+
+The winner here is ExpressVPN – in our tests it came out on top when used with an Android phone or tablet. You can use ExpressVPN on your other devices too, but the Android app is extremely user-friendly, so it's ideal for anyone who hasn’t used a VPN before. For more experienced users it's also great as there are plenty of advanced options to play with. There is a free trial available on Android as well, though it only lasts for 24 hours!
+
+The best VPN service for torrenting
+
+We crowned IPVanish the best provider when it comes to downloading torrents (and for other P2P traffic, for that matter). One of the obvious major plus points with this service is the fact that it allows unlimited P2P traffic. And the other big attraction is the excellent download speeds we found IPVanish delivered in our testing, which has to be one of the primary considerations for any VPN when it comes to downloading hefty files. There is no free trial available here, sadly, but subscribers do get a seven-day money-back guarantee.
+
+The best VPN service for Kodi
+
+If you want a streamer’s dream of a VPN service for use with Kodi, then look no further than IPVanish. This provider’s excellent performance and speeds will help you make the most of streaming, and hopefully to avoid any buffering nastiness. You also get an excellent native client for Windows with an intuitive interface, yet some good depth in terms of advanced settings. There is no free trial, but you benefit from a 7-day money-back guarantee.
+
+The best VPN service for China
+
+If you’re visiting China, or you live in the country, then your best bet for a sterling VPN service is VyprVPN. As you may be aware, China has some pretty heavy internet censorship, and this provider has its own Chameleon security protocol which can help bypass VPN blocking and deep packet inspection. It was also a very fast service in our tests, and has plenty of local servers in Asia. One caveat to beware of here is that Apple has banned the VyprVPN iOS app in China, so if you’re an iPhone or iPad user, you’ll need to look elsewhere (Buffered VPN is our highest ranked alternative which hasn’t been banned).
+
+The best VPN service for Mac
+
+Our number one VPN for Apple computers is ExpressVPN, which offers an excellent Mac app which is dead simple to use (there’s also a quality iOS app to complement it, should you also use an Apple mobile device). You also get a speedy VPN service, and quality customer support, which never hurts. There’s no free trial, but ExpressVPN argues its 30-day money-back guarantee is better than any trial, because it’s a no-hassle guaranteed refund that lets you experience the full service.
+
+The best VPN service for Netflix
+
+If it’s Netflix streaming you’re keen on – and maybe accessing content you wouldn’t otherwise be able to view (although note you do so at your own risk, as Netflix expressly forbids this) – then our top pick is NordVPN. This provider offers speedy performance for slick streaming, and supports viewing Netflix in a number of countries (not just the US). It’s also really strong on the security front, and provides a three-day free trial to try-before-you-buy.
+
+The best VPN service for Canada
+
+IPVanish comes top of our rankings for the best VPN to use in Canada, whether you’re a resident or just visiting. For starters, the provider boasts an impressive array of servers in Canada, 16 of them to be precise, which will certainly help in the quest for a fast and stable connection. In our tests, we found this VPN gave us a substantial increase in download speeds compared to our normal rates, which is very impressive indeed. There’s no trial, but subscribers can make use of a seven-day money-back guarantee if they’re not satisfied.
+
+The best VPN service for Chrome
+
+If you want a simple solution to ensure safe and private browsing, then you can simply add an extension to your Chrome browser – and our favorite in this case is Hotspot Shield. The extension offers impressive performance, tight security, and perhaps best of all it’s dead easy to use – you’ll be up and running in just a couple of clicks, with the VPN automatically connecting to the fastest server. There’s a free version of this extension, too, although users are limited to four virtual locations.
+
+The best VPN service for iPhone and iOS
+
+Once again, the excellent IPVanish snags another win when it comes to keeping iPhone users safe online. This is our recommended VPN here because of its consistently fast performance, not to mention the excellent iOS client which takes care of most operations automatically (such as finding the fastest server for you). There’s no free trial to take the service for a test spin, but you are covered by the safety net of a seven-day money-back guarantee.
+
+Free vs. Paid VPN: Which is better?
+
+VPNs used to be a premium product, but you don't have to spend big money on them anymore. Some companies now offer a basic service that won't cost you anything at all. Are the free VPNs as good as their paid-for counterparts then? Not so fast.
+
+As you'd expect, there are catches, and they typically start with a data cap. Avira Phantom VPN's free plan limits you to 500MB a month, PrivateTunnel offers 2GB, whereas ZPN has a generous 10GB allowance - not bad at all.
+
+Free products also typically have usage restrictions. Most companies don't want you to soak up all their bandwidth on torrents, so ZPN is typical in blocking P2P.
+
+Hide.me's 2GB free plan also has some common limits. There's "best effort" bandwidth, which means paying customers have speed priority and you get what's left. And the choice of locations is limited to three: Canada, Netherlands and Singapore.
+
+Hola's free-for-personal-use plan doesn't have the same kind of restrictions, but even here there's a catch. The service routes traffic through its free users rather than dedicated servers, so signing up allows others to (securely) share a small part of your bandwidth and resources.
+
+Then there's the adverts and the session limits (CyberGhost) and the general lack of service level agreement: free means that it doesn't come with any implicit warranties.
+
+Free plans are fine for simple needs, then - maybe protecting your laptop's wireless hotspot traffic on the occasional trip - but if you're looking for anything more advanced, a commercial product is best.
+
+The immediate benefit is that you know your personal data remains safe, even if you're on a public Wi-Fi hotspot. Local snoopers might be able to see the connection, but there's no way to find out what it is or where it's going.
+
+VPNs also give you a new digital identity in the shape of an IP address from another country. This makes it harder for websites or anyone else to track you, allows some people to bypass government censorship, and helps the rest of us avoid those "not available in your country" messages on YouTube or other streaming sites.
+
+Best of all, despite the low-level network technology involved, you don't need to be any kind of expert to make VPNs work. For the most part, all you have to do is choose the country where you'd like an IP address, click Connect to start, Disconnect when you're done - and that's it.
+
+How to choose a VPN service
+
+There are several factors to consider when you're choosing a paid VPN. Here are six tips.
+
+1. Does the plan have servers in every country and region you need? Having more than one server in a country can help spread the load, but doesn't guarantee improved performance, so don't assume a plan with 500 servers will automatically beat another with 100.
+
+2. Check the number of simultaneous connections supported. Typically, this is 3-5, which allows you to have a PC, mobile and tablet connected at the same time. But beware, many companies say this is for a single user only, and they all have fair usage policies to prevent people hogging resources. If you let the entire family download and stream videos separately then you'll run into trouble.
+
+3. Some providers list the connection protocols they use. OpenVPN and IKeV2 are good choices, fast and secure. You might see SSTP and the older PPTP, as well as protocol options (TCP or UDP for OpenVPN). You don't need to understand the low-level details, but having the extra choice can help the service make faster and/or more reliable connections.
+
+4. All VPN companies say they don't log whatever you're doing online, but inevitably they collect a little data. Some services record the day your account logged on, the amount of data you used, and delete anything else when the session closes. Others add items like your incoming IP address and the server you used, and keep the data for months, even years. If you're concerned, check the Privacy Policy and Terms of Service to find out more.
+
+5. It's important to consider the client, the software which handles your connections. These all have a list of servers and a Connect/ Disconnect button, but could you use more? Some clients display server load and ping time in the interface, helping you choose the right server. Regular users might appreciate a "Favourites" system to save and recall specific servers. If you know what you're doing, having access to low-level network settings will help you tune the whole system.
+
+6. Finally, there's the price. Beware of apparently cheap deals: these may have restricted features, exclude taxes, be discounted for the first billing period only, and renew automatically, so that apparent one-off £3.99 might become almost £10 next month. Look for a 'Pricing' link, read the small print, and if possible use something like PayPal where it's easy to check and cancel a subscription yourself.
+
+Once you've found what looks like a good VPN candidate, be sure to take it for a trial before you spend any big money. But a short trial can only tell you so much, so once that's expired, pay for a month, run as many tests as you can, then upgrade to a better value plan (usually yearly) if you're still happy.
+
+How to test a VPN service
+
+Our comparisons started by looking at each provider's range of plans. We were looking for features, value, and clear and honest pricing. Free ways to learn more about a service - free plans, trial periods, refund periods - were important, and we also looked for companies which maintained your privacy when you signed up (no email address required, trials available without credit cards, Bitcoin available as a payment option).
+
+The official product pages never tell you everything you need to know, so head off to the Privacy Policy and Terms and Conditions pages to find the real details. Does the company log more data than you'd expect, or keep it for a long time? When might it share information with others? Are there any restrictions on who can sign up? (Some providers say you must be 18 or over, or that the service is for personal, non-commercial use only.) Any other catches?
+
+VPN performance is difficult to measure as there are so many variables, but we used multiple techniques to try and get a feel for each service's abilities. We first used speedtest.net to measure the latency, upload and download speeds for a distant connection (typically UK to California), repeated the test immediately with the VPN turned off, and looked at any changes.
+
+We followed this up with a much shorter connection (typically UK to Netherlands) to see a more typical peak performance, ran a second benchmark to confirm our results, and ran some general browsing tests - including streaming HD video - to look for other problems.
+
+VPNs will always give you a new IP address, but some services may have DNS or other leaks which give clues about your identity. We visited IPLeak.net and other privacy sites to look for problems.
+
+In terms of the client and interface, we were looking for good server selection tools (by country, region, server, speed, with filters, a Favourites system, perhaps with server load or ping time displayed), with plenty of configuration options, but also a client which stays out of the way until it's needed.
+
+Finally, we weighed up these individual factors, came up with an overall score, and narrowed these down to the 10 best VPNs around. All the software in the top five scored at least 70 points out of 100.

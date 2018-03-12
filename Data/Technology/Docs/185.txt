@@ -1,49 +1,67 @@
 https://www.techradar.com/news
-How to watch Ireland v Scotland online: 6 nations rugby live stream
-How to watch Ireland v Scotland Today's match kicks off at 2.15pm, with live coverage on ITV1 from 1.30pm, as well as the ITV Hub.
+30 ways graphene is about to change your life
+It's strong, it's flexible, and it's here. After a long time cooking in the labs, the first graphene-based products are beginning to trickle out into the world of smartphones, wearables, batteries, virtual reality, sports equipment, super-capacitors and supercars.
 
-This weekend's 6 Nations rugby kicks off today as Ireland take on Scotland in Dublin.
+Graphene is a material that some believe has been coerced from abandoned space ships, left on Earth by extraterrestrials years ago. While that's a little unlikely, the power of this super-thin, strong, conductive and all-round amazing material is deserving of such a conspiracy.
 
-Both sides will be looking to continue from excellent performances last time out as the fight for the title hots up.
+It's been over 60 years coming as scientists and manufacturers alike have struggled to harness the power of this awesome material, but it's closing in on revolutionizing so many things we're using day to day.
 
-The hosts, who are unbeaten so far and looking to complete a grand slam, welcome back Garry Ringrose and Tadhg Furlong as they look to preserve that excellent run in front of a packed home crowd.
+We've recently updated this page with 10 more ways that graphene is about to change your life, as seen on display at MWC 2018 in Barcelona. Want to learn more about graphene and its future uses? Check out our feature, Why is graphene taking so long?
 
-However Scotland, who resoundingly beat England in the Calcutta Cup in their last game, will be keen to push on and stake their claim for the title. Gregor Townsend makes only one change to that side, with Blair Kinghorn making his international debut on the wing in place of the injured Tommy Seymour.
+UV-tracking graphene patch
 
-If you've not managed to get tickets for the big game, and can't get to a TV, here is TechRadar's guide to watching all the 6 Nations rugby action, including Ireland v Scotland online, wherever you are in the world.
+This graphene patch measures UV light on skin (Credit: Jamie Carter)
 
-(Image: © 6 nations.com)
+UV-protective clothing that lets through a fraction of the sun's harmful rays to your skin is now common, but what if your clothes could actually tell you when your skin has had enough UV radiation? That's the idea behind this ultra-thin and flexible sensor. "You stick it directly on your skin, or to your swimming shorts, or it could be integrated into clothes," says Professor Frank Koppens from ICFO (The Institute of Photonic Sciences), Barcelona. "It measures the UV index and sends an alarm to your phone when you need to get out of the sun." Currently in the process of being miniaturized, in the future this patch will be even smaller, and be completely transparent.
 
-1. How to watch Ireland v Scotland 6 nations rugby online
+Smart insole monitoring for athletes
 
-This is the best way to watch Ireland v Scotland 6 nations online - from absolutely anywhere in the world - without any commercial breaks:
+Graphene foam in an insole responds to variations in pressure (Credit: Jamie Carter)
 
-1. Download and install a VPN
+Graphene is also making great strides in smart footwear. Real-time pressure-sensing socks and insoles aren't new, but mostly such products have just a few pressure sensors built into them. This prototype has well over 100. Able to measure exactly where your feet is striking the sole, lightweight graphene-embedded foam responds to variations in pressure – and at exacting milligram level. "I can get a qualitative number on how much every point of my foot is exerting on the sole, and present mapping of shoe pressure, all within a smartphone app," says Yarjan Abdul Samad from the Cambridge Graphene Center at the University of Cambridge.
 
-If you don't have easy access (and you don't live in the UK) to watch the 6 nations rugby online in your country, the best way to watch it for free is to download and install a VPN . We've tested all of the major VPN services and we rate ExpressVPN as the absolute best. It's compatible with all of your devices, supports most streaming services and ranks amongst the fastest. You can even install it on devices like an Amazon Fire TV Stick, Apple TV, Xbox and PlayStation. So for a one-stop shop, you can't go wrong with Express - but there are more fantastic VPN options out there as well:
+Cool graphene shoes
 
-2. Connect to the appropriate server location
+Graphene shoes banish hot, smelly feet. (Credit: Jamie Carter)
 
-Simply open the VPN app, hit 'choose location' and select the appropriate location - it doesn't matter which one and it's super easy to do. Choose UK if you want to watch it on TVPlayer (use the link below)
+Graphene boasts excellent heat conductivity, so where better to put it than in a hot, stinky place? In this prototype of a graphene shoe developed by the Istituto Italiano di Tecnologia, BeDimensional and Tuscan shoemaker Fadel, graphene flakes are added to polyurethane. The end result is a shoe that dissipates 50% more heat than when the shoe is made just with polyurethane. This is a great way to understand the value of graphene in the manufacturing process; it's usually an addition to, rather than a replacement for, existing materials. Even more astounding is that these graphene shoes are just 1% graphene.
 
-3. Go to TVPlayer.com
+The world's most efficient solar cell
 
-TVPlayer is a free, legal, online streaming service based in the UK which offers hundreds of channels - and you don't even need to sign in to watch without commercial breaks. You will need to do a fair bit of channel hopping though and a lot of the events won't be available on free channels. Continue scrolling if you want to experience a fuller and richer version of the 6 nations.
+Graphene has been used to make the most efficient solar cell yet (Credit: Graphene Flagship)
 
-Where can I watch the 6 nations rugby using a VPN? A VPN will enable you to watch the 6 nations rugby from literally anywhere. So that obviously includes: US, UK, Israel, Belgium, Canada, Germany, Denmark, India, Netherlands, Spain, Brazil, Belgium, Romania, Mexico, France, Sweden, Italy, Portugal, Czech Republic, Ireland, Poland, Kenya, Hungary, South Africa, Indonesia, China, Nigeria, Bangladesh, Russia, Japan, Egypt and more!
+Could graphene help us capture solar energy more efficiently? The early signs are good, with the Istituto Italiano di Tecnologia using graphene to create large solar cells from perovskite (inorganic crystals). “The graphene is used to increase the efficiency, and to increase the stability of the solar cell,” said Beatriz Martín-García from the IIT, who told TechRadar that although it doesn't last as long as a solar cell made from silicon, the graphene-infused version is already four times cheaper to manufacture. That's just as important a factor in graphene's potential impact as its 'magical' qualities.
 
-(Image: © 6 nations rugby)
+Graphene brain-computer interfaces
 
-2. How to watch the 6 nations rugby in the UK in its entirety:
+Flexible graphene circuits can be laid over the human brain (Credit: Valdek Laur (EU2017EE) / Graphene Flagship)
 
-If you’re in the UK and if you have a TV licence, then ITV Hub is the way to go. You will need to sign up for free in order to watch it though but it is a doddle and once you do it, you can enjoy it almost anywhere: on your mobile, your media player, tablet, your web browser, streaming device, gaming console, TV, cable and satellite operators etc.
+Graphene's flexibility means it can be used in brain implants that record and stimulate brain signals on the surface of the brain. "Graphene is enabling a new generation of less-invasive neural implants," says Professor Dr. Jose A Garrido, ICREA Research Professor at ICN2. "It can be easily integrated into flexible substrates, it has a very high signal-to-noise ratio so retains a very high quality electrical signal, and it also minimizes the use of cables." Garrido's work at the ICN2 Speech Centre Stimulation and BrainCom is focusing on providing a communication path to patients with severe speech disabilities (such as strokes and motor neuron disease) by mapping the region of the brain correlated to pronouncing speech.
 
-3. How to watch Ireland v Scotland 6 nations rugby in the US in its entirety:
+Graphene cryo-cooler compressor for 5G
 
-As mentioned above, if you're not based in the UK and want to watch the 6 nations rugby live, you won't be able to access the ITV live coverage without using a VPN.
+Graphene layers enable this compact base station for 5G (Credit: Jamie Carter)
 
-In the US, NBC’s Sports Gold subscription streaming service will be showing all of 2018 6 nations tournament live. The channel's Rugby Pass costs $59.99, but also includes a whole heap of other rugby action, including Premiership Rugby and the 7s World Cup.
+Mobile antennas and receivers need more and more cooling the higher the data throughput, or else they overheat. So the massive increase in data throughput required in 5G base stations is something of a conundrum for the telecoms industry. Cue this miniaturized cooling pump to take electronic systems down to cryogenic temperatures. "We have developed a small compressor based on graphene that's about a tenth of the size of what can be done with other materials," explains Lars Lundgren at APR Technologies AB, Sweden. With no moving parts and with graphene in every other layer, it generates the pressure needed to cool down base stations to about to -150 degrees Celsius, the 5G signal stays stable. Ericsson and Nokia are involved.
 
-Stay safe during the 6 nations rugby
+Graphene infection-detectors
 
-Photos courtesy of SixNationsRugby.com
+Graphene is being used to analyze blood samples in 10 minutes (Credit: Jamie Carter)
+
+First reported in March 2014, the Ebola epidemic in West Africa killed over 11,000 people in Liberia, Guinea, Sierra Leone, Nigeria, Mali and the US. So how do we stop the next one? Graphene photodetectors, that's how.
+
+The problem during an outbreak is that blood tests take days, and people in places like airports and city centers need to be tested immediately. Created by the KTH Royal Institute of Technology in Sweden to work with a tiny drop of blood, this sensing platform is based on silicon photonics and graphene photodetectors that find specific molecular pairs in the infrared spectrum. It essentially identifies the molecular fingerprint of a specific disease. That's something that can already be done in labs, but graphene makes it mobile, and really low-cost because it uses the same silicon chip production processes already used for smartphone chips. The detector attaches to a smartphone and confirms whether someone has a disease within 10 minutes.
+
+Graphene earphones
+
+Xiaomi's Mi Pro HD earphones contain graphene (Credit: Xiaomi)
+
+Although graphene was discovered at the University of Manchester, research into its potential uses has gone global, with science labs in China filing more patents than any other country. So it's perhaps no surprise that one of China's leading consumer electronic brands is among the first to embrace graphene in its products. Xiaomi's Mi Pro HD earphones are just its latest product to feature graphene, though it's unclear of its exact role. All Xiaomi will say is that it contains a '25-step process' graphene dual-diaphragm 'to retain the rich details and to keep the low notes mellow'. The graphene diaphragm is 'more ductile under high frequencies, producing sounds that are rich, sharp, and crystal clear' and 'conducts 100% of the electrical signals passed through them'. Xiaomi also sells the A10 Ultra-thin PMA Graphene Smart Therapy Belt, which uses graphene-infused fabric.
+
+Graphene planes
+
+In aviation, weight is everything, and that means huge fuel costs. Most passenger airlines carry enough fuel not only to support the weight of the aircraft and passengers, but also the weight of the fuel itself. So it's no surprise that people like Sir Richard Branson think that all aircraft will be constructed from super-light graphene within a decade. Much lighter and much stronger than the carbon fibre composites presently used, graphene has been attracting the attentions of Airbus, which is a member of the Graphene Flagship research group, and held a symposium on graphene innovations last year.
+
+Graphene phone cases
+
+NanoCase uses graphene to dissipate heat (Credit: NanoCase)

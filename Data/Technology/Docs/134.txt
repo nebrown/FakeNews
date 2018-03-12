@@ -1,11 +1,11 @@
 https://www.telegraph.co.uk/technology/news/
-Oculus Rift virtual reality headsets suffer 15 hour outage
-Oculus Rift users around the world have been unable to use their devices as part of a global software bug affecting nearly all of the virtual reality headsets.
+Alexa, no! Seven times Artificial Intelligence failed and robots went rogue
+Artificial Intelligence may not be taking over the planet just yet, but it is certainly freaking people out in households around the world.
 
-Users began reporting connection problems yesterday, with most Oculus headsets affected by the problem.
+Amazon said on Wednesday it was trying to fix a bug that was causing Alexa, the AI assistant in its Echo home speakers, to laugh at random.
 
-When users attempted to run the Oculus headset, which requires a PC connection through the Oculus App, they are met with the message: "Can't reach Oculus runtime service".
+Some people have said the laughter happened in response to unrelated commands, while others reported it occurred unprompted.
 
-Some were left without power for more than 15 hours on Wednesday, but the Facebook-owned virtual reality company acknowledged the problem on Wednesday, which Oculus co-founder Nate Mitchell said had finally been fixed early Thursday morning.
+"Lying in bed about to fall asleep when Alexa on my Amazon Echo Dot lets out a very loud and creepy laugh... there’s a good chance I get murdered tonight," one user tweeted.
 
-"Rift is back online as of 12am [Pacific Time]. This was a mistake on our end, and we apologize," Mitchell said on Twitter.
+There are been plenty of dire warnings about AI in recent years. Stephen Hawking, the British physicist said, and Elon...

@@ -1,50 +1,56 @@
 https://www.technewsworld.com/
-Microsoft Gives Devs More Open Source Quantum Computing Goodies
+New Uber Service Focuses on Getting Folks to the Doctor
 
 
-Jamf Now is a device management solution for the iPad, iPhone and Mac devices at work. We make management tasks simple and affordable, so you can support your users; no IT required. Create your free account!
+Tech Industry Events and Webinars
 
-Microsoft this week announced the first major upgrade to its Quantum Development Kit since its introduction last year. It has added several new features designed to open the platform to a wider array of developers, including support for Linux and macOS, as well as additional open source libraries.
+Find upcoming e-commerce and technology conferences, trade shows, workshops and webinars. Visit ALL EC Events today.
 
-Further, the kit will be interoperable with the Python computing language.
+Uber on Thursday introduced Uber Health, a new service designed to provide reliable transportation specifically for healthcare-related needs. The program, which is currently in beta, will offer healthcare providers a way to order rides for their patients to help them keep their appointments.
 
-Microsoft announced the Quantum Development Kit at its Ignite conference last fall. It launched the free preview about three months later, featuring the new Q# programming language, deep integration with Visual Studio, and a quantum simulator, noted Jeff Henshaw, group program manager for quantum software at Microsoft, in an online post.
+Uber Health addresses a growing problem, especially with seniors and others who lack good transportation options for visits to doctors or clinics.
 
-Python Interoperability
+As many as 3.6 million Americans miss doctor appointments due to lack of reliable transportation, suggests data from the Community Transport Association. This problem is especially troublesome for those with chronic illnesses.
 
-Developers have been clamoring for the kit to be made available for Linux and macOS, according to Microsoft.
+The new Uber service is designed to provide a flexible ride schedule for both patients and caregivers. Rides can be scheduled immediately when needed -- much like the traditional Uber service -- but they also can be ordered up to 30 days in advance and scheduled along with follow-up healthcare appointments. There will be an option for providers to schedule multiple rides using a single dashboard.
 
-"Specifically, QDK support for Mac and Linux-based development has been our No. 1 requested feature from developers," said Scott Friedman, a spokesperson for Microsoft.
+The service meets HIPAA standards, according to Uber.
 
-"Open sourcing our libraries enables developers to reuse the code in their own applications and contribute their own enhancements back to the libraries," he told LinuxInsider.
+Click Image to Enlarge
 
-Supporting interoperability for Python allows developers to access their existing libraries from Q# without having to port it, Friedman pointed out. "These updates support Microsoft's ambition to enable a scalable quantum solution for the broadest set of customers -- eventually realizing our goal of delivering Quantum as a Service on Azure."
+Uber Health gets around the technology gap for low-income patients and seniors who do not own a smartphone, which typically is required to order a ride from Uber or a competing service. Uber Health rides can be ordered via text message instead of using an app, and patients also can receive ride information via a landline.
 
-Developer Demand
+Uber Health currently is undergoing a beta test with more than 100 healthcare organizations in the United States. Early testers include hospitals, clinics, rehab centers, senior care facilities, home care centers and physical therapy providers. Adams Clinical, Manhattan Women's Health, NYU Perlmutter Cancer Center and Yale New Haven Health are among those participating in the test.
 
-There have been tens of thousands of downloads of the kit since its introduction, Microsoft said, with users ranging from students and professors to researchers, algorithm designers and those new to quantum computing.
+Filling the Void
 
-"This is all about making it easier for the developer ecosystem to embrace quantum computing," said Ashish Nadkarni, programming vice president for computing platforms at IDC.
+The Uber Health service could extend awareness to a segment of the community who may not even understand the concept of ride sharing.
 
-To a large extent, quantum computing requires the use of code, he told LinuxInsider, and developers increasingly have been using Linux and Python to write pieces of code. Many have been using macOS as their platform for virtual machines.
+"Uber Health address a clear and identified need among Americans," said Roger Entner, principal analyst at Recon Analytics.
 
-Rival Systems
+"Many Americans are infirm and unable to afford going to the hospital using an ambulance, and currently many are choosing regular rideshare or taxi services to get to the hospital," he told TechNewsWorld.
 
-The most significant change from Microsoft may be the increase in speed of its quantum simulator, said Paul Teich, principal analyst at Tirias Research.
+Uber Health could offer a more affordable and, more importantly, dependable service to those individuals.
 
-Its performance is now four to five times faster, he told LinuxInsider, which permits a much faster testing and optimization loop, particularly on simulations involving 20 or more qubits.
+"Certainly, giving patients more transportation options and ensuring people get to appointments is valuable," said Greg Sterling, vice president of strategy and insights at the Local Search Association.
 
-"That's aimed directly at IBM's simulator," Teich said.
+"This would be primarily aimed at people who don't have the Uber app themselves and might otherwise have trouble getting to healthcare providers," he told TechNewsWorld.
 
-IBM last fall announced two major upgrades to its IBM-Q commercial systems, including a 20-qubit system available to clients and a prototype 50-qubit system that will become available with the next-generation IBM-Q systems.
+Ambulance Chasing
 
-IBM rolled out its open source QISKit earlier last year, making quantum computers available to run programs on hardware or online quantum simulators.
+One question that may need to be addressed is how this service will respond to ride requests from the seriously ill -- it's unlikely that drivers would be qualified to provide any healthcare.
 
-An important piece of Microsoft's quantum computing strategy was its agreement last fall to offer dedicated Cray supercomputers on Azure data centers, Teich noted, giving customers the ability to run artificial intelligence, advanced analytics and simulations.
+"These services -- and drivers -- are not trained nor properly insured to transport sick people, opening up Uber drivers to the risk of lawsuits," cautioned Entner.
 
-In releated news, Alibaba Cloud, the computing unit of Alibaba Group, on Thursday unveiled a new project with the Chinese Academy of Science, called the "Quantum Computing Cloud Platform." It features an 11-qubit processor, making it one of the most powerful public quantum computing services in the world.
+However, Uber Health is not really intended to be a substitute for an ambulance, Sterling pointed out.
 
-Alibaba and CAS launched the first quantum computing lab in Asia in 2015, and by last spring had developed the world's first photon quantum computer.
+"Because it's largely controlled by the medical provider, I don't see people using it in that way, and patients are already at greater risk using the traditional Uber service in that way," he suggested.
 
-David Jones is a freelance writer based in Essex County, New Jersey. He has written for Reuters, Bloomberg, Crain's New York Business and The New York Times.
+"This isn't a replacement for emergency services," said Entner, "but Uber Health can provide the necessary services to get you to a doctor or hospital at a lower cost."
+
+In the future, there may not even be a driver at all.
+
+"It could become autonomous in the future," said Sterling, "but I would imagine the company wouldn't introduce that until long after it was proven in other contexts."
+
+Peter Suciu has been an ECT News Network reporter since 2012. His areas of focus include cybersecurity, mobile phones, displays, streaming media, pay TV and autonomous vehicles. He has written and edited for numerous publications and websites, including Newsweek, Wired and FoxNews.com. Email Peter.
 

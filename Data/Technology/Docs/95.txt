@@ -1,19 +1,29 @@
 https://techcrunch.com/
-Essential really wants to solve the screen notch problem
-In a way, Essential is something of a pioneer. Before the iPhone X helped the world reluctantly embrace the screen notch, the company proudly displayed one atop its first flagship. Since then, of course, it’s become a feature, not a bug, with a long list of companies rushing to embrace it on their latest flagship.
+Snapchat and Instagram remove Giphy feature due to racial slur GIF
+Snapchat and Instagram have temporarily removed their Giphy GIF sticker features after users saw an extremely racist GIF as an option to add to their images. Snapchat confirms to TechCrunch “As soon as we were made aware, we removed the GIF and have disabled Giphy until we can be sure that this won’t happen again . . . while we wait for Giphy’s team to take a look at it.”
 
-But Essential’s clearly hoping to solve the issue with a number of patents looking to stick a camera directly behind the display. The Andy Rubin-founded company has been on quite a patent run in recent months — but the ones pertaining to a “camera integrated into a display” are the most compelling of the lot. And if it comes to fruition, it could breathe new life into the company’s upcoming handsets after an admittedly slow start.
+A source tells TechCrunch the same racist GIF was spotted in Instagram as well, indicating that Giphy is at fault. A tweet by Lyauna Augmon shows the GIF being used within Instagram. Giphy appears to have removed the GIF as it’s no longer available in Instagram. An Instagram spokesperson tells TechCrunch “This type of content has no place on Instagram. We have stopped our integration with Giphy as they investigate the issue.” The company confirms the change has been made but might take some time to propagate to all users.
 
-The patent describes a multi-layered display with camera in which a “substantially transparent region allows light from outside to reach the camera to record an image.” The patent points to a potential application in which the camera is mounted behind the LCD.
+[Update: This article has been updated to show that the GIF also appeared on Instagram, not just Snapchat.]
 
-In the imagery accompanying the post, the camera is positioned in its customary spot up top — you know, where the notch should be. In another iteration of the same idea, the camera is located behind the screen’s color layer and “records the light from the outside colored by the color filter layer.”
+The Snapchat spokesperson says that all GIFs in Snapchat are meant to be “rated PG,” meaning they’re mostly suitable for the 13-and-up teens that are technically allowed on Snapchat.
 
-A separate patent has “an irregularly shaped electronic display, including a hollowed out display within which a sensor, such as a camera, can be placed. The manufacturing techniques enable the creation of the hollow anytime during the manufacturing process. The resulting electronic display occupies the full side of the mobile device, with the sensors placed within and surrounded by the display.”
+The GIF includes disturbing text including a racial slur, which TechCrunch has blurred out below. It reads “N—– Crime Death Counter – Keep Cranking Bonzo, the Numbers Just Keep on Climbing!” TechCrunch received a screenshot of the GIF on Snapchat from a reader. Warning: The image below may be disturbing to some:
 
-There are a ton of Essential patents revolving around the idea, and as Rubin recently pointed out on Twitter, the company also holds a two-year-old patent describing a camera that pops out of the top of the phone — a concept that began showing up on actual devices last month at MWC, along with Huawei’s new nose-view keyboard camera.
+Snapchat’s official statement is “We have removed GIPHY from our application until we can be assured that this will never happen again.” A Snapchat spokesperson tells me the company is very sorry. The Giphy community guidelines prohibit this kind of objectionable content in the first place, but since it works like a search engine that indexes the top GIFs on the web, things can slip through.
 
-Both patents include a fun little addition, wherein the camera is located behind a camera icon. Tapping the icon would activate the camera. Of course, depending on how all of this is implemented, you probably don’t want to put a camera in a spot that is going to accumulate a substantial amount of your disgusting finger grease.
+Here’s the version spotted on Instagram, censored by TechCrunch:
 
-“The integrated camera serves two purposes: to record pictures,” the patent reads, “and to act as a camera icon, that when selected activates the camera. By removing the camera from the front side of the mobile device, or by integrating the camera into the display screen of the mobile device, the size of the mobile device display screen can be increased.”
+We’ve reached out to Giphy for comment but haven’t heard back.
 
-Of course, the standard patent disclaimers apply here — there’s no guarantee the company plans to (or is even able to) implement the technologies outlined in these forms. Such patents are often pie in the sky ideas or just IP grabs. We reached out to Essential and the company declined to comment any further on the patents.
+[Update 3/10: Giphy has now provided a statement to TechCrunch, admitting it was to blame for a bug allowing the offensive GIF through. A spokesperson tells us:
+
+“A user discovered an offensive GIF sticker in our library, and we immediately removed it per our content guidelines. After investigation of the incident, this sticker was available due to a bug in our content moderation filters specifically affecting GIF stickers. We have fixed the bug and have re-moderated all of the GIF stickers in our library. The GIPHY staff is also further reviewing every GIF sticker by hand and should be finished shortly. We take full responsibility for these recent events and sincerely apologize to anyone who was offended.”
+
+Snapchat only launched the Giphy integration on February 20th so people could jazz up their photos and videos with moving images curated as safe by the Giphy team. TechCrunch broke the news on Instagram building a similar Giphy integration in late January, which launched a week later.
+
+This isn’t Snapchat’s first run-in with racist content. Back in 2016 it was heavily criticized for creating an Asian “yellowface” stereotype augmented reality lens that gave people slanted eyes. Snapchat risks an unsavory reputation if it can’t keep its content under control. The slip-up could deter Snapchat from working more with outside developers, which it’s only recently allowed to bring content into its app via its Lens Studio and the Giphy integration.
+
+The incident is embarrassing for Instagram’s parent company Facebook. It also casts doubt on Facebook’s Messenger Kids app, which also has Giphy integration that is only supposed to show G-rated imagery.
+
+Snapchat and Instagram will have to decide whether they want help from outsiders even if it can’t guarantee the quality or safety of their content, or whether it will go it alone as they compete against each other.

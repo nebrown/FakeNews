@@ -1,29 +1,23 @@
 https://techcrunch.com/
-Snapchat and Instagram remove Giphy feature due to racial slur GIF
-Snapchat and Instagram have temporarily removed their Giphy GIF sticker features after users saw an extremely racist GIF as an option to add to their images. Snapchat confirms to TechCrunch “As soon as we were made aware, we removed the GIF and have disabled Giphy until we can be sure that this won’t happen again . . . while we wait for Giphy’s team to take a look at it.”
+Bose is carving out $50 million for startups using its new audio-focused AR tech
+The high-end audio technology company Bose is getting into the augmented reality game with a new product and a $50 million fund devoted to startups that will develop services for its new platform.
 
-A source tells TechCrunch the same racist GIF was spotted in Instagram as well, indicating that Giphy is at fault. A tweet by Lyauna Augmon shows the GIF being used within Instagram. Giphy appears to have removed the GIF as it’s no longer available in Instagram. An Instagram spokesperson tells TechCrunch “This type of content has no place on Instagram. We have stopped our integration with Giphy as they investigate the issue.” The company confirms the change has been made but might take some time to propagate to all users.
+While most of the industry is focused on a visually augmented experience, Bose is most concerned with the intersection of sound and vision.
 
-[Update: This article has been updated to show that the GIF also appeared on Instagram, not just Snapchat.]
+The Bose AR prototype, which was unveiled at South by Southwest in Austin this year, will use visual information captured by the glasses and add contextually relevant audio information to its wearer.
 
-The Snapchat spokesperson says that all GIFs in Snapchat are meant to be “rated PG,” meaning they’re mostly suitable for the 13-and-up teens that are technically allowed on Snapchat.
+Bose’s AR kit is a “wafer-thin” acoustics package that the company hopes can be added to headphones, eyewear, helmets and other wearables to give a new spin on reality “augmentation.” The company said the new technology can be controlled with voice commands, head gestures and simple touch gestures.
 
-The GIF includes disturbing text including a racial slur, which TechCrunch has blurred out below. It reads “N—– Crime Death Counter – Keep Cranking Bonzo, the Numbers Just Keep on Climbing!” TechCrunch received a screenshot of the GIF on Snapchat from a reader. Warning: The image below may be disturbing to some:
+The new product is a clever spin on augmented reality and a product that plays into Bose’s strength. “It places audio in your surroundings, not digital images, so you can focus on the amazing world around you — rather than a tiny display,” said John Gordon, vice president of the Consumer Electronics Division at Bose, in a statement. “It knows which way you’re facing, and can instantly connect that place and time with endless possibilities for travel, learning, music and more. And it can be added to products and apps we already use and love, removing some of the big obstacles that have kept AR on the sidelines.”
 
-Snapchat’s official statement is “We have removed GIPHY from our application until we can be assured that this will never happen again.” A Snapchat spokesperson tells me the company is very sorry. The Giphy community guidelines prohibit this kind of objectionable content in the first place, but since it works like a search engine that indexes the top GIFs on the web, things can slip through.
+The first prototype glasses are Bluetooth compatible for calls or to integrate with Siri or Google Assistant. A new technology developed for the glasses ensures that the audio is audible only to the listener wearing the glasses, and the acoustic packages fit inside the arms of the glasses.
 
-Here’s the version spotted on Instagram, censored by TechCrunch:
+Sensors in the glasses track the orientation of a listener and integrate with an iOS or Android device to track location and motion, which is sent to the AR-enabled application in the wearables.
 
-We’ve reached out to Giphy for comment but haven’t heard back.
+The company is already working with ASICS Studio, Strava, TripAdvisor, TuneIn and Yelp on collaborations that will provide content for the wearables, while MIT’s Media Lab and the NYU Future Reality Lab are also playing around with prototypes.
 
-[Update 3/10: Giphy has now provided a statement to TechCrunch, admitting it was to blame for a bug allowing the offensive GIF through. A spokesperson tells us:
+But Bose wants entrepreneurs and programmers to develop their own applications. They’ve created a $50 million fund to finance companies that would like to work with the new audio technology and is providing an SDK and updated glasses later this summer.
 
-“A user discovered an offensive GIF sticker in our library, and we immediately removed it per our content guidelines. After investigation of the incident, this sticker was available due to a bug in our content moderation filters specifically affecting GIF stickers. We have fixed the bug and have re-moderated all of the GIF stickers in our library. The GIPHY staff is also further reviewing every GIF sticker by hand and should be finished shortly. We take full responsibility for these recent events and sincerely apologize to anyone who was offended.”
+Bose has invested in a number of companies already — unrelated to its new augmented reality platform — that are all based on novel wearable technologies.
 
-Snapchat only launched the Giphy integration on February 20th so people could jazz up their photos and videos with moving images curated as safe by the Giphy team. TechCrunch broke the news on Instagram building a similar Giphy integration in late January, which launched a week later.
-
-This isn’t Snapchat’s first run-in with racist content. Back in 2016 it was heavily criticized for creating an Asian “yellowface” stereotype augmented reality lens that gave people slanted eyes. Snapchat risks an unsavory reputation if it can’t keep its content under control. The slip-up could deter Snapchat from working more with outside developers, which it’s only recently allowed to bring content into its app via its Lens Studio and the Giphy integration.
-
-The incident is embarrassing for Instagram’s parent company Facebook. It also casts doubt on Facebook’s Messenger Kids app, which also has Giphy integration that is only supposed to show G-rated imagery.
-
-Snapchat and Instagram will have to decide whether they want help from outsiders even if it can’t guarantee the quality or safety of their content, or whether it will go it alone as they compete against each other.
+The platform includes investments like Embr Labs, a wearable for regulating body temperature; Qleek, a company that embeds augmented reality experiences onto custom designed wooden blocks; and Vesper, a MEMS-powered microphones.

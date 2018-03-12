@@ -1,72 +1,70 @@
 https://www.technewsworld.com/
-Red Hat Adds Zing to High-Density Storage
+FutureProof Retail President Di Di Chan: Combine Your Strengths
 
 
 Need a mobile developer, cybersecurity pro or other IT expert?
 
 On ALL EC you can quickly and conveniently research all available technology solutions before making your next planning or purchasing decisions. Gather key insights and information before selecting your vendors. Visit ALL EC today.
 
-Red Hat on Wednesday announced the addition of high-density storage capabilities to Red Hat JBoss Data Grid, its in-memory data management technology.
+Di Di Chan is cofounder and president of FutureProof Retail.
 
-The company has expanded an alliance with Azul Systems to build on their prior collaboration to provide entitlements for Azul Zing with JBoss Data Grid subscriptions. The arrangement will help customers meet speed and volume needs for their big data environments.
+In this exclusive interview, Chan talks about time, trust, and maximizing your talent potential.
 
-The design of Azul's Zing runtime for Java supports high-performance on-heap storage, making it well-suited for JBoss Data Grid deployments that feature large in-memory data sets, according to Red Hat.
+FutureProof Retail President
 
-By providing Zing with JBoss Data Grid, Red Hat has extended support for persistent operation of Java instances that can manage up to 8 terabytes of memory. This memory design reduces the number of nodes needed in the cluster and simplifies deployment and management.
+Di Di Chan
 
-No new technology is involved in the high-density storage solution, according to William Oliviera, product manager of JBoss Data Grid at Red Hat.
+TechNewsWorld: What is FutureProof Retail's mission? Why did you start the company?
 
-"The technology we are using to help with this problem is Azul Zing, a JVM (Java Virtual Machine) that uses a 'pauseless' garbage collection, with the goal to provide a more predictable and consistent behavior," he told LinuxInsider.
+Di Di Chan: Our mission is to bring the best of online shopping offline. I met my partner in a philosophy club, and we bonded over the value of time. We spent hours talking about maximizing potential, which is measured in time.
 
-Significant Impact
+We ended up traveling and shopping, and I wanted to buy a bottle of water for the airplane. We were in a rush, and I wasn't able to buy my water because I didn't have cash on me and didn't have time. At that moment, we realized that waiting in line is one of the ways time is wasted, and we thought we should combine our strengths and talents and do something about it.
 
-The Red Hat/Azul partnership is significant for two reasons, said Charles King, principal analyst at Pund-IT.
+I realized that there was an opportunity to create FutureProof Retail to solve the time issue and to blend one of my favorite pastimes -- shopping in physical stores -- with all the benefits of online shopping.
 
-First, it expands the options available to Red Hat customers for supporting their JBoss Data Grid deployments to include substantial in-memory resources via Azul Zing, he told LinuxInsider. That will be particularly welcome to organizations looking to maximize speed, up-time and performance consistency, while reducing costs and management complexity.
+TNW: Describe your career trajectory. How did you get where you are today?
 
-"The deal also casts light on the growing popularity of cloud-based in-memory solutions," King said.
+Chan: I thought I was going to go into law for the longest time. I had a plan since high school: I was going to do international law focused on education or sustainable development. I got an undergraduate degree in global studies and went to grad school in economics.
 
-Numerous circumstances and customers exist for whom dedicated in-memory clusters and appliances remain business-critical, he observed. Many others will find their needs fully met by services such as those provided by Red Hat and Azul.
+At one point I moved to New York, and that's when everything changed. I was in New York for my master's in economics. I got a job working for the department chair, who was also my advisor, and his research was on entrepreneurship. He became a mentor and a friend.
 
-"From what I can see, mainstream cloud platforms, including AWS and Google Cloud, offer support for JBOSS," King said. "In fact, AWS has done so for years. But I don't have a sense of the availability of in-memory options compared to what Red Hat and Azul are offering. Cost comparisons are a whole other thing, too."
+At one point I asked him to write me a letter of recommendation for law school. He said, "Of course I'll give you a good recommendation, but I see you being one of the entrepreneurs. If you want to explore that path, law school is always going to be there."
 
-Trash Collection Innovation
+I decided to take a year off before going to law school. I started with philosophy again. I sat down one day and re-planned my life. I wanted to have enough time to find myself and discover what I wanted, and to maximize my potential.
 
-Azul's Zing C4 Garbage Collector (Continuously Concurrent Compacting Collector) eliminates costly application execution hiccups that can be common in Java environments. The combination of JBoss Data Grid and Zing can offer consistent performance and scale, according to Red Hat.
+I asked myself, "What am I good at?" and realized that I was good at being a student. So I started an education start-up and started working with students from 15 different countries with an education consultancy that helped students discover their passion and make the connection between college and career. I realized there's a huge gap between education and career.
 
-Garbage collection pauses can cause inefficiency and added maintenance expenses in industries where speed, consistency of performance and uptime are important and data volume is increasing. That problem can worsen with the larger JVM heaps required for high-performance big data applications.
+Then I met my partner, and as we began talking about time, FutureProof Retail fell into place. We decided to combine our collective talents -- his in technology and mine in research, finance and human development. Together we created this company based on our philosophy, passion and talents.
 
-The Azul Zing JVM employs a "pauseless" garbage collection algorithm, noted George Gould, vice president for business development and partner alliances at Azul Systems.
+TNW: What is it important to bring the best of online shopping to offline retailers? How is your company redefining retail checkout?
 
-"The collector's performance is independent of key applications metrics -- such as Java heap size, mutation rates, object allocation rates -- and it can provide highly consistent runtime execution for applications needing any size Java heaps," he told LinuxInsider, for example, from 1 GB to 8 TB for a single application instance.
+Chan: There are a few ways. For one, from the consumer point of view, when you go shopping you have people who help you and service you, and you walk away happy. What we're doing is bringing the online offline, to centralize that service. It's not just the top VIP shopper who can enjoy that experience -- everyone can. When you're shopping online, you get a list of relevant recommendations so you're not wasting time looking.
 
-Developing Needs
+From a retail point of view, costs are increasing -- for goods, operations and service -- but prices can't be increased too much. The only way to make up for that is to have increased efficiency. Bringing online experiences offline lets them change retail and to offer really good service, by combining the strength of technology and the strength of human service.
 
-The memory technology resulted from customer use of applications that required large Java heaps but predictable garbage collection behavior and simplified tuning process. It targets customer use cases requiring larger in-memory footprints with a need for very low response times.
+From a marketing point of view, I remember in high school I used to sell those coupon books. Or getting Sunday comics and coupons in newspapers -- we'd spend hours finding the best coupon. Today, you get a long receipt with a print-out coupon, but you might not remember to bring it back.
 
-Those applications also may have a high velocity of change (e.g., weekly or monthly) and cannot afford deployment delays associated with traditional JVM tuning, noted Azul's Gould.
+With a lot of print advertising, the messages don't offer a connection. I'm even paying Hulu and Pandora to not have ads. There needs to be a new channel to reach people.
 
-The expanded alliance will benefit Red Hat Data Grid customers with requirements to run in-memory computations over larger datasets, provide a speed layer for Apache Spark, or simply cache more data in a consistent manner. Customers can benefit from the more predictable behavior of the JVM with consistent response times.
+As people are shopping with their phones, that's a new channel that you can get the relevant message to the relevant customer. We're looking at e-commerce being combined with the joy of going out shopping, and that's a win-win for everyone.
 
-Given that each Data Grid node will be able to hold more data per JVM, customers will have fewer nodes to manage in the cluster and a simplified deployment, tuning and management experience, explained Red Hat's Oliviera.
+TNW: Could you describe specifically what solutions FutureProof Retail offers?
 
-How It Works
+Chan: We build a mobile shopping application, and within the checkout, there is marketing potential.
 
-For use cases with large memory heaps or low-latency requirements, users often have to invest a significant amount of time in performance tuning through testing and experimentation in order to achieve an acceptable garbage collection behavior. By using Azul Zing, Red Hat Data Grid customers can save this time and yet have better results.
+For instance, you can scan and a business can recommend a blouse. If you scan hot dog buns, it can recommend hot dogs or ketchup.
 
-The algorithm relies on a fairly sophisticated read barrier implemented using hardware emulation to solve both the concurrent marking and concurrent relocation problems. The C4 algorithm is both concurrent and parallel, and has the highly desirable quality of continually compacting and defragmenting the heap, Oliviera explained.
+Checkout is the foundation, but what makes our solution unique is we're connectable, flexible and customizable. We don't believe in one-size-fits-all.
 
-The pauses on the JVM can result from the time lag involved in identifying what is "garbage" and what is "live data" on the memory heap. The larger the heap, the more frequent such pauses can occur, he said.
+TNW: What advice would you give to girls and women who are interested in working in tech field or starting their own tech business?
 
-All Java applications create garbage in the process of doing real work. Most garbage collection algorithms use a "stop-the-world" mechanism to ensure data consistency as the JVM cleans. This, unfortunately, can cause all running threads to stop and hence creates artificial application pauses that are proportional to the size of the heap -- that is, the larger the heap, the larger the pause, according to Gould.
+Chan: I would say they should trust themselves, and if they want to do something, just do it. It's difficult, and we've been trained to need validation -- to check if we're doing it right. There's a lot of self-doubt, questions, and wanting an authority figure to tell them what's right.
 
-New Memory Feature on Tap
+Make sure you have mentors, but trust in yourself and know that you will make mistakes, and that's normal. Everybody makes mistakes. You making mistakes doesn't make you any less.
 
-Red Hat plans to offer off-heap in memory storage with the upcoming release of Red Hat Data Grid, said Oliviera. That means entries can be stored outside the JVM heap.
+If we want to be on an equal footing and we want to do well, the best way to do it is to go through all the mistakes, keep getting up, keep trusting that you're smart and capable of figuring this out.
 
-"Off-heap has some interesting benefits and some drawbacks, but in combination with Azul Zing, most of the drawbacks can be mitigated, and customers can have what we think is the best of both worlds," said Oliviera.
+You don't have to be perfect. Start your own company. The best way is to change the game is by being the boss, rather than trying to please the boss.
 
-Meanwhile, through the agreement, Zing is available as a zero-cost upgrade option for JBoss Data Grid users with support contracts.
-
-Jack M. Germain has been an ECT News Network reporter since 2003. His main areas of focus are enterprise IT, Linux and open source technologies. He has written numerous reviews of Linux distros and other open source software. Email Jack.
+Vivian Wagner has been an ECT News Network reporter since 2008. Her main areas of focus are technology, business, CRM, e-commerce, privacy, security, arts, culture and diversity. She has extensive experience reporting on business and technology for a variety of outlets, including The Atlantic, The Establishment and O, The Oprah Magazine. She holds a PhD in English with a specialty in modern American literature and culture. She received a first-place feature reporting award from the Ohio Society of Professional Journalists. Email Vivian.
 

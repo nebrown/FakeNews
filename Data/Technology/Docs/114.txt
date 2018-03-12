@@ -1,29 +1,27 @@
 http://money.cnn.com/technology/
-Facebook robots may one day follow you around at home
-Your future Instagram pictures could be taken by a Facebook-branded robot that follows you around the house.
+Nokia's banana phone is back as HMD revives the 8110
+The banana phone is back.
 
-That is, if a newly awarded Facebook patent ever becomes a reality.
+A startup that licenses the Nokia phone brand has unveiled a new version of the 8110, a curved mobile phone that was first released in 1996 and featured in "The Matrix."
 
-The company received a patent on Tuesday for a self-balancing robot that's capable of standing on either two or three legs. The concept resembles a telepresence robot, complete with a screen, camera and microphone.
+The phone, which is offered in banana yellow and black, will sell for €79 ($97). It comes loaded with a new version of the game Snake, Finnish startup HMD said in a statement.
 
-The patent states the robot may have other abilities such as carrying cargo and a cooling system to control its temperature.
+"This is a return to the glory years of Nokia," said Ian Fogg, senior analyst at IHS Markit. "But it also includes all the new technology."
 
-It's unclear what Facebook might do with a telepresence robot, but the potential is vast. The company did not immediately respond to a request for comment.
+The 8110 comes with 4G, and a handful of apps including Google Maps, Facebook (FB) and Twitter (TWTR). But it doesn't have a flashy operating system and users won't be able to download other popular apps.
 
-A self-balancing robot could be used to expand its video conferencing offerings. Facebook has offered video calls on Messenger since 2015. With video conferencing on a telepresence robot, a friend could virtually follow you around your home while carrying on a conversation.
+Fogg said that basic -- or "feature" -- phones are appealing because they are reliable, and can run for a long time on a single charge. The 8110 goes 25 days in standby mode, for example.
 
-A robot in the home could also be used to autonomously take photos and videos for Facebook's suite of content sharing platforms, including Instagram and WhatsApp.
+Nokia used to be the world's largest maker of mobile phones, but it struggled to adapt to the era of smartphones and compete with the likes of Apple (AAPL) and Samsung (SSNLF).
 
-Companies are often awarded patents, but many never turn into real-life products.
+Microsoft (MSFT) purchased the company's handset business in 2013, but later unwound the deal. Nokia (NOK) now focuses on making technology for telecommunications networks.
 
-The self-balancing robot patent was filed by a Facebook employee who previously worked at a telepresence robotics company.
+HMD, which has licensed the Nokia brand since 2016, sold over 70 million handsets in 2017, according to IHS. That puts its sales, on an annualized basis, in the same league as Sony (SNE) and Lenovo (LNVGF).
 
-These types of robots remain a niche product. They're expensive -- several thousand dollars each -- and don't yet fill a need for consumers.
+"HMD's strategy clearly aims to return Nokia to be a mobile market leader, even if it's too early for HMD to realistically target displacing Samsung or Apple," Fogg said.
 
-But home robots is an industry Silicon Valley startups continue to explore. Mayfield Robotics is currently accepting pre-orders for a Kuri, a $899 robot that wheels itself around your home and takes candid videos.
+Related: Remember the first phone you owned?
 
-Of course, the act of introducing a robot into the home raises privacy and security concerns, especially at a time when some users have misgivings about the amount of personal data Facebook collects. After all, a robot operating in the home could significantly increase how much Facebook knows about its users.
+Nokia marketed the original 8110 as "the first of its kind in terms of its ergonomics." Its battery lasted up to six days, and it was able to store 16 ring tones and up to 324 names and numbers.
 
-Experts see a use for the robots outside of the house, too. Christopher Atkeson, a robotics professor at Carnegie Mellon University, envisions multiple Facebook robots being used to deliver a Facebook Live broadcast of an amateur sporting event.
-
-"Facebook is about capturing and telling stories," Atkeson told CNN. "Automated cameramen and sports commentators will play an important part in increasing people's ability to capture and tell stories. Imagine being a proud parent, coach, or player, and being able to televise high school sports."
+"It feels good in the hand and fits into any pocket. The revolutionary curved design fits the natural shape of your face," the company said in a press release at the time.

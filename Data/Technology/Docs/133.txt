@@ -1,13 +1,11 @@
 https://www.telegraph.co.uk/technology/news/
-What is Tether, what is its link with Bitfinex and why should Bitcoin investors be worried?
-Given the volatility of Bitcoin in recent months, the appeal of a cryptocurrency dubbed a "stable coin" is understandable.
+Oculus Rift virtual reality headsets suffer 15 hour outage
+Oculus Rift users around the world have been unable to use their devices as part of a global software bug affecting nearly all of the virtual reality headsets.
 
-That was the thinking behind Tether when it was first launched in 2015. Yet the reliability of the digital currency is now being questioned, raising fears it could severely affect the price of Bitcoin and impact many exchanges.
+Users began reporting connection problems yesterday, with most Oculus headsets affected by the problem.
 
-The announcement that the US Commodity Futures Trading Commission sent subpoenas on December 6 to virtual-currency venue Bitfinex and Tether rattled investors, sending the bitcoin price down to two-month lows.
+When users attempted to run the Oculus headset, which requires a PC connection through the Oculus App, they are met with the message: "Can't reach Oculus runtime service".
 
-Here's what you need to know about the mysterious currency.
+Some were left without power for more than 15 hours on Wednesday, but the Facebook-owned virtual reality company acknowledged the problem on Wednesday, which Oculus co-founder Nate Mitchell said had finally been fixed early Thursday morning.
 
-What is Tether?
-
-Tether, also known as USDT, is a cryptocurrency that started...
+"Rift is back online as of 12am [Pacific Time]. This was a mistake on our end, and we apologize," Mitchell said on Twitter.

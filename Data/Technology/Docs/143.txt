@@ -1,52 +1,50 @@
 https://www.technewsworld.com/
-Kali Linux Security App Lands in Microsoft Store
+Facebook Under Fire for Bizarre Child Predator Survey Question
 
 
-Jamf Now is a device management solution for the iPad, iPhone and Mac devices at work. We make management tasks simple and affordable, so you can support your users; no IT required. Create your free account!
+ALL EC Ecommerce Exchange
 
-Kali Linux, a penetration testing app from Offensive Security, became available in the Microsoft Store on Monday.
+Looking for ecommerce software or service providers for your online business? Search and compare vendors by specialty and location. Choose the best solutions to help your business grow and succeed.
 
-Windows 10 users can download and install the Kali Linux app onto the Windows Subsystem for Linux.
+Put ALL EC to work for you today!
 
-Microsoft last summer announced that WSL, which makes it possible to run operating systems like Ubuntu, would become a fully supported part of the Windows 10 Fall Creators Update.
+Facebook has come under fire after posing a survey question on how it should deal with predatory sexual behavior against children over the weekend.
 
-The availability of Kali Linux is especially appealing to penetration testers and security professionals whose toolsets have been limited due to enterprise compliance standards.
+And asked this and I'm like, er wait it making it secret the best Facebook can offer here? Not, y'know, calling the police? pic.twitter.com/t2UZuKalfk — Jonathan Haynes (@JonathanHaynes) March 4, 2018
 
-Before installing Kali Linux on WSL, users first need to update their Windows 10 machine. They can then open an administrative PowerShell window and install the Windows Subsystem with this one-liner:
+Survey participants were asked whether sexual predators should be allowed to request photographic images from 14-year-old girls online. Further, users were queried about how Facebook should handle such a request if it learned about it.
 
-Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
+The survey also asked whether the site should better manage content involving extremist behavior and whether cultural norms should be taken into account.
 
-A reboot will be required when finished.
+Mea Culpa
 
-Users then can download the app from the Microsoft Store and proceed with the installation.
+After Jonathan Haynes, digital editor at The Guardian, tweeted how "out of touch" he thought Facebook was in connection with the survey, Guy Rosen, vice president of product at Facebook, issued a response.
 
-There are some drawbacks to running Kali natively on Windows, as it lacks raw socket support. However, the extension allows for some additional security features, including opening a series of new command tools.
+We run surveys to understand how the community thinks about how we set policies. But this kind of activity is and will always be completely unacceptable on FB. We regularly work with authorities if identified. It shouldn't have been part of this survey. That was a mistake. — Guy Rosen (@guyro) March 4, 2018
 
-Increased Adoption
+At its annual Global Safety Summit last week, Facebook addressed several key issues related to making sure the site offers a safe and protective environment for users to navigate.
 
-"I think the target will be enterprise and managed services security folks," said Paul Teich, principal analyst at Tirias Research.
+The summit included panel discussions on a variety of online safety topics that Facebook has had to grapple with over the years -- including how to use of cutting-edge technology to combat exploitative and predatory behavior, how to keep children from overusing social media, and how to make Facebook more family-friendly.
 
-"Kali Linux on WSL will enable them to better test security on their Win10 laptops, desktops and workstations from one pane of glass," he told LinuxInsider.
+However, the survey question was unrelated to the event, according to Facebook.
 
-The release will 'lower the barrier to entry" for those who are interested in penetration testing, according to James Lerud, head of behavioral research team at Verodin.
+Regaining Control
 
-"Newcomers will need to learn basic Linux and scripting skills, but many feel more comfortable in a Windows environment," he told LinuxInsider.
+Safety issues repeatedly have come up for Facebook in recent years, as it has come under fire for how it deals with abusive and obscene material. How it works with government agencies to combat hate speech and calls for violence from extremists and terrorist organizations also has been a matter of controversy.
 
-While not as flexible as other implementations of Kali Linux, its availability on WSL opens a number of leading open source penetration testing and security tools to users in Windows environments, noted Mike Nunnikhoven, vice president of cloud research at Trend Micro.
+Other problems include the use of Facebook Live to live-stream suicides and criminal behavior, and the ongoing use of the platform to spread fake news.
 
-"This makes it easier for IT security teams in enterprises to access these tools in a streamlined environment," he told LinuxInsider. "No longer will they require a weighty virtual machine or additional equipment."
+A coalition of former Google and Facebook executives last month formed a group designed to combat the growing use of social media sites by young children, who increasingly have been engaging with them for so many hours a day that many parents have struggled to prevent them from becoming exposed to strangers.
 
-New Kernel
+That has been exacerbated by social media sites specifically targeting children with apps for instant messaging and social media interactions.
 
-Kali Linux version 2018.1, released last month, followed the release of version 2017.3 last fall. The latest version is the first release since the Meltdown and Spectre vulnerabilities were disclosed.
+The latest Facebook episode is part of a wider problem that it has been dealing with as it has tried to gain control over all of the fake news that has been filtering through the site, observed Rick Edmonds, media business analyst at Poynter.
 
-The new version has a 4.14.12 kernel, which includes two major new features: secure memory encryption in AMD processors and increased memory limits.
+Facebook has been playing a game of whack-a-mole, in essence, and as soon as one controversy begins to subside, another rears its head, he told TechNewsworld.
 
-The new secure memory encryption means that in newer AMD processors there will be automatic encryption and decryption of DRAM, which will protect against cold-boot attacks.
+"Here's an analogy," Edmonds said. "If I call up and threaten to kill you, I have committed a crime, but the phone company hasn't. Facebook would like to be regarded the same way -- or did until the events of the last few years."
 
-The increased memory limits mean that while older 64-bit processors had a limit of 64 TB of physical address space and 256 TB of virtual space, the new processors will enable 5-level paging, which is supported in 4.14.4. Therefore, the new processors will support 4 PB of physical memory and 128 PB of virtual memory.
-
-Besides the updated kernel, a number of packages were upgraded, including zaproxy, secure-socket-funneling, pixiewps, seclists, burpsuite, dbeaver and reaper.
+Activities like threats of violence, sexual grooming of children and spreading fake news shine a spotlight on Facebook's role as a publisher rather than a passive utility.
 
 David Jones is a freelance writer based in Essex County, New Jersey. He has written for Reuters, Bloomberg, Crain's New York Business and The New York Times.
 

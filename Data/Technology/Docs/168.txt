@@ -1,151 +1,85 @@
 https://www.techradar.com/news
-Samsung Galaxy S9 review
-The Samsung Galaxy S9 is a great phone, but one that hasn't really kicked on from the Galaxy S8, bringing a very similar design and screen to 2017's version. The improved biometrics were sorely needed, and the camera is a leap forward, but the amazing low light capabilities have resulted in sacrifices elsewhere. A top, top phone, but the S9 Plus outshines it.
+MacBook Air 2018: what we want to see
+Time and again, it’s been said that the MacBook Air’s days are numbered. And, yet, here we are, speculating on the release of a MacBook Air 2018.
 
-At first glance, the Samsung Galaxy S9 might not look like much of an upgrade – it’s very, very similar in design to the Galaxy S8 from last year.
+That’s because, in spite of all the rumors and reports swirling around the death of arguably Apple’s most popular laptop in recent memory – including this one just in January and this one in March – the MacBook Air is still here.
 
-However, that was an excellent handset, and Samsung has decided to stick with the design this year and put its efforts into making the phone sturdier, faster and more useful day to day.
+In fact, the MacBook Air processor was just refreshed in June 2017, though it simply upped the clock speed of the existing, Intel Broadwell Core series chip inside. So, what gives?
 
-It’s easily one of the most powerful phones on the market, has novel features in the shape of AR Emoji that are created in your own image, and a camera that’s utterly unlike anything we’ve seen on the market before.
+That’s exactly what we’re here to try and get to the bottom of. We can’t say that we have any official information, but we can make some educated guesses based on releases in the past and what we’ve heard so far. Plus, we’ll list what we want to see if a new MacBook Air 2018 does see a release.
 
-Samsung has also been hard at work fixing the biometric issues that plagued the Galaxy S8, making some subtle tweaks that aren’t apparent until you’ve used the phone for a while and find that it’s just so much easier to unlock securely.
+Join us and bookmark this page, as we’ll be updating it with the latest MacBook Air 2018 information if and when it arises.
 
-But these plus points are all set against a backdrop of a very high price; we’re not talking iPhone X levels here, but it’s still one of the more expensive options you can buy. The larger Samsung Galaxy S9 Plus with a 6.2-inch screen is even pricier.
+Cut to the chase
 
-So if you’re looking to replace a 2016 phone do all the new features really offer enough to make the Galaxy S9 a worthwhile upgrade, or is the cheaper Galaxy S8 still the best phone in the world?
+What is it? A hopeful sequel to Apple’s most popular laptop
 
-Want to see it in a bigger size? Read our Samsung Galaxy S9 Plus review
+A hopeful sequel to Apple’s most popular laptop When is it out? June 2018 at the earliest
 
-Samsung Galaxy S9 specs Dimensions: 147.7 x 68.7 x 8.5 mm
+June 2018 at the earliest What will it cost? Hopefully as much as current models
 
-Weight: 163g
+The next rendition of the MacBook Air may be available as imminently as next month, according to KGI Securities Analyst Ming-Chi Kuo , who claims that Apple is tipped to launch a new 13-inch laptop in the second quarter of this year. That means that it could come as early as April, but as late as June.
 
-Screen size: 5.8-inch
+However, the story doesn’t end there. Kuo also alleges that the new version of the MacBook Air will boast a lower price tag, good news for those on the market for an iPad Pro alternative that supports full desktop apps and a larger display. Apple hasn’t touched the MacBook Air since last June, and even then the changes were light.
 
-CPU: Snapdragon 845 / Exynos 9810
+Before this, the MacBook Air hadn’t been updated significantly since March 2015. That’s when the laptop got its first Broadwell-generation Intel Core processor.
 
-RAM: 4GB
+Don’t expect much about the MacBook Air price to change year over year – its affordability is a huge part of its continued draw.
 
-Storage: 64GB
+Looking back further than this, the MacBook Air has received updates on an annual basis since its release in 2008, and in largely different months during those years. That said, June has been the most popular month for this laptop to receive upgrades.
 
-Camera: 12MP rear, 8MP front
+So, if Kuo’s sources are wrong, that leaves us with the most likely release month for a would-be 2018 MacBook Air being June, likely directly following a WWDC 2018 announcement. That would be a properly annual launch, and have the fanfare of Apple’s huge developer event behind it for a triumphant return.
 
-Battery: 3,000mAh
+If Apple misses that time frame, the next likely debut window is October or November, just in time for the Christmas and holiday shopping craze. We’ll look out for new rumors and update this article as soon as the possible MacBook Air 2018 release date begins to inch closer.
 
+MacBook Air 2018 price
 
+Of course, without a mention of a MacBook Air 2018 rumor beyond its prophesied death, that leaves us with next to nothing regarding the price of such an Apple laptop. Those types of leaks don’t tend to crop up until we get closer to an expected release date.
 
+However, don’t expect much about the MacBook Air price to change year over year – its affordability is a huge part of its continued draw. Apple has already nailed the prices for its two MacBook Air models, starting at $999, £949 or AU$1,499.
 
+It would be a surprise if Apple were to throw one of its newfangled T series processors (based on ARM architecture) inside a MacBook Air 2018.
 
-The Samsung Galaxy S9 release date has been set for March 16, with pre-orders having been open for a while around the world.
+From there, you can double the starting model’s 128GB SSD capacity to 256GB for another $200, £150 or AU$300.
 
-We know the Galaxy S9 will cost £739, $719.99, or AU$1,199 SIM-free directly from Samsung, but exact pricing for other markets is currently unclear.
+If pricing were to change this year, we’d wager that Apple would simply make room for that rumored 13-inch, entry-level MacBook by either bumping up or knocking down this MacBook Air’s hardware and adjust accordingly. Though, it’s probably more likely that Apple would just shutter the laptop line altogether if that aforementioned MacBook is a reality.
 
-In the UK, that's a huge price jump over last year's handset, which cost £689 at launch, and it's the same price our sources reported before it was made official.
+We’ll look out for new rumors and update this article as soon as the MacBook Air 2018 price begins to grow clearer.
 
-In terms of a UK cost on contract you can expect to pay between £35 and £50 per month for a decent slug of data, although with many contracts you’ll need to pay a little upfront too.
+What we want to see in MacBook Air 2018
 
-In the US, we're seeing around $30 a month for the contract, and between $720-$800 for the phone itself.
+Naturally, this 100% lack of any truly substantial information about the forthcoming 2018 MacBook Air gives us plenty of room to draw up a wishlist. So, here’s what we want to see from a MacBook Air for 2018.
 
-There aren’t any storage variants of this phone though, with only the 64GB option on sale.
+This is the most basic and essential of requests, but the MacBook Air could really use a soup to nuts upgrade. From the processor to the ports and screen resolution, everything about the MacBook Air could do with ample refinements.
 
-AR Emoji
+This should start with the design of the laptop. In its current state, the MacBook Air appears more antiquated than the Windows laptops that have shamelessly ripped it off. What it needs now more than ever is a Retina display that goes as bezel-less as possible without sacrificing the webcam.
 
-Too much of a novelty
+A better screen
 
-Needs a more powerful facial recognition
+There’s no argument from us that the MacBook Air’s display needs to get with the times. By now, every other MacBook except the Air is using a Retina display featuring at least 226 pixels per inch (ppi). Meanwhile, the MacBook Air remains stagnant at only 128 ppi, a measly 1,440 x 900 pixels on a 13.3-inch panel.
 
-It took us a little while to come around to the idea of AR Emoji... and then not too long to get bored by them again.
+We can conclude, then, that the resolution has to get a bump of at least 76% in order to keep up with Apple’s other products. Fortunately, the webcam doesn’t necessitate a similar treatment, as the current MacBook Air FaceTime camera already captures video at a higher resolution than the pricier 12-inch MacBook.
 
-Let's be honest here: these are a clear response to Apple's Animoji, which gained a lot of attention when the iPhone X launched, and which make use of the TrueDepth camera on the front of the iPhone X.
+No matter how crisp its screen, the MacBook Air 2018 will benefit from the MoltenVK Vulkan API implementation recently introduced for Apple’s Metal 2 graphics framework. This means we can expect to see higher frame rates across the board for a number of multiplatform games available for macOS including, but not limited to, Dota 2.
 
-Samsung's offering feels like a watered-down version of this, albeit one with a bit more personality. To create your own little avatar you simply smile into the front-facing camera, and the Galaxy S9 creates your own digital version of you.
+The traditional keyboard stays
 
-Once it’s created, you can change your avi’s hair and skin color and choose an outfit – it's a shame there aren't more customisation options here, as the outfits are a bit limited and the hair colors aren’t particularly nuanced.
+For as much as we appreciate the revised butterfly hinge keyboard in the MacBook and MacBook Pro, we’d really like to see at least one Apple laptop hold onto its traditional keyboard. There’s enough room inside the chassis, and giving fans a choice would be admirable.
 
-This may seem like a tiny thing, but if you can't make your AR Emoji look like you then you – and your friends – are going to struggle to engage with it.
+Plus, using existing hardware could keep the costs of a revamped MacBook Air down to where they should be, thus maintaining the price.
 
-The GIF emoji are fun, but get tired quickly
+Fast charging, please
 
-In our testing we found that we needed to create our avatar a few times, as there were occasional glitches like a weird face shape or the wrong-colored eyes.
+It shouldn’t be difficult for Apple to maintain the same stellar level of battery life within the MacBook Air if all of its parts are upgraded in tandem. But, just to make the experience that much better, charging the laptop for 10-plus hours of use in a fraction of the time would be nice.
 
-We also had to get used to the fact that it doesn't look like us all the time, although in some of the instantly-generated GIFs you can use for social media we suddenly saw that our AR Emoji mimicked some of our features well from different angles.
+This comes in tandem with the request for new ports, i.e. USB-C for fast charging, but we’d like to see to see the MagSafe cord remain. Even the option for both would be pleasant.
 
-Those GIFs are probably the best thing about this new feature – and they get tiresome relatively quickly. You send a few to friends on compatible apps (the AR Emoji GIFs are baked into the Galaxy S9's keyboard, but you can't add them in Twitter or Gmail, only in apps like WhatsApp at the moment), but the novelty wears off pretty quickly.
+iOS apps on MacBook Pro
 
-The other thing you can do is record a video of yourself speaking as the AR Emoji... and this is where things start to unravel. The Galaxy S9 picks up most of your features, but also gives your avatar a little flickering mouth or eye at times when the camera loses you.
+Now that it’s been bandied about for a while, we’ve come around to idea of iOS apps on macOS. The prospect of continuing work from our phones straight away on our laptops – or polishing off that top score upon sitting down at the desk – is an exciting one.
 
-It shows that, to make this feature work properly, brands need a more powerful camera, rather than just relying on software and the front-facing option.
+However, Apple needs to determine how this is going to be intuitive if a MacBook with a touchscreen remains unlikely. Will the mouse simply stand in for our fingers, or does Apple have something fresh up its sleeve?
 
-AR Emoji are fun for a little while, but on their own they're certainly not a reason to buy this phone.
+These are the best Macs that 2018 has to offer so far
 
-Bixby is back... and better
-
-Bixby Voice is still behind
-
-Bixby Vision is far more useful
-
-Bixby Vision returns more results... but some are not as accurate as others.
-
-We were thoroughly disappointed by Bixby on the Galaxy S8 last year, as it promised to be the ultimate digital assistant and, well, it wasn't.
-
-It simply couldn't do enough – it wasn’t able to work out what you wanted contextually, and it wasn’t able to start or control enough apps. We could forgive the gestation period for this feature if it wasn't for the fact that Google Assistant is already on the phone, and incredibly capable.
-
-However, Samsung has upgraded Bixby on the Galaxy S9, and kept the Bixby button on the side of the device to allow you to interact with your assistant. You use the button as on a walkie-talkie, pressing to talk to Bixby and releasing when you’ve delivered your command… but it's a bit slow to catch up.
-
-Bixby can be too literal – wanting to set a timer preset rather than just starting a countdown for example – and while you can ask it to take a picture and send it to a friend the whole process takes around 30 seconds – and that's assuming Bixby can find the friend to start with – in which time you’d rather just do it manually.
-
-The Galaxy S9 also keeps telling us that we can dictate using Bixby, but this was never 100% accurate – it was pretty darn good, considering that you're essentially talking to a baby robot, but we needed to edit our words before sending.
-
-Bixby Vision has come a long way though – and the fact that it's turned off by default is just beautiful. No longer do the little green fireflies automatically dance across your viewfinder when you're trying to take a picture of your car, dog, mother or laundry basket (to show her you've done it all) as the phone tries to work out what's being looked at.
-
-Bixby is becoming more capable, getting closer to the abilities of Siri but not at Google Assistant level yet
-
-However, when you do turn on Vision the features are pretty useful. Bixby is much, much better at being able to work out what it's seeing than what it’s hearing, and can give accurate results on the web for things like comics, lamps and nature scenes.
-
-The translation tool is also very strong – it comes up with some weird answers here and there, but on the whole it's very easy to work out what you're looking at. Samsung is making a big deal about this feature, although in reality it's a bit niche... you'll need to be in a foreign country, with data, and completely unable to work out what you're looking at.
-
-So while it's good that Bixby has been upgraded, to at least bring some sense to having that button on the side of the phone, it's still a novelty rather than a must-have feature.
-
-Mapping the button to Google Assistant is still a far better way to get the most from your phone with your voice (although you’ll need to download a third party app to do it), despite it being more limited in scope... at least it manages the things it can do very well.
-
-Improved biometrics
-
-Intelligent scan is accurate, but not as secure
-
-Far easier to unlock your phone
-
-The new Intelligent Scan cycles between facial recognition and iris scanning.
-
-Anyone who read our Galaxy S8 review last year would have realised quite quickly that the biometric unlocking features of that phone almost made it unusable. The fingerprint scanner was too hard to reach, the iris scanner too unreliable and the facial recognition just too poor.
-
-Samsung needed to do something, and it has, with all three features now working seamlessly and interchangeably. Intelligent Scan marries the iris scanner and facial recognition to make unlocking your phone with your face a far, far simpler task, and as mentioned the fingerprint scanner is much easier to hit.
-
-The speed of the Intelligent Snan feature is so much better than last year... where the iris scanner and facial recognition on the S8 were between 30% and 50% accurate, the two together on the Galaxy S9 yield success almost every time.
-
-In low-light the iris scanner is still a bit slow to react, and not always pleased to let you in (in this case, Apple's Face ID absolutely destroys it for accuracy and ease of use), but it's so simple to just flick your finger to the scanner on the back that we never had an issue.
-
-The fingerprint scanner is now below the camera and in a far easier spot to hit.
-
-There are a couple of flaws with the biometric system. First, the 2D scan of the face the S9 makes to recognize you isn't as secure as other methods, like the fingerprint scanner or Apple's Face ID.
-
-That's not a huge problem for us – the fingerprint scanner is a better way of paying for things anyway, and really biometric unlocking is more about convenience than it is security.
-
-We weren't able to dupe the Samsung Galaxy S9 with a picture of our face, so if you lose your phone you can feel secure in the knowledge that the thief isn't getting in, which is what most of us really want.
-
-Second, and more frustratingly, you can’t really unlock the phone when it’s placed on a table – the field of vision for the scanner is limited, so unless you weirdly shove your head over it you won’t get in, whereas Apple’s Face ID offers a much wider viewing angle.
-
-New speakers
-
-AKG tuned sound is loud
-
-A tiny bit lacking in punch, but a big upgrade on the S8
-
-The speakers still fire downward from the bottom of the phone, but also from the earpiece.
-
-The other key feature that Samsung is talking up on the Galaxy S9 is the improved speaker setup. If you're tired of hearing sound shoot out the bottom of your phone, you'll appreciate that the top earpiece is now able to fire out sound towards your face.
-
-These speakers have also been tuned to support Dolby Atmos sound, giving you a sense of space from the audio coming out from your phone.
-
-Given how thin this phone is, the overall volume and quality of sound coming out of it is impressive. If anything the volume can go a little too high, and we found ourselves turning it down on occasion, despite only watching videos on social media.
-
-The quality isn't the best on the market – there's definitely a little more punch and clarity from the iPhone X, where the Galaxy S9 is a little bit muddier – but the idea here isn't to replace a Bluetooth speaker, but rather provide a decent experience when listening to music or podcasts without earphones.
+Gabe Carey has also contributed to this report

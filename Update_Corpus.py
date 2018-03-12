@@ -152,7 +152,7 @@ def UpdateCorpus(db, siteList, category="All", numArticles=30):
                 # check article has more than 200 characters to filter non-news
                 # Remove double up
                 if (len(site.articles[i].text) > 400):
-                    if(isRepeated(site, i) == False):
+                    if(isRepeated(site, i) == False && site.articles[i].config.get_language() == 'en'):
                         print(str(i) + ": " + site.articles[i].title + "\n", end = "")
                         documents.append(site.articles[i].text)
                         # Save docs

@@ -1,56 +1,50 @@
 https://www.technewsworld.com/
-New Uber Service Focuses on Getting Folks to the Doctor
+Disaffected Social Media Users Flock to Vero
 
 
 Need a mobile developer, cybersecurity pro or other IT expert?
 
 On ALL EC you can quickly and conveniently research all available technology solutions before making your next planning or purchasing decisions. Gather key insights and information before selecting your vendors. Visit ALL EC today.
 
-Uber on Thursday introduced Uber Health, a new service designed to provide reliable transportation specifically for healthcare-related needs. The program, which is currently in beta, will offer healthcare providers a way to order rides for their patients to help them keep their appointments.
+Vero, a relatively unknown social network that launched three years ago, has been enjoying a surge in user engagement in recent weeks, a trend that may be tied to growing user discontent over recent changes to Instagram's algorithm, along with an assortment of other objections that have been driving users away from the leading social platforms.
 
-Uber Health addresses a growing problem, especially with seniors and others who lack good transportation options for visits to doctors or clinics.
+Vero has rapidly moved up in the App Store and Google Play rankings, according to Adam Blacker, brand ambassador at Apptopia.
 
-As many as 3.6 million Americans miss doctor appointments due to lack of reliable transportation, suggests data from the Community Transport Association. This problem is especially troublesome for those with chronic illnesses.
+"Once an app starts climbing the ranks, it becomes more visible and downloads are self-perpetuating," he told TechNewsWorld.
 
-The new Uber service is designed to provide a flexible ride schedule for both patients and caregivers. Rides can be scheduled immediately when needed -- much like the traditional Uber service -- but they also can be ordered up to 30 days in advance and scheduled along with follow-up healthcare appointments. There will be an option for providers to schedule multiple rides using a single dashboard.
+The visibility and media attention for this app in recent days should help it continue to gain in user awareness, Blacker said.
 
-The service meets HIPAA standards, according to Uber.
+A Different Drum
 
-Click Image to Enlarge
+Vero has several unique features that set it apart from other sites. It markets itself as a platform that values user privacy and trust. There are no advertisements, and it doesn't share user data with advertisers. It does not employ algorithms. It allows users to send private messages to individuals or groups seamlessly.
 
-Uber Health gets around the technology gap for low-income patients and seniors who do not own a smartphone, which typically is required to order a ride from Uber or a competing service. Uber Health rides can be ordered via text message instead of using an app, and patients also can receive ride information via a landline.
+Users can organize their online connections by their relationship -- designating them as close friends, friends, acquaintances or followers -- and share posts with them accordingly.
 
-Uber Health currently is undergoing a beta test with more than 100 healthcare organizations in the United States. Early testers include hospitals, clinics, rehab centers, senior care facilities, home care centers and physical therapy providers. Adams Clinical, Manhattan Women's Health, NYU Perlmutter Cancer Center and Yale New Haven Health are among those participating in the test.
+"User design and experience is important to Vero," said spokesperson Chelsea Garecht.
 
-Filling the Void
+"The main thing we wanted to accomplish was getting people to understand the idea of close friends, friends, acquaintances -- mirroring how people interact with each other in their real lives," she told TechNewsWorld.
 
-The Uber Health service could extend awareness to a segment of the community who may not even understand the concept of ride sharing.
+The company's recent growth spurt may be due in large part to the Cosplay community, which sees the value of no ads and quality photography.
 
-"Uber Health address a clear and identified need among Americans," said Roger Entner, principal analyst at Recon Analytics.
+However, the growth has led to a number technical problems with the site, and Vero has acknowledged that "it's been hard to keep up" with the surge in users over the weekend.
 
-"Many Americans are infirm and unable to afford going to the hospital using an ambulance, and currently many are choosing regular rideshare or taxi services to get to the hospital," he told TechNewsWorld.
+If users keep the app open, it will catch up, Garecht advised, but she warned that the company has not yet adjusted to the sudden wave of growth.
 
-Uber Health could offer a more affordable and, more importantly, dependable service to those individuals.
+"It's not where we want to be," she said. "We are frustrated ourselves for our users, but are addressing the issue and appreciate the incredible encouragement we've seen from the community."
 
-"Certainly, giving patients more transportation options and ensuring people get to appointments is valuable," said Greg Sterling, vice president of strategy and insights at the Local Search Association.
+Cats Out of the Cradle
 
-"This would be primarily aimed at people who don't have the Uber app themselves and might otherwise have trouble getting to healthcare providers," he told TechNewsWorld.
+Large shifts in social media usage can be a attributed in part to a herding mentality, particularly in younger ones, said Jim McGregor, principal analyst at Tirias Research.
 
-Ambulance Chasing
+It is similar to the kinds of shifts that often occur in the restaurant business, he said, where a hot new eatery can move business away from an established competitor.
 
-One question that may need to be addressed is how this service will respond to ride requests from the seriously ill -- it's unlikely that drivers would be qualified to provide any healthcare.
+"The challenging part is getting over the hump and reaching critical mass," McGregor told TechNewsWorld. "You need critical mass to make a business plan work, and many of the social networks are still struggling with this."
 
-"These services -- and drivers -- are not trained nor properly insured to transport sick people, opening up Uber drivers to the risk of lawsuits," cautioned Entner.
+Vero needs to be mindful of the technical issues that have been plaguing the site.
 
-However, Uber Health is not really intended to be a substitute for an ambulance, Sterling pointed out.
+"Millennials are pretty sensitive to this stuff, and this kind of thing could easily kill a service like this," noted Rob Enderle, principal analyst at the Enderle Group.
 
-"Because it's largely controlled by the medical provider, I don't see people using it in that way, and patients are already at greater risk using the traditional Uber service in that way," he suggested.
+"However, it does showcase a growing weakness with all current social media properties," he told TechNewsWorld. "People are incredibly fickle, and the increasing bad image from fake news surrounding most of the existing properties suggests they might move to something that Vero had promised and delivered -- a more trustworthy experience."
 
-"This isn't a replacement for emergency services," said Entner, "but Uber Health can provide the necessary services to get you to a doctor or hospital at a lower cost."
-
-In the future, there may not even be a driver at all.
-
-"It could become autonomous in the future," said Sterling, "but I would imagine the company wouldn't introduce that until long after it was proven in other contexts."
-
-Peter Suciu has been an ECT News Network reporter since 2012. His areas of focus include cybersecurity, mobile phones, displays, streaming media, pay TV and autonomous vehicles. He has written and edited for numerous publications and websites, including Newsweek, Wired and FoxNews.com. Email Peter.
+David Jones is a freelance writer based in Essex County, New Jersey. He has written for Reuters, Bloomberg, Crain's New York Business and The New York Times.
 

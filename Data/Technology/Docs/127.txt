@@ -1,11 +1,9 @@
 https://www.telegraph.co.uk/technology/news/
-Time-bending power dip leaves European clocks running late
-Europeans are running six minutes late, thanks to a spat between Serbia and Kosovo that is currently taking its toll on the European power grid.
+Mobile networks investigate flaw that leaves 4G customers open to hacking
+Mobile networks are investigating a major flaw that allows hackers to hijack phone numbers to send spoof calls and text messages.
 
-A dip in electrical power is playing havoc with digital clocks and timekeepers typically found on microwaves. The power dip has been taking its toll on national power grids of 25 countries in the Continental European Power System, which covers Spain to Turkey and from Poland to the Netherlands.
+The flaw in 4G networks allows someone to make phone calls that appear to be from a number of their choice, which could be used by criminals to extract 4G customers' personal details to empty victims' bank accounts.
 
-Electric clocks depend on the frequency of the power system and run late when that frequency decreases. That means many digital clocks and alarms are now running approximately six minutes late.
+An ethical hacker was able to replicate the attack on a Telegraph journalist. While speaking over the phone, he was able to make it appear as if he was calling from the journalist's deskphone and send texts that appeared to come from an energy supplier, Twitter and EE.
 
-The European Network of Transmission System Operators (ENTSO-E) this week called upon relevant governments to take "swift action" to rectify the decrease, which began in January.
-
-For the system to function properly, the frequency cannot drop below 47.6 but the average frequency for the past three months now sits at 49.996 Hz. Serbia has refused to recognise Kosovo since it declared independence in 2008, and the dispute has hampered energy regulation in the two countries, meaning confusion about how much electricity is actually running through the grid.
+Spoof messages appeared in the same conversations as previous, official communications...

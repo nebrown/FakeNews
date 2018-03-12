@@ -1,37 +1,29 @@
 https://techcrunch.com/
-Where experiential virtual reality is heading
-On January 5th, The VOID’s new walk-around VR experience, Star Wars: Secrets of the Empire, opened to the public at Downtown Disney in California, preceded by a December launch at Disney Springs in Florida, marking the single biggest moment yet for out-of-home virtual reality.
+Disney’s ‘A Wrinkle in Time’ captures just enough of Madeleine L’Engle’s unruly magic
+A Wrinkle in Time was one of my favorite books as a kid. I read it over and over, then tracked down the sequels and gobbled up many more of Madeleine L’Engle’s fantasy- and science fiction-tinged novels for young adults.
 
-Many months in the making, this joint effort from ILMxLAB and The VOID is backed by Disney and features one of the most well-known franchises of all time.
+But I hadn’t touched it in more than 20 years, maybe closer to 30, when the excitement began to build around a new Disney adaptation directed by Ava Duvernay. A few months ago, I finally returned to the story of Meg Murry and her interplanetary search for her father, a scientist who’s disappeared under mysterious circumstances.
 
-Dropped into the hearts of Disney’s vacation kingdoms, crowds of eager tourists will no doubt eagerly don a virtual Stormtrooper’s helmet and set off on a Star Wars adventure.
+What I realized is that A Wrinkle in Time is a very weird book. It combines supernatural fantasy and interstellar travel with a strong dose of L’Engle’s Christianity; it treats characters’ encounters with strange aliens and their sincere discussions of God’s plan for the universe with equal seriousness. And again, this is all in the guise of a novel for children.
 
-The team at The VOID, we here at Nomadic, and a small handful of other skilled companies such as DreamScape are creating an entirely new storytelling medium using virtual reality, tactile feedback, and environmental elements.
+Plus, it moves so quickly. The initial scenes, which introduce of Meg and her family, move at a relatively leisurely pace, but once we meet the mysterious visitors Mrs. Whatsit, Mrs. Who and Mrs. Which, and once they’ve explained how they travel by tesseract, it’s only a couple of pages before Meg and her friends are “tessered” beyond the solar system. Then, after just a few more pages of travel and exposition, they arrive on the mysterious planet of Camazotz, where they must enter a sinister, totalitarian society and find Meg’s father.
 
-This overlay of virtual experiences on a real, physical setting has evolved out of the realms of film, gaming, set design and motion capture. As the Star Wars VR experience opens and we head into a new year, it is an opportune time to take a look at the nascent location-based VR market, how we’ve arrived at this point — and where we are going.
+So maybe it’s not surprising that more than 50 years passed before the novel was adapted into a big budget feature film, or that critics and audiences seem underwhelmed by the results. How could anyone, particularly someone hoping to sell millions of tickets, successfully capture L’Engle’s idiosyncratic vision?
 
-Experiential VR installations like the ones that opened at Disney are truly different and new — the story isn’t being told purely by visual input, but by sensory experiences. It’s a new form of entertainment that can never exist in a home living room or basement; the experience requires physical interaction with the space, props and other participants.
+Some of the book’s flaws have simply been carried over to the screen — the plotting can feel arbitrary and thin, and the whole thing wraps up rather anticlimactically.
 
-Being so new, there are two basic approaches to drumming up interest, and ultimately, customers: focus on where people go — large tourist destinations (Times Square, Disney), or focus on where people live — e.g. any city large enough to support a cinema multiplex.
+Meanwhile, the adaptation creates problems of its own. For one thing, it may have been inevitable that the film would cut the book’s overt Christianity, but without it, the discussion of good and evil feels generic and treacly.
 
-In the United States the market is growing, but we see much stronger awareness in China, Japan, India and other regions with high population densities. In countries where going out of the house is the preferred social activity due to space constraints in the home, our observations show a very strong interest in location-based VR experiences. This and other factors, including government support and consumer comfort with the adoption of new technologies, also factor into the rise of out-of-home VR in China.
+For another, Meg’s younger brother Charles Wallace was always going to be a tough sell. But at least in the book, his intelligence seems genuinely unsettling. The movie, on the other hand, transforms him into just another cute prodigy, one whose constant, cheerful explanations had me gritting my teeth.
 
-In 2016, the VR market in the country skyrocketed, with major Chinese tech companies- Tencent, Baidi and Alibaba among those jockeying for stakes in the industry. Experience center-based VR, including theatres and VR Arcades, made up over 10% of the market in 2016 — RMB 359.84 million ($55.4 million) — and that figure is expected to increase to RMB 5.2 billion ($800 million) by 2021.
+More broadly, as a reader, especially a young reader, I could swallow most of the book’s implausibilities, thanks to L’Engle’s simple style — I rarely questioned her narrative choices, just as I wouldn’t cross-examine the logic of a bedtime story. But blown up on-screen, with big stars and fancy special effects, it’s harder to achieve that suspension of disbelief.
 
-This growing interest isn’t coming from those you might associate with VR, at least in-home VR — 30-something video gamers on the bleeding edge of technology adoption. Rather, people across all ages and abilities are drawn to the real-feeling experience of a 3D world that you can touch, feel and interact with.
+To make matters worse, the elegance of L’Engle’s storytelling is sometimes swapped out for conventional Hollywood drama, a change exemplified by the film’s explanation of tesseracts — what was an easy-to-follow conversation in the book, complete with unforgettable pen-and-paper diagrams, has become a technobabble-filled PowerPoint presentation at a scientific symposium.
 
-Location-based VR allows a much broader group the ability to walk in, put on the VR gear, and immediately start naturally interacting with their environment and the storyline. In the short term, the intellectual properties that make up the first out-of-home VR installations will draw in their associated demographics. In the longer term, new stories, new worlds will be created for this all-new medium.
+But even though I wanted to like the film more, I still can’t write it off completely; I can’t deny that Duvernay has made a real attempt to capture the book’s strange beauty. In its best moments, the movie’s Camzotz is just as eerie as the book’s. And while it may seem odd or even laughable to see Oprah towering over the other characters as a giant version of Mrs. Which, or to watch as Reese Witherspoon’s Mrs. Whatsit morphs into a enormous, flying vegetable, it’s also beautiful, daring and weird in a way that feels true to L’Engle.
 
-But it does beg the question, are great technological advances attracting big-name content providers, or is well-known intellectual property (IP) propelling the out-of-home VR market?
+And while I assumed that Wrinkle was a story inherently tied to the 1950s, Duvernay’s adaptation shows the core narrative to be surprisingly durable and adaptable. L’Engle’s (implicitly) white cast of characters and their home in the New England countryside have been replaced by a biracial family (Chris Pine and Gugu Mbatha-Raw play Meg’s parents) in 21st century urban America, but somehow, it all still feels like A Wrinkle in Time.
 
-As a platform for distributing this new medium, massive IPs can warrant large-scale, long-term destination flagship locations which see huge foot traffic from consumers primed and ready for an adventure. Outside of major tourist destinations, the out-of-home entertainment industry is evolving to get people in and keep them coming back.
+And Meg’s pain, her prickly intelligence and her bravery in the face of Camzotz’s evil have all made the transition intact. They feel as real, and as resonant, as they did when I first encountered them decades ago.
 
-With traditional box office returns trending downward, cinemas have an opportunity to transform themselves into larger, sexier establishments, pulling together a wide range of entertainment experiences. In these environments, novel forms of entertainment, such as location-based VR, can be rolled out to provide guests experiences never before possible.
-
-Outside of traditional cinemas, expect walk-through VR to come to airports, casinos, malls, museums and more. Industry participants envision a future market where property owners of all kinds can transform their space into amazing location-based VR experiences. In fact, a number are actively investing in the future of experiential VR as an entertainment destination.
-
-Investors in location-based VR largely fall into one of two groups: established companies getting ahead of changes coming to their industries such as cinema chain AMC, and Nickelodeon, a recent investor in DreamScape, and investors associated with backing disruptive technologies such as Horizons Ventures, which lead a funding round for Nomadic in June 2017.
-
-Both groups — the disruptors and those at risk of having their industries disrupted — are making future-looking investments in the future of entertainment.
-
-Star Wars: Secrets of the Empire could be the sign that the moment may have arrived for immersive, walkthrough VR. As one of the largest media properties of all time, with total revenues in the half-billion range, it is impressive to see the Star Wars brand brought to life through experiential VR. It hints at 2018 as being a very important year for location-based VR.
+Featured Image: Disney

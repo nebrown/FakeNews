@@ -1,49 +1,15 @@
 https://www.techradar.com/news
-What3Words CMO: tech companies can (and should) make money and do good
-One of the biggest running jokes in tech is the ‘we want to change the world for the better’ trope coming from Silicon Valley companies. With Facebook changing its entire mission statement to be about changing the world for the better, it seems like an ideal time to question whether a tech company can truly be the servant of two masters: the good of society and its bottom line.
+Motorola reportedly scaling back Moto Mods, ditching the Moto X5
+Motorola owners Lenovo are scaling back some of the brand's mobile operations, according to reports, with work on the Moto Mods extensions getting scaled back and the Moto X5 (the expected follow-up to last year's Moto X4) getting canned completely.
 
-It seems like companies are either big, and very financially successful with bolted-on ethical practices, or focussed on improving the world but will never make serious money.
+That's as per a source speaking to Android Police, who says the company is going to focus on the E, G, and Z phones instead. Motorola loyalists shouldn't panic too much, because there are still going to be plenty of Moto handsets for them to buy in the coming months.
 
-One company that is bucking that trend is What3Words (iOS, Android), a free location app that has given addresses to the world by dividing it into three meter square units, allocating a three word combination to each, giving you easy to remember, incredibly accurate location information.
+The news shouldn't come as a massive shock – Motorola puts out a lot of phones at the moment, and the mid-range X line no longer really had a distinct identity between the premium and budget handsets being released, reducing the appeal of the phones.
 
-Smart and simple
+Keeping costs down
 
-As simple an idea as this seems, it turns out it’s been quite revolutionary for people in the developing world that don’t have a post code, or even an address. But it looks like the benefits reach far beyond humanitarian efforts.
+As for the Mods, Motorola is going to be concentrating on the more mainstream options going forward, the source says. In other words, the more practical add-ons (to improve battery life, for example) will most probably stick around for the foreseeable future.
 
-We sat down with What3Words CMO Giles Rhys Jones at an event hosted by Tech4Good to talk about where the idea came from, how it makes its money and what’s next.
+Lenovo hasn't commented on the rumor, or on reports that the Motorola operation is losing a large chunk of its team in a cost-cutting drive. The market continues to be a tough one for the smaller players, and the move would make Motorola more efficient.
 
-The original idea came – as many great ideas do – out of necessity. What3Words founder Chris Sheldrick was a musician and music events organiser who often struggled with corralling musicians, roadies and crew because of poor addressing.
-
-“Chris decided that he would use GPS coordinates because GPS coordinates are accurate, what could go wrong?” Giles said. “But it became apparent very quickly that roadies, guitarists and caterers are not best programmed to remember 18 digits.
-
-“And the problem with GPS coordinates is if if you make a slight mistake you don't necessarily realize you've made a mistake. You mix up a four and a five, and still you end up on a hillside in Rome, just on the wrong hillside.”
-
-They experimented with using an alphanumeric code to shorten it down, but found that brought more problems, as if you mix numbers and letters, a ‘1’ could as easily be a ‘7’, or even an ‘l’. It was back to the drawing board.
-
-“There was a dictionary on the table, and they thought: ‘How many words would we need [if we were just using words]?’ They worked out that three meters by three meters was the right size to be useful, and there were 57 trillion of those three meter squares in the world. To cover all of them you need 40,000 words, as 40,000 cubed is 64 trillion, which gives you enough to cover the entire world.”
-
-Far more than just a faster pizza delivery
-
-The fact that it covers the entire world has been revolutionary, especially for those in countries that don't have an advanced addressing system, if they have one at all.
-
-During the conference, Giles spoke about a program that What3Words is involved with in Durban, South Africa. A ticket machine is planted in the centre of a rural village, which people can use to print off a three-word ticket for the location where they live. They can then give that address to emergency services, potentially saving lives in situations where every minute counts.
-
-All of this is completely free, as is the app itself, which is amazing, but doesn’t sound great for profit margins. It begs the question: can a company both do good and make money?
-
-“Yes, and it should. There's a variety of different studies out there that say that businesses with purpose perform better than those without. I think that certainly at this particular point in in history, people gravitate towards companies that they have shared interests, shared belief, that they share a philosophy with.”
-
-Which makes sense, but the basic (and we know this is very basic) principle of capitalist economics is that value is driven by supply and demand. When you have a product that people need, you get to charge more for it.
-
-Obviously, when you get a product that makes a difference to people’s lives, and you charge a lot for it, you end up as Martin Shkreli. But you give it away free, and where does your profit come from?
-
-“If you’re a large business and you can make or save a lot of money using us we charge you a fee based on volume. We ran some tests in London and Dubai and in Manchester. In London we gave two couriers 20 party parcels each, one with the three word addresses on, one with the same street addresses on, and we tracked them with GPS monitors and heart rate monitors.
-
-“The one with three-word addresses was 30% faster. In Dubai it was 40% faster. For a business that's a significant amount of money. UPS said that if they can save each of their drivers one mile a day that equates to a saving of 50 million dollars."
-
-Using tech to leapfrog
-
-One of the truly fascinating things that's happening with What3Words that it never expected is that developing countries have been able to skip vast chunks of technological developmental history thanks to having the ability to locate yourself using the app:
-
-"In Mongolia you can get a pizza, you can get a taxi, you can open a bank account all with a three-word address. They’ve leapfrogged all the legacy systems that we have here in the Western developed countries, and they’re into the future already."
-
-It's clear that What3Words is successfully making good money while doing good. Obviously its business model can't be utilized by all businesses, but it's good to see an example of it in action.
+You can still expect plenty of hardware from Motorola in the future though: the latest leaks suggest a mobile VR headset is on the way, probably following the lead of the Daydream View in letting you jump into virtual reality experiences with your mobile phone.

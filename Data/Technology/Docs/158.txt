@@ -1,112 +1,56 @@
 https://www.technewsworld.com/
-Endless OS Helps Tear Down Linux Wall
+Gadget Ogling: A Different Sort of Activity Tracker and a Smartwatch for Kids
 
 
-Need a mobile developer, cybersecurity pro or other IT expert?
+Jamf Now is a device management solution for the iPad, iPhone and Mac devices at work. We make management tasks simple and affordable, so you can support your users; no IT required. Create your free account!
 
-On ALL EC you can quickly and conveniently research all available technology solutions before making your next planning or purchasing decisions. Gather key insights and information before selecting your vendors. Visit ALL EC today.
+Welcome to Gadget Dreams and Nightmares, the column that delves into the latest gadget announcements in search of something dazzling, life-changing or simply ridiculous.
 
-The Endless OS is a distro with its own adapted desktop environment based on Gnome 3, and with an even simpler and more streamlined user experience.
+In our grab bag this time around are a novel way to track your time, a smartwatch for kids, and a musical controller you can put together yourself -- and it just happens to be made of cardboard.
 
-Although it looks and feels a lot like an Android shell running on a PC, Endless OS is a fully functional Linux distro designed to be easy to install and very simple to use.
+As ever, these are not reviews, because I haven't even seen these items in person, let alone held them in my grubby hands. The ratings reflect only how much I'd like to try each item.
 
-Endless Mobile released this latest version, 3.3.10, on Feb. 10. Its features include automatic updates, improved launch speed for applications, and some Flatpak programs from the Flathub community repository rather than Endless' custom repository.
+Tracking Time
 
-With this release, the developers have begun to migrate older apps to the Flathub community. This change results in better quality, since the Flathub community provides more support for the apps than the Endless community alone.
+More often than I'd care to admit, I feel the seconds, minutes, and hours of a day slip into the ether before I realize it's happening. When it's time for bed and I try to take stock of my day, it's difficult to recall exactly how I spent my time.
 
-Endless OS has an in-house desktop design adapted from GNOME 3 that makes this distro a good choice for simplicity in computing.
+As someone who would like to be more efficient and productive (but is perhaps a little too absent-minded and doesn't want to deal with detailed journaling), I think Timeflip (pictured above) seems like a terrific way to keep track of where all that precious time goes.
 
-The Endless OS community's goal is to build a global platform for digital literacy. Its EOS Shell desktop is a big factor in making this universal computing platform work. It eliminates the technology barrier that often inhibits Linux newcomers.
+It's a 10-sided, die-like device that you simply turn to log the activity you're engaged in at a given time. An accelerometer detects which side of the shape is active, and through a Bluetooth connection to your phone, it tracks how long you're engaged in that action.
 
-Endless OS is built from Debian Linux, but that is not the same thing as being based on Debian, the developers have pointed out. Endless OS uses OSTree or Libostree along with Flatpak to manage the base system and applications.
+It comes with a bunch of printed stickers as well as some blank ones, so you can customize it to reflect the things you do most often. However, you need to register for an account, which seems superfluous unless you want to access your activity data from the cloud.
 
-Pure Debian systems use .deb packages for the system and applications. OSTree is not a package manager per se. Rather, it is an upgrade system that performs atomic upgrades of complete file system trees.
+Timeflip seems to do that trick all the best gadgets have mastered: doing one thing really well in a way that improves one's quality of life. Well, maybe that last part overstates it a little -- but it's a different type of activity tracker that at least might provide you with the data you're looking for to make the changes you want to make. I'm absolutely interested.
 
-New Look, familiar Feel
+Rating: 5 out of 5 Precious Seconds
 
-The EOS Shell desktop lacks a main menu button anywhere on the panel or taskbar. The button to the far left of the panel does not pop up a menu. Instead, it shows the dekstop.
+Time to Play
 
-The panel has a few launcher buttons to display documents, the app center, and the Web browser on the left. On the right end of the panel bar are the usual icons in the system tray.
+And now, a smartwatch for kids. Omate and Nanoblock have teamed up to create Omate x Nanoblock. If the engineers spent as much time working on the device as the marketing teams spent coming up with the name, it doesn't exactly inspire confidence, but I'll give them the benefit of the doubt.
 
-The Endless OS screen is populated with launch icons. Its layout and functionality closely resemble an Android device, except for the taskbar at the bottom of the screen.
+The watch features colorful bricks -- don't call them "Legos" -- around the wristband, and it certainly has the kind of aesthetic children will enjoy.
 
-Rows of installed apps fill the screen. Click on an app to launch the activity. Click the More Apps icon in one of the rows to launch the apps center. Right-click on an open application's icon in the taskbar to pin it there.
+It has 3G connectivity and determines a child's location through a blend of cell networks, GPS and WiFi, and concerned parents can find the watch's location through an app. Should a youngster feel in danger, there's an SOS alert function.
 
-The App Center screen is divided into two categories: Available Programs and Installed Apps. Click on the Installed Apps label to find more programs to run or add to the desktop with a right click of the mouse. Scroll through the list of Available Apps to download and install more programs.
+Parents can keep in contact with their offspring with a voice chat feature, and there's an alarm and stopwatch to keep the wearer in good time. Perhaps most attractively for kids, there's a selfie camera to help them capture those fun moments with their friends.
 
-Clicking on an app name fills the screen with a description of the app and a screenshot of its homepage. Two buttons let you add the app to the desktop or launch it.
+At US$179, including a one-year, 100-MB per month data plan, it's certainly going to be less expensive than a smartphone for those who might just be too young for them anyway.
 
-An app and Internet search window sit at the top center of the screen above the application icons. Start typing an application name to see a list of matching installed apps and a list of possible matches available in the app center. Tap on an icon to launch the application or load the URL in the Web browser.
+I don't have kids, so I can't really speak to how much this would fit into my life. Parents will have to consider the privacy implications for their kids before buying Omate x Nanoblock, but it could be a solid way to help ensure their safety.
 
-Android-Like View
+Rating: 4 out of 5 Better Than Calculator Watches
 
-If you are familiar with basic Android phone and tablet operations, you can be a near master of Endless OS with no learning curve. This is a Linux OS, however, not an Android emulator. It has no multiple home screens.
+Paper Piano
 
-Still, several design points resemble Android. The layout of the app launchers on the desktop is an obvious blend of GNOME 3 and an Android app drawer.
+Here's one for the more musically minded. On the heels of the announcement of Nintendo's cardboard Labo attachments for the Switch console comes a MIDI controller that is, yes, made of cardboard.
 
-The inactive screen sleep mode is another similar trait. The inactive screen shows the time and date in the center. An up-arrow pattern at the bottom center shows the direction to swipe with the mouse to return to the desktop view.
+It can connect to computers and mobile devices, and you assemble it yourself with punch-out cardboard keys connecting to silicon sensors and a circuit board. The Kami-Oto controller can connect over Bluetooth or micro USB, but if you don't have a device on hand to connect to, fear not! There's a little speaker that can help you make music wherever you may be.
 
-Another feature is a hidden panel you drag down from the top center of the screen. It offers some useful information for new users on features and other news updates about Endless OS.
+Through a crowdfunding project, you can snap up a Kami-Oto for around US$46, which seems fair, for the Bluetooth version and additional cardboard sheets. The micro USB model will require a pledge of around $28.
 
-A hideaway panel from the top center of the screen offers useful content and news updates about Endless OS.
+It's a neat device, even it's going to be less about tinkling the ivories than slapping some thick paper. It'd sure beat trying to tap out an idea for a song or musical phrase on a phone keyboard for musicians, especially those without the budget to splurge on a baby grand.
 
-To my extreme disappointment, Endless OS lacks virtual workspaces or applets to run on the panel bar. A virtual workspace is an essential feature of most Linux desktops.
+Rating: 4 out of 5 Play It Again, SAMs
 
-Endless OS Settings
-
-The EOS Shell desktop is mostly a one-size-fits-all configuration. It only lets you fiddle with some basic settings.
-
-All the settings appear in a single panel. There is not much to configure other than options for background, power, mouse/touchpad and such.
-
-The EOS Shell desktop comes with most efficient default configurations. The Settings panel gives you the ability to make some adjustments to the look and feel.
-
-Access the Settings panel by typing a keyword -- even "settings" -- or a term related to a setting. When I typed "power" in the search window, the results included the Settings panel launcher, an option to view battery status or to change the power saving settings, and the Power Off icon to shut down the computer.
-
-You also can launch the Settings panel by clicking on the standard user head silhouette in the system tray.
-
-Getting It
-
-Actually downloading the Endless OS ISO file may be the only confusing part of using Endless OS. Two download versions are included: Basic and Full.
-
-The Basic version of Endless OS needs 2 GB to burn to a DVD. You can run the OS from an 8-GB USB stick. It includes only a few apps preloaded. It is recommended for computers that will have access to the Internet for downloading and installing more applications as needed from the App Center.
-
-The Full version includes more than 100 apps already installed on the OS. This takes up to 16 GB storage space to download, and requires at least 32 GB of disk space to try out or install.
-
-Endless OS runs on a variety of hardware components that meet these basic requirements:
-
-PC systems with 32-bit or 64-bit Intel or compatible processors with at least 2 GB of memory;
-
-Compatible Graphics Card: Most systems with integrated graphics from Intel or AMD should work well. However, high-end GPUs, such as Nvidia's, and some ATI cards and systems with two graphics cards, such as laptops with an integrated GPU and a discrete GPU that you can switch between, are not supported and may not work well or at all.
-
-Note: This release brings better graphics card performance for users with Nvidia components. This release automatically selects the driver made by Nvidia rather than the open source driver.
-
-Wireless Cards: Most wireless cards from Intel and certain Atheros, Realtek and Broadcom devices supported by the brcm80211 or b43 driver should work. Devices requiring the wl driver are not supported. An alternative is to use a USB WiFi adapter.
-
-Installing It
-
-Starting this distro to try it out in live session mode is a bit misleading. After booting the computer from the DVD, I got a screen giving me two choices. One was to reformat the hard drive (aka install it). The other was to try the OS on a USB boot.
-
-I would have expected an option to continue testing from the running DVD. I clicked the USB drive option, half expecting it to tell me to insert a USB drive for the partial installation. Instead, the live session running from the DVD continued.
-
-That was my experience in downloading the ISO file to a Linux computer and using Linux tools to burn the live session installation files to DVD. I didn't use the install to USB stick option.
-
-A handy option for Microsoft Windows users is to download the Endless Installer for Windows. This automates the installation alongside Windows. It creates a dual boot menu to run either Windows or Endless OS.
-
-Bottom Line
-
-The free version of Endless OS adheres to the free license policy. It includes preinstalled video and audio codecs that are free of patents. That can limit the types of files you can play. Non-included codecs are available for purchase at the Endless OS Store.
-
-If you dislike managing frequent system updates and new release upgrades, you may have a special liking for Endless OS. As long as you have an Internet connection, the OS periodically checks for updates and automatically downloads and applies them in the background. You get a notification to restart.
-
-Although this desktop design should be an ideal environment for touchscreens, Endless OS does not take to touch very well. This is a major feature weakness if you have a touchscreen laptop or desktop monitor.
-
-Want to Suggest a Review?
-
-Is there a Linux software application or distro you'd like to suggest for review? Something you love or would like to get to know?
-
-Please email your ideas to me, and I'll consider them for a future Linux Picks and Pans column.
-
-And use the Reader Comments feature below to provide your input!
-
-Jack M. Germain has been an ECT News Network reporter since 2003. His main areas of focus are enterprise IT, Linux and open source technologies. He has written numerous reviews of Linux distros and other open source software. Email Jack.
+Kris Holt is a writer and editor based in Montreal. He has written for the Daily Dot, The Daily Beast, and PolicyMic, among others. He's Scottish, so would prefer if no one used the word "soccer" in his company. You can connect with Kris on Google+.
 

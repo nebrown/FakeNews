@@ -1,7 +1,13 @@
 https://www.telegraph.co.uk/technology/news/
-British businesses battle 38 ransomware attacks a day
-British businesses are facing unprecedented levels of new ransomware attacks thanks to a widely available menu of “malware cocktails”, expertly blended using old variants of malicious computer code.
+Fake news: What exactly is it – and how can you spot it?
+"Fake news" was not a term many people used 18 months ago, but it is now seen as one of the greatest threats to democracy, free debate and the Western order.
 
-The new viruses are more potent than their predecessors because they have adapted to companies’ cyber defences, like a digital version of antibiotic-resistant superbugs.
+As well as being a favourite term of Donald Trump, it was also named 2017's word of the year, raising tensions between nations, and may lead to regulation of social media.
 
-Cyber security product developer SonicWall told The Sunday Telegraph that it had seen 2,500 different variants of ransomware head for British companies since January 1, an average of 38 new attacks a day. These include variations on WannaCry, which last year spread across 150 countries and crippled several NHS trusts.
+And yet, nobody can agree on what it is, how much of a problem it is, and what to do about it. Here's everything you need to know.
+
+The origins of fake news
+
+Governments and powerful individuals have used information as a weapon for millennia, to boost their support and quash dissidence.
+
+Octavian famously used a campaign of disinformation to aid his victory over Marc Anthony...
