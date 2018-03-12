@@ -301,7 +301,8 @@ class WindowContent(QtWidgets.QWidget):
     def urlQuery(self):
         print("Searching for related articles to: " + self.urlInput.text())
         text = lag.GetArticleText(self.urlInput.text())
-        lag.SearchArticles(text, category=self.currentCategory)
+        print("text = " + text)
+        lag.SearchArticles(db, text, category=self.currentCategory)
         out = "Failed"
         with open('./Data/'+self.currentCategory+'/Queries/f0.txt') as file:
             out = file.read()
