@@ -1,0 +1,36 @@
+Keywords: -0.278*"mr" + -0.161*"trump" + -0.137*"he" + -0.126*"north" + -0.100*"i" + -0.098*"korea" + -0.097*"his" + -0.095*"said" + -0.093*"musk" + -0.086*"kim"
+
+0, 509, 1361.88960394: Alabama struggles from beyond the arc (32.5% from three) and is not a great rebounding team
+
+1, 1709, 1350.40228036: Simpson: The Lost Confession' Executive Producer Terence Wrong discusses the recently found 2006 interview that will air on Fox Sunday night (March 9) AP
+
+2, 889, 1350.15341701: Midterms | 1:14 Secretary of State Rex Tillerson warns Russia is already interfering in the 2018 midterms, and we may not be equipped to stop it
+
+3, 165, 1349.50154585: It wasn’t clear who was on the plane at the time of the crash, though Iranian emergency management officials described all the passengers as being young women, according to IRNA.
+
+4, 1440, 1348.13760918: New figure emerges in Trump, Jr
+
+5, 941, 1347.7707182: must act now to ward off Russian election meddling in 2018 | 1:15 A new report reveals Russian President Vladimir Putin has spent the past 20 years meddling in democracies and could continue in 2018 and 2020
+
+6, 359, 1347.1156403: The sleeper: West Virginia will have its hands full just getting out of its opening tilt with a strong Murray State squad, not to mention a potential round-of-32 clash with Wichita State
+
+7, 880, 1345.89486466: midterm elections and plans to harness an arsenal of propaganda, social media, false personas, other means of influence to try to meddle
+
+8, 588, 1345.62967262: Last appearance: 1987, lost to TCU in Round of 64.
+
+9, 628, 1345.59462025: Overview: Cal State Fullerton is efficient on both ends, shooting 47% and holding opponents to 41.7%
+
+10, 408, 1345.39980016: Last appearance: 2016, lost to Butler in Round of 64.
+
+11, 1740, 1344.37218759: The two men argued and Nicole came out of the house because of the commotion
+
+12, 1063, 1344.25760105: They also said there's a large consensus Russians attempted to influence the 2016 election
+
+13, 1284, 1343.84665124: Indictments aim to 'name and shame'
+
+14, 1442, 1342.19740523: Trump: Most 'would have taken that meeting'
+
+Summary:
+New figure emerges in Trump, Jr
+Last appearance 1987, lost to TCU in Round of 64.
+Last appearance 2016, lost to Butler in Round of 64.

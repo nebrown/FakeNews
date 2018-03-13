@@ -1,0 +1,102 @@
+https://www.technewsworld.com/
+Where Blockchain Tech Offers the Most Promise
+
+
+ALL EC Ecommerce Exchange
+
+Looking for ecommerce software or service providers for your online business? Search and compare vendors by specialty and location. Choose the best solutions to help your business grow and succeed.
+
+Put ALL EC to work for you today!
+
+"Blockchain" is the word on everyone's lips in the tech industry, with vendors pushing it as a solution for everything from banking and finance to retail and apparel.
+
+"We're going to continue to see tech vendors trying to push blockchain as the solution to problems that may exist," said Rebecca Wettemann, VP of research at Nucleus Research.
+
+However, blockchain may not be "a privacy-effective or cost-effective solution" for all of them, she told the E-Commerce Times.
+
+Product research is one area where blockchain does appear to show promise. Some in the apparel industry, for instance, have envisioned using blockchain technology with sensors sewn into clothing to track how and where the apparel is worn, providing feedback that would help manufacturers create products better suited to consumers' preferences.
+
+While privacy issues may be a concern for garment manufacturers, companies working with or investing in blockchain technology believe that in general, blockchain will facilitate customer engagement and co-creation, according to a report from the IBM Institute for Business Value, based on research conducted by the Economist Intelligence Unit.
+
+Other areas where blockchain could deliver benefits:
+
+Product safety and authenticity;
+
+Supply chain optimization;
+
+Finance;
+
+Operational processes; and
+
+Promotional strategy management.
+
+Blockchain "basically says a transaction is valid without knowing precisely who conducted the transaction," noted Michael Jude, research manager at Stratecast/Frost & Sullivan.
+
+It's a way to collect data from a large number of individuals while ensuring anonymity, he said.
+
+This sort of data "can inform predictive analytics that can improve products dynamically as they're manufactured," Jude told the E-Commerce Times.
+
+IBM researchers surveyed executives from 203 organizations in the consumer retail and packaged goods sectors across16 countries for its report, released earlier this year.
+
+Respondents to the survey expected targeted business benefits -- such as time and cost savings and risk reduction -- as well as the opportunity to create new business models or to disrupt the industry.
+
+The respondents wanted to expand new blockchain solutions to cover most aspects of their value chains, on both the supply side and for customer-facing interactions.
+
+Other report findings:
+
+7 percent of the respondents expected to have a commercial blockchain solution at scale this year;
+
+18 percent already were working with and investing in blockchain;
+
+75 percent of the respondents were eyeing new markets;
+
+69 percent expected blockchain would help them get rid of information risks; and
+
+64 percent expected the technology would help them better navigate the regulatory environment.
+
+Demystifying Blockchain
+
+Blockchain "is just a big, expensive, slow and limited database," observed Steve Wilson, principal analyst at Constellation Research.
+
+On one side are the original networks designed for cryptocurrency, like bitcoin, which are "misunderstood and unsuited to any real world asset management," he told the E-Commerce Times.
+
+On the other side are new-generation synchronous ledger technologies, Wilson said, which are mostly in managed cloud-based forms from vendors like IBM, Microsoft, Oracle and Infosys.
+
+Those solutions are "based on open source substrates like Hyperledger, and specially tuned to enterprise use cases," he noted. They are confined to big, well-funded pilot programs such as supply chain, shipping, trade and finance.
+
+Blockchains "are really good at orchestrating real-time updates to complex data structures by multiple parties who are arms' length or who don't trust one another," Wilson pointed out.
+
+That's because blockchain doesn't let users record transactions directly in a table, Wilson said. Blockchain can be updated only sequentially, indirectly and collectively through its distributed consensus algorithm.
+
+Logged entries never can be overwritten or edited. Because all ledger updates are processed through the community consensus algorithm, the process is slow and computationally inefficient.
+
+Blockchain Use Cases
+
+The supply chain, and product and quality authentication, are where blockchain will be most useful in the retail sector.
+
+For example, Walmart has partnered with IBM's Watson on a blockchain pilot project that traces pork through China's supply chain -- from the farm to the factory -- tracking data such as storage temperatures and expiration dates.
+
+IBM, Walmart, Tsinghua University and Chinese etailer JD.com last year announced the Blockchain Food Safety Alliance, which will enhance food tracking, traceability and safety in China.
+
+Dole, Driscoll's, Golden State Foods, Kroger, McCormick, McLane, Nestle, Tyson Foods and Unilever also have partnered with IBM to test blockchains that support food traceability in various regions.
+
+Bitland and FoodCoin have partnered to offer blockchain technologies to facilitate real world tech, mainly in developing countries. FoodCoin uses blockchain to connect consumers to locally produced food, while Bitland lets users file land and real estate deeds using blockchain technology to reduce corruption.
+
+INS has developed a scalable blockchain-based platform that will let consumers buy groceries directly from brands at lower prices.
+
+The new system cuts out grocery retailers, whose dominance limits consumer choice and impacts prices, according to the startup.
+
+Logistics, Freight and Transportation
+
+Efforts to improve the supply chain will depend heavily on logistics, freight and transportation. The Blockchain in Transport Alliance has been working on blockchain technology standards and education for the logistics and freight industries.
+
+Thousands of companies reportedly have applied for membership, and BiTA expects to develop its first standards this year.
+
+BiTA has begun working on small pilots "to test the feasibility and assumptions of the tech stack," said Craig Fuller, BiTA's managing director.
+
+The alliance "is focused on commercial use cases and is often technology- and framework-agnostic," he told the E-Commerce Times, because "the success of the technology will determined by the problems it solves."
+
+Some banks have developed their own blockchain technologies, noted Fuller, and BiTA has begun working with some of the banks to learn how supply chains can interact with banking technology.
+
+Richard Adhikari has been an ECT News Network reporter since 2008. His areas of focus include cybersecurity, mobile technologies, CRM, databases, software development, mainframe and mid-range computing, and application development. He has written and edited for numerous publications, including Information Week and Computerworld. He is the author of two books on client/server technology. Email Richard.
+

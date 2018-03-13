@@ -1,0 +1,15 @@
+https://www.techradar.com/news
+Beta code suggests Android Wear could be in line for a rebrand
+It's been rather quiet on the Android Wear front recently, but the beta version of Google Play services suggests that the wearable software could soon be called simply "Wear OS". Could a rebrand give the platform some fresh momentum?
+
+The "Wear OS" name appeared when a user on Reddit came within connecting distance of a wearable device, as Android Police reports. Google Play services handles all kinds of low-level OS work on Android, including managing the way that different apps and devices connect to each other and communicate.
+
+If the accompanying notification is anything to go by, this new Wear OS will get a new logo as well, with a definite Google Assistant feel to it. The Google Assistant is already available on Android Wear devices, but it makes sense for Google to want to push it further.
+
+Watch this space
+
+We don't have anything official from Google yet so don't take the switch as written in stone for the time being. We'll probably hear more about Google's plans for Android Wear or Wear OS at the Google IO developer conference, which this year gets underway on May 8.
+
+Android Wear could certainly use a boost this year – the number of new devices arriving on the market has slowed down to a trickle, and the last major Android Wear 2.0 update arrived last February, so a new one is overdue. If Google engineers are reading, here's what we'd like to see in Android Wear 3.0.
+
+We know that manufacturers such as Huawei have got more Android wearables in the pipeline, but with the likes of Samsung and Fitbit developing wrist-based OSes of their own, the pressure is on for Google to deliver with the next Android Wear update. Maybe a rebrand is just what the software needs.

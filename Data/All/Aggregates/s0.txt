@@ -1,0 +1,36 @@
+Keywords: -0.176*"republicans" + -0.157*"democrats" + -0.136*"say" + -0.133*"trump" + -0.104*"i" + -0.098*"north" + -0.095*"her" + -0.091*"he" + -0.086*"you" + -0.085*"she"
+
+0, 217, 630.323944554: intelligence agencies believe Putin ordered the effort to undermine faith in the U.S
+
+1, 616, 630.321737453: Visit our website terms of use and permissions pages at www.npr.org for further information.
+
+2, 123, 630.078247011: Christmas Eve 2008, the last hour of the last day that it was possible
+
+3, 144, 630.069213748: Musk believes that by the end of next year, self-driving will encompass all modes of driving and be “at least 100(%) to 200% safer than a person.” He says the National Highway Traffic Safety Administration did a study on Tesla’s “relatively primitive” Autopilot 1 and found that it was a 45% reduction in highway accidents, and “that’s despite being version 1.”
+
+4, 742, 629.879806176: "Similar to the resurgence of local book stores, there are great opportunities for sharply curated local options,'' says Portell
+
+5, 384, 629.477192864: where did these people get the time to make these signs? 'Go O.J.' and stuff," he says
+
+6, 702, 628.449561819: Toys"R"Us subsequently cancelled plans for the IPO
+
+7, 718, 628.119400874: Still, the disappearance of Toys R Us, an $11 billion retailer, would be felt.
+
+8, 12, 627.27357839: The legislature's hand-picked delegates began voting in the midafternoon, with Xi leading the seven members of the party's all-powerful Politburo Standing Committee in casting their ballots on a stage inside a cavernous hall
+
+9, 42, 626.664999977: Abe and his wife have denied any wrongdoing.
+
+10, 16, 626.508282766: Shortly after 3:50 p.m., the results were read over the public-address system and flashed briefly on a screen in the hall.
+
+11, 619, 626.271821991: Accuracy and availability may vary
+
+12, 266, 625.321761355: Even if agencies determine that a person is homeless, that information may never appear on the death certificate, according to the report.
+
+13, 274, 625.321761355: Even if agencies determine that a person is homeless, that information may never appear on the death certificate, according to the report.
+
+14, 697, 625.309105776: CLOSE Take a trip back to your younger days with one of the nation's best-known retail chains
+
+Summary:
+Musk believes that by the end of next year, self-driving will encompass all modes of driving and be “at least 100(%) to 200% safer than a person.” He says the National Highway Traffic Safety Administration did a study on Tesla’s “relatively primitive” Autopilot 1 and found that it was a 45% reduction in highway accidents, and “that’s despite being version 1.”
+Even if agencies determine that a person is homeless, that information may never appear on the death certificate, according to the report.
+CLOSE Take a trip back to your younger days with one of the nation's best-known retail chains

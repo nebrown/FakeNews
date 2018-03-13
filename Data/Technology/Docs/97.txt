@@ -1,0 +1,51 @@
+https://techcrunch.com/
+Africa Roundup: Uber says it’s staying, Konga could be epic startup fail
+Despite exit rumors and quitting Morocco, Uber is staying in Africa, according to its General Manager for Sub-Saharan Africa, Alon Lits.
+
+Speculation Uber could leave the continent surfaced late last year when a board member of its biggest investor, Softbank, encouraged the company to focus on markets such as the U.S., Europe, and Latin America.
+
+“It really was an…article after that set off the rumors,” Lits told TechCrunch. “We’re fully committed. We’ve got a successful and growing business across Sub-Saharan Africa…we’ll continue to grow that and hopefully add some further expansion,” he said. Lits also referenced a recent interview with Uber CEO Dara Khosrowshahi where he pushed back on Softbank related rumors, touting Uber as a “global company” that aims to be “everywhere for everyone” and “leaning forward in 2018” globally.
+
+The ride-hailing service continues to add new products across operations in Nigeria, Kenya, Ghana, South Africa, Egypt, Uganda, and Tanzania. As TechCrunch reported in 2016, Uber has also experimented with things in Africa it doesn’t do elsewhere. That includes, cash payments, which the company tested first in the region.
+
+Uber is working with Kenyan startup OkHi on an image based direction app its drivers will start using in Nairobi later this month, according to Lits.
+
+Uber debuted a lower price Chap Chap service in Kenya last month. It will also launch a new product in Tanzania called Poa, which means “cool” or “affordable” in Swahili, to tap the country’s tuk tuk, three-wheel moto-taxi market.
+
+Konga’s acquisition could be a major African startup fail that flew under the radar. In February, the Naspers backed e-commerce venture was purchased by Zinox Technologies, a computer hardware company little known outside Nigeria.
+
+The amount was undisclosed. The pairing of the two companies was unanticipated. And the announcement came with little of the fanfare or press associated with startup purchases that produce big founder windfalls and VC exits.
+
+This, along with Konga’s distress signals the past couple years, led some to question the acquisition as a distressed deal with losses for backers.
+
+Founded in 2012 by Nigerian entrepreneur and Harvard MBA Sim Sahagaya, Konga amassed $108 million in known funding in rounds from Naspers and Kinnevik.
+
+The company was the other half of Nigeria’s Coke vs. Pepsi like e-commerce wars—a race between Konga and Jumia to out-advertise and out-discount each other in a quest to scale African online shopping. This became a backdrop to Lagos, with each venture’s billboards facing off across intersections, as their delivery motorcycles buzzed by below.
+
+Having covered each company since early days, it seemed a battle of VC attrition. The challenge: who could continue to raise enough capital to absorb the losses of simultaneously capturing and creating an e-commerce market in notoriously difficult conditions. Those would be poor 3PL, limited internet, spotty electricity, limited online payment options, and low device penetration.
+
+In 2016, Jumia pulled ahead with a $326 million funding round that gave it a $1 billion market value and Africa’s first unicorn status.
+
+Konga had its innovation high points—such as launching its own pay and grocery services—but other events prompted some “Is Konga ok?” questioning, including at TechCrunch.
+
+In late 2016, Konga slipped to 14, vs. Jumia’s 6 spot on Nigeria’s Alexa popularity ratings. There was also Sim Shagaya’s resignation as CEO and move to chairman of the board after (reported) investor pressure. In 2017, Konga ended its warehouse merchant service and in November axed 60 percent of its staff.
+
+Then, seemingly out of nowhere, came the Zinox acquisition. There’s still a dearth of information from which to actually assess the purchase. There are no formal financials for Konga. Valuations of the company have been all over, from $300 to $35 million. On acquisition cost, unsubstantiated reporting had it at $10 million, then Zinox told Quartz it was “way higher”.
+
+A Naspers spokesperson said, “it is the company’s policy to not discuss valuation details.” Zinox didn’t respond to TechCrunch inquiries and Konga’s current CEO, Shola Adekoya, declined to comment. Zinox financial information (annual revenues, capital) couldn’t be found online.
+
+On the question of failure, per a Zinox op-ed, Konga will continue as a going concern—though it’s unclear how they’ll reposition in Nigerian e-commerce.
+
+On the VC side, some simple investment math indicates Konga is likely a big bust. We don’t know the exact investor amounts but if the company’s $108 million had come from only one backer in 2012, the acquisition value would need to be roughly $350 million to meet a 30 percent IRR.
+
+Nothing indicates Zinox did or has the means to pay that. Naspers’ statement to TechCrunch almost certainly confirms they did not:
+
+“In the case of Konga, regrettably, and despite various restructuring initiatives, the business has not reached the scale and level of profitability required to fund itself as it currently stands, now or in the medium term. Further funding from Naspers would not meet our own target return requirements. We subsequently began discussions to divest Konga to Zinox.”
+
+So one of Nigeria’s big digital sales hopefuls appears to have flopped for investors. More details should shake out on why Konga sputtered, despite a capable founder and shopping cart full of VC (by local standards). Startups and investors could use a good case study on connecting the promise of African e-commerce to practical business models.
+
+More Africa Related Stories @TechCrunch
+
+African Tech Around the Net
+
+Featured Image: Bryce Durbin

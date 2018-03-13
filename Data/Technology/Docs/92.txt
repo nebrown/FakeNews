@@ -1,0 +1,101 @@
+https://techcrunch.com/
+Some hard truths about Twitter’s health crisis
+It’s a testament to quite how control freaky and hermetically sealed to criticism the tech industry is that Twitter’s CEO Jack Dorsey went unscripted in front of his own brand livestreaming service this week, inviting users to lob awkward questions at him for the first time ever.
+
+It’s also a testament to how much trouble social media is in. As I’ve written before, ‘fake news’ is an existential crisis for platforms whose business model requires them to fence vast quantities of unverified content uploaded by, at best, poorly verified users.
+
+No content, no dice, as it were. But things get a whole lot more complicated when you have to consider what the content actually is; who wrote it; whether it’s genuine or not; and what its messaging might be doing to your users, to others and to society at large.
+
+As a major MIT study looking at a decade’s worth of tweets — and also published this week — underlines: Information does not spread equally.
+
+More specifically, fact-checked information that has been rated true seems to be less sharable than fact-checked information that has been rated false. Or to put it more plainly: Novel/outrageous content is more viral.
+
+This is entirely unsurprising. As Jonathan Swift put it all the way back in the 1700s: “Falsehood flies, and the Truth comes limping after it.” New research, old truth.
+
+What’s also true is that as social media’s major platforms have scaled, so too have the problems blasted through their megaphones zoomed into mainstream view.
+
+Concerns have ballooned. We’re now at a structural level, debating societal fundamentals like cohesion, civility, democracy. Even, you could argue, confronting humanity itself. Platform as a term has always had a dehumanizing ring. Perhaps that’s their underlying truth too.
+
+Dorsey says the “health” of conversations on his platform is now the company’s “number one priority” — more than a decade after he typed that vapid first tweet, “just setting up my twttr”, when he presumably had zero idea of all the horrible things humans would end up using his technology for.
+
+But it’s also at least half a decade after warnings that trolls and bots were running rampant on Twitter’s platform.
+
+Turns out the future comes at you eventually. Even if you stubbornly refuse to listen as alarm after alarm are being sounded. “Never send to know for whom the bell tolls; it tolls for thee,” wrote John Donne, meditating on society and the individual, back in 1624.
+
+A #280 assessment of what a buzzcut, bearded and careworn Dorsey now says he sees as Twitter’s main problem and thus priority boils down to something like this…
+
+We know our platform is being used negatively, people are hurting and public conversation is being damaged. But we don’t know how to fix it because we don’t understand how to measure the individual and societal impacts of our technology. We think more tech can help. Pls help us.
+
+What Twitter’s crisis tells us is that tech companies are terrible listeners. Although those of us outside the engineering room knew that already.
+
+It’s hardly a surprise that techies suck at listening when they sit inside their hermetically sealed pods thinking it’s both their special gift and libertarian right to control levers that remotely affect other people’s lives while channelling the spice and dollars their way.
+
+So it is a good sign, albeit horribly overdue, to see a nervous and contrite-seeming Dorsey stand in front of the firehose of user opinion — for 50 or so raw, unedited minutes.
+
+Hopefully this performance — which he said would be repeated regularly, from here on in — signals an absolute conversion to reformation. A realization that social media platforms can’t engineer around societal responsibility. That listening and understanding is absolutely their day job.
+
+Head-in-the-sand-ism will catch up with you eventually. Just as playing fast and loose finally overtook Uber’s founder and landed his company in all sorts of legal hot water.
+
+So how did Dorsey and select members of his safety ‘A-team’ do in their first ‘awkward questions’ Periscope?
+
+Fair to middling, is my assessment. It’s clear they still don’t really know how to fix the mess they are in. Hence Twitter soliciting proposals from the public. But admitting they don’t know what to do and reaching out for help is a big and important step.
+
+To put it colloquially, they’ve realized the shit they’re in. And the shit that’s at stake. Hashtag #changeforreal
+
+Dorsey seemed visibly uncomfortable with the Periscope process, which again is testament to how closed a box and operating shop Twitter has been. He hasn’t always been CEO but he is a founder so he’s absolutely on the hook for that.
+
+And Twitter’s bunker mentality has clearly compounded its problems in identifying and responding to content issues that first flared on its platform and then raged. Unpicking that won’t be easy.
+
+Indeed, he said several times that the changes he wants to happen “won’t happen overnight”. That changing Twitter will require a lot of work.
+
+He also admitted the company has “a lot of historical divisions” and said it has not always been as collaborative as it could have. tl;dr inside Twitter there’s a bunch of other bunkers — which truly sounds like a culture nightmare.
+
+So when he talked about the hard work coming I don’t think Dorsey just meant reengineering lots of systems and cranking out lots more user surveys. Because changing an ingrained culture and its processes is a beast. Which is why it’s much better to start from a place of enlightenment. But hey, silver lining, here Twitter finally, finally is, admitting it screwed up and wanting to start over.
+
+At least it’s now saying it wants its product to have a holistic and healthy impact on the world. That it wants to try and reset the coarsening of public discourse that social media has wrought. Certainly it’s a more evolved mission statement than its previous one — which was basically: ‘Eat our free speech.’
+
+That said, Dorsey’s focus on a new type of measurement — this idea of a ‘health metric’ — as the solution for toxic content seems to me problematic. Almost, you could say, like the trigger response of an engineer confronting an ethics textbook for the first time.
+
+Because Twitter’s content problems really boil down to Twitter failing to enforce the community standards it already has. Which in turn is a failure of leadership, as I have previously argued.
+
+A good current example is that it has an ads policy that bans “misleading and deceptive” ads. Yet it continues to accept advertising money from unregulated entities pushing dubiously obscure crypto exchanges and flogging wildly risky token sales.
+
+Twitter really doesn’t need to wait for a new metric to understand that the right thing to do here is to take crypto/ICO ads off its platform right now.
+
+Shucks, even Facebook has done this.
+
+Yet Dorsey and his team omitted to mention ads when he was asked about crypto scams during the Periscope. They just talked about what they’re doing to tackle Twitter users trying to tweet-scam others into sending a bit of crypto.
+
+Continuing to accept ad money attached to what’s still an essentially unregulated space, when there are so many visible and public concerns because scams really are part of the furniture, really is indefensible. Banning these ads is both common sense and just the right thing to do.
+
+And so if Twitter needs to wait for someone else to invent some kind of holistic wellness metric in order to make that low-hanging Satoshi drop then, well, its culture change is going to be much harder and much more painful than Dorsey imagines.
+
+Obsession with measurement and the search for a universal problem-solving metric — to try to quantify the “health, openness and civility of public conversation”, as Twitter puts it — also looks very much like a strategy to buy time.
+
+It may ultimately turn out to be misdirection too; an attempt to deflect blame and divert criticism via solutioneering.
+
+By outsourcing a challenge, and seeking to co-opt the energy and ideas of third parties, Twitter is also reframing what’s broken in a way that starts to spread responsibility for the problems its platform is causing. (Maybe it’s taken a leaf out of Facebook’s playbook on that.)
+
+Content moderation is certainly a hard problem if you understaff it. But if you employ enough machine-aided humans to properly enforce your community standards then it’s quite possible to shrink a toxic content problem.
+
+Throw enough resources in and content problems can become vanishingly small, even insignificant. This is known as community management.
+
+Yes there are counter risks. Especially if, like Twitter, you’ve historically advertised yourself as the free speech wing of the free speech party.
+
+But if you’re having trouble drawing service red lines around, for example, known neo nazis, for whom hate speech and agitating for violence is a way of life, then setting out on a long and winding quest to deconstruct the anatomy of society in the hopes of eventually being able to build algorithms that do a better job of keeping toxic content off your platform, well, that probably isn’t the fundamental fix you should be searching for.
+
+The problem right now is that Twitter doesn’t have the courage — or, heck, the imagination — to enforce its own community guidelines.
+
+Though the hard truth may well be that it just cannot afford to. That the business model never did stack up. Not if you have to factor in the cost of staffing up to properly moderate all the shit that’s being uploaded and thrown about.
+
+Meanwhile the costs of toxic, hate inciting messages blitzkrieging public conversation via the amplifying megaphone of social media keep on rising…
+
+just another day at the office for Facebook pic.twitter.com/gPDpiN0CO5 — Matthew Champion (@matthewchampion) March 7, 2018
+
+In his Periscope plea for help, Dorsey also said he wants Twitter to be “one of the most trusted services in the world”. But if he thinks he can build a for-all-technotopia where liberals co-exist peacefully alongside neo nazis — thanks to a shiny new set of augmented reality controls that fade view from counter view — he’s still thinking fatally inside the tech industry black box.
+
+Social media has always bled offline. Its wounds, like its users, are human. Its shaping impacts are felt by people and across society.
+
+Another old truth: You can’t please all of the people, all of the time. So if Dorsey thinks he can find a technology fix for that age-old challenge he’s going to waste a whole lot more money and a whole lot more time — while the rest of us bleed.
+
+Featured Image: TechCrunch/Bryce Durbin

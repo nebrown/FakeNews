@@ -1,0 +1,70 @@
+https://www.technewsworld.com/
+Russian Twitter Trolls Exploit Florida School Shooting
+
+
+ALL EC Ecommerce Exchange
+
+Looking for ecommerce software or service providers for your online business? Search and compare vendors by specialty and location. Choose the best solutions to help your business grow and succeed.
+
+Put ALL EC to work for you today!
+
+Within an hour of the shooting at a Florida High School last week, divisive messages began pouring out of Twitter accounts believed to be controlled by Russia.
+
+At a rapid speed, messages began flooding Twitter using popular hashtags like #guncontrolnow, #gunreformnow and #Parklandshooting to exploit the rampage by a lone gunman with an assault rifle at the Marjory Stoneman Douglas High School in Parkland, Florida, The New York Times reported Monday.
+
+Prior to the shooting, many of the same accounts had been focused on Special Counsel Robert Mueller III's investigation into Russian meddling in the 2016 U.S. presidential election, according to the report.
+
+Exploiting high-profile events to advance an agenda is a common tactic of all Internet trolls, noted Edward Roberts, director of product marketing at Distil Networks.
+
+"Timely news is used because it feels trustworthy and current," he told TechNewsWorld.
+
+Because They Work
+
+Digital influence campaigns like the one mounted after the Parkland shooting are pervasive because they're effective, noted Inga Goddijn, executive vice president of Risk Based Security.
+
+"They're incredibly widespread and not likely to go away anytime soon," she told TechNewsWorld. "That's because these techniques for influencing people's behavior have proven effective time and again. It only takes an understanding of how these platforms work and what emotional buttons to push to mount a successful campaign."
+
+The campaigns also offer a lot of bang for the buck.
+
+"They enable an adversary to affect a disproportionate impact on a target population for a minuscule investment of time or resources," said James Scott, a senior fellow at the Institute for Critical Infrastructure Technology.
+
+Sowing Chaos
+
+Digital influence campaigns subject the actors behind them to minimal risk, Scott told TechNewsWorld.
+
+"Even when activity can be tracked," he said, "it is easy to leapfrog traffic to masquerade as a different threat actor or to plant a false flag."
+
+Rather than champion one side of a cause or another, the creators of the campaigns take a "chaos is op" approach to their misinformation efforts, Scott said.
+
+"As a result, the attacker uses bots and propaganda on both sides of a charged debate in order to further disrupt the status quo and to widen the social chasm created by irreconcilable polarized viewpoints," he explained.
+
+Distributing propaganda and misinformation isn't new, and all nation-states do it, observed Sherban Naum, senior vice president for corporate strategy and technology at Bromium.
+
+"The Russians are playing a better game," he told TechNewsWorld. "That's what is ticking us all off. They know all the buttons to push, and they push them without restraint or conscience."
+
+What's a Social Net to Do?
+
+Twitter recently has made some efforts to address the problem of Russian trolls. Earlier this year, it warned nearly 700,000 users that they had interacted with accounts identified as part of Russia's efforts to meddle with the 2016 presidential election. It also recently deleted 200,000 tweets linked to those accounts.
+
+"Notifying people they've had contact with Russian bots is a fine idea," said Mark Graff, CEO of Tellagraff.
+
+"If there's a way for social media to make this situation better, it's to put sunlight on it," he told TechNewsWorld. "Sunlight is the only way to disinfect this."
+
+On the other hand, deleting tweets is not a good idea, he said. "That is ill-advised. You can mark them, you can advise people about them -- but deleting them does damage to the historical record."
+
+Twitter did not respond to our request to comment for this story.
+
+Twitter and Users Can Do More
+
+Twitter could do more to counter exploitation of its platform by nation-states and others, maintained the ICIT's Scott.
+
+"Twitter does not do enough to deter bot accounts, and users fail to investigate the profiles of the accounts that promote popular hashtags or that share propaganda, disinformation and other influence materials," he said.
+
+"These attacks on the American psyche will continue until Twitter and other social media platforms develop sufficient controls and detection mechanisms to deter and prevent bot activity," Scott added.
+
+Twitter users contribute to the problem, according to Bromium's Naum.
+
+"The problem should not be laid at Twitter's feet. Instead it should be on the people that don't reference this news for accuracy," he said. "Twitter is a medium of communication. The responsibility to verify still must sit with the reader."
+
+John P. Mello Jr. has been an ECT News Network reporter since 2003. His areas of focus include cybersecurity, IT issues, privacy, e-commerce, social media, artificial intelligence, big data and consumer electronics. He has written and edited for numerous publications, including the Boston Business Journal, the Boston Phoenix, Megapixel.Net and Government Security News. Email John.
+

@@ -1,0 +1,46 @@
+https://www.technewsworld.com/
+Suse, AWS Nudge SAP Customers to the Cloud
+
+
+Need a mobile developer, cybersecurity pro or other IT expert?
+
+On ALL EC you can quickly and conveniently research all available technology solutions before making your next planning or purchasing decisions. Gather key insights and information before selecting your vendors. Visit ALL EC today.
+
+Suse recently entered an agreement to expand its relationship with Amazon Web Services, allowing Suse Linux Enterprise Server for SAP Applications to be sold directly on the AWS Marketplace.
+
+AWS customers that are running SAP workloads on Suse Linux Enterprise Server for SAP Applications -- a leading platform for SAP Hana and SAP S/4Hana -- will get integrated and streamlined support from AWS and Suse under the agreement.
+
+AWS customers will be able to buy the Suse Linux Enterprise on demand, so they will pay only for what they use.
+
+"This isn't an evolution, but a further support statement that showcases how this new relationship better enables AWS and Suse to deliver SAP solutions on AWS," said Tom Hammond-Doel, AWS global alliance director.
+
+"Enterprises have been embracing open source software and systems for many years," observed Jeff Kaplan, managing director of ThinkStrategies.
+
+"Suse has been a leader in this market for a long time, and this alliance is aimed at helping SAP customers migrate their workloads to the cloud," he told LinuxInsider.
+
+Fast Start
+
+Suse and AWS plan to work together on solutions such as AWS Quick Starts, a template for instant deployment for complex workloads -- an SAP Hana Quickstart and a new SAP Netweaver Quickstart on AWS that leverages Suse Linux, for example.
+
+The market is very competitive because the SAP landscape is changing, Hammond Doel told LinuxInsider.
+
+Customers must move to SAP Hana and SAP S/4 Hana before 2025, when SAP will end support for any database, including SQL Server, Oracle DB and IBM DB2, he said.
+
+"Transitioning to S/4Hana enables customers to undertake their digital transformation journey -- and the platform itself is powered by SAP Hana, which runs exclusively on Linux," Hammond Doel said.
+
+To date, Suse is the leading Linux for SAP Hana and S/4Hana, he noted, and that trend is reflected in the public cloud as well.
+
+Customers will receive Amazon Business support by default, thus providing a single point of contact, noted Bas Kamphuis, general manager of SAP at Amazon Web Services.
+
+The collaboration will help customers deploy and scale SAP Hana workloads on Suse Linux Enterprise Server for SAP Applications more easily and at a more compelling price point, he added.
+
+Relationship Building
+
+Amazon first certified its platform for SAP applications in 2012. It certified its instances for SAP Hana by 2014, which led to Suse Linux Enterprise Server for SAP Applications being made available on AWS.
+
+Deployments of SAP Hana workloads have increased since the release of X1 and X1e.32xlarge Amazon Elastic Compute Cloud (Amazon EC2) instances, which are built for in-memory workloads, according to Suse.
+
+The companies first announced their plans for the expanded relationship last year. SLES for SAP would include the High Availability Extension, which allows SAP Hana instances to fail over between availability zones seamlessly, wrote Sabari Radhkrishnan, partner solutions architect at AWS focused on SAP, in an online post. Other enhancements would include page cache management and kernel settings optimized for SAP workloads.
+
+David Jones is a freelance writer based in Essex County, New Jersey. He has written for Reuters, Bloomberg, Crain's New York Business and The New York Times.
+

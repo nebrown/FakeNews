@@ -1,0 +1,29 @@
+https://techcrunch.com/
+Snapchat and Instagram remove Giphy feature due to racial slur GIF
+Snapchat and Instagram have temporarily removed their Giphy GIF sticker features after users saw an extremely racist GIF as an option to add to their images. Snapchat confirms to TechCrunch “As soon as we were made aware, we removed the GIF and have disabled Giphy until we can be sure that this won’t happen again . . . while we wait for Giphy’s team to take a look at it.”
+
+A source tells TechCrunch the same racist GIF was spotted in Instagram as well, indicating that Giphy is at fault. A tweet by Lyauna Augmon shows the GIF being used within Instagram. Giphy appears to have removed the GIF as it’s no longer available in Instagram. An Instagram spokesperson tells TechCrunch “This type of content has no place on Instagram. We have stopped our integration with Giphy as they investigate the issue.” The company confirms the change has been made but might take some time to propagate to all users.
+
+[Update: This article has been updated to show that the GIF also appeared on Instagram, not just Snapchat.]
+
+The Snapchat spokesperson says that all GIFs in Snapchat are meant to be “rated PG,” meaning they’re mostly suitable for the 13-and-up teens that are technically allowed on Snapchat.
+
+The GIF includes disturbing text including a racial slur, which TechCrunch has blurred out below. It reads “N—– Crime Death Counter – Keep Cranking Bonzo, the Numbers Just Keep on Climbing!” TechCrunch received a screenshot of the GIF on Snapchat from a reader. Warning: The image below may be disturbing to some:
+
+Snapchat’s official statement is “We have removed GIPHY from our application until we can be assured that this will never happen again.” A Snapchat spokesperson tells me the company is very sorry. The Giphy community guidelines prohibit this kind of objectionable content in the first place, but since it works like a search engine that indexes the top GIFs on the web, things can slip through.
+
+Here’s the version spotted on Instagram, censored by TechCrunch:
+
+We’ve reached out to Giphy for comment but haven’t heard back.
+
+[Update 3/10: Giphy has now provided a statement to TechCrunch, admitting it was to blame for a bug allowing the offensive GIF through. A spokesperson tells us:
+
+“A user discovered an offensive GIF sticker in our library, and we immediately removed it per our content guidelines. After investigation of the incident, this sticker was available due to a bug in our content moderation filters specifically affecting GIF stickers. We have fixed the bug and have re-moderated all of the GIF stickers in our library. The GIPHY staff is also further reviewing every GIF sticker by hand and should be finished shortly. We take full responsibility for these recent events and sincerely apologize to anyone who was offended.”
+
+Snapchat only launched the Giphy integration on February 20th so people could jazz up their photos and videos with moving images curated as safe by the Giphy team. TechCrunch broke the news on Instagram building a similar Giphy integration in late January, which launched a week later.
+
+This isn’t Snapchat’s first run-in with racist content. Back in 2016 it was heavily criticized for creating an Asian “yellowface” stereotype augmented reality lens that gave people slanted eyes. Snapchat risks an unsavory reputation if it can’t keep its content under control. The slip-up could deter Snapchat from working more with outside developers, which it’s only recently allowed to bring content into its app via its Lens Studio and the Giphy integration.
+
+The incident is embarrassing for Instagram’s parent company Facebook. It also casts doubt on Facebook’s Messenger Kids app, which also has Giphy integration that is only supposed to show G-rated imagery.
+
+Snapchat and Instagram will have to decide whether they want help from outsiders even if it can’t guarantee the quality or safety of their content, or whether it will go it alone as they compete against each other.

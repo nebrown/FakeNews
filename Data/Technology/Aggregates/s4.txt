@@ -1,0 +1,36 @@
+Keywords: 0.316*"sony" + 0.172*"mr" + 0.152*"musk" + 0.145*"objects" + 0.137*"s9" + 0.135*"table" + 0.134*"projector" + 0.128*"projectors" + 0.126*"sony’s" + 0.115*"ar"
+
+0, 58, 196.217343032: With small 3D models of instruments, including a miniature saxophone and a piano, users can work together to play a series of songs by directing spotlights to each instrument
+
+1, 85, 196.217343032: With small 3D models of instruments, including a miniature saxophone and a piano, users can work together to play a series of songs by directing spotlights to each instrument
+
+2, 215, 195.464750826: "We aim to offer our customers the most intelligent and advanced user experiences, and with the synergy between our touch and voice-based interaction and EyeSight's touch-free gestures, we're able to fulfill that promise," said Hiroshi Ito, deputy head of Sony Mobile's Smart Product Business Group.
+
+3, 62, 195.261757374: But it is a genuinely impressive demonstration, as each object placed under the projectors’ light and within range of the system’s sensors is brought to life in a way that looks and feels like the closest manifestation of software in the real world.
+
+4, 89, 195.261757374: But it is a genuinely impressive demonstration, as each object placed under the projectors’ light and within range of the system’s sensors is brought to life in a way that looks and feels like the closest manifestation of software in the real world.
+
+5, 113, 194.734777063: But plenty of gadgets would benefit from being a little more weird.
+
+6, 125, 194.734777063: But plenty of gadgets would benefit from being a little more weird.
+
+7, 67, 194.513360158: It’s mostly a marketing stunt to showcase its experimental hardware, but over the years, we’ve seen the full breadth of what this tech allows
+
+8, 94, 194.513360158: It’s mostly a marketing stunt to showcase its experimental hardware, but over the years, we’ve seen the full breadth of what this tech allows
+
+9, 111, 194.301525354: However! I will say thank you to Sony because I love Frankenstein gadgets like this one, even if the ultimate use case isn’t clear
+
+10, 123, 194.301525354: However! I will say thank you to Sony because I love Frankenstein gadgets like this one, even if the ultimate use case isn’t clear
+
+11, 64, 194.153907388: Something like this is both more accessible and can be experienced collectively, without requiring everybody wear a pair of smart glasses, a VR-style helmet, or even a compatible smartphone with the requisite software
+
+12, 91, 194.153907388: Something like this is both more accessible and can be experienced collectively, without requiring everybody wear a pair of smart glasses, a VR-style helmet, or even a compatible smartphone with the requisite software
+
+13, 112, 193.716851741: You can walk around your house and play Netflix everywhere you go? Sony’s projector helmet is ultimately a technology in search of a problem
+
+14, 124, 193.716851741: You can walk around your house and play Netflix everywhere you go? Sony’s projector helmet is ultimately a technology in search of a problem
+
+Summary:
+I will say thank you to Sony because I love Frankenstein gadgets like this one, even if the ultimate use case isn’t clear
+I will say thank you to Sony because I love Frankenstein gadgets like this one, even if the ultimate use case isn’t clear
+Something like this is both more accessible and can be experienced collectively, without requiring everybody wear a pair of smart glasses, a VR-style helmet, or even a compatible smartphone with the requisite software

@@ -1,0 +1,63 @@
+http://www.drudgereport.com/
+New attacks spark concerns about Iranian cyber threat
+Experts are sounding the alarm about new cyber activity from Iran, as hackers become more emboldened and skilled at carrying out surveillance operations and other attacks outside the country’s borders.
+
+In recent years, Iran-linked hacker groups have showed signs of growing sophistication, expanding their cyber tool kits and stepping up operations against new international targets, including in the Middle East and the United States.
+
+Iran’s growing ambitions, coupled with the geopolitical climate, have given some warning of the future threat.
+
+ADVERTISEMENT
+
+“They’re good enough that they’re able to break into a lot of organizations,” said Charles Carmakal, vice president at Mandiant, a FireEye subsidiary that provides cyber incident response to government and private organizations across the globe.
+
+“There’s definitely a lot of fear by the intelligence agencies and lots of security companies about what Iran is going to do."
+
+Cybersecurity professionals have detected Iranian hackers breaking into networks of defense contractors, aviation firms, oil and gas companies, technology companies and telecommunications providers.
+
+In February, cybersecurity firm Symantec revealed that the Iran-based hacking group dubbed “Chafer” had expanded spy operations to new targets across numerous sectors in Israel, Jordan, the United Arab Emirates, Saudi Arabia and Turkey, and successfully compromised a major telecommunications provider in the Middle East.
+
+The group also began using several new hacking tools over the past year, including leveraging the “EternalBlue” exploit reportedly stolen from the National Security Agency by another hacker group.
+
+While Symantec has no definitive evidence linking Chafer to the Iranian government, Vikram Thakur, the firm’s security response technical director, said the group’s targets — which include companies in the aviation sector — suggest a government motivation because the information would be more valuable in the public versus private sector.
+
+“What we’ve noticed of the overall picture that the quantity of attacks that are originating from that geography are much, much higher than seven or eight years ago,” Thakur said. “In the coming years, we’d expect Chafer as well as other cyber actors originating from Iran to continue increasing their volumes of attack as well as their list of victims.”
+
+In many cases, Iran-linked cyber activity is limited to intelligence operations. But some groups have also shown signs of destructive capabilities.
+
+Last September, FireEye identified a new Iranian hacking group that’s been dubbed “Advanced Persistent Threat 33,” or APT 33, that had been quietly conducting spying operations since at least 2013 against organizations in the U.S., Saudi Arabia and South Korea. The group has a particular eye toward the military, commercial aviation and energy sectors.
+
+FireEye found evidence that APT 33 is capable of carrying out destructive attacks, linking it to a destructive “wiper” malware that can delete files.
+
+Iran has a long history of malicious activity in cyberspace. U.S. officials suspected Iran in the 2012 cyber assault against Saudi Arabian oil giant Saudi Aramco, in which hackers used destructive malware called “Shamoon” to wipe computer networks of data and replace the files with an image of a burning U.S. flag.
+
+A new variant of the malware resurfaced in late 2016, infiltrating other Saudi Arabian computer systems. FireEye traced the 2016 activity back to Iran, though did not attribute it to a specific threat group.
+
+The Justice Department earlier that year indicted seven Iranians believed to have been working at the behest of Tehran’s government for conducting distributed denial of service attacks on U.S. financial institutions between 2011 and 2013, as tensions ran high over sanctions on Iran’s nuclear program.
+
+Much of the attention in Washington has lately focused on the cyber threat from Russia, following Moscow’s interference in the 2016 presidential election.
+
+Iran is still widely viewed by officials and cybersecurity professionals as inferior to China and Russia in terms of its capabilities. Still, experts say Iran’s hackers have notably grown more professional in a matter of years.
+
+Iran-linked hacking groups have increased the scale of their attacks and gotten better at hiding their tracks, in part by using virtual private networks to carry out operations so they cannot be traced back to Iran.
+
+“They got better over the years,” said Carmakal. “When I think about the real impact to our safety and the impact to our business operations, I’m actually more concerned about Iran.”
+
+FireEye tracks other hacking groups it links to the Iranian government, including APT 34, which the firm says has conducted reconnaissance operations largely targeting critical infrastructure organizations in the Middle East since at least 2014. FireEye has attributed some of Chafer’s activity to APT 34.
+
+The firm has also identified Iranian hacking group APT 35, which Ben Read, senior manager of cyber espionage analysis, described as “one of the most active groups” in 2017 of all nation-state actors tracked by FireEye.
+
+“They’ve shown a consistent interest in U.S. companies,” said Read.
+
+U.S. officials have warned of mounting threats from Iran and other nation-states in the cyber realm.
+
+“We will see Chinese, Iranian and North Korean cyber actors continue to build off past successes to improve the scope and scale of their cyber capabilities,” Director of National Intelligence Dan Coats Daniel (Dan) Ray CoatsTop state election official questions why Trump is downplaying threat of Russian election interference: report Russian bots turn to gun control after Florida high school shooting: report The case alleging Russian collusion is not closed MORE told the Senate Armed Services Committee Tuesday.
+
+Lt. Gen. Robert Ashley, director of the Defense Intelligence Agency, also warned lawmakers that Iran and North Korea “can launch disruptive cyber attacks and use cyberspace as a means to asymmetrically respond to perceived challenges in political, military, or economic domains” despite being less capable than other threat actors.
+
+Some speculate Iran could increase malign cyber activity against the United States if tensions run high between Washington and Tehran.
+
+A report released by Carnegie Endowment for International Peace in January observed that destructive Iranian cyber operations against the U.S. had decreased since the early negotiations of the Iran nuclear deal. They noted, however, that the U.S. should expect Tehran to target economic, civilian, and government networks in the event of “renewed hostilities.”
+
+President Trump Donald John TrumpAccuser says Trump should be afraid of the truth Woman behind pro-Trump Facebook page denies being influenced by Russians Shulkin says he has White House approval to root out 'subversion' at VA MORE has threatened to withdraw from the Iran nuclear deal, though he declined to topple the 2015 agreement in January by waiving key sanctions on Tehran. Meanwhile, the Trump administration imposed new sanctions on Iran related to its ballistic missile activity and crackdown on dissidents, for which Iran promised to retaliate.
+
+“I think they are a significant threat to organizations in the U.S., particularly those in the national security area,” Read said. “What is really going to change how much of a threat they are is the overall geopolitical situation.”

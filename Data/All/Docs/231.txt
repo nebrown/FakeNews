@@ -1,0 +1,69 @@
+http://www.people-press.org/
+Sharing the News in a Polarized Congress
+Sharing the News in a Polarized Congress
+
+Partisan and ideological divides shape which news outlets legislators share links to on Facebook
+
+By Solomon Messing, Patrick van Kessel and Adam Hughes
+
+Methodological note This report describes findings from an analysis of all Facebook posts issued by members of the 114th and 115th Congresses between Jan. 2, 2015, and July 20, 2017. Researchers collected Facebook posts from members’ official Facebook accounts using the social media platform’s application programming interface (API) for public pages. Researchers obtained 447,684 posts from 581 unique members of Congress across the two most recent Congresses. Next, they identified all Facebook posts that included links to other websites: a total of 177,467 posts, which represent 40% of all posts in the original sample. Researchers standardized these links by identifying their domain in order to measure how often members shared information from particular websites. The research team then classified all sites that were linked to at least 25 times, determining which contained news or information related to current events directed at a national audience. In total, 42,219 posts – 9.4% of all posts – contained links to national news outlets with stories shared at least 25 times. A total of 106 news outlets were included in the analysis, and all of them are listed in the report Methodology.
+
+Additional details about data collection and processing are also included in the Methodology.
+
+
+
+Political divides in the American news landscape do not end with Americans’ preferences for different news sources; rather, they extend to how members of the U.S. Congress communicate with constituents in the digital age.
+
+Between January 2015 and July 2017, nearly half (48%) of the links to national news outlets that members of Congress shared on Facebook were to outlets predominantly linked to by members of just one party, according to a new Pew Research Center analysis. What’s more, 5% of these news links pointed to outlets that were exclusively linked to by members of one political party.
+
+To reach these conclusions, researchers collected nearly half a million Facebook posts (447,684) by members of Congress posted between Jan. 2, 2015, and July 20, 2017. Of those, 177,467 included links to other websites, including a final sample of 42,219 that researchers identified as linking to stories from national news outlets.
+
+The study also finds that Democratic members of Congress became more likely to share stories from national news outlets once President Donald Trump took office in January 2017. Prior to the November 2016 presidential election, 8% of all Facebook posts made by Democrats linked to national news, a proportion that doubled to 16% after Trump’s inauguration. By contrast, the share of congressional Republican posts linking to national news stories remained about the same before and after the inauguration (9% vs. 8%). A May 2017 Pew Research Center survey also found a much larger appetite for national news among Democrats after the election.
+
+As Democrats’ appetite for news increased, so did the intensity of their audience’s reactions. In the six months prior to the election, 5% of “reactions” to national news links posted by Democratic members were “angry,” compared with 9% for Republicans. However, in the six months after the election, that number more than tripled to 18% for Democrats, while remaining at 10% for Republicans.
+
+When it comes to disseminating news on social media, people who follow members of Congress on Facebook play an important role. A July 2016 survey by Pew Research Center found that 25% of social media users follow political candidates or other political figures online. Other research by the Center suggests that members with the most liberal and conservative legislative voting records have the most Facebook followers. In the current study, researchers examined whether this pattern extended to audience engagement with links to stories from different national news outlets, especially stories from those outlets that were predominantly shared by liberal or conservative legislators.
+
+The new analysis finds some evidence that the ways that Facebook audiences interact with congressional posts containing news links may be modestly reinforcing the ideological divide. Specifically, the Facebook audience re-shared news stories from outlets that fell on the most liberal or conservative ends of a “sharing score” 21% to 22% more often than when the link came from a news source that fell in the middle.
+
+While Facebook comprises one important part of members’ media outreach efforts, members also communicate with their constituents through press releases, town halls, media appearances and on other social media outlets. Although this report does not examine communication across all these channels, Facebook posts are relatively easy to systematically capture and study. Previous research suggests that at least some statements that members of Congress express on Facebook are similar to those they make in press releases. Focusing on Facebook posts also makes it possible to measure how much a member’s audience interacts with the posts by looking at likes, comments and shares. Facebook is also the social media site from which the most Americans get news.
+
+Creating ‘congressional sharing scores’
+
+To measure the extent to which members of Congress share news links that align with their own ideology, researchers had to identify the ideological leanings of each lawmaker and link that information with the national news outlets that they link to online.
+
+To determine each member’s political ideology, researchers used an existing, widely used measure developed by academics called DW-NOMINATE. The ideology measure runs from positive 0.99 (most conservative) to -0.74 (most liberal) across the time period examined in this analysis. For example, Senate Majority Leader Mitch McConnell, R-Ky., has a score of 0.40, while House Minority Leader Nancy Pelosi, D-Calif., has a score of -0.49. Across both Congresses included in the study, all Democrats have DW-NOMINATE scores on the liberal side of the scale, and all Republicans have conservative scores.
+
+As a next step, rather than attempting to measure the ideology of the national news site itself, researchers looked at the ideology of the members of Congress who shared news links from each outlet. To do this, researchers assigned each member’s DW-NOMINATE ideology score to the news outlets they linked to online, generating a “congressional sharing score” for each news source. This score reflects the average ideological position of all members of Congress who shared stories from each source while accounting for how often the legislator shared them. A news outlet linked to 100 times by Democrats and 10 times by Republicans would have a more liberal score.
+
+For example, stories from The New York Times were shared 4,454 times by 429 different members of Congress between January 2015 and July 2017. That number included 228 Democrats and 201 Republicans. To create a congressional sharing score for The New York Times, researchers first identified the ideology scores of all 429 members who shared a link to the site. However, not all members of Congress shared stories from The New York Times at the same rate. Democratic members of Congress who have more liberal scores shared stories from the Times in 3,761 Facebook posts, compared with a total of 693 for Republicans. Congressional sharing scores take this imbalance into account, by counting each individual link to a news story rather than each member of Congress. As a result, the sharing score for The New York Times is -0.28.
+
+Because Republicans outnumber Democrats in Congress, the average DW-NOMINATE score across all members is 0.11, not zero. As a result, a news outlet that was shared at the same rate by all members of both parties would have a Congressional Sharing Score of 0.11.
+
+Ideology shapes which news outlets members of Congress share links to
+
+Generally speaking, the news outlets that were most often linked to via Facebook fall into three categories: those linked to predominantly by Republicans, those linked to predominantly by Democrats and those that were linked to by members on both sides of the aisle. Researchers defined an outlet as predominantly linked to by those in one party by examining whether more than 75% of links to the outlet came from just Democrats or Republicans. Of the 106 national news outlets in the study – those that appeared in at least 25 posts by members across the study period – 32 outlets were predominantly linked to by Republican lawmakers, 30 by congressional Democrats, and 44 by both Democrats and Republicans in Congress.
+
+The graph below shows how liberals and conservatives in Congress shared stories from different outlets, focusing only on the news outlets that were linked to most often (200 times or more) over the study period. A narrow boxed range in the graphic indicates the extent to which the outlet was linked to by liberals or conservatives in Congress. For example, Breitbart news was linked to nearly 700 times among Republican lawmakers (particularly more conservative Republicans) during the study period, and zero times by Democrats in Congress. On the opposite side of the spectrum, there were more than 1,100 links to the Huffington Post by congressional Democrats, but only 89 from Republican lawmakers. In contrast, outlets with a very wide boxed range – such as The Washington Post, The Hill and CNN – were linked to often by both liberals and conservatives in Congress. For example, news links to CNN were shared 1,011 times by Democrats in Congress during the study period, and 1,062 by congressional Republicans.
+
+A partisan gap in congressional news sharing emerges after Trump’s 2016 win
+
+After Trump won the 2016 presidential election, Democrats in Congress became increasingly likely to share national news on Facebook. Between Jan. 2, 2015, and Nov. 8, 2016 – the day of the presidential election – just 8% of congressional Democrats’ Facebook posts included links to national news stories. From Jan. 20 through July 20, 2017, however, that number doubled to 16%.
+
+‘Angry’ reactions to national news posted by Democratic lawmakers double after 2016 election
+
+In February 2016, Facebook introduced an array of new “reactions” to content in addition to the long-present “like” button, adding to the information on how audiences feel about what they encounter on the platform.
+
+The Center analyzed these reactions and found that, in response to posts from congressional Democrats, the proportion of reactions from the Facebook audience that used the “angry” button more than tripled after the election. From May 1 to Nov. 8, 2016, roughly 5% of reactions to national news links posted by congressional Democrats were “angry” reactions – yet between the election and July 20, 2017, fully 18% of all reactions to Democratic lawmakers’ news links were “angry.” Reactions to Republican-shared news links remained relatively stable. Between May 1 and Nov. 8, 2016, 9% of reactions to Republican posts were “angry,” compared with 10% between Nov. 9, 2016 and July 20, 2017.
+
+Outlets predominantly linked to by liberal and conservative lawmakers more likely to be re-shared
+
+News from outlets whose stories were predominantly shared by more liberal or conservative legislators was somewhat more likely to be re-shared by Facebook users, compared with news from outlets regularly linked to by both liberals and conservatives in Congress.
+
+Posts sharing stories from outlets that were linked to almost exclusively by conservative lawmakers – outlets with congressional sharing scores in the top 10% of the scale – had a median of 26 shares. Stories from outlets in the bottom 10% of the scale – that were linked to almost exclusively by very liberal legislators – had a median of 23 shares. In contrast, news outlets regularly linked to by both liberal and conservative lawmakers – with a congressional sharing score in the middle 10% of the scale – had a median of 11 re-shares.
+
+To better account for the fact that more liberal and conservative members of Congress have more Facebook followers, researchers estimated regression models to evaluate the relationship between Facebook re-shares and the congressional sharing score of particular outlets. These models account for that fact that some members receive a great deal of Facebook engagement.
+
+Based on this model, when Democrats or Republicans in Congress shared stories from outlets with the most liberal or conservative sharing scores, respectively, the Facebook audience re-shared those posts 21% and 22% more often than if the stories came from outlets that fell in the middle of the score’s range. On the other hand, when Democratic and Republican legislators shared a story from an outlet that was almost exclusively linked to by members on the other end of the ideological spectrum – instead of linking to an outlet with a sharing score in the middle of the scale – they could expect to receive 17% and 18% fewer re-shares from their Facebook audience, respectively.
+
+Overall, these patterns in re-sharing add up to a slightly higher level of engagement from the Facebook audience when members of Congress posted links to news from outlets linked to almost exclusively by liberals or conservatives in Congress.

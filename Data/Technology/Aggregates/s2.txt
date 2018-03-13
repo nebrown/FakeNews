@@ -1,0 +1,36 @@
+Keywords: -0.463*"musk" + 0.316*"s9" + -0.269*"mars" + 0.214*"galaxy" + 0.168*"samsung" + -0.156*"ai" + 0.138*"mr" + -0.136*"flights" + -0.127*"spacex" + 0.110*"camera"
+
+0, 230, 354.27802068: The screens are also slightly brighter this year, which is always appreciated on sunny days
+
+1, 290, 354.261128768: By default, the selfie camera applies a lot of image smoothing and other effects to try to beautify the photo, but they just make it look out of focus and unattractive to me.
+
+2, 244, 353.251737237: I’ve found myself frequently swiping on the camera lens when I try to use the gesture to open the notification tray.
+
+3, 250, 352.806819379: The new stereo speakers are more successful: they are louder, clearer, and more enjoyable to listen to than the S8’s single speaker
+
+4, 396, 352.709982276: From parking sensors, to traffic camera warnings to collision alert and more, there is an awful lot of things that go beep here.
+
+5, 291, 352.58365646: The S9’s design, performance, and cameras are all predictably good enough to keep it at the top of the smartphone pile for 2018
+
+6, 102, 352.491953708: Apple's Animojis focus on a few emojis like the poop and the unicorn with more coming with the iOS 11.3 launch in the spring
+
+7, 83, 351.925708048: The iPhone X, on the other hand, has Portrait Lighting that lets you play with different lighting options for portraits during or after you take the shot
+
+8, 223, 351.89513123: There is curved glass on both the front and back that makes the phone comfortable to hold and allows it to be narrower than other phones with similar size screens
+
+9, 91, 351.891297609: It also has a 240fps option at 1080P that you set manually
+
+10, 282, 351.882828698: Further, the amount of aperture control provided isn’t enough for advanced photography techniques, such as long-exposure shots during the day, so you still have to rely on add-on accessories for those.
+
+11, 274, 351.67417863: Since the camera can just increase its shutter speed to compensate for more light, I don’t know why I’d ever use f/2.4 when an f/1.5 lens is available
+
+12, 243, 351.576728299: It’s still small, especially compared to scanners on other phones, and it’s still too close to the camera
+
+13, 270, 351.540360734: Chances are, if you weren’t a fan of Samsung’s image processing before, you still won’t like it now.
+
+14, 43, 351.481892779: You can send audio and video from some but not all of your iPhone apps to Chromecast devices, for instance.
+
+Summary:
+By default, the selfie camera applies a lot of image smoothing and other effects to try to beautify the photo, but they just make it look out of focus and unattractive to me.
+I’ve found myself frequently swiping on the camera lens when I try to use the gesture to open the notification tray.
+The iPhone X, on the other hand, has Portrait Lighting that lets you play with different lighting options for portraits during or after you take the shot

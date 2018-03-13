@@ -1,0 +1,36 @@
+Keywords: -0.445*"mr" + 0.206*"s9" + -0.204*"north" + -0.201*"trump" + -0.165*"korea" + -0.147*"kim" + 0.137*"galaxy" + 0.126*"sony" + -0.125*"korean" + 0.117*"samsung"
+
+0, 8, 111.262813687: The original idea came – as many great ideas do – out of necessity
+
+1, 28, 111.224177778: Which makes sense, but the basic (and we know this is very basic) principle of capitalist economics is that value is driven by supply and demand
+
+2, 32, 111.174415171: “If you’re a large business and you can make or save a lot of money using us we charge you a fee based on volume
+
+3, 34, 111.020371258: In London we gave two couriers 20 party parcels each, one with the three word addresses on, one with the same street addresses on, and we tracked them with GPS monitors and heart rate monitors.
+
+4, 41, 111.001077235: "In Mongolia you can get a pizza, you can get a taxi, you can open a bank account all with a three-word address
+
+5, 3, 110.986251414: One company that is bucking that trend is What3Words (iOS, Android), a free location app that has given addresses to the world by dividing it into three meter square units, allocating a three word combination to each, giving you easy to remember, incredibly accurate location information.
+
+6, 21, 110.971567452: A ticket machine is planted in the centre of a rural village, which people can use to print off a three-word ticket for the location where they live
+
+7, 12, 110.847608: “And the problem with GPS coordinates is if if you make a slight mistake you don't necessarily realize you've made a mistake
+
+8, 33, 110.798550427: We ran some tests in London and Dubai and in Manchester
+
+9, 69, 110.495913982: Warren Gatland has rung the changes from that side, making ten alterations to his starting line-up as Wales look to put in a strong performance in front of what will no doubt be an enthusiastic home crowd.
+
+10, 19, 110.380467594: The fact that it covers the entire world has been revolutionary, especially for those in countries that don't have an advanced addressing system, if they have one at all.
+
+11, 30, 110.29905951: Obviously, when you get a product that makes a difference to people’s lives, and you charge a lot for it, you end up as Martin Shkreli
+
+12, 9, 110.246870399: What3Words founder Chris Sheldrick was a musician and music events organiser who often struggled with corralling musicians, roadies and crew because of poor addressing.
+
+13, 35, 110.185709774: “The one with three-word addresses was 30% faster
+
+14, 87, 110.10301128: You will need to do a fair bit of channel hopping though and a lot of the events won't be available on free channels
+
+Summary:
+In London we gave two couriers 20 party parcels each, one with the three word addresses on, one with the same street addresses on, and we tracked them with GPS monitors and heart rate monitors.
+One company that is bucking that trend is What3Words (iOS, Android), a free location app that has given addresses to the world by dividing it into three meter square units, allocating a three word combination to each, giving you easy to remember, incredibly accurate location information.
+Obviously, when you get a product that makes a difference to people’s lives, and you charge a lot for it, you end up as Martin Shkreli

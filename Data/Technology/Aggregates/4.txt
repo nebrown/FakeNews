@@ -1,0 +1,170 @@
+
+Sony is back in Austin this week for SXSW, the annual tech and entertainment meet-up, with a entire warehouse of weird gadgets, games, and prototypes that all rely, in one way or another, on Sony technology. The exhibit, called the Wow Factory, is an opportunity for the Japanese tech giant’s engineers and artists to collaborate on experimental projects.
+
+These projects are meant to emphasize how Sony’s display technology, particularly its advancements in image sensors and projectors, can be stretched and morphed into hardware and software that goes far beyond a standard image on a flat screen. In this way, Sony is able to dabble in areas like augmented reality by using interactive holograms instead of requiring users to wear bulky glasses or helmets. It achieves this by using projectors and sensors that track motion and measure depth and pressure to let you interact with objects made entirely of light.
+
+Sony achieves AR using image sensors and projectors, not glasses or helmets
+
+One such example is a three-way augmented reality air hockey game Sony developed specifically for the Wow Factory this year. The game features a physical hockey puck and three physical paddles around custom circular table. But the table is also making use of two of Sony’s new IMX382 visual sensors, which can detect and track objects at 1,000 frames per second. One sensor sits above the table to track the puck, and another sits below to track players’ paddles. An overhead projector meanwhile overlays the game interface and virtual pucks onto the surface of the table.
+
+This sensor setup is similar to the one contained in Sony’s experimental projectors that it’s brought to SXSW in past exhibits. In those situations, Sony has turned tabletops into touchscreens and created interactive software that overlays onto physical props. For instance, Sony used a copy of Lewis Carroll’s Alice’s Adventures in Wonderland alongside a physical deck of playing cards and a teacup to bring to life the happenings described in the text. The company also built an architectural demo that could turn a standard block of wood into a top-down scale model of a home, with the light shining down onto the table to color and annotate the objects in real time.
+
+In the case of the AR air hockey game, Sony’s software allows the real hockey puck to interact with the virtual ones because the image sensors track both your hand and the paddle as you interact with the objects on the table. So you can hit the virtual pucks with your paddle as if they real, and the virtual ones even bounce off of the real puck and the sides of the table in realistic fashion.
+
+The game itself is a chaotic one in which all three players are simultaneously defending their own goal and going on the offensive against their opponents. All the while, a half-dozen hockey pucks — all but one of which are made out of light — fly around the table and collide in a nonstop frenzy.
+
+While it’s not ever going to be a commercial product, Sony has shown time and again that its display and sensor tech can achieve a novel form of AR. These demos show the extent to which sensor data and the right mix of hardware can create immersive experiences that don’t rely on blasting light in your eyes or plastering a screen on your face. AR is often thought of as something that will only truly arrive when it’s packed into a standard pair of eye glasses. And yet right now, the common conception of the technology is the selfie filters and other animations you get on Snapchat and other apps, as well as the clumsy mixing of real and virtual objects through a smartphone lens like with Niantic’s Pokémon Go.
+
+But Sony’s showcase here at SXSW illustrates how AR can be achieved through alternative means, if you’re wiling to expand how you think about the term and what it requires to realistic function.
+
+Sony is back in Austin this week for SXSW, the annual tech and entertainment meet-up, with a entire warehouse of weird gadgets, games, and prototypes that all rely, in one way or another, on Sony technology. The exhibit, called the Wow Factory, is an opportunity for the Japanese tech giant’s engineers and artists to collaborate on experimental projects.
+
+These projects are meant to emphasize how Sony’s display technology, particularly its advancements in image sensors and projectors, can be stretched and morphed into hardware and software that goes far beyond a standard image on a flat screen. In this way, Sony is able to dabble in areas like augmented reality by using interactive holograms instead of requiring users to wear bulky glasses or helmets. It achieves this by using projectors and sensors that track motion and measure depth and pressure to let you interact with objects made entirely of light.
+
+Sony achieves AR using image sensors and projectors, not glasses or helmets
+
+One such example is a three-way augmented reality air hockey game Sony developed specifically for the Wow Factory this year. The game features a physical hockey puck and three physical paddles around custom circular table. But the table is also making use of two of Sony’s new IMX382 visual sensors, which can detect and track objects at 1,000 frames per second. One sensor sits above the table to track the puck, and another sits below to track players’ paddles. An overhead projector meanwhile overlays the game interface and virtual pucks onto the surface of the table.
+
+This sensor setup is similar to the one contained in Sony’s experimental projectors that it’s brought to SXSW in past exhibits. In those situations, Sony has turned tabletops into touchscreens and created interactive software that overlays onto physical props. For instance, Sony used a copy of Lewis Carroll’s Alice’s Adventures in Wonderland alongside a physical deck of playing cards and a teacup to bring to life the happenings described in the text. The company also built an architectural demo that could turn a standard block of wood into a top-down scale model of a home, with the light shining down onto the table to color and annotate the objects in real time.
+
+In the case of the AR air hockey game, Sony’s software allows the real hockey puck to interact with the virtual ones because the image sensors track both your hand and the paddle as you interact with the objects on the table. So you can hit the virtual pucks with your paddle as if they real, and the virtual ones even bounce off of the real puck and the sides of the table in realistic fashion.
+
+The game itself is a chaotic one in which all three players are simultaneously defending their own goal and going on the offensive against their opponents. All the while, a half-dozen hockey pucks — all but one of which are made out of light — fly around the table and collide in a nonstop frenzy.
+
+While it’s not ever going to be a commercial product, Sony has shown time and again that its display and sensor tech can achieve a novel form of AR. These demos show the extent to which sensor data and the right mix of hardware can create immersive experiences that don’t rely on blasting light in your eyes or plastering a screen on your face. AR is often thought of as something that will only truly arrive when it’s packed into a standard pair of eye glasses. And yet right now, the common conception of the technology is the selfie filters and other animations you get on Snapchat and other apps, as well as the clumsy mixing of real and virtual objects through a smartphone lens like with Niantic’s Pokémon Go.
+
+But Sony’s showcase here at SXSW illustrates how AR can be achieved through alternative means, if you’re wiling to expand how you think about the term and what it requires to realistic function.
+
+Sony has made it a point to come to SXSW, the annual Austin-based tech and culture meet-up, every year with a warehouse full of weird gadgets, demos, games, and other interactive experiences. This year was no different, as Sony opened the doors yesterday on the Wow Factory, its name for the wide-ranging exhibit that blends art and technology borne from its experimental, Japan-based Future Lab program. The experiences in the Wow Factory tend to center on Sony’s display tech, specifically its advances in projectors that ultimately seem to have manifested as a pricey consumer product called the Xperia Touch.
+
+But Sony hasn’t stopped pushing the limits of the tech. The core premise is that with a mix of smart sensors that perform depth detection and motion tracking with a high-quality light source, you can create the closest thing we have today to interactive holograms. The projectors create objects out of light that typically exist on a flat plane either in front of the projector or below on a tabletop. You can interact with these virtual objects using your hands because the projector’s software is able to recognize and track your movements. Effectively, Sony has figured out a way to make augmented reality without requiring you wear bulky goggles or goofy smart glasses.
+
+Going one step further, Sony has designed custom demos that make use of real-world objects. Sony returned to Austin this year with a collaborate music game that combines four of its projectors into a single cohesive system. With small 3D models of instruments, including a miniature saxophone and a piano, users can work together to play a series of songs by directing spotlights to each instrument. The small 3D-printed models are recognized by the software and come to life under the projectors’ light, while other sensors track your finger motions as you move the spotlight around the table.
+
+The demo is not at all practical, because it requires custom software and custom props. And no consumer would ever spend many thousands of dollars to outfit a table with four of Sony’s prototype projectors just to pull off silly games and tech proof-of-concepts like this. But it is a genuinely impressive demonstration, as each object placed under the projectors’ light and within range of the system’s sensors is brought to life in a way that looks and feels like the closest manifestation of software in the real world.
+
+it’s also a great example of how to take an alternative approach to AR. Something like this is both more accessible and can be experienced collectively, without requiring everybody wear a pair of smart glasses, a VR-style helmet, or even a compatible smartphone with the requisite software. Sony’s approach here is akin to a hologram — it exists physically as light in a 3D space that everyone can see and interact with.
+
+Sony has been working on this tech for a while. It’s mostly a marketing stunt to showcase its experimental hardware, but over the years, we’ve seen the full breadth of what this tech allows. We saw Lewis Carroll’s Alice’s Adventures in Wonderland jump off the page and interact with physical objects like a teacup and a deck of cards in 2016, and last year, Sony built an architectural demo to show the enterprise use cases of its projector tech, as a standard block of wood was transformed into a top-down scale model of a home.
+
+This year, Sony engineers took the lessons the company picked up with the Xperia Touch and its prior demos to develop a three-person virtual hockey game. The custom circular table is equipped with a standard projector with its new image IMX382 image sensors to track the puck and paddles, while the projector creates a virtual interface that reacts to your physical movements.
+
+We don’t know whether this tech will ever turn into a viable mainstream consumer product — the mini-projector Sony sells now capable of running these AR-style hologram demos costs about $1,700. And without a true reason to own one or develop applications for it, it’ll never take off in the way AR apps on iOS and Android can, thanks to software frameworks like Apple’s ARKit and Google’s ARCore. But if Sony does find a way to commercialize this tech, it could pave the way for a unique and novel way to create immersive, collaborate AR experiences that can be deployed using everyday objects and on something as ordinary as a kitchen table. That’s exciting, if it ever does leave the quirky demo phase it exists here in Austin.
+
+Sony has made it a point to come to SXSW, the annual Austin-based tech and culture meet-up, every year with a warehouse full of weird gadgets, demos, games, and other interactive experiences. This year was no different, as Sony opened the doors yesterday on the Wow Factory, its name for the wide-ranging exhibit that blends art and technology borne from its experimental, Japan-based Future Lab program. The experiences in the Wow Factory tend to center on Sony’s display tech, specifically its advances in projectors that ultimately seem to have manifested as a pricey consumer product called the Xperia Touch.
+
+But Sony hasn’t stopped pushing the limits of the tech. The core premise is that with a mix of smart sensors that perform depth detection and motion tracking with a high-quality light source, you can create the closest thing we have today to interactive holograms. The projectors create objects out of light that typically exist on a flat plane either in front of the projector or below on a tabletop. You can interact with these virtual objects using your hands because the projector’s software is able to recognize and track your movements. Effectively, Sony has figured out a way to make augmented reality without requiring you wear bulky goggles or goofy smart glasses.
+
+Going one step further, Sony has designed custom demos that make use of real-world objects. Sony returned to Austin this year with a collaborate music game that combines four of its projectors into a single cohesive system. With small 3D models of instruments, including a miniature saxophone and a piano, users can work together to play a series of songs by directing spotlights to each instrument. The small 3D-printed models are recognized by the software and come to life under the projectors’ light, while other sensors track your finger motions as you move the spotlight around the table.
+
+The demo is not at all practical, because it requires custom software and custom props. And no consumer would ever spend many thousands of dollars to outfit a table with four of Sony’s prototype projectors just to pull off silly games and tech proof-of-concepts like this. But it is a genuinely impressive demonstration, as each object placed under the projectors’ light and within range of the system’s sensors is brought to life in a way that looks and feels like the closest manifestation of software in the real world.
+
+it’s also a great example of how to take an alternative approach to AR. Something like this is both more accessible and can be experienced collectively, without requiring everybody wear a pair of smart glasses, a VR-style helmet, or even a compatible smartphone with the requisite software. Sony’s approach here is akin to a hologram — it exists physically as light in a 3D space that everyone can see and interact with.
+
+Sony has been working on this tech for a while. It’s mostly a marketing stunt to showcase its experimental hardware, but over the years, we’ve seen the full breadth of what this tech allows. We saw Lewis Carroll’s Alice’s Adventures in Wonderland jump off the page and interact with physical objects like a teacup and a deck of cards in 2016, and last year, Sony built an architectural demo to show the enterprise use cases of its projector tech, as a standard block of wood was transformed into a top-down scale model of a home.
+
+This year, Sony engineers took the lessons the company picked up with the Xperia Touch and its prior demos to develop a three-person virtual hockey game. The custom circular table is equipped with a standard projector with its new image IMX382 image sensors to track the puck and paddles, while the projector creates a virtual interface that reacts to your physical movements.
+
+We don’t know whether this tech will ever turn into a viable mainstream consumer product — the mini-projector Sony sells now capable of running these AR-style hologram demos costs about $1,700. And without a true reason to own one or develop applications for it, it’ll never take off in the way AR apps on iOS and Android can, thanks to software frameworks like Apple’s ARKit and Google’s ARCore. But if Sony does find a way to commercialize this tech, it could pave the way for a unique and novel way to create immersive, collaborate AR experiences that can be deployed using everyday objects and on something as ordinary as a kitchen table. That’s exciting, if it ever does leave the quirky demo phase it exists here in Austin.
+
+Every year at SXSW in Austin, TX, Sony shows off a bunch of experimental projects. This year, the company introduced its Superception Head Light system, which is basically a helmet with a Sony MP-CL1 projector sticking out the front and attached Sony MDR-XB950 headphones on the side. Someone at Sony just strapped a bunch of devices together and attached a HTC Vive tracker to the back so that wearers can move around the room while the projection follows their movements.
+
+Sony says the device is supposed to demonstrate how technology can affect human perception through our various senses. This demo attempts to teach wearers about how animals use their senses to get around the world — like how mosquitos use smell to find blood. The headphones played buzzing sounds while the projector attempted to show what the world would look like to a mosquito, with its smell alerts occasionally going off. It didn’t make much sense. Another demo showed the world through the eyes of a butterfly as the projector broadcasted a colorful, abstract mosaic onto the walls. I didn’t understand what I was supposed to take away from the experience, though I imagine it would have been more fun on drugs.
+
+However! I will say thank you to Sony because I love Frankenstein gadgets like this one, even if the ultimate use case isn’t clear. You can walk around your house and play Netflix everywhere you go? Sony’s projector helmet is ultimately a technology in search of a problem. But plenty of gadgets would benefit from being a little more weird.
+
+Every year at SXSW in Austin, TX, Sony shows off a bunch of experimental projects. This year, the company introduced its Superception Head Light system, which is basically a helmet with a Sony MP-CL1 projector sticking out the front and attached Sony MDR-XB950 headphones on the side. Someone at Sony just strapped a bunch of devices together and attached a HTC Vive tracker to the back so that wearers can move around the room while the projection follows their movements.
+
+Sony says the device is supposed to demonstrate how technology can affect human perception through our various senses. This demo attempts to teach wearers about how animals use their senses to get around the world — like how mosquitos use smell to find blood. The headphones played buzzing sounds while the projector attempted to show what the world would look like to a mosquito, with its smell alerts occasionally going off. It didn’t make much sense. Another demo showed the world through the eyes of a butterfly as the projector broadcasted a colorful, abstract mosaic onto the walls. I didn’t understand what I was supposed to take away from the experience, though I imagine it would have been more fun on drugs.
+
+However! I will say thank you to Sony because I love Frankenstein gadgets like this one, even if the ultimate use case isn’t clear. You can walk around your house and play Netflix everywhere you go? Sony’s projector helmet is ultimately a technology in search of a problem. But plenty of gadgets would benefit from being a little more weird.
+
+Ola, Uber’s key rival in India, has taken its first step overseas after its service officially went live in Australia via a launch in Sydney.
+
+The company announced its plans to go Down Under at the end of January and in Sydney, which is its first full launch, Ola said it has signed up over 7,000 registered drivers. Initially, passengers will be able to enjoy free rides for a limited time with plans introduce other “new initiatives” — read: promotions — in a bid to keep its service competitive once it begins charging.
+
+Uber was the first to launch ride-hailing services in Australia, and today it operates in over 20 cities across the country and New Zealand. Europe’s Taxify — which, like Ola, is backed by Chinese taxi app company Didi — moved into Australia via a Sydney launch in November. It has since expanded to Melbourne.
+
+“We are excited to officially start operating on the east coast with the launch in Sydney. We’ve been very pleased with how the service has been received by customers, driver-partners and the community in Perth, and can’t wait to continue building on these experiences and learnings for our second city launch,” Chandra Nath, VP and head of international for Ola, said in a statement.
+
+Ola’s first international foray comes at a particularly interesting time for ride-hailing services in Asia.
+
+Since it raised money from SoftBank, Uber has been linked with consolidation movements in Asia that would theoretically shore up its finances by exiting loss-making markets ahead of a mooted IPO next year. That has focused on India and Southeast Asia, where Ola and Grab, respectively, are also backed by SoftBank and provide tough competition.
+
+Uber CEO Dara Khosrowshahi seemed to pour cold water on those rumors when, as part of a recent Asia tour, he said the company is committed spending aggressively in growth markets in Asia. Despite that, multiple publications — including Bloomberg — have speculated that a deal that would see Grab consume Uber’s Southeast Asia business in exchange for equity is close to being sealed.
+
+There doesn’t appear to be an imminent deal in India. In fact, Ola itself is reported to be raising as much as $1 billion in fresh funding via an investment from Singapore sovereign fund Temasek. The company, which last raised $1.1 billion in November, declined to comment when we asked about the new funding.
+
+The ongoing saga between Sony and Microsoft’s cross-play battles has taken another twist today. Epic Games originally announced cross-play and cross-progression earlier this week between the PlayStation 4, PC, Mac, iOS, and eventually the Android versions of the game. While Microsoft’s Xbox One was missing from the list, the company revealed last night that it will support cross-play on Fortnite for Xbox and that it will be available in the future.
+
+Unfortunately, that cross-play won’t happen between PlayStation 4 and Xbox One players. Epic Games’ Nick Chester revealed on Twitter today that Xbox One players will only be able to play Fortnite with PC, Mac, and mobile players, and PS4 players will also be limited to play against PC, Mac, and mobile. It’s now clear that PS4 vs. Xbox One Fortnite cross-play will not be supported, despite there being no technical reason it can’t work. Epic Games briefly enabled the cross-play last year, and PS4 and Xbox One gamers were able to play against each other due to a “configuration issue.”
+
+Xbox One players can play with PC, Mac, and mobile.
+
+
+
+PlayStation 4 players can play with PC, Mac, and mobile. — Nick Chester (@nickchester) March 10, 2018
+
+Sony vs. Microsoft on cross-play
+
+Microsoft has publicly committed to cross-play, and has pushed Sony to allow PS4 players to play against Xbox One gamers. Still, it’s unlikely that Microsoft would be encouraging this type of cross-network play if it was still in a position of power and selling the most consoles in the US each month. Sony has previously refused to enable cross-play between PS4 and Xbox One for both Rocket League and Minecraft, despite Microsoft and Nintendo both supporting it across Xbox One, PC, and Switch. Sony’s excuse for blocking PlayStation and Xbox cross-platform play was hostile, blaming “exposing what in many cases are children to external influences we have no ability to manage or look after.”
+
+That excuse is no longer valid with Fortnite cross-play between PS4, PC, Mac, and mobile, but it’s not clear why Sony, Epic Games, or Microsoft isn’t supporting PS4 vs. Xbox One. It’s likely there’s a complicated set of reasons, ranging from Sony’s competitive advantage over Xbox One sales, to Microsoft’s console exclusive with Playerunknown’s Battlegrounds. Epic Games is dodging the question right now, and Sony and Microsoft aren’t being upfront about the reasons. It’s a sad state of affairs that mutual customers and friends can’t play a game they enjoy with each other because of corporate politics, but it looks like it’s just another day in the video game industry.
+
+The ongoing saga between Sony and Microsoft’s cross-play battles has taken another twist today. Epic Games originally announced cross-play and cross-progression earlier this week between the PlayStation 4, PC, Mac, iOS, and eventually the Android versions of the game. While Microsoft’s Xbox One was missing from the list, the company revealed last night that it will support cross-play on Fortnite for Xbox and that it will be available in the future.
+
+Unfortunately, that cross-play won’t happen between PlayStation 4 and Xbox One players. Epic Games’ Nick Chester revealed on Twitter today that Xbox One players will only be able to play Fortnite with PC, Mac, and mobile players, and PS4 players will also be limited to play against PC, Mac, and mobile. It’s now clear that PS4 vs. Xbox One Fortnite cross-play will not be supported, despite there being no technical reason it can’t work. Epic Games briefly enabled the cross-play last year, and PS4 and Xbox One gamers were able to play against each other due to a “configuration issue.”
+
+Xbox One players can play with PC, Mac, and mobile.
+
+
+
+PlayStation 4 players can play with PC, Mac, and mobile. — Nick Chester (@nickchester) March 10, 2018
+
+Sony vs. Microsoft on cross-play
+
+Microsoft has publicly committed to cross-play, and has pushed Sony to allow PS4 players to play against Xbox One gamers. Still, it’s unlikely that Microsoft would be encouraging this type of cross-network play if it was still in a position of power and selling the most consoles in the US each month. Sony has previously refused to enable cross-play between PS4 and Xbox One for both Rocket League and Minecraft, despite Microsoft and Nintendo both supporting it across Xbox One, PC, and Switch. Sony’s excuse for blocking PlayStation and Xbox cross-platform play was hostile, blaming “exposing what in many cases are children to external influences we have no ability to manage or look after.”
+
+That excuse is no longer valid with Fortnite cross-play between PS4, PC, Mac, and mobile, but it’s not clear why Sony, Epic Games, or Microsoft isn’t supporting PS4 vs. Xbox One. It’s likely there’s a complicated set of reasons, ranging from Sony’s competitive advantage over Xbox One sales, to Microsoft’s console exclusive with Playerunknown’s Battlegrounds. Epic Games is dodging the question right now, and Sony and Microsoft aren’t being upfront about the reasons. It’s a sad state of affairs that mutual customers and friends can’t play a game they enjoy with each other because of corporate politics, but it looks like it’s just another day in the video game industry.
+
+Sony Mobile
+
+If you need to tell a digital device what to do but can't use a keyboard, voice is the first option that springs to mind. You can use it for phones, digital assistants and smart speakers.
+
+But some devices are getting digital eyes in addition to digital ears. That's the vision, so to speak, of Israeli startup EyeSight Technologies. EyeSight has mostly dropped its previous efforts to build its gesture-recognition tech into phones, TVs and PCs. But it's got a new angle on the market: connected devices in homes and cars.
+
+On Monday, Sony and EyeSight plan to announce that the Japanese electronics maker has built the vision technology into an interactive portable projector called the Xperia Touch. The device already can project an image onto a wall or other surface and then use infrared light sensors to see how you're interacting with the image on that surface -- slicing up fruit in Fruit Ninja or playing a virtual piano keyboard, for example.
+
+EyeSight's upgrade will now let you control the content from a distance, without touching the projected image's surface. Think Tom Cruise in "Minority Report."
+
+Now Playing: Watch this: Sony Xperia Projector beams a touchscreen on any surface
+
+You may already be familiar with gesture tech in video game controller software like Microsoft's Kinect, but the technology has yet to widely reach other computing devices. The addition of gesture control in the Xperia Touch shows that the tech industry is still hard at work trying to find a better, more natural way for us to interact with our devices. Keyboards and mice show no signs of disappearing, but they can't work in every situation.
+
+Cars, too
+
+EyeSight is particularly fired up about its gesture-detection interface for use in our increasingly tech-laden cars. Hand positions and movement can be easier than a textureless touch screen a driver has to look at to use, EyeSight Chief Executive Gideon Shmuel said.
+
+"With your finger, you can do a small circle motion to the right or left to turn volume up and down," he said. You could flash one finger to call home, two fingers to call your office or hold your palm flat to answer an incoming call.
+
+EyeSight Technologies
+
+EyeSight is working with LG Electronics, which supplies some car computing technology, to build gesture recognition into vehicles. And once you have brainy cameras watching the driver, there are other things you can do, too -- like watch for drooping eyelids and fast blink rates that indicate a dangerously sleepy driver.
+
+"Driver monitoring we'll see in aftermarket products later this year," Shmuel said. But for it to be built directly into the car, we'll have to wait until 2019 or 2020, he said.
+
+But it's in the Xperia Touch today. EyeSight obviously likes gestural interface technology, but Shmuel says it also can work well in conjunction with voice controls, too. That's how Sony sees it.
+
+Combines with voice control
+
+"We aim to offer our customers the most intelligent and advanced user experiences, and with the synergy between our touch and voice-based interaction and EyeSight's touch-free gestures, we're able to fulfill that promise," said Hiroshi Ito, deputy head of Sony Mobile's Smart Product Business Group.
+
+Just how successful the idea will be isn't clear yet. It didn't catch on TVs or PCs, even though manufacturers are desperate for a way to get their products to stand out from the pack.
+
+Shmuel, though, said the new strategy is working.
+
+"There is such a strong pull from automotive space," and there's strong interested from connected digital devices in the home. "Between those two markets, we are flooded," he said.
+
+The Smartest Stuff: Innovators are thinking up new ways to make you, and the things around you, smarter.
+
+Blockchain Decoded: CNET looks at the tech powering bitcoin -- and soon, too, a myriad of services that will change your life.

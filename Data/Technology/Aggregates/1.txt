@@ -1,0 +1,142 @@
+
+One of the biggest running jokes in tech is the ‘we want to change the world for the better’ trope coming from Silicon Valley companies. With Facebook changing its entire mission statement to be about changing the world for the better, it seems like an ideal time to question whether a tech company can truly be the servant of two masters: the good of society and its bottom line.
+
+It seems like companies are either big, and very financially successful with bolted-on ethical practices, or focussed on improving the world but will never make serious money.
+
+One company that is bucking that trend is What3Words (iOS, Android), a free location app that has given addresses to the world by dividing it into three meter square units, allocating a three word combination to each, giving you easy to remember, incredibly accurate location information.
+
+Smart and simple
+
+As simple an idea as this seems, it turns out it’s been quite revolutionary for people in the developing world that don’t have a post code, or even an address. But it looks like the benefits reach far beyond humanitarian efforts.
+
+We sat down with What3Words CMO Giles Rhys Jones at an event hosted by Tech4Good to talk about where the idea came from, how it makes its money and what’s next.
+
+The original idea came – as many great ideas do – out of necessity. What3Words founder Chris Sheldrick was a musician and music events organiser who often struggled with corralling musicians, roadies and crew because of poor addressing.
+
+“Chris decided that he would use GPS coordinates because GPS coordinates are accurate, what could go wrong?” Giles said. “But it became apparent very quickly that roadies, guitarists and caterers are not best programmed to remember 18 digits.
+
+“And the problem with GPS coordinates is if if you make a slight mistake you don't necessarily realize you've made a mistake. You mix up a four and a five, and still you end up on a hillside in Rome, just on the wrong hillside.”
+
+They experimented with using an alphanumeric code to shorten it down, but found that brought more problems, as if you mix numbers and letters, a ‘1’ could as easily be a ‘7’, or even an ‘l’. It was back to the drawing board.
+
+“There was a dictionary on the table, and they thought: ‘How many words would we need [if we were just using words]?’ They worked out that three meters by three meters was the right size to be useful, and there were 57 trillion of those three meter squares in the world. To cover all of them you need 40,000 words, as 40,000 cubed is 64 trillion, which gives you enough to cover the entire world.”
+
+Far more than just a faster pizza delivery
+
+The fact that it covers the entire world has been revolutionary, especially for those in countries that don't have an advanced addressing system, if they have one at all.
+
+During the conference, Giles spoke about a program that What3Words is involved with in Durban, South Africa. A ticket machine is planted in the centre of a rural village, which people can use to print off a three-word ticket for the location where they live. They can then give that address to emergency services, potentially saving lives in situations where every minute counts.
+
+All of this is completely free, as is the app itself, which is amazing, but doesn’t sound great for profit margins. It begs the question: can a company both do good and make money?
+
+“Yes, and it should. There's a variety of different studies out there that say that businesses with purpose perform better than those without. I think that certainly at this particular point in in history, people gravitate towards companies that they have shared interests, shared belief, that they share a philosophy with.”
+
+Which makes sense, but the basic (and we know this is very basic) principle of capitalist economics is that value is driven by supply and demand. When you have a product that people need, you get to charge more for it.
+
+Obviously, when you get a product that makes a difference to people’s lives, and you charge a lot for it, you end up as Martin Shkreli. But you give it away free, and where does your profit come from?
+
+“If you’re a large business and you can make or save a lot of money using us we charge you a fee based on volume. We ran some tests in London and Dubai and in Manchester. In London we gave two couriers 20 party parcels each, one with the three word addresses on, one with the same street addresses on, and we tracked them with GPS monitors and heart rate monitors.
+
+“The one with three-word addresses was 30% faster. In Dubai it was 40% faster. For a business that's a significant amount of money. UPS said that if they can save each of their drivers one mile a day that equates to a saving of 50 million dollars."
+
+Using tech to leapfrog
+
+One of the truly fascinating things that's happening with What3Words that it never expected is that developing countries have been able to skip vast chunks of technological developmental history thanks to having the ability to locate yourself using the app:
+
+"In Mongolia you can get a pizza, you can get a taxi, you can open a bank account all with a three-word address. They’ve leapfrogged all the legacy systems that we have here in the Western developed countries, and they’re into the future already."
+
+It's clear that What3Words is successfully making good money while doing good. Obviously its business model can't be utilized by all businesses, but it's good to see an example of it in action.
+
+CLOSE American figure skater Adam Rippon was inspired by fellow skater Ashley Wagner to share his story. USA TODAY Sports
+
+Sally Field for the win.
+
+Because of the actress' masterful mom meddling, her son, filmmaker Sam Greisman, got to meet his crush, Adam Rippon.
+
+Strong contender for mom of the year, Sally Field, with her son, Sam Greisman. (Photo: KEVIN MAZUR/GETTY IMAGES FOR TONY AWARDS)
+
+Greisman shared with his 26,000-plus Twitter followers that he and the Olympic skater had crossed paths. And he knew exactly who deserved credit for the meeting.
+
+"Thanks, mom," Greisman tweeted Saturday night, along with a photo of the two gents embracing.
+
+Back in February, Greisman shared a screenshot of a conversation with his mother that he described as "some really helpful advice from my mom on how to deal with my Olympic crush." Though Greisman didn't identify the object of his affection, Field, who was clearly shipping the twosome, alerted Rippon to their convo by mentioning him on Twitter.
+
+Just some really helpful advice from my mom on how to deal with my Olympic crush. pic.twitter.com/shYCXwNOMf — sam greisman (@SAMGREIS) February 17, 2018
+
+Rippon predicted the two would eventually meet in an interview with BuzzFeed in February. "Sam, your mom — I admire her. And I’m sure one day we’re going to meet. So thanks, mom."
+
+More: LGBTQ group honors Olympic figure skater Adam Rippon
+
+Oscars 2018: 9 fabulously over-the-top red carpet looks
+
+Related: The five best Oscar acceptance speeches of all time
+
+Read or Share this story: https://usat.ly/2tA97PU
+
+How to watch Wales v Italy Today's game kicks off at 3pm, with live coverage on BBC One from 2.30pm, with viewers on the BBC Sport app and connected TVs also able to tune in, as well as visitors to the BBC website.
+
+This weekend's 6 Nations rugby wraps up today as Wales take on Italy.
+
+The hosts return to Cardiff after a chastening 37-27 loss to Ireland last time out that may well have put paid to their hopes of winning the tournament overall.
+
+Warren Gatland has rung the changes from that side, making ten alterations to his starting line-up as Wales look to put in a strong performance in front of what will no doubt be an enthusiastic home crowd.
+
+Among the changes are debuts for flanker James Davies and Elliot Dee, alongside returns for Taulupe Faletau, George North and Gareth Anscombe.
+
+Italy are looking to avoid yet another 6 Nations defeat, and look to keep much of the same team as Conor O'Shea looks for consistency, although Tommaso Boni misses out with injury.
+
+If you've not managed to get tickets for the big game, and can't get to a TV, here is TechRadar's guide to watching all the 6 Nations rugby action online, wherever you are in the world.
+
+(Image: © 6nations.com)
+
+1. How to watch Wales v Italy 6 Nations rugby online
+
+This is the best way to watch Wales v Italy 6 nations online - from absolutely anywhere in the world - without any commercial breaks:
+
+1. Download and install a VPN
+
+If you don't have easy access (and you don't live in the UK) to watch the 6 nations rugby online in your country, the best way to watch it for free is to download and install a VPN . We've tested all of the major VPN services and we rate ExpressVPN as the absolute best. It's compatible with all of your devices, supports most streaming services and ranks amongst the fastest. You can even install it on devices like an Amazon Fire TV Stick, Apple TV, Xbox and PlayStation. So for a one-stop shop, you can't go wrong with Express - but there are more fantastic VPN options out there as well:
+
+2. Connect to the appropriate server location
+
+Simply open the VPN app, hit 'choose location' and select the appropriate location - it doesn't matter which one and it's super easy to do. Choose UK if you want to watch it on TVPlayer (use the link below)
+
+3. Go to TVPlayer.com
+
+TVPlayer is a free, legal, online streaming service based in the UK which offers hundreds of channels - and you don't even need to sign in to watch without commercial breaks. You will need to do a fair bit of channel hopping though and a lot of the events won't be available on free channels. Continue scrolling if you want to experience a fuller and richer version of the 6 nations.
+
+Where can I watch the 6 nations rugby using a VPN? A VPN will enable you to watch the 6 nations rugby from literally anywhere. So that obviously includes: US, UK, Israel, Belgium, Canada, Germany, Denmark, India, Netherlands, Spain, Brazil, Belgium, Romania, Mexico, France, Sweden, Italy, Portugal, Czech Republic, Ireland, Poland, Kenya, Hungary, South Africa, Indonesia, China, Nigeria, Bangladesh, Russia, Japan, Egypt and more!
+
+(Image: © 6 nations rugby)
+
+2. How to watch the Wales v Italy 6 Nations rugby in the UK in its entirety:
+
+If you’re in the UK and if you have a TV licence, then BBC iPlayer is where you should go for the 6 nations as the official broadcaster for the tournament; you may be asked to register for free in order to watch it though but it is a doddle and once you do it, you can enjoy it almost anywhere: on your mobile, your media player, tablet, your web browser, streaming device, gaming console, TV, cable and satellite operators etc.
+
+3. How to watch Wales v Italy 6 nations rugby in the US in its entirety:
+
+As mentioned above, if you're not based in the UK and want to watch the 6 nations rugby live, you won't be able to access live coverage. In the US, NBC’s Sports Gold subscription streaming service will be showing all of 2018' 6 nations tournament live. The channel's Rugby Pass costs $59.99, but also includes a whole heap of other rugby action, including Premiership Rugby and the 7s World Cup.
+
+Photos courtesy of SixNationsRugby.com
+
+Apple is giving the logo for its MFi program a refresh, offering manufacturers 90 days three new designs to work with, reports ChargerLab.
+
+Launched in 2005, the MFi Program is a licensing scheme for third-party manufacturers to ensure that their accessories are compatible with Apple’s various products. Companies have to go through testing to adhere to Apple’s standards, and can use a logo to advertise that their products can work with iPods, iPhones, and iPads.
+
+Apple is changing up that single logo for a trio of new ones. The new design ditches the tiny iPod, iPhone, and iPad illustrations in favor of the Apple logo, and introduces three specific logos: one for the iPhone, one for the iPhone and iPad, and one for each of the three devices. Manufacturers have 90 days to update their product designs to include the new logo.
+
+Apple is giving the logo for its MFi program a refresh, offering manufacturers 90 days three new designs to work with, reports ChargerLab.
+
+Launched in 2005, the MFi Program is a licensing scheme for third-party manufacturers to ensure that their accessories are compatible with Apple’s various products. Companies have to go through testing to adhere to Apple’s standards, and can use a logo to advertise that their products can work with iPods, iPhones, and iPads.
+
+Apple is changing up that single logo for a trio of new ones. The new design ditches the tiny iPod, iPhone, and iPad illustrations in favor of the Apple logo, and introduces three specific logos: one for the iPhone, one for the iPhone and iPad, and one for each of the three devices. Manufacturers have 90 days to update their product designs to include the new logo.
+
+Another Game Boy case for your phone has popped up on the market, this time from Wanle Cases. The slim case, which snaps onto the back of an iPhone 6, 6S, 6 Plus, 7, 7 Plus, 8, 8 Plus, or X, comes loaded with 10 games and has the familiar Game Boy controls layout.
+
+Wanle’s case taps into a certain nostalgia, built with an old-school screen and pre-loaded with retro titles like Tetris, Tank, Formula One Racing, and Snake and Block. It’s unclear from the company’s website if you’re limited to the games that come with the case, but hey, 10 games should be enough to waste away some time. This is markedly different from the Smart Boy phone “case” that made the rounds in 2015, which was really more of a dock you had to place your phone into.
+
+What’s attractive about Wanle’s design is that it’s unobtrusive. Not only does it not interfere with using your phone as normal, but it’s also made with full port access for your phone’s buttons, microphone, speaker, headphone jack, dock, and flash. It’s worth noting that several reviews on Wanle’s site note minor issues, like the quality of the materials used, and the buttons sometimes not working as they should. Overall, though, it seems it does work as intended and people do note they love using it even with these tiny gripes.
+
+To use the case, just slide a small battery into the inside corner, snap it on as you would any other sort of regular phone case, and it’s immediately good to go. Wanle touts that the plastic and slightly raised buttons make it practical as well, protecting your phone against inevitable falls and bumps. As nifty as it is to have a case that actually does something fun, it also makes me anxious about the possibility of having double the number of screens to potentially crack and scratch.
+
+The case is available right now in both black and white options for a discounted price of $24.95. The company’s website says the regular retail price is $79.95.

@@ -1,0 +1,55 @@
+http://www.drudgereport.com/
+Tim Berners-Lee: we must regulate tech firms to prevent 'weaponised' web
+The inventor of the world wide web warns over concentration of power among a few companies ‘controlling which ideas are shared’
+
+Sir Tim Berners-Lee, inventor of the world wide web, has called for large technology firms to be regulated to prevent the web from being “weaponised at scale”.
+
+“In recent years, we’ve seen conspiracy theories trend on social media platforms, fake Twitter and Facebook accounts stoke social tensions, external actors interfere in elections, and criminals steal troves of personal data,” Berners-Lee wrote in an open letter marking the 29th anniversary of his invention.
+
+These problems have proliferated because of the concentration of power in the hands of a few platforms – including Facebook, Google, and Twitter – which “control which ideas and opinions are seen and shared”.
+
+“What was once a rich selection of blogs and websites has been compressed under the powerful weight of a few dominant platforms,” said the 62-year-old British computer scientist.
+
+These online gatekeepers can lock in their power by acquiring smaller rivals, buying up new innovations and hiring the industry’s top talent, making it harder for others to compete, he said.
+
+Google now accounts for about 87% of online searches worldwide. Facebook has more than 2.2 billion monthly active users – more than 20 times more than MySpace at its peak. Together, the two companies (including their subsidiaries Instagram and YouTube) slurp up more than 60% of digital advertising spend worldwide.
+
+Although the companies are aware of the problems and have made efforts to fix them – developing systems to tackle fake news, bots and influence operations – they have been built to “maximise profit more than maximise social good”.
+
+Tim Berners-Lee on the future of the web: 'The system is failing' Read more
+
+“A legal or regulatory framework that accounts for social objectives may help ease those tensions,” he said.
+
+Aligning the incentives of the technology sector with those of users and society at large, he argued, will require consulting a diverse group of people from business, government, civil society, academia and the arts.
+
+Berners-Lee warned of “two myths” that “limit our collective imagination” when looking for solutions to the problems facing the web: “The myth that advertising is the only possible business model for online companies, and the myth that it’s too late to change the way platforms operate. On both points we need to be a little more creative,” he said.
+
+“I want the web to reflect our hopes and fulfil our dreams, rather than magnify our fears and deepen our divisions,” he said.
+
+The open letter coincides with a significant milestone: 2018 is the first year that more than half of the world’s population will be online.
+
+This still leaves a gaping “digital divide” that exacerbates existing inequalities: you are more likely to be offline if you are female, poor, or live in a rural area or a low-income country.
+
+“To be offline today is to be excluded from opportunities to learn and earn, to access valuable services, and to participate in democratic debate,” Berners-Lee said. “If we do not invest seriously in closing this gap, the last billion will not be connected until 2042. That’s an entire generation left behind.”
+
+Two years ago, the UN declared internet access to be a basic human right on par with clean water, shelter, food and electricity. However, in many places, getting online is prohibitively expensive – the cost of 1GB of mobile broadband in Malawi is more than 20% of the average monthly income. In Zimbabwe, it is nearly 45%.
+
+The open letter comes a year after Berners-Lee called for tighter regulation of online political advertising, which he said was being used in “unethical ways”.
+
+Since then, representatives from Facebook, Twitter and Google have been hauled in front of Congress to answer questions over the extent to which their platforms were used in a multi-pronged Russian operation to influence the 2016 presidential election.
+
+
+
+All three admitted that Russian entities bought ads on their sites in an attempt to skew the vote. Russians posed as Americans to buy ads on Facebook pushing divisive messages focusing on swing states. They also spent tens of thousands of dollars on ads to spread disinformation across YouTube and Google. On Twitter, swarms of bots helped promote fake news stories.
+
+
+
+All three companies have since announced measures to improve transparency over who is buying political ads on their platforms and what messages they are promoting.
+
+
+
+Berners-Lee has always maintained that his creation was a reflection of humanity – the good, the bad and the ugly. However, his vision to create an “open platform that allows anyone to share information, access opportunities and collaborate across geographical boundaries” has been challenged as the web has become more centralised.
+
+
+
+“I’m still an optimist, but an optimist standing at the top of the hill with a nasty storm blowing in my face, hanging on to a fence,” he told the Guardian in November. “We have to grit our teeth and hang on to the fence and not take it for granted that the web will lead us to wonderful things.”

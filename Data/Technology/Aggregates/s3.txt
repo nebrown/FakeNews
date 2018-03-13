@@ -1,0 +1,36 @@
+Keywords: 0.360*"s9" + 0.301*"musk" + -0.265*"sony" + 0.245*"galaxy" + 0.187*"samsung" + 0.184*"mars" + -0.138*"xbox" + 0.110*"camera" + -0.107*"objects" + -0.106*"projector"
+
+0, 322, 381.799027339: By default, the selfie camera applies a lot of image smoothing and other effects to try to beautify the photo, but they just make it look out of focus and unattractive to me.
+
+1, 262, 381.716714591: The screens are also slightly brighter this year, which is always appreciated on sunny days
+
+2, 302, 380.928800821: Chances are, if you weren’t a fan of Samsung’s image processing before, you still won’t like it now.
+
+3, 163, 380.343797103: It also has a 240fps option at 1080P that you set manually
+
+4, 91, 379.681569576: We'll have our reviews posted before that latter date and they'll have definitive answers on how the new Samsungs stack up
+
+5, 198, 379.669865072: But for everybody else waiting to see how those key "TBD" items compare -- battery life, speed and the camera, just to name a few -- hang on until our full reviews hit
+
+6, 396, 379.654449791: From parking sensors, to traffic camera warnings to collision alert and more, there is an awful lot of things that go beep here.
+
+7, 314, 379.531233191: Further, the amount of aperture control provided isn’t enough for advanced photography techniques, such as long-exposure shots during the day, so you still have to rely on add-on accessories for those.
+
+8, 257, 379.160317063: My complaint with the design is the same as any other glass-backed phone: it can be slippery to hold, is a horrible fingerprint magnet, and is less durable than a metal back would be.
+
+9, 193, 379.04162544: Sometimes the size of the battery doesn't determine the usage time, so again we'll have to wait for the results from our tests to determine a winner.
+
+10, 188, 378.203484118: Similar tests by Anandtech on the new Exynos chip were decidedly less encouraging, but the site noted that it was unclear if its test device was representative of the final shipping product.
+
+11, 245, 377.885424703: They will be the most popular Android smartphones released this year, without a doubt.
+
+12, 169, 377.830158859: You can check a few of the S9's shots for yourself in our gallery.
+
+13, 287, 377.704916343: Performance, at least during my review, has been great: the phone is snappy and responsive, with smooth scrolling and fast app launches
+
+14, 282, 377.612195686: The new stereo speakers are more successful: they are louder, clearer, and more enjoyable to listen to than the S8’s single speaker
+
+Summary:
+By default, the selfie camera applies a lot of image smoothing and other effects to try to beautify the photo, but they just make it look out of focus and unattractive to me.
+But for everybody else waiting to see how those key "TBD" items compare -- battery life, speed and the camera, just to name a few -- hang on until our full reviews hit
+Performance, at least during my review, has been great the phone is snappy and responsive, with smooth scrolling and fast app launches

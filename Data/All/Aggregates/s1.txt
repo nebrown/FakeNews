@@ -1,0 +1,36 @@
+Keywords: -0.366*"republicans" + -0.319*"democrats" + -0.231*"say" + -0.136*"views" + -0.128*"among" + -0.126*"–" + -0.110*"leaners" + 0.104*"i" + 0.102*"her" + -0.099*"partisan"
+
+0, 593, 639.696803018: When Christian was born, he was unable to eat due to the large gaps on his face where the cleft palate was and has used a feeding tube since he was four days old.
+
+1, 375, 639.616639242: Assertive but earthy colors such as moss, ochre and chestnut highlight soothing upholstery in plush, touchable velvet, suede and chenille
+
+2, 486, 638.856218211: Small, portable toolboxes were excluded, as were professional-type toolboxes sold by companies such as Snap-On Inc, which market directly to buyers.
+
+3, 71, 638.799346603: The post-judgement proceedings have been put on hold following the nun's death.
+
+4, 517, 638.545268163: They both want a loan from the same local bank, and both want to put down a similar, standard down payment
+
+5, 475, 638.505996801: Metal Box International had a strong business in tool chests as recently as 2014, when among other models it sold a design to Home Depot with glass on the fronts of the drawers - which made it easier to see which tools were in each compartment
+
+6, 362, 637.647884369: The Hotel Figueroa is nearly finished with the two-year, top-to-bottom, inside-and-out renovation that has transformed it from a dowdy lodging appealing to budget travelers into a stylish trendsetter for creative sophisticates.
+
+7, 219, 637.427181043: In addition to patients who freeze eggs and embryos while trying to become pregnant, a rapidly growing number of American women are choosing to freeze their eggs as a hedge against later infertility.
+
+8, 208, 636.583775058: In each cycle, a patient’s ovaries are stimulated with drugs to produce multiple eggs, which are then harvested by doctors and frozen.
+
+9, 502, 636.334645405: And even those who do know, like the director of operations Tom St
+
+10, 197, 636.127917916: Herbert said the extent of the damage is not yet clear
+
+11, 156, 636.081753552: But a handful of little-known "Social Security secrets" could help ensure a boost in your retirement income
+
+12, 238, 636.04617627: official determined that they stood a decent chance of being granted asylum — and, within days, were forcibly separated by immigration agents
+
+13, 373, 636.031106837: Man caves and boudoirs have their place, but a blend of both welcomes all
+
+14, 212, 635.889895231: In 1982, he helped develop one of the nation’s earliest reproductive technology programs at Vanderbilt University Medical Center
+
+Summary:
+When Christian was born, he was unable to eat due to the large gaps on his face where the cleft palate was and has used a feeding tube since he was four days old.
+But a handful of little-known "Social Security secrets" could help ensure a boost in your retirement income
+official determined that they stood a decent chance of being granted asylum — and, within days, were forcibly separated by immigration agents

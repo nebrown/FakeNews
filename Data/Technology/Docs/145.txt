@@ -1,0 +1,54 @@
+https://www.technewsworld.com/
+Microsoft Gives Devs More Open Source Quantum Computing Goodies
+
+
+ALL EC Ecommerce Exchange
+
+Looking for ecommerce software or service providers for your online business? Search and compare vendors by specialty and location. Choose the best solutions to help your business grow and succeed.
+
+Put ALL EC to work for you today!
+
+Microsoft this week announced the first major upgrade to its Quantum Development Kit since its introduction last year. It has added several new features designed to open the platform to a wider array of developers, including support for Linux and macOS, as well as additional open source libraries.
+
+Further, the kit will be interoperable with the Python computing language.
+
+Microsoft announced the Quantum Development Kit at its Ignite conference last fall. It launched the free preview about three months later, featuring the new Q# programming language, deep integration with Visual Studio, and a quantum simulator, noted Jeff Henshaw, group program manager for quantum software at Microsoft, in an online post.
+
+Python Interoperability
+
+Developers have been clamoring for the kit to be made available for Linux and macOS, according to Microsoft.
+
+"Specifically, QDK support for Mac and Linux-based development has been our No. 1 requested feature from developers," said Scott Friedman, a spokesperson for Microsoft.
+
+"Open sourcing our libraries enables developers to reuse the code in their own applications and contribute their own enhancements back to the libraries," he told LinuxInsider.
+
+Supporting interoperability for Python allows developers to access their existing libraries from Q# without having to port it, Friedman pointed out. "These updates support Microsoft's ambition to enable a scalable quantum solution for the broadest set of customers -- eventually realizing our goal of delivering Quantum as a Service on Azure."
+
+Developer Demand
+
+There have been tens of thousands of downloads of the kit since its introduction, Microsoft said, with users ranging from students and professors to researchers, algorithm designers and those new to quantum computing.
+
+"This is all about making it easier for the developer ecosystem to embrace quantum computing," said Ashish Nadkarni, programming vice president for computing platforms at IDC.
+
+To a large extent, quantum computing requires the use of code, he told LinuxInsider, and developers increasingly have been using Linux and Python to write pieces of code. Many have been using macOS as their platform for virtual machines.
+
+Rival Systems
+
+The most significant change from Microsoft may be the increase in speed of its quantum simulator, said Paul Teich, principal analyst at Tirias Research.
+
+Its performance is now four to five times faster, he told LinuxInsider, which permits a much faster testing and optimization loop, particularly on simulations involving 20 or more qubits.
+
+"That's aimed directly at IBM's simulator," Teich said.
+
+IBM last fall announced two major upgrades to its IBM-Q commercial systems, including a 20-qubit system available to clients and a prototype 50-qubit system that will become available with the next-generation IBM-Q systems.
+
+IBM rolled out its open source QISKit earlier last year, making quantum computers available to run programs on hardware or online quantum simulators.
+
+An important piece of Microsoft's quantum computing strategy was its agreement last fall to offer dedicated Cray supercomputers on Azure data centers, Teich noted, giving customers the ability to run artificial intelligence, advanced analytics and simulations.
+
+In releated news, Alibaba Cloud, the computing unit of Alibaba Group, on Thursday unveiled a new project with the Chinese Academy of Science, called the "Quantum Computing Cloud Platform." It features an 11-qubit processor, making it one of the most powerful public quantum computing services in the world.
+
+Alibaba and CAS launched the first quantum computing lab in Asia in 2015, and by last spring had developed the world's first photon quantum computer.
+
+David Jones is a freelance writer based in Essex County, New Jersey. He has written for Reuters, Bloomberg, Crain's New York Business and The New York Times.
+

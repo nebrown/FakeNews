@@ -1,0 +1,49 @@
+https://www.theverge.com/tech
+What an ‘infinite’ AI-generated podcast can tell us about the future of entertainment
+Sheldon County is a podcast that will never sound the same twice. Every time someone listens to it, they’ll begin by typing a random number into a website. This “seed” will set in motion a Rube Goldberg machine of calculation that will create characters, relationships, jealousies, betrayals, and maybe even a murder or two. These plot points will be turned into a text narrative, read aloud by a voice synthesizer, and then zipped up into an audio file. Each time it will be a unique version of Sheldon County’s story. A podcast made just for you.
+
+That’s the dream anyway — the current execution still needs work. So far, only a few episodes of this procedurally generated podcast exist (you can listen to two below), and its creator, PhD student James Ryan, is still working on a website. He says the back-end software is mostly finished, but a few finishing touches are needed, like creating a program to automatically add the music to each episode. “Right now I’m proving the concept,” he tells The Verge. “And then I’ve got a dissertation to start.”
+
+In other words, it might be a while.
+
+But what’s been created so far is impressive, and feels like a little preview of the future. One where entertainment content is not just ubiquitous (god knows the world has enough podcasts) but also unique. As a way of making fun things for humans, procedurally generated content is not new, but it has become more complex in recent years. See, for example, video games with generative elements like No Man’s Sky, which created unique planets for each player to explore; and Middle-earth: Shadow of War, which made enemies with elaborate histories that fascinated players as much as the game’s story.
+
+Sheldon County seems basic by comparison, but that’s only because its output is audio. The actual mechanisms that create the characters and their interactions are much more complex. “It’s very much research, pushing the boundaries of technology,” Mark Riedl, an associate professor at Georgia Tech’s Entertainment Intelligence Lab, tells The Verge.
+
+For Ryan, Sheldon County is the latest step in a life-long quest to build computers that generate fictional worlds. He’s a linguist turned programmer, whose work with the Expressive Intelligence Studio at the University of California, Santa Cruz is dedicated to finding new ways to use machines expressively.
+
+“When I learned to code, one of the first programs I ever made was a name generator,” he says. “It would pick two names from a list of thousands and combine them together. And to me, just creating this name felt like creating a whole character. A tiny abstract person.”
+
+From this simple start, Ryan made ever more complex world-generators. Sheldon County itself is built on a program of his called Hennepin, which creates characters, their social networks, and the world they live in. Ryan compares Hennepin to “the biggest Excel spreadsheet in the world,” with endless rows of cells that correspond to characters, traits, relationships, professions, and so on.
+
+‘Sheldon County’ is created by “the biggest spreadsheet in the world”
+
+There’s no visualization or textual output — just data. But when a user enters their random number seed, this spreadsheet is populated anew, creating a unique world. The program then models how these data points interact by simulating a daily cycle in which each character has a chance to perform an action. The actions are in turn dictated by an individual’s traits and relationships. “A character cannot take the action to ‘ridicule’ another character unless they have the trait ‘cool’ and their target is someone they don’t like,” says Ryan.
+
+Combine enough of these data points and you soon end up with something very complex, says Ryan, and it helps that the program doesn’t just simulate each version of Sheldon County for days or weeks. It simulates centuries. “This produces a huge, huge amount of action, and from this, we can take the most interesting sequences,” says Ryan.
+
+He gives the example of an early project which used similar software to simulate social life in a small town. “In that game, we were always finding ridiculously emergent storylines,” he says. “In one version, there was this 17-year-old guy whose mom had the favorite diner in town, but then he decides to start his own diner that becomes more popular than hers! I’d coded in how business rivalries might work, but I’d never expected it to become a family affair.”
+
+You can imagine that plot making a good episode of This American Life.
+
+In many ways, this type of procedural generation is nothing new. It goes back to the 1980s and earlier, says Riedl, where similar techniques were used to generate maps for video games. “It was initially because computers at the time didn’t have much storage, so you couldn’t ship gigantic games,” he explains. “That meant it was incumbent on early titles, like Rogue, NetHack, and so on, to generate mazes on CPUs using some very fast and cheap algorithms.”
+
+The usefulness of these algorithms receded as storage became cheaper, but the procedural approach to generating content has become mainstream again as excitement about artificial intelligence has boomed.
+
+What’s interesting, though, is that modern AI techniques like deep neural networks aren’t actually that well-suited for projects like Sheldon County. Ryan says he mainly uses what’s sometimes called symbolic AI or, pejoratively, “good old-fashioned AI.” This approach is less about mining data to look for patterns, as with deep learning, and more about creating sets of rules and logical instructions that guide a process.
+
+There are some simple reasons modern AI don’t work for tasks like this, says Riedl. It’s partly that techniques like deep learning still aren’t good at generating coherent text (even the most advanced chatbots today rely on preprogrammed phrases). And also because older techniques give programmers more control over the output.
+
+Even with these limitations, there’s still lots you can do of course. “One of the most interesting recent examples was MIT’s horror story generator, which was interactive,” says Riedl. “So you would write a line, then it writes a line; you write a line, it writes a line. Really, it becomes this kind of creative writing prompting exercise, which allows you to interpret what the program produces.”
+
+Using AI creatively means creating new types of entertainment
+
+Riedl’s own work explores how modern AI techniques can take on the challenges of storytelling. “I would like to be the person that solves some of these questions of making story generation work better for longer stories,” he says. But, he suggests that in the near future, AI won’t really be able to generate new content for us, whether it’s TV shows or podcasts. Instead, it’ll be a creator’s job to make new types of entertainment.
+
+Alex Champandard, an AI programmer and co-founder of the startup Creative.AI, has a similar take. He says fully automated entertainment is not the way forward and notes that many creative projects people claim to be the product of AI rely on substantial human insight and oversight. “There is no machine that has been creative on its own. It’s ultimately because of the human input,” Champandard tells The Verge.
+
+He suggests Ryan’s project is interesting not necessarily because of the narratives it creates, but because it questions our idea of what a podcast is and what makes one good in the first place. “In the future, I’m sure we’ll have podcasts that are generated by machines that no one listens to, and they’ll disappear because it won’t be worth the electricity,” says Champandard. “But these experiments are all part of what makes this space fun.”
+
+For Ryan, it certainly seems that the sense of experimentation and creation is central to his project. “As far as the future goes, I certainly hope that generative media becomes more mainstream,” he says, but notes that his own sense of enjoyment comes not from consuming generative media, but creating it. “The most rewarding thing about working with these simulations is seeing these wild emergences,” he says, which is similar to Riedl’s point about the MIT horror story generator. It’s only fun because the audience participates.
+
+Perhaps that’s where the future of generative media lies, then. Not in creating infinite podcasts tailored to each individual, but in turning us all into storytellers who get to create and enjoy our own narratives.

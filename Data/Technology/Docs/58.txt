@@ -1,0 +1,21 @@
+https://www.theverge.com/tech
+This replica of HAL-9000 from 2001: A Space Odyssey comes with Amazon’s Alexa built in
+HAL-9000, the malevolent supercomputer at the heart of Stanley Kubrick’s classic 2001: A Space Odyssey, is an icon of science fiction cinema. So much so, that if you ask any one of the virtual assistants to “Open the pod bay doors,” they’ll dutifully parrot HAL’s lines from the movie back at you. Now, Master Replicas Group wants to take that step a bit further, turning HAL into a virtual assistant that can control your home.
+
+The company name might be familiar to prop and costume fans: the original Master Replicas produced a range of high-quality props from franchises like Star Wars and Star Trek before going out of business a decade ago. If you’ve seen someone swinging around a lightsaber, there’s a good chance it’s one of Master Replicas’ props, or based off of their models. The new company is made up of several former employees, who are getting back into the prop replica business with a new range of products, including an interactive replica of HAL.
+
+This isn’t the first time that someone’s thought about putting HAL into your home’s smart devices: a couple of years ago, fan prop-maker GoldenArmor made its own version that allows someone to mount it over their Nest thermostat. MRG’s prop goes a bit beyond that. It recently obtained the license from Warner Bros. to create an exact replica of the iconic computer, and while most prop replicas are static recreations of a movie or film prop, this version is designed to be interactive, using Amazon’s smart assistant, Alexa.
+
+MRG CEO Steve Dymszo told The Verge that he made his own replicas of HAL’s panel under a earlier company, Artifactory, and had reached out to Warner Bros. to try and get a license for the product. Initially, the studio wasn’t interested, but with the 50th anniversary of the film this year, they granted the company the rights to produce their own line of replica props from the film.
+
+One of those replicas is an interactive version of HAL. The company says that the computer will use Amazon’s Echo technology to control your home, using a Fire HD tablet as its base, along with additional lights, microphones, speakers, and its own software that the company has installed.
+
+Dymszo explains that MRG initially merged two projects: a static prop and an interactive computer, which was planned to run off of a Raspberry Pi with an LCD screen, only to realize that they could accomplish the same task with a Fire HD tablet.
+
+In a short demonstration video, a user asks the question, getting a response in HAL’s voice, before switching over to Alexa for the weather. The device includes the Fire HD tablet to replicate some of the interfaces from the film, and to display information from Alexa. Currently, the device is only loaded with lines from the film, which are triggered with Alexa’s wake words, but Dymszo says that the goal is to have the device work entirely with HAL’s voice, and that they are working to get Amazon’s approval to do so. “It’s the first prop replica that can be updated,” Dymszo notes, saying that they intend for the device to work less like a tablet, and more like an object from the film. But, it’ll act just like your virtual assistant, fetching you the news or weather, and controlling any smart devices you might have installed in your home.
+
+The company will begin taking preorders for the device in April, and plans to begin shipping in August or September. Dymszo says that the company will launch a separate Kickstarter in April for a special, numbered series of the props — 1 through 2001, with special tiers for 1, 1968, and 2001. He says that they’ve already begun production for the devices.
+
+The HAL computer isn’t the only project in the pipeline: the company already sells a glorified screen saver that loops through a series of computer displays from the film, and will be releasing a mini-HAL keychain flash drive that lights up when plugged in. The company also has a license with the Smithsonian, and releases a range of art products, like posters and replica Lunar and Martian features.
+
+Dymszo hopes that the product will appeal beyond just the prop replica community, while staying true to those roots. “It’s a replica that acts as your assistant,” he said.

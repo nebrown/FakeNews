@@ -1,0 +1,115 @@
+https://www.theverge.com/tech
+How to stop annoying robocalls on your iPhone or Android phone
+Mobile spam calls have been a nuisance for years, but over the last few months, it’s felt to me like there’s been a surge of them. I get between four and six calls daily, and a quick survey of friends shows that I’m not alone. Every waking day brings with it a new barrage. Robocallers have upped their game by masking their spam with local, genuine-looking phone numbers. Sometimes their nonsense is amusing — like when you get a threatening voicemail about your impending arrest over owed back taxes — but the vast majority of the time, it’s an unwelcome distraction. It’s all too easy for these scammers to wield the power of the internet and fire off countless calls with ease. And once even just a few people fall for a scam, they’ve made enough profit to cover their trivial expenses.
+
+Robocalls have become so infuriating that the Federal Trade Commission received over 375,000 complaints about them every month last year. The agency routinely says it’s doing its best to get a handle on the situation, and yes, there are occasionally significant crackdowns. But real-world feedback indicates that things are getting worse — not better — and it’s starting to feel a little out of control.
+
+So if you’re as sick as I am of pulling a vibrating phone out of your pocket only to see a random, suspect number, let’s go over the options for fighting back and restoring some sense of peace.
+
+First, I’ll review some definitions since the carriers make important distinctions between these calls — even if they’re all unwelcome and annoying. Here’s how Verizon looks at things:
+
+Robocallers : Automated, prerecorded phone messages
+
+: Automated, prerecorded phone messages Spammers : Unwanted callers that may be calling indiscriminately to a large number of recipients; sometimes includes callers to whom you’ve given consent to contact you
+
+: Unwanted callers that may be calling indiscriminately to a large number of recipients; sometimes includes callers to whom you’ve given consent to contact you Fraud calls: An entity likely pretending to be someone they’re not with malicious intent
+
+Option A: Block individual numbers one by one
+
+This is probably a hopeless endeavor if you’re aiming to completely eradicate robocalls, but if there’s a particular number that keeps calling, it’s fairly easy to block it forever from your iPhone or Android phone.
+
+On iOS, just go to the Phone app, then your Recents, and tap the blue information icon to the right of the number you want to block.
+
+For Android, the process isn’t much different: go to the Recents section of the Phone app, long press on the bothersome number, and choose block. On some Android phones, you’ll also be given the option of reporting the number as spam.
+
+Again, this will take a lot of persistent work on your part to keep the spammers away — and it’s good for absolutely nothing against blocked or private callers.
+
+Option B: Trust (or pay) your carrier to protect you
+
+Most of the major mobile providers have taken steps to insert themselves as a barrier between you and these annoying callers. Unfortunately, two of them make you pay an extra monthly fee for their effort.
+
+AT&T: Call Protect
+
+Available for free for all postpaid customers. Unavailable on prepaid lines.
+
+AT&T has a free app, Call Protect, that’s designed to block some fraudulent robocalls from reaching you, and you won’t have to do anything besides install the software on your phone. It won’t completely block spam or telemarketer calls, however; instead, Call Protect will identify those callers as “Suspected Spam” when the phone rings and give you the option of blocking their number in the future. Users can also manually block any numbers they’d like and report numbers to help improve the database.
+
+The important caveats to know are that Call Protect is only available to postpaid customers; prepaid customers can’t use it at all. And the “Suspected Spam” feature only works in areas with AT&T HD Voice coverage. Also, the app is unable to block unknown callers altogether.
+
+Download for iPhone | Download for Android
+
+Sprint: Premium Caller ID ($2.99 / month)
+
+If you’re willing to add an extra charge to your monthly bill, Sprint’s Premium Caller ID will identify spam callers and anyone not in your contacts list. It flags robocalls and spammers and assigns a “threat level” to give you an indication of how suspect the call might be.
+
+But despite costing a premium, Sprint’s solution doesn’t automatically block anything from getting through. You can block future calls from a number or report it, but the best Premium Caller ID will do is make it clear that you shouldn’t answer. It won’t stop your phone from ringing, and all it takes is someone dialing *67 before your number to thwart it and show up as “Blocked” on your caller ID. Here’s an FAQ on the feature.
+
+T-Mobile: Scam ID and Scam Block
+
+Available for free for all postpaid customers.
+
+T-Mobile includes two network-level layers of protection against robocallers, and both are free. Scam ID will identify known nuisance callers when your phone rings. It does that automatically without you having to install or sign up for anything.
+
+You’ve got the option of enabling Scam Block to prevent those calls from ever popping up in the first place. To turn on Scam Block, dial #ONB# (#662#) from your T-Mobile phone. To disable it, just dial #OFB# (#632#). Like AT&T’s tool, T-Mobile will only prevent known scammers and fraud calls. Telemarketers and spam calls will still get through.
+
+There’s also a third option, but it’s another that costs extra money. For $4 per month, you can subscribe to T-Mobile’s Name ID service. It can “identify any caller’s name and location and block any personal number, even if it’s not in your address book.” It also identifies organizations such as telemarketing agencies, political orgs, and survey callers. Name ID is included for free if you have a T-Mobile One Plus plan.
+
+Verizon Wireless: Caller Name ID ($2.99 per month)
+
+For no charge, you can block up to five phone numbers that you want to prevent from contacting you. However, blocks expire after 90 days and aren’t very helpful against robocallers with numbers that change every day.
+
+If you really want to combat spammers, you’ll have to pay for Caller Name ID, which identifies suspected bunk calls and lets you block those numbers in the future or report them. A free 10-day trial is available to help you decide whether the extra monthly fee is worthwhile.
+
+Option C: Protect yourself with third-party apps
+
+There are a number of services such as Nomorobo, RoboKiller, Hiya, and others designed to prevent robocalls from ever ringing your phone. Most of them require a monthly (or annual) subscription. At their core, these services rely on a constantly updating list of robocallers, spammers, and fraudsters and use that database to stop nuisance calls. (When I say constantly updating, I mean they’re identifying thousands of bad numbers every day.) A call comes in, and the service runs it against that huge list of scam numbers. If it finds a match, the incoming call gets shut down before it reaches you.
+
+All of them allow you to maintain your own personal blacklist of numbers that might be bothering you and whitelist those you want getting through. Some work by downloading a dedicated contacts list — separate from your regular contacts — to your phone. But both iOS and Android have recently given these services more leeway in taking control over your phone app and stopping the jerks from ever reaching you. On iPhone, you’ll have to enable them in the Settings app and give them caller ID permissions before they can start working. Apple shows you how to do that step-by-step right here.
+
+I’d recommend looking into each of these services to see which one you like best. All of them are largely well-reviewed by customers, and all offer free trials to get started. One of these will ultimately be what you need to really fight back against the robocalls. It’s just a matter of finding your favorite.
+
+Nomorobo: 14-day free trial. After that, $1.99 / month or $19.99 / year
+
+Download for iPhone | Download for Android
+
+RoboKiller: Free 7-day trial. After that, $2.99 / month or $24.99 / year
+
+Download for iPhone | Coming to Android sometime in March
+
+Hiya: Free. Hiya partners with Samsung, AT&T, and T-Mobile to provide their spam ID services and also has standalone apps.
+
+Download for iPhone | Download for Android
+
+Download for iPhone | Download for Android
+
+Option D: Buy a phone from Samsung or Google that automatically identifies spam callers
+
+Samsung’s recent Galaxy S and Note smartphones automatically flag suspected spam calls right in the phone app as they come in. The company calls this feature Smart Call.
+
+Same goes for the Google Pixel and Pixel 2, which turn the entire screen red as an easy “do not answer!” visual reference whenever a known spammer dials you up. These systems aren’t perfect; my Pixel 2 XL still gets fooled by plenty of numbers that look like local calls. Speaking of which...
+
+Nuclear Option: Use Do Not Disturb to only allow calls from your contacts
+
+On both Android and iOS, you can set each operating system’s Do Not Disturb mode to allow phone calls from only those people and businesses in your contacts list. This is a pretty drastic, sledgehammer solution to the problem of robocalls, and you’re almost certainly going to miss calls that you would’ve liked to have answered. But those calls will go through to voicemail, and then you can add that number to your contacts for the future. I’d still only recommend this option if you’re completely fed up, though, and only if you’re very good and meticulous about keeping contacts up to date.
+
+Why do more and more spam calls look like they’re coming from a local number?!
+
+It’s super annoying, isn't it? It’s a trick called neighborhood spoofing, and RoboKiller has a good explainer on it here. In short, scammers think that a number matching your area code (and maybe even the first digits of your own number) will trick your brain and make you more likely to answer. And it makes their deception feel even more nefarious. What if it’s a family emergency? Maybe it’s your doctor’s office or the pharmacy?
+
+Thankfully the robocall blocker apps have gotten better at spotting neighborhood spoofing. RoboKiller claims it’s been good at doing so since the beginning, and Nomorobo has also made detecting neighborhood spoofing a major focus.
+
+Tip: Don’t forget to add yourself to the Do Not Call Registry
+
+In theory, telemarketers are supposed to be honoring the National Do Not Call Registry. You can add yourself to the list by visiting www.donotcall.gov. The FTC says to allow 31 days for legitimate telemarketer sales calls to stop. Once you’ve signed up, your presence on the Do Not Call Registry never lapses or expires, contrary to some recent rumors. There’s no reason to renew or re-add your number to the list.
+
+The Do Not Call Registry only covers sales calls. Charities, political groups, debt collectors, and surveys are still allowed to call you once you’ve signed up. Same goes for companies that you might’ve recently done business with. (You might be able to stop this specific case by verbally telling them to stop calling you.) Unfortunately, scammers / robocallers don’t pay the DNC Registry any mind and just ignore the thing entirely. The robots answer to no one, which will have you circling back to one of the solutions earlier in this article.
+
+Tip: Never let the robots know you’re a real human
+
+Tempting as might be to swear up and down at a robocaller or scammer, your best course of action is to leave them unsure as to whether they connected with an actual person. Don’t say anything. Don’t push buttons — even if the robotic voice says doing so will prevent further calls. Put no faith or trust in the robot voice. Either just let it go through to voicemail or hang up immediately if you mistakenly picked up.
+
+Tip: Complain to the FTC... probably in vain
+
+When all else fails and you’re consumed by despair and anger over the never-ending interruptions, you can always report callers to the Federal Trade Commission. They’re not going to pursue every individual complaint, but it’s certainly important to keep the commission aware of the magnitude of this problem. And as I said earlier, sometimes the FTC does actually take down some of these scammers.
+
+If you have a method of eliminating robocalls that I haven’t listed here, definitely share it in the comments. It’s very disappointing to me that two of the major US carriers are charging their customers added fees just to help get spam calls under control. You’re already giving them plenty of money every month. I’m sure they’re doing a lot behind the scenes to detect mass robocalling operations and defend their networks against them, but peace and quiet ought to be included in your regular mobile bill.

@@ -1,0 +1,529 @@
+-0.463*"musk" + 0.316*"s9" + -0.269*"mars" + 0.214*"galaxy" + 0.168*"samsung" + -0.156*"ai" + 0.138*"mr" + -0.136*"flights" + -0.127*"spacex" + 0.110*"camera"
+
+====================================
+0: 0.586382
+https://www.telegraph.co.uk/technology/news/
+Billionaire Facebook board member Peter Thiel has access to Trump 'anytime'
+One of Facebook's first major investors has revealed that he has a direct line to US President Donald Trump, a comment certain to stoke the controversy surrounding the social network and its political influence.
+
+Peter Thiel, the billionaire Paypal co-founder and one of Facebook's founding board members , said that he has access to the US president "anytime I want," in a rare interview.
+
+The 50-year-old is no stranger to controversy. Despite Facebook's ambition to appear agnostic and politically neutral, Thiel aggressively backed Mr Trump throughout his election campaign, even speaking at a Republican conference in 2016.
+
+He has also made clear his plans to create a rightwing media company to rival Breitbart and Fox, publishers which some have argued do not align with Facebook's "mission" to build communities.
+
+The network is facing its own issues regarding this mission and is currently conducting a review into how it became a vehicle for Russia to influence the US Presidential election by buying misleading advertisements and spreading divisive "fake news".
+
+====================================
+1: 0.574981
+https://www.telegraph.co.uk/technology/news/
+Samsung Galaxy S9 and S9+: The best deals and where to buy
+Samsung's Galaxy S9 smartphone is the Korean company's new flagship phone, with a price tag that sets it firmly among premium smartphones.
+
+Priced at £739 for the S9 and £869 for the S9+, many buyers looking for an upgrade will be trying to find the best deal for the new model. Confirmed at Mobile World Congress in Barcelona, the iPhone X challenger includes a massive 5.8-inch screen, a dual lens camera and AR Emoji.
+
+Network providers have just announced their initial asking prices for the new phone. But can you get a better deal than on the iPhone X and where are the best places to buy the Galaxy S9?
+
+You can read the full review of the phone here, but for all the prices the Telegraph has the details:
+
+Samsung Galaxy S9: where to buy and pre-order
+
+The Galaxy S9 is available from most major networks and re-sellers and is available to pre-order online. It goes on full sale on 16 March. It is available to pre-order from Samsung, but is also available on networks such as EE, Vodafone and O2 and third party shops like Mobiles.co.uk, Carphone Warehouse and Currys.
+
+====================================
+2: 0.562174
+https://www.cnet.com/news/
+Galaxy S9 vs. iPhone X: Which to buy
+Samsung's Galaxy S9 and S9 Plus have come to fight for Apple's smartphone crown with new features and supercharged cameras. But the iPhone X won't go down easily, and deciding between the newest Galaxy and iPhone may prove tougher than ever.
+
+Preorders for the Galaxy S9 and S9 Plus start on March 2, and the phones hit stores on March 16. We'll have our reviews posted before that latter date and they'll have definitive answers on how the new Samsungs stack up. But if you can't wait until then, there are some things we already definitively know -- like price, screen size and the headphone jack situation -- that may help inform your buying decision.
+
+Now Playing: Watch this: How does the Galaxy S9 compare to the iPhone X?
+
+Price
+
+Samsung has a flat-out advantage here. The cheapest iPhone X (64GB) will cost you $999 (£999, AU$1,579). Expect to spend less on the S9, and you get two price points to choose from. Prices vary from carrier to carrier, starting at $720 (£739, AU$1,199) for the S9 and $840 (£869, AU$1,349). Those are also 64GB models, but -- unlike iPhones -- they can be easily and massively expanded with the addition of cheap MicroSD cards.
+
+Note that Apple's iPhone 8 Plus, which features nearly all of the X's features, is much more price competitive with the S9 Plus, but it's got those old-fashioned big bezels.
+
+Advantage: Samsung
+
+Headphone jack
+
+This one's another clear win for Samsung. It has a headphone jack. The iPhone X does not. The X requires you to use a dongle for traditional headphones, use Apple's Lightning port headphones or you can use the Bluetooth option on both phones.
+
+Advantage: Samsung
+
+Software and ecosystem
+
+Android Oreo 8.0 vs iOS 11 is pretty much like comparing apples to oranges (ahem!), but switching from either is a big deal. If you have deep ties to one or the other, this might be another easy deal-breaker.
+
+Even if you're neutral on your operating system preference, however, remember that your OS choice has impact beyond the phone. If you've already purchased all of your TV shows on iTunes, you won't be able to access them on a Galaxy phone. Bought a HomePod? Also no good on Samsung. Google services, meanwhile, are much more Apple friendly, but still not 100 percent compatible. You can send audio and video from some but not all of your iPhone apps to Chromecast devices, for instance.
+
+Advantage: Varies by user preference
+
+Design
+
+Both phones are glass-on-glass with metal frames and barely-there bezels. The S9s have curved edges and screens that appear to spill over the sides. The bezels on the iPhone X are slimmer top to bottom, but you get the intrusive notch at the top. The iPhone comes in monochromatic Space Gray and silver, while the S9 comes in Midnight Black, Coral Blue, Lilac Purple and Titanium Gray.
+
+Advantage: Varies by user preference
+
+Screen
+
+The iPhone X's screen is the same size as the 5.8-inch screen on the S9 (minus the notch), while the S9 Plus has a larger 6.2-inch screen. All three are OLED displays, but the S9 has a slightly higher resolution and pixel density (2,960x1,440 pixels/529ppi and 570ppi) than the Super HD Retina Display on the iPhone X (2,436X1,12,200 pixels/458 ppi). The iPhone X however has TrueTone technology that adjusts the color temperature of the screen relative to the type of ambient light, so that colors look accurate no matter what the lighting condition.
+
+Advantage: Samsung for size and resolution, but color preference will vary.
+
+Speakers
+
+
+
+The iPhone X has stereo speakers on the bottom of the phone and on the earpiece. The S9 and S9 Plus are the first Galaxy phones to also get stereo speakers. They're tuned by AKG and have a Dolby Atmos codec which translates into richer, louder sound than that of the previous S8. The S9 also allows you to adjust the audio profile from the settings.
+
+Advantage: Both have a stereo speaker configuration, but the advantage is TBD until we can listen to them both side by side outside of a demo room.
+
+Fingerprint scanner
+
+Josh Miller/CNET
+
+Neither phone has an in-screen fingerprint scanner like the Vivo X20 Plus UD or the Apex concept phone, but the S9 kept the fingerprint scanner on the back of the phone like its predecessor for mobile payments and unlocking your phone. Except this time it's in a better position. It's below the camera instead of beside it like on the S8. To unlock the iPhone X or to verify a payment, you'll have to use the FaceID feature or a passcode. The iPhone 8 Plus has the trusty ol' TouchID fingerprint sensor on the front, but that's at the expense of thick top and bottom bezels.
+
+Advantage: Samsung, if a fingerprint sensor is a must-have
+
+Face-unlock (FaceID vs. Intelligent Scan)
+
+Both phones have facial-recognition features that can be used to unlock them, but the technology used is different. The iPhone X has a True Depth (depth-sensing) camera on the front of the phone that maps out your face in 3D using infrared dots. Apple says FaceID authentication is even more secure than its TouchID authentication on the fingerprint scanner.
+
+The Galaxy S9 and S9 Plus use Intelligent Scan, a combination of the iris scanner and the less-secure facial recognition feature that uses the non-depth sensing front camera to unlock. This feature "favors ease of unlocking over security" and defaults to the "trickable" Face Unlock feature and only used the more secure iris scanner as a backup when lighting conditions don't allow for a full face scan.
+
+In her review, CNET reviews Section Editor Jessica Dolcourt found that the iPhone X's FaceID is more tamper-proof than the S9's Intelligent scan, although iris unlock on the Galaxy S8 and newer is still secure.
+
+Advantage: Apple
+
+Cameras
+
+It's still early to declare a winner in this category because we have yet to test an S9 in the real world, but here are the facts.
+
+The S9 has a single main shooter, while the S9 Plus has a dual-lens setup similar to that of the iPhone X with a 12MP wide angle and 12MP telephoto lens for better zoom and DSLR-style portraits. The S9 Plus allows you to control the intensity of the blur while you're taking the shot or after, much like the Note 8. The iPhone X, on the other hand, has Portrait Lighting that lets you play with different lighting options for portraits during or after you take the shot. Check out our comparison if you want to see them both in action.
+
+Galaxy S9 Plus iPhone X 12MP wide-angle ƒ/1.5 or ƒ/2.4 (dual aperture) 12MP telephoto ƒ/2.4 (aperture) 12MP wide-angle ƒ/1.8 (aperture) 12MP telephoto ƒ/2.4 (aperture)
+
+What's unique about the S9 is that the main lens has a variable aperture which changes from f1.5 and f2.4 depending on the lighting and has the potential to improve low-light shots significantly. It's a feature that's been around for ages in point-and-shoot cameras, but it's new for a phone and this is why it matters. It also lets you choose the aperture yourself from the camera's Pro Mode.
+
+The S9 also has a new super-slow-motion feature that lets you record video up to 960 fps in HD. But based on our preliminary testing the mode is not as straight-forward because the camera only captures 6 seconds of super slow-mo and it automatically decides what part should be at this speed. It also has a 240fps option at 1080P that you set manually. The iPhone X has a fixed aperture of ƒ/1.8 and a max slo-mo rate of 240 fps in Full HD.
+
+The front cameras, meanwhile, break down as follows: The S9 has an 8MP front camera with an ƒ/1.7 aperture, compared to the 7MP depth-sensing camera with an ƒ/2.2 aperture on the iPhone X. Both use software to achieve a have a blurred background option for selfies and augmented reality capabilities. But according to Jessica, the blur on the S9's Selfie Focus mode is more agressive, often blurring out too much of the subject, while the iPhone X's seems to be more forgiving.
+
+For what it's worth, DxO Mark has already anointed the Galaxy S9 Plus as having the best smartphone camera on the market, surpassing both the iPhone X and the Google Pixel 2. You can check a few of the S9's shots for yourself in our gallery.
+
+Advantage: TBD after testing
+
+AR emojis vs. animojis
+
+AR emojis are Samsung's take on Apple's Animojis, the animated emojis that can be controlled with your face. Apple's Animojis focus on a few emojis like the poop and the unicorn with more coming with the iOS 11.3 launch in the spring. While the S9 gives you a few more options to chose from . You can transform your face into an animal or Disney character or you can customize your own avatar by taking a selfie on either camera.
+
+Our CNET editors took turns trying out the AR emojis and the consensus was that the technology seems lackluster and the results creepy because the gestures on the animations didn't really match the real-life version. CNET's Jessica Dolcourt said, "Samsung's AR Emoji feature lacks the charm and verve of iPhone's Animojis -- they came off as eerie and unfinished."
+
+Advantage: Apple
+
+Storage
+
+The S9 has three tiers of onboard storage options depending on the market (64GB, 120GB and 256GB) with up to 400GB of expandable storage. The iPhone X only offers a 64GB and 256GB option with no SD card slot.
+
+Advantage: Samsung
+
+Speed
+
+The motors on both these phones are beasts, but it's hard to compare them without the S9 in our hands. The S9s are powered by Qualcomm's Snapdragon 845 or the Samsung Exynos 9810, depending on your region, while the iPhone has Apple's A11 Bionic chip on the iPhone X.
+
+Our early tests of the Qualcomm 845 yielded strong results versus other Android phones when we benchmarked "white box" phones earlier this month, though it's unclear if the Galaxy S9's Snapdragons will be optimized at the same speeds. Similar tests by Anandtech on the new Exynos chip were decidedly less encouraging, but the site noted that it was unclear if its test device was representative of the final shipping product.
+
+To that end, you'll have to wait for benchmarking tests from CNET and others once we get final consumer versions of the phones.
+
+Advantage: TBD after testing
+
+Battery
+
+Both have wireless charging and some form of fast charging, but the S9 has a larger battery than the iPhone. Sometimes the size of the battery doesn't determine the usage time, so again we'll have to wait for the results from our tests to determine a winner.
+
+Advantage: TBD after testing
+
+Decisions, decisions...
+
+The Galaxy S9 and S9 Plus look strong in the early running, but so far, this is more of a specs and price comparison than anything else. If some of those early "known knowns" sway you -- say, the price and headphone jack on the Galaxy S9, or the iOS and Face ID on the iPhone -- maybe you're ready to whip out your credit card and take the plunge.
+
+But for everybody else waiting to see how those key "TBD" items compare -- battery life, speed and the camera, just to name a few -- hang on until our full reviews hit. We'll update this story at that time.
+
+Editors' note March 1: Originally published at 4 a.m. PT. Updated at 9:27 a.m. PT with news on DxO test, Anandtech benchmarks and additional context.
+
+Editor's note, March 10: Article has been updated with results from CNET's full review of the Galaxy S9.
+
+====================================
+3: 0.550671
+https://www.technewsworld.com/
+Russians Pose as Americans to Steal Data on Social Media
+
+
+Jamf Now is a device management solution for the iPad, iPhone and Mac devices at work. We make management tasks simple and affordable, so you can support your users; no IT required. Create your free account!
+
+Americans were targeted on social media by Russian agents on a mission to harvest personal information, The Wall Street Journal reported Wednesday.
+
+The agents pretended to work for organizations promoting African-American businesses as a ruse to obtain personal information from black business owners during the 2016 presidential election campaign, according to the report.
+
+Using names like "BlackMattersUS" and "Black4Black," the agents set up hundreds of accounts on Facebook and Instagram, the WSJ said.
+
+As part of its efforts to address the abuse of its platform during the election, Facebook introduced a tool that would enable its members to determine if they had contact with Russian propaganda during that period. The tool doesn't address the problem of Kremlin agents masquerading as Americans, however.
+
+Facebook did not respond to our request to comment for this story.
+
+Defeating America Without Bullets
+
+The Journal story came on the heels of President Donald Trump's Tuesday announcement that his administration was doing a "very, very deep" study of election meddling and would make "very strong" recommendations about the 2018 elections.
+
+However, Adm. Michael Rogers, chief of the U.S. Cyber Command and head of the National Security Agency, last week told the Senate Armed Services Committee that the White House had not directed him to take any actions to counter potential Russian meddling in the 2018 elections.
+
+"The impact of social media is very real," said Ajay K. Gupta, program chair for computer networks and cybersecurity at the University of Maryland.
+
+"The lack of real attribution for social media content means that elections are being impacted by people who we don't know who they are," he told TechNewsWorld.
+
+"Russians have said since the beginning of the Cold War they would be able to defeat America without firing a single bullet," Gupta added. "They couldn't do that as the U.S.S.R., but social media has given them another opportunity to try that."
+
+Target of Opportunity
+
+The latest revelation about Russian activity on social media during the elections lends credence to the idea that the Kremlin's goal is not to swing elections one way or another, but to weaken America's form of government.
+
+One in four voters were considering staying away from the polls due to cybersecurity fears, according to a survey Carbon Black conducted last year, for example. If accurate, that could put the number who would not vote for that reason in the neighborhood of 55 million.
+
+"This blended campaign of human intelligence and signals intelligence is dangerous for democracy," said Tom Kellermann, chief cybersecurity officer at Carbon Black.
+
+Russia is into the long game, noted Tellagraff CEO Mark Graff.
+
+"Hillary Clinton was a target of opportunity for the Russians in the 2016 election," he told TechNewsWorld.
+
+"Their strategic goal was not to elect Donald Trump. The strategic goal was to disrupt American society, undermine our feelings of unity, undermine our faith in democracy," Graff maintained. "They've been trying to do that for over 50 years -- and now what they can do, using social media, is do it from the comfort of government buildings inside Russia."
+
+What's a Social Network to Do?
+
+Both Twitter and Facebook have made efforts to counter nation-state backed exploitation of their platforms, but the consensus is that more can be done.
+
+"They must dynamically verify the identities of their users and filter illicit and inflammatory content," Carbon Black's Kellermann told TechNewsWorld.
+
+"Facebook and Twitter are seemingly just learning how to combat this, and they both appear to be very late to the game," observed Brian Martin, director of vulnerability intelligence at Risk Based Security.
+
+The social networks could deploy a number of measures, he told TechNewsWorld, ranging from monitoring the IP addresses of suspect accounts to refining their analyses of the language in posts, looking for key indicators of actors who don't speak English as their first language.
+
+Users should have the option to flag suspected bots, so the social media companies could investigate and weed out bad actors, said Sherban Naum, senior vice president for corporate strategy and technology at Bromium.
+
+Better Authentication
+
+Credible news outlets should be given some kind of distinctive authentication, Naum also recommended.
+
+Social media companies have certain "verified" users, but that appears to be inadequate. "Lots of bad guys are verified," he told TechNewsWorld.
+
+"Twitter and Facebook could also publish trending information about bots and bad information so users can see what's trending that is legit and what's trending that is junk," Naum suggested.
+
+What can consumers do to protect themselves?
+
+Users should "approach social media with the same skepticism that they should be approaching email and scams," Risk Based Security's Martin advised.
+
+"Someone offering you 100 million dollars is suspect, of course," he said.
+
+"Someone that seems to have a 'magic bullet' showing a political figure is the next devil? Think about it more critically than you might otherwise," Martin cautioned. "Does the post have any evidence to back it up? Or is it just a compelling picture, that may have been doctored, and a catchy one-liner that invokes emotional responses?"
+
+John P. Mello Jr. has been an ECT News Network reporter since 2003. His areas of focus include cybersecurity, IT issues, privacy, e-commerce, social media, artificial intelligence, big data and consumer electronics. He has written and edited for numerous publications, including the Boston Business Journal, the Boston Phoenix, Megapixel.Net and Government Security News. Email John.
+
+
+
+====================================
+4: 0.549175
+https://www.cnet.com/news/
+3 things we learned from Galaxy S9 teardown
+The Galaxy S9 is finally here, and it's time to take a look at what makes Samsung's new flagship handset tick.
+
+The phone features a sexy dual-curved design and a terrific camera for well-lit shots. But low-light images often look blurry and lack the fine texture and contrast of competing phone cameras. So what gives?
+
+Thankfully, our friend tech repair site iFixit has posted its extensive Galaxy S9 teardown, as it does for many a new gadget upon release. Here's what we just learned from Samsung's flagship laid bare.
+
+iFixit
+
+First let's get to that industry-first dual aperture lens that Samsung put in both Galaxy S9 and S9 Plus phones. While standard camera lenses use at least five aperture blades, the S9 uses just two rotating, ring-like blades for its single auto-adjust for low light, which might explain the sometimes blurry photos.
+
+iFixit
+
+The S9 sports 3D avatars and new face unlock tools meant to match similar features in the iPhone X, but they fall short of the mark. The reason may lie in the S9's biometric hardware. iFixit found the handset's iris scanner, front-facing camera, IR emitter and proximity sensor are "pretty much exactly" what was found in last year's Galaxy S8.
+
+iFixit
+
+The Galaxy S9 delivers strong battery life, but that's not so new either. In a bit of déjà vu, iFixit found the battery to be a 3.85V, 3500mAh unit weighing in at 13.48Wh. If that sounds familiar, it's because those are same specs of the battery found in the Galaxy S8 Plus last year. Also, iFixit found that while replacing the S9's battery is technically possible, accessing it's a bit of a challenge.
+
+My CNET colleague Jessica Dolcourt calls the Samsung S9 a good upgrade from older Androids, but says S8 owners can skip it.
+
+Blockchain Decoded: CNET looks at the tech powering bitcoin -- and soon, too, a myriad services that will change your life.
+
+'Alexa, be more human': Inside Amazon's effort to make its voice assistant smarter, chattier and more like you.
+
+====================================
+5: 0.540352
+https://www.theverge.com/tech
+Samsung Galaxy S9 review: predictably great, predictably flawed
+There comes a point in most successful products’ existences where they become predictable. The new model, building off of the triumphs of its prior version, maintains the same look and feel while introducing more subtle enhancements. Apple’s used this tack with the iPhone and iPad for multiple generations, and Microsoft has done the same with the Surface Pro in recent years. Don’t rock the boat; don’t fix what isn’t broken.
+
+And so, if you’ve seen last year’s Galaxy S8 from Samsung, you’ve seen this year’s Galaxy S9. Content with the design and appearance of the S8, Samsung focused its efforts on small, mostly unseen changes that result in a better overall experience, but not a dramatically different one. Of course, Samsung being Samsung, there are a bunch of new gimmicky features crammed into it so there’s something to show on commercials.
+
+That isn’t to say the Galaxy S9 and the larger S9 Plus are bad phones; the S8 was an excellent phone last year, and the S9 builds on that. If you’re planning to buy a new phone in 2018 and are willing to spend between $700 and $900 (the unlocked S9 sells for $719.99, while the S9 Plus goes for $839.99; carrier pricing varies), the S9 or S9 Plus will surely be one of the best options available. They will be the most popular Android smartphones released this year, without a doubt.
+
+But three years on from Samsung’s big shift in design, we know what a premium Samsung phone is already. It’s predictable — both the good things (display, design) and the bad things (software). The Galaxy S9 is the most predictable Samsung phone yet.
+
+The design, display, and specs of the S9 bring zero surprises, but they are the things that influence your day-to-day use of the phone more than anything else. For the most part, Samsung nailed the basics.
+
+Though the overall design and appearance of the S9 pair are the same as the S8’s, it’s no less attractive or impressive to look at. Even hardened gadget bloggers, like Verge editor-in-chief Nilay Patel, were still impressed with the S9’s appearance when I first showed it to them. The phone has a seamless, infinity pool effect that, combined with its extra-tall aspect ratio display, makes it feel like you’re just holding a screen.
+
+Samsung’s displays remain the best you can get on an Android phone
+
+There is curved glass on both the front and back that makes the phone comfortable to hold and allows it to be narrower than other phones with similar size screens. Like last year, both the S9 and S9 Plus have curved screens; you can’t buy a flat version of either one. My complaint with the design is the same as any other glass-backed phone: it can be slippery to hold, is a horrible fingerprint magnet, and is less durable than a metal back would be.
+
+But it certainly is pretty.
+
+The displays in the S9 and S9 Plus are just as you’d expect them to be on a Samsung flagship, and they remain the best screens you can get on any Android phone. The S9 has a 5.8-inch screen, while the S9 Plus has a spacious 6.2-inch display. Both are high resolution, both are OLED panels with vibrant (sometimes too vibrant) colors, and both have great viewing angles. The screens are also slightly brighter this year, which is always appreciated on sunny days. The display’s extra-tall aspect ratio allows for minimal bezels above and below it, which aids the perception that you’re just holding a screen in your hand and nothing else.
+
+But the S9’s top and bottom bezels are not as small or minimal as those on the iPhone X, its main competitor, or a number of other devices. In the time since Samsung made small bezels a table stakes feature, other companies have improved upon and iterated on the concept to produce even more immersive designs. Samsung is quick to tell you that the S9 doesn’t have a notch interrupting the screen, but it also doesn’t have the most immersive display anymore, either.
+
+The S9 has Samsung’s other hardware standbys, too: fast wired and wireless charging, IP68 water resistance, and a 3.5mm headphone jack. If you’re looking for a high-end phone with a headphone jack in 2018, you have fewer choices than ever, so I’m quite happy to see that Samsung didn’t change this aspect of the phone.
+
+Last year, Samsung debuted a dedicated button for its Bixby virtual assistant on the S8, and it’s in the same spot just below the volume buttons on the left side on the S9. You can now disable it from launching Bixby, which is progress, but Samsung still doesn’t provide a native way to reprogram it to something more useful. At its worst, it’s annoying, at its best, it’s a little fidget button that you can press without having to worry about it doing something.
+
+So, what is actually new? Two things: the fingerprint scanner has been moved to a much easier-to-reach spot on the back of the phone, and the single speaker has been upgraded to a stereo pair.
+
+The S8’s fingerprint scanner was a frustrating experience: it was small, hard to reach, and right next to the camera, which meant most of the time, I ended up with fingerprints on the camera lens. The S9’s scanner has been moved to just below the camera, which makes it much easier to reach, especially on the larger S9 Plus. It’s still small, especially compared to scanners on other phones, and it’s still too close to the camera. I’ve found myself frequently swiping on the camera lens when I try to use the gesture to open the notification tray.
+
+In an obvious attempt to replicate Apple’s Face ID system, Samsung has introduced a new combination face-scanning / iris-scanning feature that can be used to unlock the phone instead of the fingerprint scanner. It will use either the more-secure iris scanner or the quicker-but-less-secure face scanner, depending on the lighting conditions you’re in. However, it’s slow, blinks an annoying red light when it activates the iris scanner, and never feels as seamless as Face ID. Good thing the fingerprint scanner is easier to use now.
+
+Most of the Galaxy S9’s hardware features work very well, including its new stereo speakers
+
+The new stereo speakers are more successful: they are louder, clearer, and more enjoyable to listen to than the S8’s single speaker. Samsung is playing catch-up here — many other phones have had stereo speakers for years now — but I’m glad to see (and hear) them finally on a Galaxy phone. They aren’t the best speakers I’ve heard on a phone, but they are more than good enough.
+
+The rest of the S9’s improvements are under the hood: it’s running Qualcomm’s latest processor (in North America; other markets will see Samsung’s own Exynos processor), 4GB (S9) or 6GB (S9 Plus) of RAM, and a new LTE modem that supports even faster gigabit speeds. Those are specs we’re likely to see in almost every Android flagship this year, but Samsung is the first with them out of the gate.
+
+Performance, at least during my review, has been great: the phone is snappy and responsive, with smooth scrolling and fast app launches. The network performance has also been just as impressive as the S8’s, and noticeably better than my experience with the iPhone.
+
+The size of the battery and internal storage are unchanged: you get a 3,000mAh battery in the S9 and a 3,500mAh battery in the S9 Plus, with 64GB of storage and microSD card support in both. I’d really have liked to see Samsung increase the battery size this year. The battery life isn’t bad on these phones, but it’s merely average, and heavy users will deplete even the S9 Plus’ large battery after a long day.
+
+The big new thing that Samsung wants everyone to know about is the S9’s new rear camera. The 12-megapixel image sensor is new and improved, with better image processing, but the major change is found in the lens, which can now physically switch between a very bright f/1.5 aperture and a smaller f/2.4 aperture, similar to how larger cameras work. The S9 Plus model gains a second camera for zooming and portrait mode effects, much like Samsung released with the Note 8 last year.
+
+Samsung claims significant low-light improvements with the new camera, thanks to its new lens that can capture more light and improved signal processing to reduce image noise. In my experience, the S9 can certainly take great photos in low light, but they aren’t necessarily better than what Google’s Pixel 2 or even the iPhone X can capture most of the time. There’s less noise than images from the S8 and the colors are pleasing.
+
+The S9’s images are improved over the S8, but still undeniably Samsung
+
+But all of the images have a specific Samsung “look” to them, which is warmer, very saturated, and has imperfections (and sometimes detail) smoothed out. It’s quite different than what Apple’s or Google’s cameras produce and deciding between them often comes down to personal preference. On a technical level, all of the high-end phones available now can capture excellent photos. Chances are, if you weren’t a fan of Samsung’s image processing before, you still won’t like it now.
+
+I’m less impressed with the switching aperture feature. It feels more like a parlor trick than anything else. The S9’s automatic mode will switch between the settings based on lighting conditions, but the pro mode lets you decide which aperture you want to use. Since the camera can just increase its shutter speed to compensate for more light, I don’t know why I’d ever use f/2.4 when an f/1.5 lens is available. I’d rather have a faster shutter speed or lower ISO setting than a slightly smaller aperture in virtually any situation.
+
+The ability to switch apertures is enticing, and the principle is photographically sound. On a larger camera, controlling the aperture could result in sharper images or better exposure in bright conditions. It also allows for more creative control to produce long exposure effects or separate your subject from the background. But those assumptions about larger camera lenses don’t directly apply to the small lenses and sensors found on a phone.
+
+Based on my testing, there isn’t an appreciable difference in sharpness between the two apertures. Since the small lens and sensor already have very deep depths of field, closing down the aperture on the S9 has a minimal effect on what’s in focus. Further, the amount of aperture control provided isn’t enough for advanced photography techniques, such as long-exposure shots during the day, so you still have to rely on add-on accessories for those.
+
+The S9 Plus’ second telephoto lens is similarly gimmicky: Samsung’s Live Focus portrait mode isn’t as good as Apple or Google’s at separating a subject from the background, and in challenging lighting conditions, the image quality is rather bad. You should buy the S9 Plus over the S9 if you want a bigger screen or longer battery life, but not for its second camera lens.
+
+The S9 can shoot 4K video at 60 frames per second, or 1080p slow-motion video at 240 frames per second, which catches it up with what the iPhone can do. (I expect all Android flagship phones to have these two video modes this year.) Both modes produce very nice quality video, but you have to make sure you have plenty of light for the slow-motion mode, or you’ll see a lot of image noise.
+
+On the front camera, things are unchanged from last year. It’s the same 8-megapixel camera as the S8. It has autofocus, which no other front camera has yet to replicate, but its portrait mode and image quality aren’t as good as Google or Apple’s. By default, the selfie camera applies a lot of image smoothing and other effects to try to beautify the photo, but they just make it look out of focus and unattractive to me.
+
+The S9’s design, performance, and cameras are all predictably good enough to keep it at the top of the smartphone pile for 2018. But, Samsung being Samsung, there are a ton of other things it is pushing with the S9 this year, and in my estimation, they all qualify as gimmicks. Unsurprisingly, the things that don’t work invariably involve software.
+
+There are AR Emoji, Samsung’s take on the iPhone X’s Animoji feature. It scans your face and then produces a 3D Bitmoji-looking character based on 100 points of your face that kind of maybe sometimes looks like you. Then it takes this character and creates a bunch of reaction GIFs with it that you can send through the keyboard. There are also some weird-looking animals that you can create video clips with like you can do with Animoji.
+
+The things that don’t work on the S9 unsurprisingly all involve software
+
+There are a couple issues with Samsung’s AR Emoji. First, Samsung isn’t using any special tech to capture your face or movements, it’s just relying on the front or rear camera, so tracking is bad. Second, the characters it creates are on the wrong side of creepy, and everyone I’ve tested it with has been completely turned off with the results. The animal characters are similarly weird. It’s definitely something that Samsung built just to compete with Apple, and it’s not very good.
+
+Next is the new Super Slow Motion mode in the camera. On top of the 240 frames per second slow-motion capture previously mentioned, the S9 can shoot up to 960 frames per second. That sounds really neat, but the S9 can only do it for 0.2 seconds at a time (which stretches to six seconds when played back) and at only 720p resolution. There are two ways to shoot this: you can manually try to trigger it to capture the 0.2 seconds of action you want, or you can use an automatic mode that looks for movement in a specific area of the frame and captures slow-mo when it detects it. Both are really hard to use and more frustrating than anything else: after 10 takes of trying to get a slow-motion shot of my six-year-old throwing a snowball, both her and my patience wore out and we gave up. Worse, the feature needs a ton of light to work, and even if you have that, image quality is still crappy.
+
+Bixby isn’t new, but it’s still here, and it’s just as bad as it was when it launched last summer. It’s gotten a fresh coat of paint and it’s slightly faster than before, but it’s still way slower than Google Assistant and isn’t as good at parsing my voice commands. The virtual assistant has a couple of new features: there’s an integrated makeup store that lets you try makeup on virtually and then buy it directly from Sephora or Cover Girl, and a calorie detection feature that uses bad science to guesstimate how many calories are in the donut you’re about to eat. (Neither features is something I expect anyone will use more than once.) It’s fair to say that at this point, Bixby is a colossal failure as a smartphone assistant.
+
+And then there’s the perennial complaint with Samsung’s software: why are there so many duplicate apps? The unlocked S9 I’ve been testing has two email apps, two gallery apps, two browsers, and two app stores. The carrier versions will surely have even more duplicative apps. A couple of Samsung’s apps are good — namely the Samsung browser and Samsung Pay — but the rest are inferior to the Google apps that are also installed on the phone, which just makes them annoying. If you care at all about software updates, Samsung is one of the worst manufacturers when it comes to delivering new versions of Android. As of this review, last year’s Galaxy S8 still doesn’t have Android 8.0 in the US, and that was released by Google over six months ago.
+
+Without a new design or other new obvious advancements in technology to distract from Samsung’s usual problems, the software issues on the S9 become more obvious than they were with the S8. The upshot of most of this is that you can ignore Samsung’s marketing-focused gimmicks and really enjoy the Galaxy S9 (and none of them fall to the level of other Android manufacturers’ software problems). You can turn off Bixby, never bother to use AR Emoji or super slow motion, and disable most of Samsung’s apps. That leaves Samsung’s poor software update history as the big sticking point for a lot of people.
+
+The Galaxy S9 is all of the good and all of the bad we’ve come to expect from Samsung
+
+The rest of the S9 and S9 Plus is as great as we’ve come to expect. It has a head-turning design, fast performance, a great screen, and a very good camera. Outside of the display, the S9 isn’t a class leader in any category, but it’s good enough in all of them that the whole package makes for a great phone.
+
+Owners of the S8 probably don’t need to upgrade this go-around — the differences aren’t great enough to warrant splurging on the S9 — but if you’re using a Galaxy S7 or any other phone from two years ago, the S9 is a significant step up in every respect.
+
+Predictably, Samsung has made yet another excellent flagship phone. But, just as predictably, it still has plenty of room for improvement.
+
+8.5 Verge Score Samsung Galaxy S9 Good Stuff Great design
+
+Beautiful display
+
+Fast performance
+
+Capable camera
+
+A headphone jack! Bad Stuff Average battery life
+
+Gimmicks galore
+
+Bixby still sucks
+
+Samsung has a poor history of updating its phones Buy for $719.99 from Samsung Buy for $719.99 from Amazon
+
+8.5 Verge Score Samsung Galaxy S9 Plus Good Stuff Great design
+
+Beautiful display
+
+Fast performance
+
+Capable camera
+
+A headphone jack! Bad Stuff Average battery life
+
+Gimmicks galore
+
+Bixby still sucks
+
+Samsung has a poor history of updating its phones Buy for $839.99 from Samsung Buy for $839.99 from Amazon
+
+====================================
+6: 0.527349
+https://www.technewsworld.com/
+Amazon Courts Medicaid Recipients With Deep Prime Discount
+
+
+Need a web designer, SEO advisor or other ecommerce expert?
+
+Quickly and conveniently find solutions for your online business before making your next planning or purchasing decisions. Gather key insights and information before selecting your vendors.
+
+Visit ALL EC today.
+
+Amazon this week expanded its discounted Prime membership program, already available to EBT card holders, to include Medicaid recipients. Eligible customers can become Prime members for US$5.99 a month, less than half the regular $12.99 monthly fee.
+
+The move -- another step in Amazon's efforts to reach underserved economic communities -- ratchets up its competition with Walmart.
+
+Amazon provides customers with a link to authenticate their membership in eligible government assistance programs. It is not clear how the company has been working with the Department of Health and Human Services to verify the records.
+
+Amazon Web Services last year hosted 68 million Medicaid records.
+
+Checking In
+
+The expansion of the discount program followed by just a couple of days reports that Amazon recently engaged in talks with JP Morgan Chase and other banks regarding the possibility of establishing a co-branded checking account program to provide limited banking access to customers.
+
+Amazon previously has offered services targeting the unbanked population, including a stored value card called "Amazon Cash," which lets users load cash onto unlinked debit cards and then use them for purchases with Amazon and certain other retailers.
+
+Customers can deposit funds into their stored value accounts by showing a barcode at a local retailer and presenting the cash.
+
+Amazon's expansion is in part at least a competitive play to target the core market of rival Walmart, which is a favorite retailer with working class and low-income consumers, in part due to its reputation for offering lower prices on everything from household goods to groceries.
+
+"Yes, Amazon and Walmart are at war, and so Amazon is going down-market to grab Walmart's core customer, even as Walmart attempts to go upmarket to grab some of Amazon's core market," observed Paula Rosenblum, managing partner at RSR Research.
+
+Whether regulators ever would allow Amazon to offer banking services to customers is questionable, she told the E-Commerce Times, especially given Walmart's unsuccessful plan to enter the banking business a decade ago. That effort was crushed by consumer advocates and rival banks that feared Walmart would crush the competition, particularly small community banks that served working-class and low-income communities.
+
+Amazon Prime already has locked up most of Amazon's upper-income customers, so the company must look elsewhere to expand its base, suggested Michael Levin, cofounder of Consumer Intelligence Research Partners.
+
+Unbanked Customers
+
+About 7 percent of the U.S. population is unbanked, representing a clear opportunity for Amazon to go after markets dominated by Walmart and Dollar General, noted Thad Petersen, senior analyst at the Aite Group.
+
+"Anything that Amazon does to increase reach increases their opportunity to sell and compete more effectively with physical world retailers," he told the E-Commerce Times.
+
+About 7 percent of the U.S. population was unbanked as of 2015, with no checking account in the household, while 20 percent was underbanked, meaning they had a checking account, but also used some other form of processing transactions, Petersen said, citing data from the FDIC.
+
+A proprietary checking account would allow Amazon to lower its interchange costs, because it would not have to go through a Visa or MasterCard payment network to process transactions with those customers, he pointed out.
+
+Increasing digital economy access to the underserved has been an issue for many years, as their basic needs to access food, medicine and household goods often have been complicated due to inability to write checks, use credit cards or borrow money.
+
+The USDA has announced plans to conduct a two-year pilot program starting this summer to test whether SNAP recipients can use their cards to buy groceries, according to a government official who asked not be identified.
+
+The program is designed to test both online ordering and payment, to see if the transactions can be processed safely and securely. Amazon, Walmart, Fresh Direct, ShopRite and other retailers are slated to participate in the pilot.
+
+David Jones is a freelance writer based in Essex County, New Jersey. He has written for Reuters, Bloomberg, Crain's New York Business and The New York Times.
+
+
+
+====================================
+7: 0.525292
+https://www.techradar.com/news
+Finding my happy place between driving and autonomy
+Self-driving cars don't scare me. I'm all for smart cities and autonomous vehicles making transport, and our lives, more efficient. Bring it on, I say!
+
+What I am worried about though is no longer being able to hit the open road and just drive.
+
+I don't want a world that only consists of self-driving cars, but there's a lot to thank the technology that's driving the autonomous movement forward for, as it's making driving right now even better.
+
+The Jaguar XE R-Sport is just one of the many premium cars on the market that's taking advantage of the developing tech, and after 800 miles behind the wheel I'm extremely happy it's there.
+
+The learning curve
+
+We drove Jaguar XE R-Sport
+
+Engine: 2.0 litre Twin Turbocharged Diesel
+
+Power: 240hp
+
+Top speed: 155mph
+
+0-62mph: 6.1 seconds
+
+Fuel efficiency: 54.4mpg
+
+Price: £57,809
+
+There's a lot of technology inside the XE R-Sport and you'll need to spend some time with the car to get to grips with it all.
+
+The manual is in the glove box, but I was able to work the majority of it out as it's fairly intuitive for those familiar with in-car systems. It could well be a daunting prospect for novices though, with a couple of sleepless nights reading the manual possible.
+
+You'll also need to take a moment to ready yourself for the beeping. From parking sensors, to traffic camera warnings to collision alert and more, there is an awful lot of things that go beep here.
+
+Thankfully you can turn off the ones you don't wish to shrill at you, reducing the in-car cacophony. Spend some time with the technology, and adjust the settings to your liking and it starts to all seamlessly blend together.
+
+Setting the adaptive cruise control on the motorway to 70mph and then sitting in lane as the car automatically tracks the speed of the car in front, maintains a safe distance and reduces and increases your speed to match is just part of the enhanced experience.
+
+There's also lane assistance, which not only tells you if you're straying too close to the edge of your lane, but gently tugs the steering to re-center you.
+
+You'll need to keep your hands on the wheel throughout, and your feet over the pedals, but when faced with several hundred motorway miles it reduces the variables you need to consider, reducing stress and concentration and making the journey less tiring.
+
+Coupled with the 2.0 litre Twin Turbocharged Diesel engine and automatic transmission, you can easily eat up motorway miles without noticing.
+
+Turn off the motorway and front collision alert will notify you if you're approaching the car in front a little too keenly, or if someone has suddenly pulled out in front of you and you've not been giving it your full attention.
+
+It warns you enough in advance to stamp on the brakes without sliding into the back of a car.
+
+Then there are the automatic lights and wipers, reducing again the amount you have to think about, making the drive more effortless.
+
+The car is always on the lookout then, attempting to not only make driving easier, but also safer.
+
+Jaguar XE R-Sport exterior gallery
+
+Image 1 of 8 Image 2 of 8 Image 3 of 8 Image 4 of 8 Image 5 of 8 Image 6 of 8 Image 7 of 8 Image 8 of 8
+
+Passenger fascination
+
+It's not just the driver who gets to benefit from the technological onslaught here, as all four main seats in the XE R-Sport are heated, with the front two also boasting air-conditioning - as there's nothing worse than bare skin on leather on a hot day.
+
+Climate control ensures each passenger sits in a temperate environment that suits them, while Bluetooth music streaming from your phone to the infotainment system makes it easy to pass round the handset so everyone can pick a song.
+
+Then there's the central, 10-inch touchscreen display. It's bright, clear and responsive, ensuring it's easy to use whether you're setting up the satellite navigation, or selecting your favorite radio station.
+
+Jaguar XE R-Sport interior gallery
+
+Image 1 of 11 Image 2 of 11 Image 3 of 11 Image 4 of 11 Image 5 of 11 Image 6 of 11 Image 7 of 11 Image 8 of 11 Image 9 of 11 Image 10 of 11 Image 11 of 11
+
+However, there is a real party piece hidden in this setup too - Jaguar's Dual View display.
+
+Hit the Dual View in the bottom nav bar of the screen and you can choose what your passenger sees on screen, while you - the driver - see something completely different.
+
+It allows you to have a full map view for navigation, while your passenger can opt to see something different such as the now playing screen for the stereo. That's not all though.
+
+Open up the glove box and you'll find a pair of wireless, Jaguar-branded headphones. Turn them on, pop them on the head of your passenger, slide a DVD into the player in the glove box and they can watch a movie as your hurtle down the freeway.
+
+Meanwhile the driver is none-the-wiser, and can listen to music through the car's stereo and continue to view navigation directions on the main screen.
+
+A post shared by John McCann (@johnbmmccann) A photo posted by on on Jan 8, 2018 at 12:58pm PST
+
+It all works surprisingly well, and while Dual View is a pricey (around £625) optional extra, if you have the money it's a cool addition.
+
+It goes without saying then, that the Jaguar XE R-Sport is jam-packed full of cutting edge technology and we've not even mentioned the front, rear and kerb-side cameras, USB ports, heads-up display and digital dash.
+
+They may not be new technologies for cars, but the inclusion of all this tech makes the XE R-Sport a fantastic ride for any tech enthusiastic.
+
+But for those who still want to have the thrill of actually driving, you can switch off the toys, opt for the paddle shift gearbox, put your foot down and have a lot of fun.

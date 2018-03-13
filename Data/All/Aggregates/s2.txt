@@ -1,0 +1,36 @@
+Keywords: -0.305*"north" + 0.287*"gun" + -0.242*"korea" + -0.225*"kim" + -0.218*"korean" + -0.178*"nuclear" + 0.166*"nra" + 0.151*"school" + -0.146*"mr" + 0.125*"guns"
+
+0, 283, 404.467459053: Now, do they overdo it [with their online campaign]? Probably so
+
+1, 357, 401.972942561: It comes just weeks after he taunted legislators, saying that they were “afraid of the NRA,” while he was not
+
+2, 108, 401.906769335: The proposal must still be approved by the Office of Management and Budget before it is published and subject to a commentary period
+
+3, 417, 401.631632537: Nixon passed a dizzying array of environmental legislation, including establishing the Environmental Protection Agency as a new and independent agency.
+
+4, 440, 401.631632537: Nixon passed a dizzying array of environmental legislation, including establishing the Environmental Protection Agency as a new and independent agency.
+
+5, 328, 401.325816929: He's also visiting Chad which is one of the countries included in the president's travel ban
+
+6, 414, 399.962344766: President Franklin Delano Roosevelt instituted a year-round Daylight Savings “War Time” from 1942 to 1945, but Congress dumped the unpopular law at the end of World War II.
+
+7, 437, 399.962344766: President Franklin Delano Roosevelt instituted a year-round Daylight Savings “War Time” from 1942 to 1945, but Congress dumped the unpopular law at the end of World War II.
+
+8, 501, 397.870431766: Stahl: The whole state is not doing well.
+
+9, 327, 397.072405681: MARTIN: This visit is occurring just weeks after another mass kidnapping of schoolgirls by this insurgent group Boko Haram of which we've heard so much
+
+10, 433, 395.056395739: A recent medical study indicates that DST time change may also increase the risk of stroke due to sleep disturbances.
+
+11, 456, 395.056395739: A recent medical study indicates that DST time change may also increase the risk of stroke due to sleep disturbances.
+
+12, 361, 394.466183692: But I’m saying it anyway
+
+13, 277, 394.415155858: And that, the channel would have you believe, includes the US mainstream news media.
+
+14, 241, 394.087270848: Sometimes it's worth waiting for a story to play out and then examining what's been reported in the aftermath
+
+Summary:
+It comes just weeks after he taunted legislators, saying that they were “afraid of the NRA,” while he was not
+Nixon passed a dizzying array of environmental legislation, including establishing the Environmental Protection Agency as a new and independent agency.
+Nixon passed a dizzying array of environmental legislation, including establishing the Environmental Protection Agency as a new and independent agency.
