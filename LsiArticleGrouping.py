@@ -78,7 +78,10 @@ def CreateMetaDocs(db, sortedSims, docFolder, lsi, category="All"):
         #           "w")
         wf = open(docFolder + "/f" + str(i) + ".txt", "w")
         wr = open(docFolder + "/" + str(i) + ".txt", "w")
-        wf.write(lsi.print_topic(i))
+        try:
+            wf.write(lsi.print_topic(i))
+        except UnicodeEncodeError:
+            pass
 
         # Get top 10 related articles and write them in
         # Article number will be our index in the db
@@ -139,7 +142,10 @@ def SentenceExtract(docFolder, sortedSims, lsi, category="All", isQuery=False):
         w = open(docFolder + "s" + str(i) + ".txt", "w")
         # w = open("./Data/Aggregates/s" + str(i) + ".txt", "w")
         if not isQuery:
-            w.write("Keywords: " + lsi.print_topic(i) + "\n")
+            try:
+                w.write("Keywords: " + lsi.print_topic(i) + "\n")
+            except UnicodeEncodeError:
+                pass
         topSummary = ""
         for topSen in topSentences:
             w.write("\n" + topSen)
